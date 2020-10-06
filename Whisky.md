@@ -1,10 +1,3 @@
----
-title: "Whiskey tasting notes"
-keywords:
-  - Whisky
-  - Whiskey
-...
-
 # Whiskey Tasting Notes
 
 | Whisk(e)y         | Type               | Region | ABV | Score | Notes                                                                                                                                                                                   |
