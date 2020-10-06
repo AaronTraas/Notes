@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd NOTES_FOLDER
+cd "/mnt/c/Users/Aaron Traas/Documents/Notes"
 gstatus=`git status --porcelain`
 
 if [ ${#gstatus} -ne 0 ]
