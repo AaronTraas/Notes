@@ -3,12 +3,12 @@
 
 ## Ingredients
 
-- 6 slices bacon, cut into 1/2-inch pieces
+- 6 slices bacon, cut into ½-inch pieces
 - 1 small onion, julienned
 - 1 teaspoon kosher salt
 - 1 small Granny Smith apple, cored and chopped
 - 1 recipe Basic Brussels Sprouts, recipe follows
-- 1/2 cup heavy cream
+- ½ cup heavy cream
 - 1 teaspoon whole-grain Dijon mustard
 - 1-ounce blue cheese, crumbled
 - Pinch freshly ground nutmeg

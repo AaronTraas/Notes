@@ -1,24 +1,23 @@
 # Dutch Baby Pancake
-![dutch_baby.jpg.png](images/dutch_baby.jpg.png)
 
-**Hardware:**
+## Hardware:
 
-  * Baking vessel: 12" cast-iron skillet or 10" glass pie pan
+  * 12" cast-iron skillet or 10" glass pie pan
   * Bar blender
   * Measuring cups/spoons
 
-**Ingredients:**
+## Ingredients:
 
   * 4 tablespoons butter  
   * 3 large eggs  
-  * 3/4 cup whole milk  
-  * 1/3 cup all-purpose flour  
+  * ¾ cup whole milk  
+  * ⅓ cup all-purpose flour  
   * 1 tbsp corn starch[2]
-  * 1/4 teaspoon salt  
+  * ¼ teaspoon salt  
   * 1 teaspoon pure vanilla extract  
-  * 1/4 cup sugar
+  * ¼ cup sugar
 
-**Directions:**  
+## Directions:
 
   1. Add butter to baking vessel.
   2. Put baking vessel in oven. Preheat oven to 425 degrees.   
@@ -27,17 +26,19 @@
   5. Bake until pancake is puffed and browned/crispy on edges, about 20 minutes.  
   6. Top with fruit and/or sugar and butter. Slice into wedges, and serve immediately.  
 
+## Additional Suggestions:
+
 **Prep ahead strategy for easy early morning breakfast:**
 
-  1. Pre-measure all wet ingredients[4] and add to blender carafe   put in refrigerator
+  1. Pre-measure all wet ingredients[4] and add to blender carafe. Put in refrigerator.
   2. Pre-measure dry ingredients[4] and put in small, resealable container.
   3. Put butter in baking vessel, cover in plastic wrap
 
 **Aaron's favorite topping:**
 
   1. In a medium-sized microwave-safe mixing bowl, add 1.5 cups fresh blueberries.
-  2. Sprinkle 1/4 teaspoon cornstarch onto blueberries. Toss to coat evenly.
-  3. Add 1/2 tablespoon butter.
+  2. Sprinkle ¼ teaspoon cornstarch onto blueberries. Toss to coat evenly.
+  3. Add ½ tablespoon butter.
   4. Microwave for 1 minute, 30 seconds. Stir gently. If needed, microwave for additional 30 seconds. Repeat as needed.
 
 * * *

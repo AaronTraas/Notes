@@ -2,18 +2,18 @@
 ![fish_sauce_wings.png](images\fish_sauce_wings.png)
 
 
-**Ingredients:**
+## Ingredients:
 
-1/2 cup Vietnamese fish sauce  
-1/2 cup superfine sugar  _(or just regular white sugar)_  
-4 garlic cloves, 2 crushed and 2 minced ( _we used about 4 heads of garlic, divided_  
-3 pounds chicken wings split at the drumettes ( _We used drummets and wings and find it's easier to fry._ )  
-2 tablespoons vegetable oil, plus more for frying  
-1 cup cornstarch  
-1 tablespoon chopped cilantro  
-1 tablespoon chopped mint
-
-**Directions:**
+1. ½ cup Vietnamese fish sauce  
+2. ½ cup superfine sugar  _(or just regular white sugar)_  
+3. 4 garlic cloves, 2 crushed and 2 minced ( _we used about 4 heads of garlic, divided_)
+4. 3 pounds chicken wings split at the drumettes ( _We used drummets and wings and find it's easier to fry._)
+5. 2 tablespoons vegetable oil, plus more for frying  
+6. 1 cup cornstarch  
+7. 1 tablespoon chopped cilantro  
+8. 1 tablespoon chopped mint
+ 
+## Directions:
 
 1. In a bowl, whisk the fish sauce, sugar and crushed garlic. Add the wings and toss to coat. Refrigerate for 3 hours, tossing the wings occasionally.
 2. Heat the 2 tablespoons of oil in a small skillet. Add the minced garlic; cook over moderate heat until golden, 3 minutes. Drain on paper towels.
