@@ -1,6 +1,6 @@
 # Chicago Deep-Dish Casserole
 
-![](images/chicago_deep_dish_casserole.png)
+![](../images/chicago_deep_dish_casserole.png)
 
 
 ## Ingredients

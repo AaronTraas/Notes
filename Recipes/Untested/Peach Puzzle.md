@@ -1,6 +1,6 @@
 # Peach puzzle
 
-![peach_puzzle.png](images\peach_puzzle.png)
+![peach_puzzle.png](../images/peach_puzzle.png)
 
 
 ## Ingredients
