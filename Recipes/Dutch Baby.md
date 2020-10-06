@@ -46,6 +46,3 @@
   2. Original recipe called for 1/2 cup flour. Replacing some of the flour with cornstarch makes exterior crispier and interior less mealy.  
   3. Speed is of the essence; you're adding the batter to the hot skillet while it's still in the oven, and you don't want too much heat to be lost  
   4. You should be doing this anyway; step 0 is **always** _mise en place!_  
-
-
-
