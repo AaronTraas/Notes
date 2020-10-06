@@ -1,107 +1,58 @@
-# Food 4 Wibowo: America's Test Kitchen Chicago-Style Deep-Dish Pizza
+# Chicago Deep-Dish Casserole
 
-****
-
-**Ingredients**
-
-  
+![](images/chicago_deep_dish_casserole.png)
 
 
-Dough:
+## Ingredients
 
-3 1/4 cups (16 1/4 ounces) unbleached all-purpose flour
+**Dough:**
 
-1/2 cup (2 3/4 ounces) yellow cornmeal
+* 3 1/4 cups (16 1/4 ounces) unbleached all-purpose flour
+* 1/2 cup (2 3/4 ounces) yellow cornmeal
+* 1 1/2 teaspoons table salt
+* 2 teaspoons sugar
+* 2 1/4 teaspoons instant or rapid-rise yeast
+* 1 1/4 cups water (10 ounces), room temperature
+* 3 tablespoons unsalted butter , melted, plus 4 tablespoons, softened
+* 1 teaspoon plus 4 tablespoons olive oil
 
-1 1/2 teaspoons table salt
+**Sauce:**
 
-2 teaspoons sugar
+* 2 tablespoons unsalted butter
+* 1/4 cup grated onion , from 1 medium onion (see note)
+* 1/4 teaspoon dried oregano
+* table salt
+* 2 medium garlic cloves , minced or pressed through garlic press (about 2 teaspoons)
+* 1 (28-ounce) can crushed tomatoes (see note)
+* 1/4 teaspoon sugar
+* 2 tablespoons coarsely chopped fresh basil leaves
+* 1 tablespoon extra-virgin olive oil
 
-2 1/4 teaspoons instant or rapid-rise yeast
+**Toppings:**
 
-1 1/4 cups water (10 ounces), room temperature
+- 1 pound mozzarella cheese , shredded (about 4 cups)  
+- 1/2 ounce grated Parmesan cheese (about 1/4 cup)  
+- Pepperoni, cooked sausage, caramelized onion, pitted olives, roughly chopped basil  
 
-3 tablespoons unsalted butter , melted, plus 4 tablespoons, softened
+## Instructions:
 
-1 teaspoon plus 4 tablespoons olive oil
-
-  
-
-
-Sauce:
-
-2 tablespoons unsalted butter
-
-1/4 cup grated onion , from 1 medium onion (see note)
-
-1/4 teaspoon dried oregano
-
-table salt
-
-2 medium garlic cloves , minced or pressed through garlic press (about 2 teaspoons)
-
-1 (28-ounce) can crushed tomatoes (see note)
-
-1/4 teaspoon sugar
-
-2 tablespoons coarsely chopped fresh basil leaves
-
-1 tablespoon extra-virgin olive oil
-
-ground black pepper
-
-  
-
-
-Toppings:
-
-1 pound mozzarella cheese , shredded (about 4 cups)  
-
-
-1/2 ounce grated Parmesan cheese (about 1/4 cup)  
-Pepperoni, cooked sausage, caramelized onion, pitted olives, roughly chopped basil  
-
-
-  
-
-
-**Instructions:**
-
-  
-
-
-For the Dough:   
-
+**For the Dough:**   
 
   * Mix flour, cornmeal, salt, sugar, and yeast in bowl of stand mixer fitted with dough hook on low speed until incorporated, about 1 minute.  
-
   * Add water and melted butter and mix on low speed until fully combined, 1 to 2 minutes, scraping sides and bottom of bowl occasionally.
   * Increase speed to medium and knead until dough is glossy and smooth and pulls away from sides of bowl, 4 to 5 minutes. (Dough will only pull away from sides while mixer is on. When mixer is off, dough will fall back to sides.)
   * Using fingers, coat large bowl with 1 teaspoon olive oil, rubbing excess oil from fingers onto blade of rubber spatula. Using oiled spatula, transfer dough to bowl, turning once to oil top; cover tightly with plastic wrap.  
-
   * Let rise at room temperature until nearly doubled in volume, 45 to 60 minutes.
 
-
-
-For the Sauce:   
-
-
+**For the Sauce:**   
   * While dough rises, heat butter in medium saucepan over medium heat until melted.  
-
   * Add onion, oregano, and 1/2 teaspoon salt; cook, stirring occasionally, until liquid has evaporated and onion is golden brown, about 5 minutes.  
-
   * Add garlic and cook until fragrant, about 30 seconds.  
-
   * Stir in tomatoes and sugar, increase heat to high, and bring to simmer.  
-
   * Lower heat to medium-low and simmer until reduced to 2 1/2 cups, 25 to 30 minutes.  
-
   * Off heat, stir in basil and oil, then season with salt and pepper.
 
-
-
-To Laminate the Dough:   
-
+**To Laminate the Dough:**
 
   * Adjust oven rack to lower position and heat oven to 425 degrees.
   * Using rubber spatula, turn dough out onto dry work surface and roll into 15- by 12-inch rec-tangle. Using offset spatula, spread softened butter over surface of dough, leaving 1/2-inch border along edges. Starting at short end, roll dough into tight cylinder.
@@ -110,8 +61,7 @@ To Laminate the Dough: 
   * Repeat with remaining half.
   * Return balls to oiled bowl, cover tightly with plastic wrap, and let rise in refrigerator until nearly doubled in volume, 40 to 50 minutes.
 
-Combining them all:  
-
+**Combining them all:**
 
   * Coat two 9-inch round cake pans with 2 tablespoons olive oil each.
   * Transfer 1 dough ball to dry work surface and roll out into 13-inch disk about 1/4 inch thick.
@@ -119,22 +69,10 @@ Combining them all:
   * Lightly press dough into pan, working into corners and 1 inch up sides.
   * If dough resists stretching, let it relax 5 minutes before trying again.
   * Repeat with remaining dough ball.
-
-
-
   * For each pizza, sprinkle 2 cups grated mozzarella evenly over surface of dough.
   * Spread 1 1/4 cups tomato sauce over cheese, add whatever toppings you want to use and sprinkle 2 tablespoons Parmesan over sauce.
   * Bake until crust is golden brown, 20 to 30 minutes.
   * Remove pizza from oven and let rest 10 minutes before slicing and serving.
 
-
-
-  
-
-
 [](http://www.youtube.com/watch?v=B2uGmk0kYC4)
-
-* * *
-
-http://www.youtube.com/watch?v=B2uGmk0kYC4  
 
