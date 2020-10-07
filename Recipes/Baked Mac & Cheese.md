@@ -1,8 +1,8 @@
-## Basic Baked Mac & Cheese:
+# Basic Baked Mac & Cheese:
 
 [Recipe card - printable PDF](https://traas.org/downloads/recipes/mac_and_cheese_recipe.pdf)
 
-# Hardware:
+## Hardware:
 * 2+ gallon stock pot
 * 3+ qt. saucier or sauce pot.
 * large collander
@@ -10,7 +10,7 @@
 * wire whisk
 * baking dish
 
-# Software:
+## Software:
 * 3 tbsp. butter
 * 3 tbsp. all-purpose flour
 * 2 cups milk, scalded
@@ -20,7 +20,7 @@
 * 1 tsp. white pepper (optional)
 * 1 tsp. cayenne pepper (optional)
 
-# Procedure:
+## Procedure:
 0. Assemble mise en place (this is the unwritten first step to every recipe ever written)
 1. Add 1 gallon of water to stock pot. Add ½ cup kosher salt. Put on high heat covered.
 2. Pre-heat oven to 350F.
