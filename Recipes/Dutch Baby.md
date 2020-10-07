@@ -1,5 +1,5 @@
 # Dutch Baby Pancake
-![dutch_baby.png](images/dutch_baby.png)
+![dutch_baby.png](../images/dutch_baby.png)
 
 ## Hardware:
 

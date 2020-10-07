@@ -1,5 +1,5 @@
 # Buttermilk Pancakes
-![pancakes.png](images/pancakes.png)
+![pancakes.png](../images/pancakes.png)
 
 ## Ingredients:
 

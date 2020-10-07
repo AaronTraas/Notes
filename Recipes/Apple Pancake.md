@@ -1,6 +1,6 @@
 # Apple Pancake
 
-![apple_dutch_baby.png](images/apple_dutch_baby.png)
+![apple_dutch_baby.png](../images/apple_dutch_baby.png)
 
 ## Ingredients:
 
