@@ -22,14 +22,15 @@ Scores are on a 1-5.
 |                          |                            |     |       |                                                                                                                                                                                                                                                                                                                           |
 
 ## American Whiskey
+Note: I tend to like Scotch much better than American whiskey. The scores are in comparison to other American whiskey. 
 
-| Whiskey                         | Type             | ABV | Score | Notes                                                                                                                                             |
-|---------------------------------|------------------|:---:|:-----:|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Basil Hayden                    | Straight Bourbon | 40% | 2     | Sweet, bland, uninteresting                                                                                                                       |
-| Bernheim Original Wheat Whiskey | Wheat Whiskey    | 45% |       |                                                                                                                                                   |
-| Four Roses Small Batch          | Straight Bourbon | 45% |       |                                                                                                                                                   |
-| Jack Daniel's Single Barrel     | Tenessee Whiskey | 47% |       |                                                                                                                                                   |
-| Maker's Mark                    | Straight Bourbon | 45% | 3     | Sweet, rich, vanilla, hint of orange. Smooth and easy to drink. Baseline "tastes like bourbon" bourbon. Enjoyable neat. Not terribly interesting. |
-| Old Forrester                   | Straight Rye     | 50% |       |                                                                                                                                                   |
-| Old Overholt Bonded             | Straight Rye     | 50% |       |                                                                                                                                                   |
-| Redemption Wheated Bourbon      | Wheated Bourbon  | 48% |       |                                                                                                                                                   |
+| Whiskey                         | Type             | ABV | Score | Notes                                                                                                                                                       |
+|---------------------------------|------------------|:---:|:-----:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Basil Hayden                    | Straight Bourbon | 40% | 2     | Sweet, bland, uninteresting                                                                                                                                 |
+| Bernheim Original Wheat Whiskey | Wheat Whiskey    | 45% | 3     | Strong cereal feel on the tongue. Lots of nuts and fruit on the nose, less so on the tounge. Medium body. Oily. Interesting and unique.                     |
+| Four Roses Small Batch          | Straight Bourbon | 45% | 4     | Hints of caramel, oak, vanilla, faint cherry, a bit peppery. Incredibly smooth. Light and subtle. Clean finish. Very enjoyable.                             |
+| Jack Daniel's Single Barrel     | Tenessee Whiskey | 47% | 1     | Tastes like Jack Daniels No. 7, but with a little more going on. Still very sweet and harsh. Some bitter caramel. Light finish. Do not recommend.           |
+| Maker's Mark                    | Straight Bourbon | 45% | 3     | Sweet, rich, vanilla, hint of orange. Smooth and easy to drink. Baseline "tastes like bourbon" bourbon. Enjoyable neat. Not terribly interesting, but good. |
+| Old Forrester                   | Straight Rye     | 50% | 4     | Molasses and candied citrus on the nose. Pie spices For the money, the best American whiskey I've had to date.                                              |
+| Old Overholt Bonded             | Straight Rye     | 50% |       |                                                                                                                                                             |
+| Redemption Wheated Bourbon      | Wheated Bourbon  | 48% |       |                                                                                                                                                             |
