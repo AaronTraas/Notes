@@ -1,7 +1,7 @@
 # Scotch Whisky:
 Scores are on a 1-10. These scores are relative to each other, not to spirits in other catagories.
 
-**Note about Aaron's tastes** – I like intense flavors, lots of complexity. I strongly favor the typical profiles of Islay and Campbeltown scotch. 
+**Note about Aaron's tastes** – I like intense flavors, lots of complexity. I strongly favor the typical profiles of Islay and Campbeltown whisky. 
 
 | Whisky                   | Type                       | ABV | Score | Notes                                                                                                                                                                                                                                                                                                                     |
 |--------------------------|----------------------------|:---:|:-----:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
