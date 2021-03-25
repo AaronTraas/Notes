@@ -17,3 +17,4 @@ Scene 2 - exposition
     - Distortion in music at the peaks.
     - Battle missing some sound effects
     - Effects from Rowan's pisol attack linger a bit too long
+    - Not super obvious after pressing the button to unlock the door, you have to press it again to open the door.
