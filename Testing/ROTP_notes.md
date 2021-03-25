@@ -18,3 +18,7 @@ Scene 2 - exposition
     - Battle missing some sound effects
     - Effects from Rowan's pisol attack linger a bit too long
     - Not super obvious after pressing the button to unlock the door, you have to press it again to open the door.
+
+Scene 3 - killing rats
+- Bugs:
+    - The dialog after killing rats has numbers before some of the quotes that both main characters are saying.
