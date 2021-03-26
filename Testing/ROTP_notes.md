@@ -1,3 +1,5 @@
+General bugs:
+- Bluetooth controller went to sleep while the game was paused. Re-activated controller, and the game didn't respond to controller. Worked with keyboard. Had to save the game, exit, and restart to get the controller working.
 Opening scene:
 - Story:
     - Great tone. Darker than Ara Fell, but with bits of levity. 
