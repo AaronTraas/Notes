@@ -1,5 +1,7 @@
 General bugs:
 - Bluetooth controller went to sleep while the game was paused. Re-activated controller, and the game didn't respond to controller. Worked with keyboard. Had to save the game, exit, and restart to get the controller working.
+- Distortion in music at the peaks. I assume assets aren't final.
+- Some sound effects have a faint female voice saying something I can't make out intertwined with them. "Audio jungle?" I assume that that's a watermark of sorts.
 Opening scene:
 - Story:
     - Great tone. Darker than Ara Fell, but with bits of levity. 
@@ -10,13 +12,10 @@ Opening scene:
     - In-engine cut scene feels great
 - Bugs:
     - "CREDIT #3" is displayed. Assume it's placeholder
-    - Some sound effects have a faint female voice saying something I can't make out intertwined with them. "Audio jungle?" I assume that that's a watermark of sorts.
-
 Scene 2 - exposition
 - Story
     - Good exposition, clear, not too long.
 - UX
-    - Distortion in music at the peaks.
     - Battle missing some sound effects
     - Effects from Rowan's pisol attack linger a bit too long
     - Not super obvious after pressing the button to unlock the door, you have to press it again to open the door.
