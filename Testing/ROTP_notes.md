@@ -20,6 +20,7 @@ Scene 2 - exposition
     - Battle missing some sound effects
     - Effects from Rowan's pisol attack linger a bit too long
     - Not super obvious after pressing the button to unlock the door, you have to press it again to open the door.
+    - Got into a state where I was able to walk through walls and couldn't interact with anything. Had to re-load. The state was durable in the save game; I should have kept that save.
 
 Scene 3 - killing rats
 - Bugs:
