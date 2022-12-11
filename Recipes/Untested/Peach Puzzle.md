@@ -5,7 +5,7 @@
 
 ## Ingredients
 
-**Peaches and Syrup  **
+**Peaches and Syrup**
 
   * 7   medium peaches, peeled (see note)
   * ¾ cup packed light brown sugar
