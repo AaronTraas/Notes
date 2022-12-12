@@ -37,7 +37,9 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
   12. When ready to serve, add water and honey in a sauce pan, heat on low and stir to combine. 
   13. Toss the fried struffoli balls in the honey syrup. Transfer to serving plate. Garnish with sprinkles. 
 
-## Notes
+---
+
+## Notes:
   - If you make this ahead of time, make the cookies, dry well, store in an air-tight container in the fridge. Bring to room temperature and make and add the warm honey syrup and sprinkles just before serving. 
   - But really... these are best if they're eaten the day that they're made.
   - Great video of technique for assembling and frying, as well as an alternate recipe: https://www.pastagrammar.com/post/struffoli-recipe-authentic-italian-christmas-dessert
