@@ -8,7 +8,7 @@
   * 1 teaspoon baking soda  
   * ½ teaspoon salt  
   * 3 tablespoons sugar  
-  * 2 large eggs, lightly beaten  
+  * 2 large eggs 
   * 3 cups buttermilk  
   * 4 tablespoons unsalted butter, melted, plus ½ teaspoon for griddle  
 
