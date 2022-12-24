@@ -31,7 +31,7 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
   6. Cut a chunk off the dough, and roll into a long snake, about a finger in width. 
   7. Cut the snake into small pieces, about a finger in width.
   8. Fill a saucepan with about 2 inches of frying oil. Bring up to medium high temperature.
-  9. place a small number of the dough balls into the pan, and fry, stirring occasionally, until golden.
+  9. place a small number of the dough balls into the pan, and fry, stirring occasionally, until light golden.
   10. Remove with a spider or slotted spoon and place on a paper-towel lined vessel to drain.
   11. Repeat steps 9 and 10 until all the dough is fried.
   12. When ready to serve, heat honey (and limoncello) in microwave until honey is the consistency of maple syrup, 1-2 minutes. 
