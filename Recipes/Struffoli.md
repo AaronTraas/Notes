@@ -16,7 +16,7 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
 
 ### Toppings:
   * 200g (about a half cup) of honey
-  * 85g (1/4 cup) of water
+  * Tbsp limoncello (optional)
   * Tiny round rainbow sprinkles
 
 ### Other:
@@ -34,7 +34,7 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
   9. place a small number of the dough balls into the pan, and fry, stirring occasionally, until golden.
   10. Remove with a spider or slotted spoon and place on a paper-towel lined vessel to drain.
   11. Repeat steps 9 and 10 until all the dough is fried.
-  12. When ready to serve, add water and honey in a sauce pan, heat on low and stir to combine. 
+  12. When ready to serve, heat honey (and limoncello) in microwave until honey is the consistency of maple syrup, 1-2 minutes. 
   13. Toss the fried struffoli balls in the honey syrup. Transfer to serving plate. Garnish with sprinkles. 
 
 ---
@@ -43,4 +43,3 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
   - If you make this ahead of time, make the cookies, dry well, store in an air-tight container in the fridge. Bring to room temperature and make and add the warm honey syrup and sprinkles just before serving. 
   - But really... these are best if they're eaten the day that they're made.
   - Great video of technique for assembling and frying, as well as an alternate recipe: https://www.pastagrammar.com/post/struffoli-recipe-authentic-italian-christmas-dessert
-  
