@@ -5,6 +5,8 @@ Almost universally, pie > cake, objectively and scientifically. I don't love mos
 
 As a base recipe, I'm using Claire Saffitz' recipe from her book, "Dessert Person". She calls for it to fill 3 x 8" cake pans. This is way too much cake. I cut all the ingredients in half, and using a simpler frosting. I may scale it down further, to get it to yield a single 6" cake pan's worth, but that's an experiment for another day. 
 
+Also note: I'm not much of a baker. I love cooking, but I'm not so fond of baking. But if I don't bake, I don't get carrot cake the way I want it. I'm a picky 
+
 ## Ingredients:
 **Cake:**
 * Dry ingredients:
@@ -41,7 +43,7 @@ As a base recipe, I'm using Claire Saffitz' recipe from her book, "Dessert Perso
 11.  Put pans in the oven. Bake until the cakes are springy to the touch in the center and toothpick inserted into the centers comes out clean, 25 to 30 minutes.
 12. Remove the cakes from the oven and let cool completely in the pans. 
 13. Remove cakes from pans, peel parchment from cake.
-14. Frost Cake.
+14. Frost Cake with [Cream Cheese Frosting](Cream%20Cheese%20Frosting.md)
 
 * * *
 
