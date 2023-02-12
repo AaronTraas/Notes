@@ -28,9 +28,7 @@
     Pat dry chuck roast, season generously with salt and ground black pepper. 
     Add enough olive oil to the instant pot to coat the whole bottom. Carefully place seasoned side of chuck steak in Instant Pot.     
     Add chuck to Instant pot. Brown for 7 minutes on each side. Remove and set aside.
-    
-* **Make Umami Chicken Stock Mixture:** Combine Worcestershire sauce, soy sauce, fish sauce, tomato paste, and stock. Set aside.
-    
+       
 * **Sauté Vegetables:** Add additional olive oil to Instant Pot if necessary.
     Add sliced onions & shallots, then sauté until soften (~1 min).
     Add garlic, then stir for roughly 30 secs until fragrant.
