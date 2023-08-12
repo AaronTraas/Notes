@@ -1,11 +1,11 @@
 ---
 created: 2023-08-12T10:01:31-04:00
-modified: 2023-08-12T10:04:12-04:00
+modified: 2023-08-12T10:04:53-04:00
 ---
 
 # Hummus
 
-Ingredients:
+## Ingredients:
 
 - 1 standard 15-16 oz can of Chickpeas (you can use dried, but I really don't recommend it, much more work and result is the same)
 - 1/3rd cup Tahini
@@ -14,7 +14,7 @@ Ingredients:
 - Extra virgin olive oil
 - 2-3 Ice cubes (supposedly improves hummus texture)
 
-Instructions:
+## Instructions:
 
 1. Bring a pot of water to a boil. Meanwhile drain and rinse off chickpeas in a strainer.
 
