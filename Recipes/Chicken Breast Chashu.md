@@ -3,6 +3,8 @@ created: 2023-09-06T19:03:09-04:00
 modified: 2023-09-06T19:16:07-04:00
 ---
 
+![apple_dutch_baby.png](../images/chicken_chashu.png)
+
 # Chicken Breast "Chashu"
 
 Not really chashu, but a good substitute for a chicken paitan ramen topping, or just to snack on out of the fridge.
