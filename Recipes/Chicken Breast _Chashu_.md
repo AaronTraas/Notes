@@ -1,26 +1,26 @@
 ---
 created: 2023-09-06T19:03:09-04:00
-modified: 2023-09-06T19:05:46-04:00
+modified: 2023-09-06T19:16:07-04:00
 ---
 
 # Chicken Breast "Chashu"
 
-The king of all ramen toppings! Chashu pork at its best, in my opinion, is rich, fatty, and practically melts when it hits your tounge. Some people prefer it a little more firm and steak-like in texture, but that's not my preference. 
+Not really Chashu, but a good substitute for a chicken paitan ramen topping, or just to snack on out of the fridge.
 
-This is based on Ramen Lord's recipe for sous vide chashu pork from his [Book of Ramen](https://www.reddit.com/r/ramen/comments/hv9niv/my_brother_and_i_just_completed_a_free_ebook_on/). The biggest changes are that I added a bit less water to reduce the total liquid overall, because my vacuum sealer doesn't do well with lots of liquid. I also don't sear the pork ahead of time. It does result in slightly more flavor if you do, but it's so much easier this way, and it's not that different. I sometimes sear the sliced pieces with a propane torch before serving. 
+This is based on [Way of Ramen's recipe](https://youtu.be/NcKHzDzi4n4?si=76pjGDlsMt5TAzAy). This is based on an equilibrium brine. Make multiples of everything exactly. Because the brine will be ideal at equilibrium, you can't soak it for too long. 
 
 ## Ingredients:
 
-  * 2-4 lbs. Pork belly (I prefer skinless for this recipe) 
-  * 125 mL (approx. 0.5 cup) mirin 
-  * 125 mL (approx. 0.5 cup) soy sauce 
-  * 125 mL (approx. 0.5 cup) water 
-  * 12.5 g (1 tbsp) brown sugar
+  * 1kg lbs. boneless skinless hicken breast
+  * 1 L water
+  * 50g salt
+  * 25 g sugar
+  * 1 3"x3" piece of kombu per chicken breast
   * Large bowl of ice water 
 
 ## Directions:
 
-  1. Preheat a water bath to 79° C/ 175° F using a sous vide water circulator.
+  1. Preheat a water bath to 63° C/ 145° F using a sous vide water circulator.
   2. Combine mirin, soy sauce, water, and brown sugar in a microwave safe vessel. Heat in microwave until hot enough to dissolve sugar. Stir. Cool to room temperature or below.
   3. Add all ingredients to either a vaccuum bag or ziplock bag. Remove air and seal.
   4. Cook pork belly for 12 hours in water bath.
