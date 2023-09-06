@@ -7,7 +7,7 @@ modified: 2023-09-06T19:16:07-04:00
 
 Not really chashu, but a good substitute for a chicken paitan ramen topping, or just to snack on out of the fridge.
 
-This is based on [Way of Ramen's recipe](https://youtu.be/NcKHzDzi4n4). This is based on an equilibrium brine. Make multiples of everything exactly. Because the brine will be ideal at equilibrium, you can't soak it for too long. The ratios are important--weigh your ingredients! I did modify this to increase the amount of salt and sugar a bit, because I thought it needed a hair more of both.
+This is based on [Way of Ramen's recipe](https://www.youtube.com/watch?v=xwVkNjRmNcw). This is based on an equilibrium brine. Make multiples of everything exactly. Because the brine will be ideal at equilibrium, you can't soak it for too long. The ratios are important--weigh your ingredients! I did modify this to increase the amount of salt and sugar a bit, because I thought it needed a hair more of both.
 
 This has been part of my weight loss regimen. It's cheap, lean, healthy protein that's filling. When chicken breast is on sale, I buy lots of it, cook this up in individual vacuum-sealed bags, and throw all but one in the freezer. I slice it, and eat slices right out of the fridge, or on salad. I'm usually not a fan of chicken breasts (dark meat is much tastier), as it's not super forgiving to cook and easy to dry out. But this method is fool-proof and satisfying, and has much less salt than deli meat, as well as no sulfites or nitrates, if you're sensitive to those. 
 
@@ -15,7 +15,7 @@ Adding the sheet of kombu to each bag adds a subtle but noticeable umami boost t
 
 ## Ingredients:
 
-  * 1kg lbs. boneless skinless hicken breast
+  * 1kg (2.2 lbs.) boneless skinless hicken breast
   * 1 L water
   * 50g salt
   * 25 g sugar
