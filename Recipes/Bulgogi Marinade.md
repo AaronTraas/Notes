@@ -5,7 +5,8 @@ make for a flavorful marinade for thinly sliced beef, ground beef, or pork.
 
 To use, simply marinade meat in the bulgogi marinade -- just enough to coat it in a vessel in the fridge. Alternatively, 
 brown the meat and veggies, and add a cup or so of this sauce to it after it's 80% cooked, and reduce the sauce in the 
-pan with the meat. It freezes well, and is delicious. 
+pan with the meat. Toss the finished dish with toasted sesame oil and garnish with green onion and sesame seeds. Serve 
+with white rice. 
 
 ## Ingredients:
 
@@ -17,8 +18,8 @@ pan with the meat. It freezes well, and is delicious.
 - 1 cup water
 - 2 tbsp mirin
 - 1 tbsp oyster sauce
-- 3 tbsp minced garlic
-- 3 tbsp grated ginger
+- 3 tbsp garlic
+- 3 tbsp ginger
 - Black pepper, to taste
 
 ## Instructions:
@@ -29,5 +30,7 @@ pan with the meat. It freezes well, and is delicious.
 
 ## Notes:
 
-- From https://aaronandclaire.com/5-minute-bulgogi-korean-bbq-recipe/
+- Modified from [Aaron Huh's recipe](https://aaronandclaire.com/5-minute-bulgogi-korean-bbq-recipe/)
+- I reduced the amount of water by half, doubled the amount of pear and kiwi.
+- As suggested by Linda Allen-Poole, changed white sugar to brown sugar, which rounded out the flavor, and added ginger, which seemed to be missing. 
 
