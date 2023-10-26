@@ -23,7 +23,7 @@ This has been part of my weight loss regimen. It's cheap, lean, healthy protein 
   2. Place chicken in vessel. Cover and put in the refridgerator overnight. 
   3. Drain chicken, and add each breast to either a vaccuum bag or ziplock bag. Optionally add a square of kombu. Remove air and seal.
   4. Add bags of chicken to the water bath
-  5. Set immersion circulator to 63° C/ 145° F, and place in water bath, and set timer for 60-90 minutes
+  5. Set immersion circulator to 145° F, and place in water bath, and set timer for 60-90 minutes
   7. Remove from water bath and transfer bags into ice water until the chicken is at room temperature.
   8. If you're going to eat within 3 days, put in refridgerator. Otherwise freeze bags.
   9. Slice straight from the fridge and eat, or put slices in hot soup to warm up. 
@@ -32,4 +32,4 @@ This has been part of my weight loss regimen. It's cheap, lean, healthy protein 
 
 ## Notes
 - I did modify this from the original recipe to increase the amount of salt and sugar a bit, because I thought it needed a hair more of both.
-- Adding the sheet of kombu to each bag adds a subtle but noticeable umami boost to the dish that makes it more satisfying.
+- Adding the sheet of kombu to each bag adds a subtle but noticeable umami boost to the dish that makes it more satisfying. If you don't have kombu, you could add MSG to the brine.
