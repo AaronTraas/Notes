@@ -8,7 +8,7 @@ modified: 2023-11-23T13:01:24-05:00
 This is a sweet, muffiny quick bread that my late mother always made for Thanksgiving and Christmas. It is based on the recipe found on [bags Ocean Spray cranberries](https://www.oceanspray.com/en/Recipes/By-Course/Breads-and-Muffins/Classic-Cranberry-Nut-Bread) that's older than I am. The modifications my mother made were as follows:
 
 - vegetable oil instead of shortening
-- she beat the tar out of it with an electric mixer, ignoring over developing gluten
+- she beat the tar out of it with an electric mixer, ignoring over-developing gluten per typical best practice with quick breads
 
 I've tried making it using the [muffin method](https://bakinghow.com/the-muffin-method/), and also trying to mix it less so it barely comes together, and it comes out worse. Or at least not the way my mom made it. I'm not sure whether I'm being objective or nostalgic.
 
