@@ -1,8 +1,3 @@
----
-created: 2023-11-23T12:37:24-05:00
-modified: 2023-11-23T13:01:24-05:00
----
-
 # Cranberry Bread
 
 This is a sweet, muffiny quick bread that my late mother always made for Thanksgiving and Christmas. It is based on the recipe found on [bags Ocean Spray cranberries](https://www.oceanspray.com/en/Recipes/By-Course/Breads-and-Muffins/Classic-Cranberry-Nut-Bread) that's older than I am. The modifications my mother made were as follows:
