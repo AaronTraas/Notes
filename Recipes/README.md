@@ -15,3 +15,4 @@ This is a list of things I've not tried, but want to:
 - [Spinach and Cheese Strata](https://smittenkitchen.com/2009/12/spinach-and-cheese-strata/) - recommended by Linda
 - Chuck Pot Roast
   - https://youtu.be/eVuXwv1yxo0?si=Sy2ER3AuksJjx_K-
+- Hunter's Chicken https://youtu.be/yMVGR3ibVvs?si=Wyd0WOFdz9yoA1z6
