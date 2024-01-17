@@ -2,7 +2,7 @@
 
 This is my variation on my nonna's simple tomato sauce. All of the women in the family make this. My mother's family is almost entirely from [Monacilioni](https://en.wikipedia.org/wiki/Monacilioni); this style is common in parts of Molise, and much of the former Kingdom of the Two Sicilies. I've met people from Abruzzo, Campagna, and Puglia that all have similar family sauces. 
 
-This is a simple, rustic, and fresh sauce. The flavor of the tomatoes is the most important here. It should be fruity, mildly sweet, and aromatic. It is cooked fairly quick and short, and can be thrown together on a weeknight. It can be used as a base for other sauces based on what you have around—meat, fish, carrots and celery, etc. 
+This is a simple, rustic, and fresh sauce. The flavor of the tomatoes is the most important here. It should be fruity, mildly sweet, and aromatic. It is cooked fairly quick and short, and can be thrown together on a weeknight. It can be used as a base for other sauces based on what you have around—meat, fish, aromatics, etc. 
 
 I don't cook from a recipe. I learned to make this from watching my nonna, and then reverse-engineering what I remembered in my college dorm. My main variation from my nonna is the addition of alcohol. I'm writing it down here for posterity, mostly for the sake of my two beautiful daughters, who I hope will pass this down to their children. This should be done by taste, feel, and experience. You want a sweeter sauce? Add more onion. Less pungent? Reduce the garlic. Fresh herbs? Try adding them. Italian cooking is about love and taste, not precision. 
 
@@ -31,9 +31,9 @@ I don't cook from a recipe. I learned to make this from watching my nonna, and t
 
 ### Serving:
 
-When sauce is completed, if you are serving right away, add a ladel or two of pasta water into the pan, and reduce for another 2-5 minutes, and optionally additional parsley and basil. Toss immediately over pasta. Don't add too much sauce to the pasta! Serve it on the side, or refrigerate the rest and use it left-over for another meal.
+When sauce is completed, if you are serving right away, add a ladel or two of pasta water into the pan, and reduce for another 2-5 minutes, and optionally additional parsley and basil. Toss immediately over pasta, with pecorino romano and olive oil. Don't add too much sauce to the pasta! Serve it on the side, or refrigerate the rest and use it left-over for another meal.
 
-Not traditional, but better if you're serving a small group: a skillet to medium-high heat, and coat with a thin layer of olive oil. Add 1 cup of sauce per 1/2 pound of pasta. Heat for 1 minute. Add pasta that is 1-2 minutes under-cooked directly from the boil, along with 1-2 ladles of pasta water, to taste. Add additional parsley and basil. Cook and stir until pasta is done and the sauce is at your desired consistency. 
+Not traditional, but better if you're serving a small group: a skillet to medium-high heat, and coat with a thin layer of olive oil. Add 1 cup of sauce per 1/2 pound of pasta. Heat for 1 minute. Add pasta that is 1-2 minutes under-cooked directly from the boil, along with 1-2 ladles of pasta water, to taste. Add additional parsley and basil. Cook and stir until pasta is done and the sauce is at your desired consistency. Top with additional olive oil, parsely and pecorino romano.
 
 * * *
 
@@ -47,4 +47,6 @@ Not traditional, but better if you're serving a small group: a skillet to medium
 * * *
 
 ## Variations:
-
+- **Fish sauce:** Omit the onions and replace basil with parsley. in the last 2-3 minutes of cooking, add clams or calamari and optionally clam juice to the sauce. Cook until the fish is just barely cooked. Do NOT add cheese.
+- **Meat sauce:** use whatever stewing meat you like: chicken legs, pork ribs, beef short ribs, brasciola, sausage, meatballs, etc. Before you sweat the onions, brown whatever meat you have in the pan, remove the meat, and then proceed to sweat the onions. Add the meat and accumulated juices back to the pan, and simmer longer, until the meat is tender, and (if applicable), falls off the bone. Remove the meat and serve after or along-side the pasta.
+- **Faux "Bolognese" sauce:** This is NOT a proper Ragu alla Bolognese. It's what my nonna called a Bolognese sauce, and is very hearty and good. Finely mince or grate carrots and celery, and process the onions similarly fine. Brown groud beef, pork, and/or veal in the pan, then add your aromatics and sweat until tender. Then proceed as normal, increasing the cooking time to about an hour. 
