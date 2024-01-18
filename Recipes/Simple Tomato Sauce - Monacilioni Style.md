@@ -7,7 +7,7 @@ This is a simple, rustic, and fresh sauce. The flavor of the tomatoes is the mos
 I don't cook from a recipe. I learned to make this from watching my nonna, and then reverse-engineering what I remembered in my college dorm. My main variation from my nonna is the addition of alcohol. I'm writing it down here for posterity, mostly for the sake of my two beautiful daughters, who I hope will pass this down to their children. This should be done by taste, feel, and experience. You want a sweeter sauce? Add more onion. Less pungent? Reduce the garlic. Fresh herbs? Try adding them. Italian cooking is about love and taste, not precision. 
 
 ## Ingredients
-- 28 oz canned or fresh processed tomatoes (see Notes)
+- 28 oz canned or fresh processed tomatoes (see [Notes](#notes))
 - 1 medium onion, roughly diced
 - 1-4 medium garlic cloves, crushed, sliced, or finely minced (your preference)
 - Extra-virgin olive oil
