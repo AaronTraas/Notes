@@ -9,7 +9,7 @@ I'd like to develop a version of this that uses dried beans, but that would prob
 - 2 teaspoons neutral oil, beef tallow, or lard
 - 1 1/2 teaspoons kosher salt
 - 1 (12-ounce) bottle of beer, preferably a medium ale
-- 30 tortilla chips
+- 30 tortilla chips, crushed into fine crumbs
 - 1 medium onion
 - 1 small can diced tomatoes
 - 1 diced green bell pepper and/or other chile peppers
