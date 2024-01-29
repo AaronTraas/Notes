@@ -9,7 +9,7 @@ I'd like to develop a version of this that uses dried beans, but that would prob
 - 2 teaspoons neutral oil, beef tallow, or lard
 - 1 1/2 teaspoons kosher salt
 - 1 (12-ounce) bottle of beer, preferably a medium ale
-- 30 tortilla chips
+- 30 tortilla chips, crushed into fine crumbs
 - 1 medium onion
 - 1 small can diced tomatoes
 - 1 diced green bell pepper and/or other chile peppers
@@ -36,5 +36,6 @@ I'd like to develop a version of this that uses dried beans, but that would prob
 6. Add the meat back to the pressure cooker along with the tomatoes, tortilla chips, chipotle peppers, adobo sauce, tomato paste, chili powder, and ground cumin and stir to combine. 
 7. Lock the lid in place and cook under high pressure for 25 minutes. 
 8. Quick release steam, remove lid.
-9. If adding beans, stir in canned beans. Turn pressure cooker to saute setting, and heat for 5-10 minutes.
+9. Optionally shred meat with 2 forks.
+10. If adding beans, stir in canned beans. Turn pressure cooker to saute setting, and heat for 5-10 minutes.
 
