@@ -36,11 +36,12 @@ In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com
 5. Add onions and celery. Cook on low until soft.
 6. Add garlic, cook for 1-2 minutes until fragrant.
 7. Add tomato paste, cook for 1-2 minutes.
-8. Drain beans, add to pot. Cover with stock. Add herbs. Bring to a boil. Turn heat down and gently boil for 20-30 minutes.
-9. Optionally, bloom gelatin in water.
-10. Turn off heat. If using gelatin, stir in and dissolve.
-11. Place uncovered in 300 degree oven. Check every half hour to see if beans are sufficiently soft. Top off with water or stock if it gets too low. Adjust seasoning as needed.
-12. Remove from oven. Remove herb stems and bay leaves. Rest for 10-20 minutes, and serve.
+8. Add meat and accumulated juices back to pot. Drain beans, add to pot. Cover with stock. Add herbs.
+9. Bring to a boil. Turn heat down and gently boil for 20-30 minutes.
+10. Optionally, bloom gelatin in water.
+11. Turn off heat. If using gelatin, stir in and dissolve.
+12. Place uncovered in 300 degree oven. Check every half hour to see if beans are sufficiently soft. Top off with water or stock if it gets too low. Adjust seasoning as needed.
+13. Remove from oven. Remove herb stems and bay leaves. Rest for 10-20 minutes, and serve.
 
 ---
 
