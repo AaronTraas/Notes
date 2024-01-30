@@ -1,6 +1,6 @@
 # Cassoulet
 
-In development
+In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com/watch?v=g_Huy-0Xeek).
 
 ## Ingredients:
 
@@ -25,7 +25,7 @@ In development
 ## Hardware:
 
 - 6 qt. Dutch oven
-- 
+- Wooden spoon or silicone spatula
 
 ## Directions:
 
@@ -39,10 +39,10 @@ In development
   8. Drain beans, add to pot. Cover with stock. Add herbs. Bring to a boil. Turn heat down and gently boil for 20-30 minutes.
   9. Bloom gelatin in water.
   10. Turn off heat, add gelatin. Stir to dissolve.
-  11. Place uncovered in 300 degree oven. Check every half hour to see if beans are sufficiently soft. 
+  11. Place uncovered in 300 degree oven. Check every half hour to see if beans are sufficiently soft. Top off with water or stock if it gets too low.
+  12. Remove from oven. Remove herb stems and bay leaves. Rest for 10-20 minutes, and serve.
 
 ---
 
 ## Notes:
 
-Based roughly on: https://www.youtube.com/watch?v=g_Huy-0Xeek
