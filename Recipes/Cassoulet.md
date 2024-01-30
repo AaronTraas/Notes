@@ -6,7 +6,7 @@ In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com
 
 * 1/4 lb thick cut bacon, cut into lardon
 * 1 lb. bone-in chicken legs, thighs, or leg quarters
-* 1 lb. garlicky sausage (e.g., Toulouse sausage, fresh unsmoked kielbasa)
+* 1 lb. garlicky sausage (e.g., Toulouse sausage, fresh unsmoked kielbasa, fresh bratwurst)
 * 1 lb. pork shoulder
 * onions, diced
 * celery, diced
