@@ -15,7 +15,7 @@ In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com
 * 1 lb dried white beans (e.g., cannolini beans)
 * 2 tbsp duck fat or lard or butter
 * 2 tbsp tomato paste
-* chicken stock or water + chicken bullion
+* 1-2 quarts chicken stock or water + chicken bullion
 * 28 g  unflavored gelatin (optional; use if you aren't using home-made stock)
 * 2 sprigs rosemary
 * 3 sprigs thyme
