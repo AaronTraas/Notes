@@ -1,13 +1,13 @@
 # Chicken Paprikash
 
-Experimental - trying from this: https://www.foodnetwork.com/recipes/alton-brown/pressure-cooker-chili-recipe-1942714
+Still working on this. Was very good. Could have used a little more cayenne. The original recipe called for some Hungarian hot paprika, but I don't want to maintain another spice in my spice cabinet, so I used more sweet, and mixed with cayenne. Could also have used more garlic -- recipe below adjusted. I'd like to experiment with adding tomatoes; half of all the "traditional" recipes online call for tomatoes or tomato paste, and have call for no tomato product. Texture winds up similar to Chicken Tikka Masala -- I'd bet if I adjusted the spice blend, I could approximate a tikka masala sauce with the same techniques. 
 
 ## Ingredients:
 - 3 tablespoons lard, chicken fat, or neutral oil
 - 4 pounds chicken thighs
 - 2 large yellow onions, diced
 - 5 cloves garlic, crushed
-- 4 tablespoons Hungarian sweet paprika
+- 4 tablespoons Hungarian sweet paprika ([I used this](https://www.amazon.com/dp/B004YXNJT8))
 - 2 teaspoons smoked paprika
 - 1/2 teaspoon cayenne pepper
 - 1/2 cup dry white wine
@@ -42,3 +42,7 @@ Experimental - trying from this: https://www.foodnetwork.com/recipes/alton-brown
 16. Serve.
 
 Serve over spätzle or egg noodles. Optionally garnish with sour cream, fresh parsley, and a sprinkle of paprika. 
+
+# Notes
+
+Base recipe here: https://www.youtube.com/watch?v=JicHsv4v7jQ
