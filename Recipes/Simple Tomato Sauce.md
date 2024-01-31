@@ -25,9 +25,9 @@ I don't cook from a recipe. I learned to make this from watching my nonna, and t
 1. **Prepare the pan:** Put pan on stove on medium-low heat. Coat in olive oil.
 2. **Sweat onions:** Add onions to pan, sprinkle with a pinch of salt. Cook gently until extremely soft and translucent. The onions should not brown. (Note: this is the final texture the onions will get, as this is a quick sauce that doesn't simmer all day.)
 3. **Add garlic:** Add garlic to pan, and sweat until translucent and fragrant.
-4. **Add tomatoes and herbs:** Add tomatoes, most of the basil, bay leaf, and alcohol.
+4. **Add tomatoes and herbs:** Add tomatoes, most of the basil, parsley, bay leaf, and alcohol.
 5. **Cook tomatoes:** Turn the heat to medium-high, stirring frequently. Bring tomatoes to a light boil, then turn down the heat to a simmer. The tomatoes should be just barely bubbling.
-6. **Simmer and adjust:** Add parsley. Stir the tomatoes every 5 minutes or so. Taste, add salt or olive oil as needed (in very small additions—the sauce will cook down and concentrate the flavors). Simmer for 30-45 minutes.
+6. **Simmer and adjust:** Stir the tomatoes every 5 minutes or so. Taste, add salt or olive oil as needed (in very small additions—the sauce will cook down and concentrate the flavors). Simmer for 30-45 minutes.
 
 ### Serving:
 
