@@ -8,6 +8,20 @@ Most of the recipes listed here are either found on the web and slightly tweaked
 
 The [/Untested](./Untested) folder contains a bunch of recipes I intend to make and refine, but have not done so yet. I can't vouch for how good they are because I have not tried yet. 
 
+## Recipes for Instant Pot
+
+The following recipes are good use of an Instant Pot or similar multi-function electric pressure cooker. Great for a weeknight if you plan correctly.
+
+- [Irish Beef Stew](./Instant%20Pot%20Irish%20Beef%20Stew)
+- [Chili Con Carne](./Chili20Con20Carne)
+
+## Sous Vide Recipes
+
+The following recipes are idiot-proof, and make use of an immersion circulator, and ideally a vacuum sealer.
+
+- [Chashu Pork Belly](./Chashu%20Pork%20Belly)
+- [Chicken "Chashu"](./Chicken20Breast20Chashu)
+
 ## Recipes from the web to try
 
 This is a list of things I've not tried, but want to:
