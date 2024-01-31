@@ -1,5 +1,7 @@
 # Perfect Brownies
 
+## Ingredients:
+
 - 1 1/2 cup cake flour
 - 1 tsp salt
 - 1 tsp baking soda
@@ -8,6 +10,8 @@
 - 4 sq. bakers chocolate
 - 1 1/3 cup shortening
 - 1 cup nuts
+
+## Directions:
 
 1. Melt shortening and chocolate over double boiler
 2. combine dry ingredients
