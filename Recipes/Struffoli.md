@@ -1,6 +1,7 @@
 # Struffoli
 
-This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic cook, and I have many memories of her making this in her home in Dongan Hills, Staten Island. Struffoli is of Neopolitan origin, and are very tasty, especially when served fresh. It consists of deep fried little cookies, each about the size of grapes, piled on a platter, covered in a honey syrup, and topped with rainbow sprinkles. 
+This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic cook, and I have many memories of her making this in her home in Dongan Hills, Staten Island. Struffoli is of Neopolitan origin, and are very tasty, especially when served fresh. It consists of deep fried little cookies, each about the size of grapes, piled on a platter, covered in a honey syrup, and topped with rainbow nonpareils to provide a nice crunch.
+. 
 
 ## Ingredients:
 
@@ -16,8 +17,7 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
 
 ### Toppings:
   * 200g (about a half cup) of honey
-  * Tbsp limoncello (optional)
-  * Tiny round rainbow sprinkles
+  * Nonpareils 
 
 ### Other:
   * Neutral tasting frying oil
@@ -41,5 +41,6 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
 
 ## Notes:
   - If you make this ahead of time, make the cookies, dry well, store in an air-tight container in the fridge. Bring to room temperature and make and add the warm honey syrup and sprinkles just before serving. 
-  - But really... these are best if they're eaten the day that they're made.
-  - Great video of technique for assembling and frying, as well as an alternate recipe: https://www.pastagrammar.com/post/struffoli-recipe-authentic-italian-christmas-dessert
+  - But really... these are best if they're eaten the day that they're made. Even moreseo, within hours of making it. 
+  - Great video of technique for assembling and frying, as well as an alternate recipe: [ttps://www.pastagrammar.com/post/struffoli-recipe-authentic-italian-christmas-dessert]
+  - For re-using the fry oil, I let it fully cool, then run through a coffee filter in a V60, and store in a mason jar. 
