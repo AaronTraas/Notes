@@ -1,13 +1,13 @@
-# Fresh pasta
+# Cavatelli 
 
-## Cavatelli 
+In development. 
 
-### Ingredients
+## Ingredients
 - 4 cups Unbleached Flour
 - 1 egg
 - 1 2/3 to 1 ¾ cups Luke warm Water 
 
-### Directions:
+## Directions:
 
 1. Place flour on table and spread out leaving a hole in the center
 2. Crack egg and pour into center of flour
@@ -18,3 +18,4 @@
 7. Fold in two and cut down the center
 8. Knead each piece a few times and form into a round piece
 9. Cover with plate and allow to rest for 5-10 mins
+

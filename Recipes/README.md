@@ -10,6 +10,7 @@ My maternal family's southern Italian food (from [Monacilioni, Molise, Italy](ht
 
 - [Simple Tomato Sauce](./Simple%20Tomato%20Sauce)
 - [Struffoli](./Struffoli)
+- [Fresh Pasta - Cavatelli](./Cavatelli)
 
 ## Recipes for Instant Pot
 
