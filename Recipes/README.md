@@ -1,12 +1,15 @@
 # Recipes Aaron likes to cook
 
-I love cooking, especially for other people. The vast majority of my cooking is done without recipe, primarily my family's southern Italian food (from [Monacilioni, Molise, Italy](https://en.wikipedia.org/wiki/Monacilioni)). Likewise, a lot of the things I cook daily aren't here—roasted root veggies, various stir-fries, various egg dishes, various roasted, broiled, or grilled meats—because I don't really have recipes per se, just ways that I make things, and I tend to use whatever ingredients I have on hand or what looks good at the market. If you want me to show you how to make my family's food or other day to day stuff, and you know me personally, reach out and I'll show you how to make them. 
+I love cooking, especially for other people. The majority of my cooking is done without recipe. Likewise, a lot of the things I cook daily aren't here—roasted root veggies, various stir-fries, various egg dishes, various roasted, broiled, or grilled meats—because I don't really have recipes per se, just ways that I make things, and I tend to use whatever ingredients I have on hand or what looks good at the market. If you want me to show you how to make my family's food or other day to day stuff, and you know me personally, reach out and I'll show you how to make them. 
 
 Most of the recipes listed here are either found on the web and slightly tweaked, or the result of some experimentation. If it is based on another person's recipe online, I'll link to it in the recipe.
 
-## Untested recipes
+## Family Italian Recipes
 
-The [/Untested](./Untested) folder contains a bunch of recipes I intend to make and refine, but have not done so yet. I can't vouch for how good they are because I have not tried yet. 
+My maternal family's southern Italian food (from [Monacilioni, Molise, Italy](https://en.wikipedia.org/wiki/Monacilioni)). This is an attempt to preserve these recipes for my children, and subsequent generations.
+
+- [Simple Tomato Sauce](./Simple%20Tomato%20Sauce)
+- [Struffoli](./Struffoli)
 
 ## Recipes for Instant Pot
 
@@ -21,6 +24,10 @@ The following recipes are idiot-proof, and make use of an immersion circulator, 
 
 - [Chashu Pork Belly](./Chashu%20Pork%20Belly)
 - [Chicken "Chashu"](./Chicken%20Breast%20Chashu)
+
+## Untested recipes
+
+The [/Untested](./Untested) folder contains a bunch of recipes I intend to make and refine, but have not done so yet. I can't vouch for how good they are because I have not tried yet. 
 
 ## Recipes from the web to try
 
