@@ -8,7 +8,7 @@ I don't cook from a recipe. I learned to make this from watching my nonna, and t
 
 ## Ingredients
 - 28 oz canned or fresh processed tomatoes (see [Notes](#notes))
-- 1 medium onion, roughly diced
+- 1/2 medium onion, roughly diced
 - 1-4 medium garlic cloves, crushed, sliced, or finely minced (your preference)
 - Extra-virgin olive oil
 - Basil, fresh or dried.
