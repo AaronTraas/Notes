@@ -5,7 +5,7 @@ In development.
 ## Ingredients
 - 4 cups Unbleached Flour
 - 1 egg
-- 1 2/3 to 1 ¾ cups Luke warm Water 
+- 1 2/3 to 1 ¾ cups lukewarm water 
 
 ## Directions:
 
@@ -18,4 +18,10 @@ In development.
 7. Fold in two and cut down the center
 8. Knead each piece a few times and form into a round piece
 9. Cover with plate and allow to rest for 5-10 mins
-
+10. Extend one of rounds with a rolling pin. Rotating it as you do so.
+11. Bubbles in the dough means the dough is good and ready.
+12. Extend a bit to about 10 inches and then allow the dough to rest for 2-3 mins
+13. Extend again to about 14 inches and allow the dough to rest again for 1-2 mins
+14. Extend one last time to create and approximate 14 ½ round piece, approximately 3 mm thick
+15. Sprinkle on some corn meal and some flour, and sprinkle some flour underneath the dough to keep it from sticking. Then cut in strips just a little less than an inch then slice the strips into approx. 5-7 mm pieces. Toss by hand in the corn meal so that they are not too slippery.  Roll each piece into a cava with two fingers.
+16. Rest them on a lightly floured cookie sheet.
