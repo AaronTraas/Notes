@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T16:29:14-06:00
+modified: 2024-03-28T17:00:00-06:00
 ---
 
 # Casciatelli
@@ -21,9 +21,9 @@ Pastry:
 - 1/4 cup orange juice 
 
 Filling:
-- 3 eggs
-- 3 lbs. ricotta
-- 3/4 cup sugar
+- 2 eggs
+- 2 lbs. ricotta
+- 4 tbsp. sugar
 - zest of one orange
 - 1 tbsp anisette
 
