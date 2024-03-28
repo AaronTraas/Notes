@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T17:00:00-06:00
+modified: 2024-03-28T17:01:57-06:00
 ---
 
 # Casciatelli
@@ -40,8 +40,8 @@ Finish:
 6. Combine all ingredients for filling in a large bowl. Mix to combine. Set aside.
 7. Roll out one of the portions of dough. If the dough is tough to work with, cover with a towel and rest another 10-15 minutes. Roll to about 2mm thick.
 8. Cut into 6-8" rounds.
-9. Fill (tbd)
-10. Crimp and fold (tbd) 
+9. Put a scoop of the filling in the middle of each
+10. Fold in half, and crimp with a fork. Cut two vent slits in the top.
 11. Place on pan and brush with egg yolk
 12. Preheat oven to 375°F
 13. Cook for 20 minutes
