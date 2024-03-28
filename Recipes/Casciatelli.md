@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T17:01:57-06:00
+modified: 2024-03-28T17:05:04-06:00
 ---
 
 # Casciatelli
@@ -48,3 +48,4 @@ Finish:
 
 Notes: 
 - when cutting the rounds, there will be scraps. Collect all the scraps, and knead it together with a small pat of butter. When we worked it before with extra flour, it gets tougher. Mixing in some extra fat will tenderize it.
+- if the ricotta is loose and watery, drain it first overnight using cheese cloth or a sieve.
