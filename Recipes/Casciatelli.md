@@ -1,11 +1,11 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T15:06:21-06:00
+modified: 2024-03-28T15:27:39-06:00
 ---
 
 # Casciatelli
 
-My great aunt always made these for Easter. It's a typical Easter treat from Molise. It appears related to the Sicilian Cassatelle. The pastry should be tender but a bit chewy, almost pasta-like, and very yellow in color. The filling has strong orange and mild anise flavor. 
+My great aunt always made these for Easter. It's a typical Easter treat from Molise. It appears related to the Sicilian Cassatelle. The pastry should be tender but a bit chewy, almost pasta-like. The final pastries are very yellow in color, from the egg wash. The filling has strong orange and mild anise flavor. 
 
 I think these are much, much better when fresh. After a day or so, they lose a lot.
 
@@ -27,6 +27,9 @@ Filling:
 - zest of one orange
 - 1 tbsp anisette
 
+Finish:
+- 2 egg yolks
+
 ## Directions:
 
 1. Pile the flour on your work surface. Make a large well in the middle. Add all the other ingredients to the well.
@@ -35,3 +38,4 @@ Filling:
 4. Knead until smooth.
 5. Split into two portions, cover in bowl. Set aside.
 6. Combine all ingredients for filling in a large bowl. Mix until smooth.
+7. Roll out one of the portions of dough. If the dough is tough to work with, cover with a towel and rest another 10-15 minutes.
