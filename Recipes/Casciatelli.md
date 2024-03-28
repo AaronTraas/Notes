@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T13:51:49-06:00
+modified: 2024-03-28T13:57:42-06:00
 ---
 
 # Casciatelli
@@ -13,7 +13,8 @@ Pastry:
 - 4 cups all purpose flour
 - 4 eggs
 - 1 stick butter
-- 1/3 cup sugar 
+- 1/3 cup sugar
+- 1/4 cup orange juice 
 
 Filling:
 - 3 eggs
