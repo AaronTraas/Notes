@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T15:27:39-06:00
+modified: 2024-03-28T15:51:48-06:00
 ---
 
 # Casciatelli
@@ -38,4 +38,6 @@ Finish:
 4. Knead until smooth.
 5. Split into two portions, cover in bowl. Set aside.
 6. Combine all ingredients for filling in a large bowl. Mix until smooth.
-7. Roll out one of the portions of dough. If the dough is tough to work with, cover with a towel and rest another 10-15 minutes.
+7. Roll out one of the portions of dough. If the dough is tough to work with, cover with a towel and rest another 10-15 minutes. Roll to about 2mm thick.
+8. Cut into 6-8" rounds.
+9.
