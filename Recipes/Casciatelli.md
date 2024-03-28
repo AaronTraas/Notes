@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T15:51:48-06:00
+modified: 2024-03-28T16:00:11-06:00
 ---
 
 # Casciatelli
@@ -41,3 +41,6 @@ Finish:
 7. Roll out one of the portions of dough. If the dough is tough to work with, cover with a towel and rest another 10-15 minutes. Roll to about 2mm thick.
 8. Cut into 6-8" rounds.
 9.
+
+Notes: 
+- when cutting the rounds, there will be scraps. Collect all the scraps, and knead it together with a small pat of butter. When we worked it before with extra flour, it gets tougher. Mixing in some extra fat will tenderize it.
