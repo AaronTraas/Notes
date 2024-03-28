@@ -1,6 +1,6 @@
 ---
 created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T16:00:11-06:00
+modified: 2024-03-28T16:28:12-06:00
 ---
 
 # Casciatelli
@@ -40,7 +40,11 @@ Finish:
 6. Combine all ingredients for filling in a large bowl. Mix until smooth.
 7. Roll out one of the portions of dough. If the dough is tough to work with, cover with a towel and rest another 10-15 minutes. Roll to about 2mm thick.
 8. Cut into 6-8" rounds.
-9.
+9. Fill (tbd)
+10. Crimp and fold (tbd) 
+11. Place on pan and brush with egg yolk
+12. Preheat oven to 375°F
+13. Cook for 20 minutes
 
 Notes: 
 - when cutting the rounds, there will be scraps. Collect all the scraps, and knead it together with a small pat of butter. When we worked it before with extra flour, it gets tougher. Mixing in some extra fat will tenderize it.
