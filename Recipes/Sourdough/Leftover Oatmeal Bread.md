@@ -25,7 +25,7 @@ You may need to add more flour -- possibly a lot more -- to get the dough textur
 ## Directions:
 
 1. In mixing bowl, stir oatmeal, water, sugar, and sourdough starter together enough to break up oatmeal. Let mixture sit on counter for 15 minutes.
-2. 1 cup of flour and stir to combine into wet dough, about 1 minute. Add additional flour, mixing well after each addition until the dough comes together into a rough dough. This may take 2 cups, or it may take 3+, depending on the moisture in the oatmeal. Stir until all the flour is incorporated, and the dough is only slightly sticky.
+2. Add 1 cup of flour and stir to combine into a wet dough, about 1 minute. Add additional flour, mixing well after each addition until the dough comes together into a rough dough. This may take 2 cups, or it may take 3+, depending on the moisture in the oatmeal. Stir until all the flour is incorporated, and the dough is only slightly sticky.
 3. Cover, and let sit at room temperature for 30 minutes.
 4. Knead for 3-5 minutes on a well-floured work surface. Add more flour as needed to prevent sticking.
 5. Cover and let sit at room temperature for 30 minutes.
