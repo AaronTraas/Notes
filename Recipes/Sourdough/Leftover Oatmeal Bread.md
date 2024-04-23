@@ -1,5 +1,7 @@
 # Leftover Oatmeal Bread
 
+![Oatmeal Bread](../../images/oatmeal_bread.jpg)
+
 This was a recipe I came up with to use about 1.5 cups of prepared overnight (steel cut) oatmeal I had leftover. It was really tasty. I found a recipe online, and modified it to work with sourdough.
 
 You may need to add more flour -- possibly a lot more -- to get the dough texture right. It's hard to calculate for how much water is in your oatmeal.
