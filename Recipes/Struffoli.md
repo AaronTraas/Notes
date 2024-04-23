@@ -42,5 +42,5 @@ This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic 
 ## Notes:
   - If you make this ahead of time, make the cookies, dry well, store in an air-tight container in the fridge. Bring to room temperature and make and add the warm honey syrup and sprinkles just before serving. 
   - But really... these are best if they're eaten the day that they're made. Even moreseo, within hours of making it. 
-  - Great video of technique for assembling and frying, as well as an alternate recipe: [ttps://www.pastagrammar.com/post/struffoli-recipe-authentic-italian-christmas-dessert]
+  - Great video of technique for assembling and frying, as well as an alternate recipe: <https://www.pastagrammar.com/post/struffoli-recipe-authentic-italian-christmas-dessert>
   - For re-using the fry oil, I let it fully cool, then run through a coffee filter in a V60, and store in a mason jar. 

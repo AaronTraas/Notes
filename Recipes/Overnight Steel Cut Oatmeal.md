@@ -26,6 +26,6 @@ The 6 hours on the warm setting is crucial; the oats aren't fully cooked or hydr
 
 ## Notes
 
-- Base recipe here: https://cooking.nytimes.com/recipes/1022119-slow-cooker-steel-cut-oats
+- Base recipe here: <https://cooking.nytimes.com/recipes/1022119-slow-cooker-steel-cut-oats>
 - I like to serve with either a drizzle of heavy cream or buttermilk, and small spoonful of brown sugar
 - If you are using an apple or similar fruit, reduce the water by about 1/4 cup

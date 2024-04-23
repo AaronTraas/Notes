@@ -45,4 +45,4 @@ Serve over spätzle or egg noodles. Optionally garnish with sour cream, fresh pa
 
 # Notes
 
-Base recipe here: https://www.youtube.com/watch?v=JicHsv4v7jQ
+Base recipe here: <https://www.youtube.com/watch?v=JicHsv4v7jQ>

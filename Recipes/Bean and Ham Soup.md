@@ -27,4 +27,4 @@
 
 ## Notes:
 
-- From https://www.aspicyperspective.com/nanas-epic-navy-bean-ham-bone-soup/
+- From <https://www.aspicyperspective.com/nanas-epic-navy-bean-ham-bone-soup/>
