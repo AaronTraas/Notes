@@ -41,4 +41,4 @@ You may need to add more flour -- possibly a lot more -- to get the dough textur
 
 ## Notes
 
-- Base recipe here: https://blog.kitchenmage.com/2007/08/kitchenmages-le.html
+- Base recipe here: <https://blog.kitchenmage.com/2007/08/kitchenmages-le.html>
