@@ -1,5 +1,7 @@
 # Chashu Pork Belly (sous vide)
 
+![Ramen with Chashu Pork](../images/chashu_ramen.jpg)
+
 The king of all ramen toppings! Chashu pork at its best, in my opinion, is rich, fatty, and practically melts when it hits your tounge. Some people prefer it a little more firm and steak-like in texture, but that's not my preference. 
 
 This is based on Ramen Lord's recipe for sous vide chashu pork from his [Book of Ramen](https://www.reddit.com/r/ramen/comments/hv9niv/my_brother_and_i_just_completed_a_free_ebook_on/). The biggest changes are that I added a bit less water to reduce the total liquid overall, because my vacuum sealer doesn't do well with lots of liquid. I also don't sear the pork ahead of time. It does result in slightly more flavor if you do, but it's so much easier this way, and it's not that different. I sometimes sear the sliced pieces with a propane torch before serving. 

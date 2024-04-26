@@ -1,5 +1,7 @@
 # Chicken Paprikash
 
+![Chicken Paprikash](../images/paprikash.jpg)
+
 Still working on this. Was very good. Could have used a little more cayenne. The original recipe called for some Hungarian hot paprika, but I don't want to maintain another spice in my spice cabinet, so I used more sweet, and mixed with cayenne. Could also have used more garlic -- recipe below adjusted. I'd like to experiment with adding tomatoes; half of all the "traditional" recipes online call for tomatoes or tomato paste, and have call for no tomato product. Texture winds up similar to Chicken Tikka Masala -- I'd bet if I adjusted the spice blend, I could approximate a tikka masala sauce with the same techniques. 
 
 ## Ingredients:

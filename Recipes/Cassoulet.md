@@ -1,5 +1,7 @@
 # Cassoulet
 
+![Cassoulet](../images/cassoulet.jpg)
+
 In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com/watch?v=g_Huy-0Xeek).
 
 ## Ingredients:

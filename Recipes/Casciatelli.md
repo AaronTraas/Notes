@@ -1,9 +1,6 @@
----
-created: 2024-03-28T10:22:06-06:00
-modified: 2024-03-28T17:05:04-06:00
----
-
 # Casciatelli
+
+![Casciatelli](../images/casciatelli.jpg)
 
 My great aunt always made these for Easter. It's a typical Easter treat from Molise. It appears related to the Sicilian Cassatelle. The pastry should be tender but a bit chewy, almost pasta-like. The final pastries are very yellow in color, from the egg wash. The filling has strong orange and mild anise flavor. 
 

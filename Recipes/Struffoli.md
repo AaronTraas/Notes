@@ -1,5 +1,7 @@
 # Struffoli
 
+![Plate of Struffoli](../images/struffoli.jpg)
+
 This is a family recipe from my great aunt, Vittoria Gentile. She's a fantastic cook, and I have many memories of her making this in her home in Dongan Hills, Staten Island. Struffoli is of Neopolitan origin, and are very tasty, especially when served fresh. It consists of deep fried little cookies, each about the size of grapes, piled on a platter, covered in a honey syrup, and topped with rainbow nonpareils to provide a nice crunch.
 . 
 

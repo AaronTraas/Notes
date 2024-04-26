@@ -1,4 +1,7 @@
 # Instant Pot Irish Stew
+
+![Irish Beef Stew](../images/irish_beef_stew.jpg)
+
 This is a really savory, rich, and satisfying beef stew for the Instant Pot or similar pressure cooker. The Guiness, chocolate, and flavored stock add a lot of complex flavor. This is based on [another recipe](https://www.pressurecookrecipes.com/instant-pot-irish-beef-stew/) recommended by a friend, but somewhat modified. I increased the amount of meat by 1lb, because my kids requested it; I trippled the amount of mushrooms, because mushrooms are awesome and full of glutimates, and I halved the amount of Worcestershire sauce, because the original recipe tasted too much of Worcestershire sauce - it has a strong, distinct flavor, and a full tablespoon wasn't needed, especially since we were adding fish sauce. 
 
 I'm looking for ways of streamlining the recipes. Picking out all of the mushrooms and half of the carrots in step 6, and removing the beef in step 7 is time consuming. The increased amount of meat makes it harder to brown; perhaps I should divide it in two and sear both pieces seperately. 
