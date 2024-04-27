@@ -33,7 +33,7 @@
           {% assign sections = 'Recipes,Adult Beverages,Tobacco' | split: ',' %}
             {% for section_name in sections %}
               {% assign section_dir = section_name | replace: ' ', '%20' %}
-              <h2><a href="/Notes/{{section_dir}}/">{{section_name}}</a></h2>
+              <h2><a href="{{ section_dir | relative_url }}/">{{section_name}}</a></h2>
               <ul>
               {% for page in site.pages | sort: 'name' %}
                 {% assign segments = page.dir | remove_first: '/' | split: '/' %}
@@ -41,7 +41,7 @@
                 {% if segments contains 'Untested' %}
                 <!-- Untested: {{page.dir}} -->
                 {% elsif section == section_dir %}
-                <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
+                <li><a href="{{ page.url | relative_url }}">{{page.title}}</a></li>
                 {% endif %}
               {% endfor %}
               </ul>
