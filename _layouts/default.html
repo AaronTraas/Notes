@@ -45,7 +45,7 @@
                 {% assign section = segments | first %}
                 {% if segments contains 'Untested' %}
                 <!-- Untested: {{page.dir}} -->
-                {% elsif section == section_dir and %}
+                {% elsif section == section_dir %}
                 <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
                 {% endif %}
               {% endfor %}
