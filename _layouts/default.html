@@ -40,7 +40,7 @@
               {% assign section_dir = section_name | replace: ' ', '%20' %}
               <h2><a href="/Notes/{{section_dir}}/">{{section_name}}</a></h2>
               <ul>
-              {% for page in site.pages | sort: 'title' %}
+              {% for page in site.pages | sort: 'name' %}
                 {% assign segments = page.dir | remove_first: '/' | split: '/' %}
                 {% assign section = segments | first %}
                 {% if segments contains 'Untested' %}
