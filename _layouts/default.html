@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US>
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,7 +48,7 @@
             {% if section == "Adult Beverages" %}
             <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
             {% else %}
-            <li>{{page.dir | split: '/'}} | {{page.title}} | {{page.dir}} | {{page.url}}</li>
+            <li>[{{page.dir | split: '/' | join: ','}}] | {{page.title}} | {{page.dir}} | {{page.url}}</li>
             {% endif %}
           {% endfor %}
           </ul>
