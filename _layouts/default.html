@@ -35,7 +35,6 @@
         </section>
 
         <aside id="sidebar">
-
           {% assign sections = 'Recipes,Adult Beverages,Tobacco' | split: ',' %}
             {% for section_name in sections %}
               {% assign section_dir = section_name | replace: ' ', '%20' %}
@@ -43,26 +42,14 @@
               <ul>
               {% for page in site.pages | sort: 'title' %}
                 {% assign section = page.dir | remove_first: '/' | split: '/' | first %}
-                {% if section == section_dir %}
+                {% if page.dir contains 'Untested' %}
+                <!-- Untested: {{page.dir}} -->
+                {% elseif section == section_dir and %}
                 <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
-                {% else %}
-                  <!-- li>[{{page.dir | remove_first: '/' | split: '/' | join: ','}}]</li -->
                 {% endif %}
               {% endfor %}
               </ul>
             {% endfor %}
-
-                <h2><a href="/Notes/Adult Beverages/">Adult Beverages</a></h2>
-                <ul>
-                {% for page in site.pages | sort: 'dir' %}
-                  {% assign section = page.dir | remove_first: '/' | split: '/' | first %}
-                  {% if section == "Adult%20Beverages" %}
-                  <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
-                  {% else %}
-                  <!-- li>[{{page.dir | remove_first: '/' | split: '/' | join: ','}}]</li -->
-                  {% endif %}
-                {% endfor %}
-                </ul>
         </aside>
 
       </div>
