@@ -43,9 +43,12 @@
 
           <h2><a href="/Notes/AdultBeverages/">Adult Beverages</a></h2>
           <ul>
-            {% for page in site.pages %}
-            <li><a href="{{page.url}}">{{page.title}}</a></li>
-            {% endfor %}
+          {% for page in site.pages %}
+            {% assign dir = site.path | split:'/' | first %}
+            {% if dir == "Adult Beverages" %}
+            <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
+            {% endif %}
+          {% endfor %}
           </ul>
         </aside>
 
