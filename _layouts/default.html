@@ -48,7 +48,7 @@
             {% if dir == "Adult Beverages" %}
             <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
             {% else %}
-            <li>{{page}}<br>{{page.path}}</li>
+            <li>{{page.name}} | {{page.dir}} | {{page.path}} | {{page.url}}</li>
             {% endif %}
           {% endfor %}
           </ul>
