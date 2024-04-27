@@ -41,8 +41,9 @@
               <h2><a href="/Notes/{{section_dir}}/">{{section_name}}</a></h2>
               <ul>
               {% for page in site.pages | sort: 'title' %}
-                {% assign section = page.dir | remove_first: '/' | split: '/' | first %}
-                {% if page.dir contains 'Untested' %}
+                {% assign segments = page.dir | remove_first: '/' | split: '/' %}
+                {% assign section = segments | first %}
+                {% if segments contains 'Untested' %}
                 <!-- Untested: {{page.dir}} -->
                 {% elsif section == section_dir and %}
                 <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
