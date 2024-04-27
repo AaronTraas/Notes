@@ -1,6 +1,8 @@
 {% for section_name in sections %}
   {% assign section_dir = section_name | replace: ' ', '%20' %}
+  {% if secions.size > 1 %}
   <h2><a href="{{ section_dir | relative_url }}/">{{section_name}}</a></h2>
+  {% endif %}
   <ul>
   {% for page in site.pages | sort: 'title' %}
     {% assign segments = page.dir | remove_first: '/' | split: '/' %}

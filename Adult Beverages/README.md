@@ -1,23 +1,5 @@
 # Adult Beverages
 
 {% assign sections = 'Adult Beverages' | split: ',' %}
-{% for section_name in sections %}
-  {% assign section_dir = section_name | replace: ' ', '%20' %}
-  <h2><a href="{{ section_dir | relative_url }}/">{{section_name}}</a></h2>
-  <ul>
-  {% for page in site.pages | sort: 'title' %}
-    {% assign segments = page.dir | remove_first: '/' | split: '/' %}
-    {% assign section = segments | first %}
-    {% if section == section_dir %}
-      {% if segments contains 'Untested' %}
-    <!-- Untested: {{page.url}} -->
-      {% else %}
-    <li><a href="{{ page.url | relative_url }}">{{page.title}}</a></li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-  </ul>
-{% endfor %}
-
 
 {% include site_index.html %}
