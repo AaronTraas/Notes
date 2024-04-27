@@ -44,7 +44,7 @@
                 {% assign section = page.dir | remove_first: '/' | split: '/' | first %}
                 {% if page.dir contains 'Untested' %}
                 <!-- Untested: {{page.dir}} -->
-                {% elseif section == section_dir and %}
+                {% elsif section == section_dir and %}
                 <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
                 {% endif %}
               {% endfor %}
