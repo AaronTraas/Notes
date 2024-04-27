@@ -40,7 +40,15 @@
             <li><a href="/Notes/Recipes/Sourdough/">Sourdough</a></li>
             <li><a href="/Notes/Recipes/Untested/">Untested</a></li>
           </ul>
+
+          <h2><a href="/Notes/Recipes/">Recipes</a></h2>
+          <ul>
+            {% for page in site.AdultBeverages %}
+            <li><a href="{{page.url}}">{{page.title}}</a></li>
+            {% endfor %}
+          </ul>
         </aside>
+
       </div>
     </div>
 
