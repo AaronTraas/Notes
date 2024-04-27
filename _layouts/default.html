@@ -6,10 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-
+    <link rel="shortcut icon" type="image/x-icon" href="/Notes/favicon.ico">
 {% seo %}
-
-    {% include head-custom.html %}
   </head>
 
   <body>
@@ -38,10 +36,12 @@
               {% for page in site.pages | sort: 'name' %}
                 {% assign segments = page.dir | remove_first: '/' | split: '/' %}
                 {% assign section = segments | first %}
-                {% if segments contains 'Untested' %}
+                {% if section == section_dir %}
+                  {% if segments contains 'Untested' %}
                 <!-- Untested: {{page.dir}} -->
-                {% elsif section == section_dir %}
+                  {% else %}
                 <li><a href="{{ page.url | relative_url }}">{{page.title}}</a></li>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
               </ul>
