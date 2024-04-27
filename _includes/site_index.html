@@ -1,3 +1,5 @@
+{{page.path | split: '/' | join: ','}}
+
 {% for section_name in sections -%}
   {% assign section_dir = section_name | replace: ' ', '%20' -%}
   {% if secions.size > 1 -%}
