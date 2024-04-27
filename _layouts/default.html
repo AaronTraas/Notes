@@ -45,10 +45,10 @@
           <ul>
           {% for page in site.pages %}
             {% assign section = page.dir | truncate: 1 | split: '/' | first %}
-            {% if section == "Adult Beverages" %}
+            {% if section == "Adult%20Beverages" %}
             <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
             {% else %}
-            <li>[{{page.dir | split: '/' | join: ','}}] | {{page.title}} | {{page.dir}} | {{page.url}}</li>
+            <li>[{{page.dir | truncate: 1 | split: '/' | join: ','}}]</li>
             {% endif %}
           {% endfor %}
           </ul>
