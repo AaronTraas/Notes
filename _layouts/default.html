@@ -38,13 +38,15 @@
 
           {% assign sections = 'Recipes,Adult Beverages,Tobacco' | split: ',' %}
             {% for section_name in sections %}
-              {% assign section_dir = section_name | escape %}
+              {% assign section_dir = section_name | replace: ' ', '%20' %}
               <h2><a href="/Notes/{{section_dir}}/">{{section_name}}</a></h2>
               <ul>
-              {% for page in site.pages | sort: 'dir' %}
+              {% for page in site.pages | sort: 'title' %}
                 {% assign section = page.dir | remove_first: '/' | split: '/' | first %}
                 {% if section == section_dir %}
                 <li><a href="/Notes{{page.url}}">{{page.title}}</a></li>
+                {% else %}
+                  <!-- li>[{{page.dir | remove_first: '/' | split: '/' | join: ','}}]</li -->
                 {% endif %}
               {% endfor %}
               </ul>
