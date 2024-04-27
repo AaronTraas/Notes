@@ -1,9 +1,14 @@
-{{page.path | split: '/' | join: ','}}
+{% assign current_section = page.path | split: '/' | first -%}
+<code>current_section: {{current_section}}</code>
 
 {% for section_name in sections -%}
   {% assign section_dir = section_name | replace: ' ', '%20' -%}
   {% if secions.size > 1 -%}
-  <h2><a href="{{ section_dir | relative_url }}/">{{section_name}}</a></h2>
+  <h2>
+    {% if section_name == current_section %}
+    <a href="{{ section_dir | relative_url }}/">{{section_name}}</a>
+    {% endif -%}
+  </h2>
   {% endif -%}
   <ul>
   {% for page in site.pages | sort: 'title' -%}
