@@ -1,5 +1,10 @@
 {% assign current_section = page.path | split: '/' | first -%}
 
+{% if sections == nil -%}
+  {% assign sections = page.sections -%}
+{% endif -%}
+<code>{{sections}}</code>
+
 {% for section_name in sections -%}
   {% assign section_dir = section_name | replace: ' ', '%20' -%}
   {% if sections.size > 1 -%}
