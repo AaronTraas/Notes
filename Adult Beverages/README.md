@@ -1,5 +1,7 @@
-# Adult Beverages
+---
+sections: ['Adult Beverages']
+---
 
-{% assign sections = 'Adult Beverages' | split: ',' %}
+# Adult Beverages
 
 {% include site_index.html %}
