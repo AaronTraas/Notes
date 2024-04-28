@@ -1,5 +1,5 @@
 ---
-sections: ['Adult Beverages']
+sections: ["Adult Beverages"]
 ---
 
 # Adult Beverages

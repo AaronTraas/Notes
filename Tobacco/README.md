@@ -1,5 +1,6 @@
 ---
-sections: ['Tobacco']
+sections: 
+	- Tobacco
 ---
 
 # Tobacco
