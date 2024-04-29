@@ -1,4 +1,8 @@
-# Cavatelli 
+---
+description: Hearty little curled fresh pasta typical to much of southern Italy. 
+---
+
+# Cavatelli
 
 In development. 
 

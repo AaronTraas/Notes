@@ -1,3 +1,7 @@
+---
+description: Delicious cross between an apple pie and a Dutch baby pancake. 
+---
+
 # Apple Pancake
 
 ![apple_dutch_baby.png](../images/apple_dutch_baby.png)

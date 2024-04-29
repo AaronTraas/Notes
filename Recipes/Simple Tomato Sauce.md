@@ -1,3 +1,7 @@
+---
+description: Simple and quick tomato sauce, the way my nonna taught me.
+---
+
 # Simple Tomato Sauce, Monacilioni Style
 
 This is my variation on my nonna's simple tomato sauce. All of the women in the family make this. My mother's family is almost entirely from [Monacilioni](https://en.wikipedia.org/wiki/Monacilioni); this style is common in parts of Molise, and much of the former Kingdom of the Two Sicilies. I've met people from Abruzzo, Campagna, and Puglia that all have similar family sauces. 

@@ -1,3 +1,7 @@
+---
+description: Traditional Molisano dessert for Easter. A pastry stuffed with sweet ricotta filling.
+---
+
 # Casciatelli
 
 ![Casciatelli](../images/casciatelli.jpg)

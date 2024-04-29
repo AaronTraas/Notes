@@ -1,3 +1,7 @@
+---
+description: Traditional Neapolitan dish, typically served during Christmas season
+---
+
 # Struffoli
 
 ![Plate of Struffoli](../images/struffoli.jpg)
