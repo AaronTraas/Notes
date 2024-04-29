@@ -44,3 +44,8 @@ This is a list of things I've not tried, but want to:
 
 - [Spinach and Cheese Strata](https://smittenkitchen.com/2009/12/spinach-and-cheese-strata/) - recommended by Linda
 - [Hunter's Chicken](https://youtu.be/yMVGR3ibVvs?si=Wyd0WOFdz9yoA1z6)
+
+## All Recipes
+
+{% assign sections = 'Recipes' | split: ',' -%}
+{% include site_index.html %}
