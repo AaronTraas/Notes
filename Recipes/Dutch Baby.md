@@ -1,3 +1,8 @@
+---
+description: A slightly sweet, eggy popover that's fantastic with fruit for brunch.
+tags: breakfast
+---
+
 # Dutch Baby Pancake
 ![dutch_baby.png](../images/dutch_baby.png)
 

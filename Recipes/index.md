@@ -10,33 +10,80 @@ My maternal family's southern Italian food (from [Monacilioni, Molise, Italy](ht
 
 {% assign sections = 'Recipes' | split: ',' -%}
 {% assign filter_tag = 'monacilioni' -%}
-{% include site_index.html %}
+{% include site_index.html -%}
 
 ## Recipes for Instant Pot
 
 The following recipes are good use of an Instant Pot or similar multi-function electric pressure cooker. Great for a weeknight if you plan correctly.
 
 {% assign filter_tag = 'instant-pot' -%}
-{% include site_index.html %}
+{% include site_index.html -%}
 
 ## Sous Vide Recipes
 
 The following recipes are idiot-proof, and make use of an immersion circulator, and ideally a vacuum sealer.
 
 {% assign filter_tag = 'sous-vide' -%}
-{% include site_index.html %}
+{% include site_index.html -%}
 
 ## Sourdough Recipes
 
 I've taken up to making sourdough bread. First, because my daughter likes it, and we didn't go through the gigantic loaves we got at the store quick enough before they spoiled. Then, because it's delicious and fun.
 
 {% assign filter_tag = 'sourdough' -%}
-{% include site_index.html %}
+{% include site_index.html -%}
+
+## Breakfast
+
+I actually don't frequently eat breakfast, but these recipes are great crowd pleasers.
+
+{% assign filter_tag = 'breakfast' -%}
+{% include site_index.html -%}
+
+## Desserts
+
+I don't make a whole lot of desserts or sweets. Up until my late 40's, I didn't really bake at all. But here's some stuff that's absolutely worth making.
+
+{% assign filter_tag = 'dessert' -%}
+{% include site_index.html -%}
+
+## Holiday Recipes
+
+<table>
+    <thead>
+        <tr>
+            <th>Easter</th>
+            <th>Thanksgiving</th>
+            <th>Christmas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+            {% assign filter_tag = 'easter' -%}
+            {% assign hide_description = 'true' -%}
+            {% include site_index.html -%}
+            </td>
+            <td>
+            {% assign filter_tag = 'thanksgiving' -%}
+            {% assign hide_description = 'true' -%}
+            {% include site_index.html -%}
+            </td>
+            <td>
+            {% assign filter_tag = 'christmas' -%}
+            {% assign hide_description = 'true' -%}
+            {% include site_index.html -%}
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Miscellaneous Recipes
 
+This is a list of recipes I haven't categorized yet, or don't make sense in any catagory I have. 
+
 {% assign filter_tag = 'NONE' -%}
-{% include site_index.html %}
+{% include site_index.html -%}
 
 ## Recipes from the web to try
 

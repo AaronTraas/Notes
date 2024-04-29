@@ -1,6 +1,11 @@
+---
+description: Delicate, melt-in-your-mouth brownies. Not fugdey, but perfect. 
+tags: dessert
+---
+
 # Perfect Brownies
 
-These are cakey, not fudgey, brownies. Which sounds bad, but it isn't. It's not cakey in a fluffy, airy way. It just has a uniform, semi-dry crumb. Like in a good chocolate chip cookie, there's a notably salty component. It's incredibly complex and balanced. 
+These are cakey, not fudgey, brownies. Which sounds bad, but it isn't. It's not exactly cakey in a fluffy, airy way. It just has a uniform, semi-dry crumb. Like in a good chocolate chip cookie, there's a notably salty component. It's incredibly complex and balanced. 
 
 Yes, I realize this is all exactly what most people think they don't want in a brownie. Popular opionion is that brownies should be so moist and fudge-like, and borderline under-done. But they are wrong. I was one of these people too. Then I was converted. 
 

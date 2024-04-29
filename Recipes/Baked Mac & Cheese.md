@@ -1,4 +1,4 @@
-# Basic Baked Mac & Cheese:
+# Basic Baked Mac & Cheese
 
 [Recipe card - printable PDF](https://traas.org/downloads/recipes/mac_and_cheese_recipe.pdf)
 

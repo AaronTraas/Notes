@@ -1,3 +1,8 @@
+---
+description: Sweat cranberry quick-bread that my mother made every year for Thanksgiving and Christmas.
+tags: dessert, thanksgiving, christmas
+---
+
 # Cranberry Bread
 ![cranberry_bread.jpg](../images/cranberry_bread.jpg)
 This is a sweet, muffiny quick bread that my late mother always made for Thanksgiving and Christmas. It is based on the recipe found on [bags Ocean Spray cranberries](https://www.oceanspray.com/en/Recipes/By-Course/Breads-and-Muffins/Classic-Cranberry-Nut-Bread) that's older than I am. The modifications my mother made were as follows:

@@ -1,5 +1,6 @@
 ---
 description: Delicious cross between an apple pie and a Dutch baby pancake. 
+tags: dessert, breakfast
 ---
 
 # Apple Pancake

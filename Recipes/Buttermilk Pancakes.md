@@ -1,3 +1,8 @@
+---
+description: Basic buttermilk pancake recipe
+tags: breakfast
+---
+
 # Buttermilk Pancakes
 ![pancakes.png](../images/pancakes.png)
 
