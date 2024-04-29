@@ -23,7 +23,7 @@
             {% else -%}
               {% assign page_description = '' -%}
             {% endif -%}
-    <li><a href="{{ page.url | relative_url }}">{{page.title}}{{page.description}}</a></li>
+    <li><a href="{{ page.url | relative_url }}">{{page.title}}</a>{{page_description}}</li>
           {% endif -%}
         {% endif -%}
       {% endif -%}
