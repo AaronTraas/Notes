@@ -1,4 +1,9 @@
-# Instant Pot Irish Stew
+---
+description: Savory, rich, and satisfying stew for a modern pressure cooker.
+tags: instant-pot
+---
+
+# Instant Pot Irish Beef Stew
 
 ![Irish Beef Stew](../images/irish_beef_stew.jpg)
 

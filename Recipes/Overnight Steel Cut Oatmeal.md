@@ -1,3 +1,8 @@
+---
+description: Creamy and satisfying slow-cooker oatmeal. Easy breakfast.
+tags: instant-pot
+---
+
 # Overnight Oatmeal
 
 This ia a really easy, yet filling and satisfying breakfast. You set it up in the slow-cooker the night before, and then serve first thing in the morning. Incredibly rich, nutty, and flavorful. I really love steel cut oats; the texture is far superior to rolled oats for oatmeal. 

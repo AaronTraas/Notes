@@ -1,3 +1,8 @@
+---
+description: Quality rustic sourdough. Very few bakeries make a better loaf.
+tags: sourdough
+---
+
 # Basic No-Knead Sourdough
 
 ![Rustic Sourdough](../../images/sourdough.jpg)

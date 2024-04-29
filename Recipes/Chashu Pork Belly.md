@@ -1,4 +1,9 @@
-# Chashu Pork Belly (sous vide)
+---
+description: The king of all ramen toppings!
+tags: sous-vide
+---
+
+# Chashu Pork Belly
 
 ![Ramen with Chashu Pork](../images/chashu_ramen.jpg)
 

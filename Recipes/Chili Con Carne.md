@@ -1,3 +1,8 @@
+---
+description: Basic pressure-cooker chili. Bean or no bean - you're choice!
+tags: instant-pot
+---
+
 # Pressure Cooker Chili Con Carne
 
 Pretty basic chili con carne. Modified from Alton Brown's [Pressure Cooker Chili](https://www.foodnetwork.com/recipes/alton-brown/pressure-cooker-chili-recipe-1942714) recipe. Directions assuming an Instant Pot or similar modern electric pressure cooker. Also, using fresh onions because I always have them on hand, and good salsa is kinda expensive. You can replace the onions, tomatoes, and peppers with salsa if you're in a hurry. Finally, I add beans to my chili, because of health and cost reasons. 

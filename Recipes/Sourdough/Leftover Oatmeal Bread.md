@@ -1,5 +1,6 @@
 ---
 description: Really delicious use for leftover prepared oatmeal. Honestly, better than the oatmeal.
+tags: sourdough
 ---
 
 # Leftover Oatmeal Bread

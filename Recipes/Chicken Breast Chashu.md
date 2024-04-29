@@ -1,3 +1,8 @@
+---
+description: A tasty, healthy, and idiot-proof way to prepare chicken breast.
+tags: sous-vide
+---
+
 # Chicken Breast "Chashu"
 
 ![apple_dutch_baby.png](../images/chicken_chashu.png)
