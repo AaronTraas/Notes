@@ -16,6 +16,7 @@
     <!-- Untested: {{page.url}} -->
         {% else -%}
     <li><a href="{{ page.url | relative_url }}">{{page.title}}</a></li>
+    <!-- Page name: {{page.name}} -->
         {% endif -%}
       {% endif -%}
     {% endfor -%}
