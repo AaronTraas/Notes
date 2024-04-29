@@ -23,7 +23,9 @@
             {% else -%}
               {% assign page_description = '' -%}
             {% endif -%}
+            {% if filter_tags == nil or page_tags contain filter_tags -%}
     <li><a href="{{ page.url | relative_url }}">{{page.title}}</a>{{page_description}}</li>
+            {% endif -%}
           {% endif -%}
         {% endif -%}
       {% endif -%}
@@ -32,3 +34,4 @@
   {% endif -%}
 {% endfor -%}
 {% assign hide_description = nil -%}
+{% assign filter_tags = nil -%}

@@ -1,5 +1,6 @@
 ---
 description: Traditional Neapolitan dish, typically served during Christmas season
+tags: italian, monacilioni
 ---
 
 # Struffoli

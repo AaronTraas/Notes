@@ -13,6 +13,10 @@ My maternal family's southern Italian food (from [Monacilioni, Molise, Italy](ht
 - [Fresh Pasta - Cavatelli](./Cavatelli)
 - [Casciatelli](./Casciatelli)
 
+{% assign sections = 'Recipes' | split: ',' -%}
+{% assign filter_tags = 'monacilioni' | split: ',' -%}
+{% include site_index.html %}
+
 ## Recipes for Instant Pot
 
 The following recipes are good use of an Instant Pot or similar multi-function electric pressure cooker. Great for a weeknight if you plan correctly.
