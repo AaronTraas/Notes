@@ -1,4 +1,5 @@
 {% assign current_section = page.path | split: '/' | first -%}
+{% assign page_blacklist = 'index.html,README.md' | split: ',' -%}
 
 {% for section_name in sections -%}
   {% assign section_dir = section_name | replace: ' ', '%20' -%}
@@ -15,8 +16,10 @@
         {% if segments contains 'Untested' -%}
     <!-- Untested: {{page.url}} -->
         {% else -%}
+          {% if page_blacklist contains page.name -%}
+          {% else -%}
     <li><a href="{{ page.url | relative_url }}">{{page.title}}</a></li>
-    <!-- Page name: {{page.name}} -->
+          {% endif -%}
         {% endif -%}
       {% endif -%}
     {% endfor -%}
