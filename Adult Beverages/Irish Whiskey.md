@@ -1,4 +1,5 @@
 # Irish Whiskey
+
 Scores are on a 1-10. These scores are relative to each other, not to spirits in other catagories. 
 
 | Whiskey                              | Type             | ABV | Score | Notes                                                                                                                                                    |

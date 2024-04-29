@@ -1,4 +1,4 @@
-# Japanese Whisky:
+# Japanese Whisky
 
 Scores are on a 1-10. These scores are relative to each other, not to spirits in other catagories.
 
