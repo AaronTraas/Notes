@@ -19,7 +19,7 @@
           {% if page_blacklist contains page.name -%}
           {% else -%}
             {% if hide_description == nil And page.description != nil -%}
-              {% assign page_description = ' - ' | append page.description}} -%}
+              {% assign page_description = ' - ' | append: page.description}} -%}
             {% else -%}
               {% assign page_description = '' -%}
             {% endif -%}
