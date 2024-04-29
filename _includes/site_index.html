@@ -18,7 +18,12 @@
         {% else -%}
           {% if page_blacklist contains page.name -%}
           {% else -%}
-    <li><a href="{{ page.url | relative_url }}">{{page.title}}</a></li>
+            {% if hide_description != nil And page.description != nil -%}
+              {% assign page_description = ' - {{page.description}}' -%}
+            {% else -%}
+              {% assign page_description = '' -%}
+            {% endif -%}
+    <li><a href="{{ page.url | relative_url }}">{{page.title}}{{page.description}}</a></li>
           {% endif -%}
         {% endif -%}
       {% endif -%}
@@ -26,3 +31,4 @@
   </ul>
   {% endif -%}
 {% endfor -%}
+{% assign hide_description = nil -%}

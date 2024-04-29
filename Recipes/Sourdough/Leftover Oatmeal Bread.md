@@ -1,3 +1,7 @@
+---
+page_description: Really delicious use for leftover prepared oatmeal. Honestly, better than the oatmeal.
+---
+
 # Leftover Oatmeal Bread
 
 ![Oatmeal Bread](../../images/oatmeal_bread.jpg)
