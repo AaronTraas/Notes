@@ -54,36 +54,17 @@ I don't make a whole lot of desserts or sweets. Up until my late 40's, I didn't 
 {% assign filter_tag = 'dessert' -%}
 {% include site_index.html -%}
 
-## Holiday Recipes
+## Easter
+{% assign filter_tag = 'easter' -%}
+{% include site_index.html -%}
 
-<table>
-    <thead>
-        <tr>
-            <th>Easter</th>
-            <th>Thanksgiving</th>
-            <th>Christmas</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-            {% assign filter_tag = 'easter' -%}
-            {% assign hide_description = 'true' -%}
-            {% include site_index.html -%}
-            </td>
-            <td>
-            {% assign filter_tag = 'thanksgiving' -%}
-            {% assign hide_description = 'true' -%}
-            {% include site_index.html -%}
-            </td>
-            <td>
-            {% assign filter_tag = 'christmas' -%}
-            {% assign hide_description = 'true' -%}
-            {% include site_index.html -%}
-            </td>
-        </tr>
-    </tbody>
-</table>
+## Thanksgiving
+{% assign filter_tag = 'thanksgiving' -%}
+{% include site_index.html -%}
+
+## Christmas
+{% assign filter_tag = 'christmas' -%}
+{% include site_index.html -%}
 
 ## Miscellaneous Recipes
 
