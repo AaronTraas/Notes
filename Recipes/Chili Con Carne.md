@@ -1,6 +1,6 @@
 ---
-description: Basic pressure-cooker chili. Bean or no bean - you're choice!
-tags: instant-pot
+description: Basic pressure-cooker chili. Bean or no bean - your choice!
+tags: instant-pot,soup-stew-casserole
 ---
 
 # Pressure Cooker Chili Con Carne

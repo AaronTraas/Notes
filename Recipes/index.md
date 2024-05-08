@@ -40,6 +40,13 @@ I've taken up to making sourdough bread. First, because my daughter likes it, an
 {% assign filter_tag = 'sourdough' -%}
 {% include site_index.html -%}
 
+## Soups, Stews, and Casseroles
+
+Hearty, delicious, warm dishes that are great for the colder months. 
+
+{% assign filter_tag = 'soup-stew-casserole' -%}
+{% include site_index.html -%}
+
 ## Breakfast
 
 I actually don't frequently eat breakfast, but these recipes are great crowd pleasers.

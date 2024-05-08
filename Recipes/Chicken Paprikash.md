@@ -1,3 +1,8 @@
+---
+description: Hungarian braised chicken in a creamy paprika sauce. 
+tags: soup-stew-casserole
+---
+
 # Chicken Paprikash
 
 ![Chicken Paprikash](../images/paprikash.jpg)
