@@ -12,7 +12,7 @@ The 6 hours on the warm setting is crucial; the oats aren't fully cooked or hydr
 ## Ingredients:
 
 - 1/2 cup steel-cut oats
-- 1 teaspoon kosher salt
+- 1/2 teaspoon kosher salt
 - 2 cups water
 - (optional) 1 baking apple, ripe pear, ripe peach, etc. diced
 
