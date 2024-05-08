@@ -26,6 +26,13 @@ The following recipes are idiot-proof, and make use of an immersion circulator, 
 {% assign filter_tag = 'sous-vide' -%}
 {% include site_index.html -%}
 
+## Healthy Recipes
+
+I count calories, and have lost a tremendous amount of weight, and kept it off. These are my staples for meals I eat by myself. They are also quite tasty.
+
+{% assign filter_tag = 'healthy' -%}
+{% include site_index.html -%}
+
 ## Sourdough Recipes
 
 I've taken up to making sourdough bread. First, because my daughter likes it, and we didn't go through the gigantic loaves we got at the store quick enough before they spoiled. Then, because it's delicious and fun.

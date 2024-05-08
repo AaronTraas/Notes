@@ -1,6 +1,6 @@
 ---
 description: A tasty, healthy, and idiot-proof way to prepare chicken breast.
-tags: sous-vide
+tags: sous-vide, healthy
 ---
 
 # Chicken Breast "Chashu"
