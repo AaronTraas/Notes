@@ -2,7 +2,7 @@
 description: Classic American baked Mac & Cheese
 tags: soup-stew-casserole
 ---
-# Basic Baked Mac & Cheese
+# Baked Mac & Cheese
 
 [Recipe card - printable PDF](https://traas.org/downloads/recipes/mac_and_cheese_recipe.pdf)
 
