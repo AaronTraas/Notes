@@ -87,3 +87,4 @@ This is a list of things I've not tried, but want to:
 - [Spinach and Cheese Strata](https://smittenkitchen.com/2009/12/spinach-and-cheese-strata/) - recommended by Linda
 - [Hunter's Chicken](https://youtu.be/yMVGR3ibVvs?si=Wyd0WOFdz9yoA1z6)
 - [Crawfish Pie](/93c5ca05cd51428926d197e6d4a2d050.jpg)
+- [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)
