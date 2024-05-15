@@ -34,4 +34,4 @@ In progress
 
 ## Notes:
 
-- Base recipe from: <https://cooking.nytimes.com/recipes/12227-spaetzle-with-kielbasa-and-caramelized-onions>
+- Base recipe from: [Spaetzle with kielbasa and caramelized onions (New York Times)](https://cooking.nytimes.com/recipes/12227-spaetzle-with-kielbasa-and-caramelized-onions)
