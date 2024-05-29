@@ -3,18 +3,18 @@
 
 # Dinner Ideas
 
-Baked Salmon with Maple Dijon sauce
+## Baked Salmon with Maple Dijon sauce
 
 From <https://www.elizabethrider.com/easy-salmon-recipe/>
 
-## Ingredients:
+### Ingredients:
 - 1lb salmon fillet or side
 - 2 teaspoons maple syrup
 - 2 teaspoons soy sauce
 - 2 teaspoons Dijon or whole-grain mustard
 - salt and pepper
 
-## Directions:
+### Directions:
 
 1. Place the salmon fillets on the parchment line baking sheetskin-side down. 
 2. Salt and pepper to taste.
