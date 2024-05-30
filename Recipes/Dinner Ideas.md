@@ -7,6 +7,7 @@ This is a list of easy, quick recipes with low ingredient counts that Aaron coul
 
 - [Baked Salmon with Maple Dijon Sauce](#baked-salmon-with-maple-dijon-sauce)
 - [Chicken Chasseur](#chicken-chasseur)
+- [Chicken Paprikash](./Chicken%20Paprikash.html)
 - [Oven Baked Pork Chops with Potatoes](https://www.recipetineats.com/oven-baked-pork-chops-with-potatoes/#recipe)
 - [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)
 - [Sausage, Veggies, and Spätzle](#sausage-veggies-and-spätzle)
@@ -65,10 +66,6 @@ AKA Hunter's Chicken. From <https://www.youtube.com/watch?v=yMVGR3ibVvs>
 3. Deglaze the pan with brandy, add the vegetables back if necessary, stir in the tomatoes, additional wine/brandy to  taste, and enough stock to cover everything. Simmer until the chicken is as tender (about an hour).
 4. Remove chicken and veg, boil the sauce to reduce to desired thickness.
 5. Return the chicken to the pan to coat and reheat, garnish with fresh herbs and serve over noodles or spätzle.
-
-### Variations:
-
-- Cheater chicken paprikash: Replace wine with stock. Add 4 tablespoons sweet paprika before adding the broth. Mix flour and sour cream, and add off heat to the reduced sauce before adding the chicken back. 
 
 ---
 
