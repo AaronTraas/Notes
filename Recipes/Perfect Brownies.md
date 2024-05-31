@@ -1,6 +1,7 @@
 ---
 description: Delicate, melt-in-your-mouth brownies. Not fugdey, but perfect. 
 tags: dessert
+ingredients: flour, chocolate, shortening
 ---
 
 # Perfect Brownies

@@ -1,6 +1,7 @@
 ---
 description: Quality rustic sourdough. Very few bakeries make a better loaf.
 tags: sourdough
+ingredients: flour, sourdough-starter
 ---
 
 # Basic No-Knead Sourdough

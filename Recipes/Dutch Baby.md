@@ -1,6 +1,7 @@
 ---
 description: A slightly sweet, eggy popover that's fantastic with fruit for brunch.
 tags: breakfast
+ingredients: eggs, flour, berries
 ---
 
 # Dutch Baby Pancake

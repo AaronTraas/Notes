@@ -1,6 +1,7 @@
 ---
 description: Sweat cranberry quick-bread that my mother made every year for Thanksgiving and Christmas.
 tags: dessert, thanksgiving, christmas
+ingredients: eggs, flour, cranberries, orange
 ---
 
 # Cranberry Bread

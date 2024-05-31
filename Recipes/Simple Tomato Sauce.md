@@ -1,6 +1,7 @@
 ---
 description: Simple and quick tomato sauce, the way my nonna taught me.
 tags: italian, monacilioni
+ingredients: tomatoes, basil
 ---
 
 # Simple Tomato Sauce, Monacilioni Style

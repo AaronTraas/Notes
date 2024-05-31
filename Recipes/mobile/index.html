@@ -1,0 +1,187 @@
+---
+layout: default
+---
+<style>
+  .recipe-link {
+    display: block;
+    border: 2px solid #3d5a80;
+    margin-bottom: 0.5em;
+    padding: .4em .7em;
+    background-color: #98c1d9;
+    color: #fff;
+    border-radius: 5px;
+    text-shadow: 0px 0px 1px rgba(41,50,65,0.3);
+  }
+  .recipe-link:hover {
+    color: #ee6c4d;
+    background-color: #3d5a80;
+  }
+  .recipe-link[data-hide=true] {
+    display: none;
+  }
+  .recipe-link strong {
+    font-size: 130%;
+    line-height: 1.2em;
+    display: block;
+  }
+  .recipe-link ul, .recipe-link ul li, .recipe-link ul::before {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0.9em;
+    line-height: 1.1em;
+  }
+  .tags::before {
+    content: 'tags: ';
+    font-weight: bold;
+  }
+  .key-ingredients::before {
+    content: 'ingredients: ';
+    font-weight: bold;
+  }
+  .recipe-link ul li {
+    display: inline-block;
+    font-style: italic;
+  }
+  .recipe-link ul li::after {
+    content: ', ';
+  }
+  .recipe-link ul li:last-child::after {
+    content: '';
+  }
+  #filters {
+    padding: 0.8em;
+    margin-bottom: 1em;
+  }
+  #filters > div {
+    display: table-row;
+    width: 100%;
+  }
+  #filters > div > * {
+    margin: .2em;
+    display: table-cell;
+  }
+  #filters > div > select, #filters > div > select {
+    width: 100%;
+  }
+  #filters > div > label {
+    padding-right: 0.5em;
+  }
+</style>
+
+<h1>Recipe Search</h1>
+{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
+
+{%- assign section_dir = 'Recipes' -%}
+{%- assign sortedPages = site.pages | sort: 'title' -%}
+
+{%- for page in sortedPages -%}
+   {%- assign tags = page.tags | strip | split: ',' -%}
+   {%- assign all_tags = all_tags | concat: tags -%}
+
+   {%- assign ingredients = page.ingredients | strip | split: ',' -%}
+   {%- assign all_ingredients = all_ingredients | concat: ingredients -%}
+{%- endfor -%}
+
+{%- assign all_tags_sorted = all_tags | sort | uniq -%}
+{% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
+<form id="filters">
+  <div>
+    <label for="tag-filter">Tag: </label>
+    <select id="tag-filter">
+      <option>all</option>
+      {%- for tag in all_tags_sorted -%}
+      {% assign tag_stripped = tag | strip -%}
+      <option value="{{tag_stripped}}">{{tag_stripped}}</option>
+      {% endfor -%}
+    </select>
+  </div>
+
+  <div>
+    <label for="ingredient-filter">Ingredient: </label>
+    <select id="ingredient-filter">
+      <option>all</option>
+      {%- for ingredient in all_ingredients_sorted -%}
+      {% assign ingredient_stripped = ingredient | strip -%}
+      <option value="{{ingredient_stripped}}">{{ingredient_stripped}}</option>
+      {% endfor -%}
+    </select>
+  </div>
+</form>
+
+{% for page in sortedPages -%}
+  {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
+  {%- assign section = segments | first -%}
+  {%- if section == section_dir %}
+    {%- if segments contains 'Untested' -%}
+    {%- else -%}
+      {%- if page_blacklist contains page.name -%}
+      {%- else -%}
+        {%- if page.tags -%}
+          {%- assign tags = page.tags | remove: " " | split: ',' -%}
+        {%- else -%}
+          {%- assign tags = 'none' -%}
+        {%- endif -%}
+        {%- if page.ingredients -%}
+          {%- assign ingredients = page.ingredients | remove: " " | split: ',' -%}
+        {%- else -%}
+          {%- assign ingredients = 'none' -%}
+        {%- endif -%}
+
+  <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}">
+    <strong>{{page.title}}</strong>
+    <ul class="tags">
+      {% for tag in tags %}
+      <li>{{tag}}</li>
+      {% endfor -%}
+    </ul>
+    <ul class="key-ingredients">
+      {% for ingredient in ingredients %}
+      <li>{{ingredient}}</li>
+      {% endfor -%}
+    </ul>
+  </a>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<script>
+
+  document.addEventListener('DOMContentLoaded', (event) => {
+    const filter_tag = document.getElementById('tag-filter');
+    const filter_ingredient = document.getElementById('ingredient-filter');
+    const recipes = document.querySelectorAll('.recipe-link');
+
+    const hideFilteredRecipes = function(classes) {
+      console.log(classes)
+      recipes.forEach(function(recipe) {
+        recipe.dataset.hide = false
+        for (classname of classes) {
+          if (!recipe.classList.contains(classname)) {
+            recipe.dataset.hide = true
+            continue
+          }
+        }
+      })
+    }
+
+    hideFilteredRecipes([])
+
+    const filter = function filter() {
+      const tag = filter_tag.value == 'all' ? null : 'tag-' + filter_tag.value
+      const ingredient = filter_ingredient.value == 'all' ? null : 'ingredient-' + filter_ingredient.value
+      var classes = []
+      if (tag) {
+        classes.push(tag)
+      }
+      if (ingredient) {
+        classes.push(ingredient)
+      }
+      hideFilteredRecipes(classes)
+    }
+
+    filter_tag.addEventListener('change', filter)
+    filter_ingredient.addEventListener('change', filter)
+  });
+</script>

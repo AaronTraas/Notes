@@ -1,6 +1,7 @@
 ---
 description: Simple and hearty soup. Great way of making a second meal out of spiral-sliced ham.
 tags: soup-stew-casserole
+ingredients: ham, mire-poix, beans
 ---
 
 # Bean Ham Bone Soup

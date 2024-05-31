@@ -1,6 +1,7 @@
 ---
 description: Classic American baked Mac & Cheese
 tags: soup-stew-casserole
+ingredients: pasta, cheese
 ---
 # Baked Mac & Cheese
 

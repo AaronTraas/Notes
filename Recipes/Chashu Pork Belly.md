@@ -1,6 +1,7 @@
 ---
 description: The king of all ramen toppings!
 tags: sous-vide
+ingredients: pork, soy-sauce, mirin
 ---
 
 # Chashu Pork Belly

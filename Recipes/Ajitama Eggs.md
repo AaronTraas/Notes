@@ -1,6 +1,7 @@
 ---
 description: Tasty salty/sweet marinated eggs. Good by themselves, or sliced in half and served as a ramen topping.
 tags: healthy
+ingredients: eggs
 ---
 
 # Ajitama Eggs

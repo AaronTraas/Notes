@@ -1,6 +1,7 @@
 ---
 description: Traditional Molisano dessert for Easter. A pastry stuffed with sweet ricotta filling.
 tags: italian, monacilioni, dessert, easter
+ingredients: ricotta, flour
 ---
 
 # Casciatelli

@@ -1,6 +1,7 @@
 ---
 description: French meaty bean casserole. Warming, filling, and satisfying. 
 tags: soup-stew-casserole
+ingredients: sausage, chicken, pork-shoulder, beans
 ---
 
 # Cassoulet
@@ -25,14 +26,9 @@ In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com
 * 1-2 quarts chicken stock or water + chicken bullion
 * 28 g  unflavored gelatin (optional; use if you aren't using home-made stock)
 * 2 sprigs rosemary
-* 3 sprigs thyme
+* 3 sprigs thyme 
 * 2 bay leaves
-* salt and pepper to taste
-
-## Hardware:
-
-- 6 qt. Dutch oven
-- Wooden spoon or silicone spatula
+* salt and peppe   spoon or silicone spatula
 
 ## Directions:
 

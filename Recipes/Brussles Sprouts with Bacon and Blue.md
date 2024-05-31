@@ -1,3 +1,7 @@
+---
+ingredients: brussels sprouts, bacon
+---
+
 # Brussels Sprouts with Bacon and Blue Cheese
 ![brussels_sprouts.png](../images/brussels_sprouts.png)
 

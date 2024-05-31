@@ -1,3 +1,7 @@
+---
+ingredients: flour, eggs, milk
+---
+
 # Spätzle
 
 In progress

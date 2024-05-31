@@ -1,5 +1,6 @@
 ---
 tags: healthy
+ingredients: chickpeas, tahini, garlic
 ---
 
 # Hummus

@@ -1,6 +1,7 @@
 ---
 description: Basic buttermilk pancake recipe
 tags: breakfast
+ingredients: eggs, flour, buttermilk
 ---
 
 # Buttermilk Pancakes

@@ -1,6 +1,7 @@
 ---
 description: Better than store bought, in both texture and flavor. 
 tags: sourdough
+ingredients: flour, sourdough-starter
 ---
 
 # Sourdough English Muffins

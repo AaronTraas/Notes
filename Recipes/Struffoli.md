@@ -1,6 +1,7 @@
 ---
 description: Traditional Neapolitan dish, typically served during Christmas season
 tags: italian, monacilioni, dessert, christmas
+ingredients: eggs, flour, butter
 ---
 
 # Struffoli

@@ -1,6 +1,7 @@
 ---
 description: Creamy and satisfying slow-cooker oatmeal. Easy breakfast.
 tags: instant-pot, breakfast
+ingredients: oats, apples
 ---
 
 # Overnight Oatmeal
