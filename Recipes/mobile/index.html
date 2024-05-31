@@ -155,7 +155,6 @@ layout: default
     const recipes = document.querySelectorAll('.recipe-link');
 
     const hideFilteredRecipes = function(classes) {
-      console.log(classes)
       recipes.forEach(function(recipe) {
         recipe.dataset.hide = false
         for (classname of classes) {
@@ -166,8 +165,6 @@ layout: default
         }
       })
     }
-
-    hideFilteredRecipes([])
 
     const filter = function filter() {
       const tag = filter_tag.value == 'all' ? null : 'tag-' + filter_tag.value
