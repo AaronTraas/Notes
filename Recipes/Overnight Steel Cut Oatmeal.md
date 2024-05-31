@@ -1,6 +1,6 @@
 ---
 description: Creamy and satisfying slow-cooker oatmeal. Easy breakfast.
-tags: instant-pot, breakfast
+tags: instant-pot, breakfast, friday-friendly
 ingredients: oats, apples
 ---
 

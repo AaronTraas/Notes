@@ -1,5 +1,5 @@
 ---
-tags: healthy
+tags: healthy, friday-friendly
 ingredients: chickpeas, tahini, garlic
 ---
 

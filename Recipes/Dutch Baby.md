@@ -1,6 +1,6 @@
 ---
 description: A slightly sweet, eggy popover that's fantastic with fruit for brunch.
-tags: breakfast
+tags: breakfast, friday-friendly
 ingredients: eggs, flour, berries
 ---
 

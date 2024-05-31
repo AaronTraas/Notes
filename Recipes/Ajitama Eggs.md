@@ -1,6 +1,6 @@
 ---
 description: Tasty salty/sweet marinated eggs. Good by themselves, or sliced in half and served as a ramen topping.
-tags: healthy
+tags: healthy, friday-friendly
 ingredients: eggs
 ---
 

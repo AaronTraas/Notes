@@ -26,7 +26,7 @@ Still working on this. Was very good. Could have used a little more cayenne. The
 
 ## Hardware:
 - 6 qt dutch oven
-- ~2qt glass or metal bowl
+- ~2 qt glass or metal bowl
 - Large wooden spoon or silicone spatula
 - Whisk
 
@@ -49,7 +49,7 @@ Still working on this. Was very good. Could have used a little more cayenne. The
 15. Add chicken back to pan, simmer on low for 10 minutes.
 16. Serve.
 
-Serve over spätzle or egg noodles. Optionally garnish with sour cream, fresh parsley, and a sprinkle of paprika. 
+Serve over [spätzle](./Spaetzle.html) or egg noodles. Optionally garnish with sour cream, fresh parsley, and a sprinkle of paprika. 
 
 # Notes
 
