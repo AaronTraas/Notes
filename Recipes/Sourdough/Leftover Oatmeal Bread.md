@@ -10,12 +10,12 @@ ingredients: flour, sourdough-starter, oats
 
 This was a recipe I came up with to use about 1.5 cups of prepared overnight (steel cut) oatmeal I had leftover. It was really tasty. I found a recipe online, and modified it to work with sourdough.
 
-You may need to add more flour -- possibly a lot more -- to get the dough texture right. It's hard to calculate for how much water is in your oatmeal.
+You may need to add more flour—possibly a lot more—to get the dough texture right. It's hard to calculate for how much water is in your oatmeal.
 
 ## Ingredients:
 
 - 1.5 cups of leftover [steel-cut oatmeal](../Overnight%20Steel%20Cut%20Oatmeal)
-- 250g / 2 cups bread flour
+- 250g / 2 cups bread flour (up to 1/3 whole-wheat flour)
 - 180mL / 3/4 cup water
 - 25g / 1/8 cup brown sugar
 - 50g sourdough starter (or discard)

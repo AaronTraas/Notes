@@ -5,11 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/hamburger.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
     <link rel="icon" href="https://traas.org/favicon.ico"/>
     <link rel="apple-touch-icon" href="https://traas.org/apple-touch-icon.png" />
 
+    <script type="text/javascript" src="{{ '/assets/js/hamburger.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 {% seo %}
   </head>
 
@@ -30,7 +32,9 @@
           {{ content }}
         </section>
 
+        <a href="#" id="hamburger"></a>
         <aside id="sidebar">
+          <nav><a href="#" id="hamburger-close"></a></nav>
 {% assign sections = 'Recipes,Adult Beverages,Tobacco' | split: ',' -%}
 {% assign hide_description = 'true' -%}
 {% include site_index.html -%}
