@@ -34,10 +34,14 @@
 
         <a href="#" id="hamburger"></a>
         <aside id="sidebar">
-          <nav><a href="#" id="hamburger-close"></a></nav>
+          <header>
+            <a href="#" id="hamburger-close"></a>
+          </header>
+          <nav>        
 {% assign sections = 'Recipes,Adult Beverages,Tobacco' | split: ',' -%}
 {% assign hide_description = 'true' -%}
 {% include site_index.html -%}
+          </nav>
         </aside>
 
       </div>
