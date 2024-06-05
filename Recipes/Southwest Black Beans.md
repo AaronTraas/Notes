@@ -1,5 +1,5 @@
 ---
-description: Classic American baked Mac & Cheese
+description: Super easy and tasty Mexican-ish black bean recipe. 
 tags: friday-friendly, weeknight
 ingredients: beans
 ---
