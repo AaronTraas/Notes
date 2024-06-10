@@ -80,13 +80,13 @@ This is a list of recipes I haven't categorized yet, or don't make sense in any 
 {% assign filter_tag = 'NONE' -%}
 {% include site_index.html -%}
 
-## Recipes from the web to try
+## Recipes to try
 
 This is a list of things I've not tried, but want to:
 
 - [Spinach and Cheese Strata](https://smittenkitchen.com/2009/12/spinach-and-cheese-strata/) - recommended by Linda
 - [Hunter's Chicken](https://youtu.be/yMVGR3ibVvs?si=Wyd0WOFdz9yoA1z6)
-- [Crawfish Pie](/93c5ca05cd51428926d197e6d4a2d050.jpg)
+- [Crawfish Pie](/93c5ca05cd51428926d197e6d4a2d050.jpg) - from my dad
 - [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)
 - [Sourdough Hawaiian Rolls](https://www.farmhouseonboone.com/sourdough-hawaiian-rolls)
 - [Easy Pressure Cooker Chicken Enchiladas](https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-enchiladas-food-lab-recipe)
