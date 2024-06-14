@@ -8,7 +8,7 @@ ingredients: flour, sourdough-starter
 
 Adapted from my [Leftover Oatmeal Bread](./Leftover%20Oatmeal%20Bread.html) recipe, which is a crowd pleaser.
 
-Most dinner rolls have a LOT of fat in them, usually butter. They have quite a bit in common with brioche. That's messy and a lot of work, especially if, like me, you don't own a stand mixer. This only has butter on the outside to keep the rolls seperate. 
+Most dinner rolls have a lot of fat in them, usually butter. They have quite a bit in common with brioche. That's messy and a lot of work, especially if, like me, you don't own a stand mixer. This only has butter on the outside to keep the rolls seperate. 
 
 You may need to add more flour—possibly a lot more—to get the dough texture right. It should be smooth and just barely tacky, but not sticky.
 
@@ -44,9 +44,8 @@ You may need to add more flour—possibly a lot more—to get the dough texture 
 11. Optionally, sprinkle liberally with sesame seeds.
 12. Sit at room temperature to rise until doubled.
 13. Pre-heat oven to 375°F.
-14. Optionally top crust with rolled oats, nuts, seeds, or flour.
-15. Put pan in oven for 25 minutes. Check for doneness (should be 200°F). Cook longer if needed.
-16. Remove from pan, and cool on wire rack for at least an hour before slicing. 
+14. Put pan in oven for 25 minutes. Check for doneness (should be 200°F). Cook longer if needed.
+15. Remove from pan, and cool on wire rack for at least an hour before slicing. 
 
 ## Notes
 
