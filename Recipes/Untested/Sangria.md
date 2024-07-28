@@ -4,7 +4,7 @@ This makes the equivalent of about 1L of sangria. It is best made at least 12 ho
 
 ## Ingredients:
 
-- 1 750 ml bottle of robust red wine
+- 750 ml bottle of robust red wine
 - 1/2-1 cup Spanish brandy 
 - 1/2-1 cup orange juice
 - 1-2 tbsp brown sugar 
