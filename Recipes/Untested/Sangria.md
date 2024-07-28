@@ -1,25 +1,16 @@
-Ingredients:
+# Sangria 
 
-2 bottles red wine - traditionally it should be a Spanish wine, but I find it doesn't make a big difference. I use cheap Carbernets and/or red blends.
+This makes the equivalent of about 1.5 wine bottles' worth of sangria, so you can estimate your needs and scale it based on that.
 
-1-2 cups brandy, depending on how strong you want it. Traditionally it should be a Spanish brandy, but a good one is hard to find in the US, a cognac may work as a substitute. Nothing too fancy, you just want a decent one that does not taste like rubbing alcohol, as I find many cheap American brands do. Something reasonably smooth with some flavor to it. I use Osborne Solera Veterano, which can be difficult to find.
+## Ingredients:
 
-1-2 cups orange juice. Careful with the volume, you want to taste the orange without it overpowering the alcohol. Amount you use will depend on amounts/strength of flavor of your alcohol.
+- 1 bottle of robust red wine
+- 1/2-1 cup Spanish brandy 
+- 1/2-1 cup orange juice
+- 1-2 tbsp brown sugar 
+- enough cut fruit (apple, pear, orange, lemon, lime) to make liquid look half full of fruit
 
-Around 2-4 tbsp brown sugar, to taste. Maybe more if you want to mellow out the alcohol flavor a bit.
-
-Fruits: (amounts are flexible, will not have a dramatic effect on flavor, just keep adding them until the liquid mix looks about half full of fruit)
-
-1 navel orange
-
-1-2 apples (something with flavor, like gala or granny smith)
-
-1-2 lemons
-
-1-2 limes
-
-
-Steps:
+## Directions:
 
 1. Dice fruits into small pieces, about the size of a d20
 
@@ -27,15 +18,25 @@ Steps:
 
 3. Mix in fruits. Refrigerate at least 8 hours, I like to do it overnight for 12+. It will remain good to drink for a couple days after mixing.
 
+4. Serve in wine glass with ice
 
-Serving:
+## Optional extras:
 
-Serve in a wine glass with ice.
+- Add more ice to the pitcher a few minutes before serving, to chill it below refrigerator temp.
+- Add a dash of sprite on top to make it fizzly without changing the flavor much, if your patrons enjoy that sort of thing.
+- Add a fresh orange slice to each glass if you want it to look fancy.
 
-Optional extras:
-Add more ice to the pitcher a few minutes before serving, to chill it below refrigerator temp.
-Add a dash of sprite on top to make it fizzly without changing the flavor much, if your patrons enjoy that sort of thing.
-Add a fresh orange slice to each glass if you want it to look fancy.
+---
 
+## Notes:
 
-This makes the equivalent of about 3 wine bottles' worth of alcohol, so you can estimate your needs and scale it based on that.
+- *Wine:* traditionally it should be a Spanish wine, but I find it doesn't make a big difference. I use cheap Carbernets and/or red blends.
+
+- *Brandy:* depending on how strong you want it. Traditionally it should be a Spanish brandy, but a good one is hard to find in the US, a cognac may work as a substitute. Nothing too fancy, you just want a decent one that does not taste like rubbing alcohol, as I find many cheap American brands do. Something reasonably smooth with some flavor to it. I use [Osborne Solera Veterano](https://www.wine-searcher.com/find/osborne+veterano+solera+brandy+andalucia+spain/1/usa-7065-200), which can be difficult to find.
+
+- *Orange juice:* Careful with the volume, you want to taste the orange without it overpowering the alcohol. Amount you use will depend on amounts/strength of flavor of your alcohol.
+
+- *Brown sugar:* to taste. Maybe more if you want to mellow out the alcohol flavor a bit.
+
+- *Fruits:* amounts are flexible, will not have a dramatic effect on flavor, just keep adding them until the liquid mix looks about half full of fruit
+
