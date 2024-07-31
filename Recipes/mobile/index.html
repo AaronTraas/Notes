@@ -119,16 +119,16 @@ layout: default
       {%- if page_blacklist contains page.name -%}
       {%- else -%}
         {%- if page.tags -%}
-          {%- assign tags = page.tags | remove: " " | split: ',' -%}
+          {%- assign tags = page.tags | remove: " " | split: ',' | sort -%}
         {%- else -%}
           {%- assign tags = 'none' -%}
         {%- endif -%}
         {%- if page.ingredients -%}
-          {%- assign ingredients = page.ingredients | remove: " " | split: ',' -%}
+          {%- assign ingredients = page.ingredients | remove: " " | split: ',' | sort -%}
         {%- else -%}
           {%- assign ingredients = 'none' -%}
         {%- endif -%}
-
+        
   <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}">
     <strong>{{page.title}}</strong>
     <ul class="tags">

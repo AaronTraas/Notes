@@ -1,6 +1,12 @@
+---
+description: Red sangria typical of what you'd find at a Spanish/Portuguese/Brazillain restaurtant in New Jersey.
+tags: cocktails
+ingredients: wine, brandy
+---
+
 # Sangria 
 
-This makes the equivalent of about 1L of sangria. It is best made at least 12 hours in advance. It will remain good to drink for a couple days after mixing.
+This makes about 1L of sangria. It is best made at least 12 hours in advance. It will remain good to drink for a couple days after mixing.
 
 ## Ingredients:
 
@@ -14,7 +20,7 @@ This makes the equivalent of about 1L of sangria. It is best made at least 12 ho
 
 1. Dice fruits into 1" pieces
 
-2. Add all liquid ingredients in a pitcher. Stir in brown sugar until dissolved. Taste and adjust - add brandy for strength, sugar for sweetness and/or to reduce alcohol flavor, OJ until you can taste it without it overpowering the drink.
+2. Add all liquid ingredients in a pitcher. Stir in brown sugar until dissolved. Taste and adjust—add brandy for strength, sugar for sweetness and/or to reduce alcohol flavor, OJ until you can taste it without it overpowering the drink.
 
 3. Mix in fruits. 
 
@@ -32,6 +38,6 @@ This makes the equivalent of about 1L of sangria. It is best made at least 12 ho
 
 ## Notes:
 
-- *Wine:* Traditionally, a Spanish red. Cheap Portuguese reds, Carbernets and/or red blends also work well.
+- *Wine:* Traditionally, a Spanish red. Cheap Rioja, Tempranillo, generic Portuguese reds, Carbernets and/or red blends also work well.
 
 - *Brandy:* Traditionally,a Spanish brandy, but could be any decent cognac or brandy. Nothing too fancy, you just want a decent one that does not taste like rubbing alcohol. Something reasonably smooth with some flavor to it. I use [Osborne Solera Veterano](https://www.wine-searcher.com/find/osborne+veterano+solera+brandy+andalucia+spain/1/usa-7065-200).
