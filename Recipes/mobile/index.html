@@ -129,18 +129,15 @@ layout: default
           {%- assign ingredients = 'none' -%}
         {%- endif -%}
         
-        {%- assign tags_sorted = tags | sort -%}
-        {%- assign ingredients_sorted = ingredients | sort -%}
-
   <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}">
     <strong>{{page.title}}</strong>
     <ul class="tags">
-      {% for tag in tags_sorted %}
+      {% for tag in tags %}
       <li>{{tag}}</li>
       {% endfor -%}
     </ul>
     <ul class="key-ingredients">
-      {% for ingredient in ingredients_sorted %}
+      {% for ingredient in ingredients %}
       <li>{{ingredient}}</li>
       {% endfor -%}
     </ul>
