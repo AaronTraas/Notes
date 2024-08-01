@@ -8,6 +8,8 @@ ingredients: wine, brandy
 
 This makes about 1L of sangria. It is best made at least 12 hours in advance. It will remain good to drink for a couple days after mixing.
 
+Original recipe from [austinvn](https://github.com/austinvn), who has excellent taste in food and drink.
+
 ## Ingredients:
 
 - 750 ml bottle of robust red wine
