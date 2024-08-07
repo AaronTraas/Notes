@@ -1,6 +1,6 @@
 ---
 description: Easy, quick, healthy, Friday-friendly dinner. 
-tags: weeknight, healthy, friday-friendly
+tags: main-dish, weeknight, healthy, friday-friendly
 ingredients: salmon
 ---
 

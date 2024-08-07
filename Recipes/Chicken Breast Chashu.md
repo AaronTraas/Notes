@@ -1,6 +1,6 @@
 ---
 description: A tasty, healthy, and idiot-proof way to prepare chicken breast.
-tags: sous-vide, healthy
+tags: meat, sous-vide, healthy
 ingredients: chicken
 ---
 

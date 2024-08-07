@@ -1,6 +1,6 @@
 ---
 description: Classic American baked Mac & Cheese
-tags: soup-stew-casserole, friday-friendly
+tags: main-dish, soup-stew-casserole, friday-friendly
 ingredients: pasta, cheese
 ---
 # Baked Mac & Cheese

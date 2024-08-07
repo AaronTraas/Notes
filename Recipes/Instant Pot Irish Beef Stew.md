@@ -1,6 +1,6 @@
 ---
 description: Savory, rich, and satisfying stew for a modern pressure cooker.
-tags: instant-pot,soup-stew-casserole
+tags: meat, main-dish, instant-pot,soup-stew-casserole
 ingredients: beef, mushrooms, potatoes, carrots, chocolate, stock
 ---
 

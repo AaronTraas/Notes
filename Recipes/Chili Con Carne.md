@@ -1,6 +1,6 @@
 ---
 description: Basic pressure-cooker chili. Bean or no bean - your choice!
-tags: instant-pot,soup-stew-casserole
+tags: meat, main-dish, instant-pot,soup-stew-casserole
 ingredients: beef, tortillas, salsa, chipotles
 ---
 

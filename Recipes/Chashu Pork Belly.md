@@ -1,6 +1,6 @@
 ---
 description: The king of all ramen toppings!
-tags: sous-vide
+tags: meat, sous-vide
 ingredients: pork, soy-sauce, mirin
 ---
 
