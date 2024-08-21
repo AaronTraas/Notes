@@ -16,10 +16,10 @@ This has been part of my weight loss regimen. It's cheap, lean, healthy protein 
 
 ## Ingredients:
 
-  * 1kg (2.2 lbs.) boneless skinless hicken breast
+  * 1kg (2.2 lbs.) boneless skinless chicken breast
   * 1 L water
   * 50g salt
-  * 25 g sugar
+  * 25g sugar
   * 1 3"x3" piece of kombu per chicken breast
   * Large bowl of ice water 
 
