@@ -15,7 +15,7 @@ My second favorite ramen topping, after [chashu pork belly](Chashu Pork Belly.ht
 - 300mL Mirin
 - 300mL sake (or sub for 200mL water + 100mL rice vinegar)
 - 1 tbsp sugar
-- 1 tsp hondashi
+- 1 tsp hondashi or fish sauce
 - optional: garlic, ginger, white parts of green onions
 
 ## Directions
