@@ -13,7 +13,7 @@ My second favorite ramen topping, after [chashu pork belly](Chashu Pork Belly.ht
 - 6 hard/soft boiled eggs, peeled
 - 300mL Soy Sauce
 - 300mL Mirin
-- 300mL water (or sub for 200mL water + 100mL rice vinegar)
+- 300mL sake (or sub for 200mL water + 100mL rice vinegar)
 - 1 tbsp sugar
 - 1 tsp hondashi
 - optional: garlic, ginger, white parts of green onions
