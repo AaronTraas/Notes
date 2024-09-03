@@ -4,7 +4,7 @@ tags: cocktails
 ingredients: rum, lime, mint
 ---
 
-# Mojitos
+# Mojito
 
 The mojito is a fine and refreshing summer cocktail. It is also somewhat labor intensive, and requires two fresh ingredients on hand, so planning is typically involved. Here's two versions that I regularly make.
 
