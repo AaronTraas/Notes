@@ -14,7 +14,7 @@ I use cold brew in mine rather than espresso. I do want to develop a version tha
 
 # Bright Espresso Martini 
 
-This uses Chambord as both a source of sugar and also a way of simulating the complex tart notes on a shot of espresso. Cold brew typically is very low acid and lacks some of the complex aromatic compounds; the Chambord and bitters helps add this back. 
+This uses Chambord as both a source of sugar and also a way of simulating the complex bright notes on a nice shot of balanced, medium-roast espresso. Cold brew typically is very low acid and lacks some of the complex aromatic compounds; the Chambord and bitters helps add this back. 
 
 ## Ingredients:
 
