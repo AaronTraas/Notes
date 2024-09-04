@@ -6,7 +6,7 @@
   {%- if sections.size > 1 -%}
 <h2><a href="{{ section_dir | relative_url }}/">{{section_name}}</a></h2>
   {% endif -%}
-  {%- if section_name == current_section -%}
+  {%- if section_name == current_section and force_section != nil -%}
 <ul>
     {% assign sortedPages = site.pages | sort: 'title' -%}
     {%- for page in sortedPages | sort: 'title' -%}
@@ -34,3 +34,4 @@
 {%- endfor -%}
 {%- assign hide_description = nil -%}
 {%- assign filter_tag = nil %}
+{%- assign force_section = nil %}

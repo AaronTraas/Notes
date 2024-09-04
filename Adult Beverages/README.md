@@ -13,5 +13,6 @@ Cocktail recipes I use, but not necessarily created, that are a little outside t
 
 {% assign sections = 'Recipes' | split: ',' -%}
 {% assign filter_tag = 'cocktails' -%}
+{%- assign force_section = true %}
 {% include site_index.html -%}
 
