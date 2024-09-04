@@ -16,6 +16,8 @@ I use cold brew in mine rather than espresso. I do want to develop a version tha
 
 This uses Chambord as both a source of sugar and also a way of simulating the complex bright notes on a nice shot of balanced, medium-roast espresso. Cold brew typically is very low acid and lacks some of the complex aromatic compounds; the Chambord and bitters helps add this back, the former on the pallate, the latter on the nose. 
 
+This also has the added benefit that I don't have to keep simple syrup around. 
+
 ## Ingredients:
 
 - 2 oz cold brew coffee (I make an 8:1 recipe)
