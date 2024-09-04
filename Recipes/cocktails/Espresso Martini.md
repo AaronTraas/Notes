@@ -14,13 +14,13 @@ I use cold brew in mine rather than espresso. I do want to develop a version tha
 
 # Bright Espresso Martini 
 
-This uses Chambord as both a source of sugar and also a way of simulating the complex bright notes on a nice shot of balanced, medium-roast espresso. Cold brew typically is very low acid and lacks some of the complex aromatic compounds; the Chambord and bitters helps add this back. 
+This uses Chambord as both a source of sugar and also a way of simulating the complex bright notes on a nice shot of balanced, medium-roast espresso. Cold brew typically is very low acid and lacks some of the complex aromatic compounds; the Chambord and bitters helps add this back, the former on the pallate, the latter on the nose. 
 
 ## Ingredients:
 
 - 2 oz cold brew coffee (I make an 8:1 recipe)
 - 1 oz vodka
-- 1/2 oz Chambord 
+- 1 oz Chambord 
 - Angostura bitters
 - Frozen cold brew cubes or ice
 
@@ -38,11 +38,12 @@ This uses Chambord as both a source of sugar and also a way of simulating the co
 
 3. Strain into glass. 
 
-4. Add 1-2 dashes of bitters. Serve.
+4. Add 2-3 dashes of bitters. Serve.
 
 ## Notes:
 
 - This should froth up when shaken to visually mimic the _crema_ on an espresso shot.
 - If you want a stronger coffee flavor, use frozen cold brew cubes. If you want it a little weaker, use regular ice. 
+- You could replace half of the Chambord with Sweet Vermouth and omit the bitters.
 
 ---
