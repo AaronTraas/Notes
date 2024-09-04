@@ -1,5 +1,5 @@
 ---
-description: My personal spin(s) on a classic mojito. 
+description: My personal takes on a classic mojito. 
 tags: cocktails
 ingredients: rum, lime, mint
 ---
