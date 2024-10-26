@@ -29,4 +29,4 @@ Sweet fall drink. Not really sangria, but tastes like caramel apples.
 
 ## Notes: 
 
-- Original recipe: https://www.cravingsomecreativity.com/caramel-apple-sangria-best-fall/#recipe
+- Original recipe: <https://www.cravingsomecreativity.com/caramel-apple-sangria-best-fall/#recipe>
