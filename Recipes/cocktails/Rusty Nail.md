@@ -1,5 +1,5 @@
 ---
-description: Perfected version of the quintissential crusty old-man drink. 
+description: Perfected version of the quintissential old-man drink. 
 tags: cocktails
 ingredients: whiskey
 ---
