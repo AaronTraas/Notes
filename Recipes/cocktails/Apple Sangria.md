@@ -6,6 +6,8 @@ ingredients: vodka, wine
 
 # Apple "Sangria"
 
+Sweet fall drink. Not really sangria, but tastes like caramel apples.
+
 ## Ingredients
 
 - 2 oz Apple Cider
@@ -22,3 +24,9 @@ ingredients: vodka, wine
 2. Wet glass and rim with cinnamon sugar 
 3. Combine cidar, wine, and vodka. Stir.
 4. Chill for 1-2 hours or serve in glass over ice.
+
+---
+
+## Notes: 
+
+- Original recipe: https://www.cravingsomecreativity.com/caramel-apple-sangria-best-fall/#recipe
