@@ -12,7 +12,7 @@ The mojito is a fine and refreshing summer cocktail. It is also somewhat labor i
 
 # Linda's Mojito 
 
-Mojito tailored to my love's tastes. 
+Mojito tailored to my lady's tastes. 
 
 ## Ingredients:
 
@@ -35,11 +35,8 @@ Mojito tailored to my love's tastes.
 ## Directions:
 
 1. Add mint, then limes to a cocktail shaker. Muddle vigorously until all the juice is rendered from the limes.
-
 2. Add rum to cocktail shaker, shake over ice.
-
-3. Strain into highball glass or similar. Add a few ice cubes. Top with sprite to taste and gently stir. 
-
+3. Strain into highball glass or similar. Add a few ice cubes. Top with sprite and gently stir. 
 4. Bruise sprig of mint by smacking it in your hand a few times, then add to glass as a garnish. 
 
 ---
@@ -71,11 +68,7 @@ Mojito tailored to my Taste. More rum flavor in layers. Whilst in a classic moji
 ## Directions:
 
 1. Add mint, then limes to a cocktail shaker. Muddle vigorously until all the juice is rendered from the limes.
-
 2. Add rum and simple syrup to cocktail shaker, shake vigorously over ice.
-
-3. Strain into highball glass or similar. Add a few ice cubes. Top with sprite to taste and gently stir. 
-
+3. Strain into highball glass or similar. Add a few ice cubes. Top with soda and gently stir. 
 4. Float a splash of mamajuana or spiced rum on top. 
-
 5. Bruise sprig of mint by smacking it in your hand a few times, then add to glass as a garnish. 

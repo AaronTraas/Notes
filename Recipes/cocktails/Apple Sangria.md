@@ -6,7 +6,7 @@ ingredients: vodka, wine
 
 # Apple "Sangria"
 
-Sweet fall drink. Not really sangria, but tastes like caramel apples.
+Sweet fall drink. Not really sangria, but tastes like caramel apples. Also, does not require aging for 8+ hours.
 
 ## Ingredients
 
@@ -15,6 +15,7 @@ Sweet fall drink. Not really sangria, but tastes like caramel apples.
 - 1/2 oz Caramel Vodka
 
 ### Garnish
+
 - 1 tsp granulated sugar
 - 1/2 tsp cinnamon
 
