@@ -6,7 +6,7 @@ ingredients: vodka, coffee
 
 # Espresso Martini
 
-![Elegant Espresso Martini](../images/espresso_martini.jpg)
+![](../../images/espresso_martini.jpg)
 
 There are many variants of this on the internet, split between versions that use some sort of dairy (usually in the form of Irish cream) and those that don't. I personally prefer the ones that don't, but I want to develop both.
 
@@ -37,12 +37,7 @@ This tastes like slightly boozy, sweet cold brew coffee in the best possible way
 1. Add cold brew, vodka, Mr. Black, and syrup to shaker 
 2. Shake vigorously over ice 
 3. Strain into glass. 
-
----
-
-## Notes:
-
-- Original recipe: 
+4. Optional: garnish with 3 coffee beans floated in the center
 
 ---
 
@@ -58,20 +53,22 @@ This also has the added benefit that I don't have to keep simple syrup around.
 - 1 oz vodka
 - 1 oz Chambord 
 - Angostura bitters
-- Frozen cold brew cubes or ice
+- 3 coffee beans (optional garnish)
 
 ## Hardware:
 
 - Cocktail shaker
 - Strainer
-- Coup glass (wine glass or cocktail glass is fine)
+- Coup or Nick & Nora glass (wine glass or cocktail glass is fine)
 
 ## Directions:
 
 1. Add cold brew, vodka, and Chambord to shaker 
 2. Shake vigorously over ice or frozen cold brew cubes.
 3. Strain into glass. 
-4. Add 2-3 dashes of bitters. Serve.
+4. Add 2-3 dashes of bitters.
+4. Optional: garnish with 3 coffee beans floated in the center
+
 
 ## Notes:
 
