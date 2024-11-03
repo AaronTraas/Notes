@@ -8,7 +8,42 @@ ingredients: vodka, coffee
 
 There are many variants of this on the internet, split between versions that use some sort of dairy (usually in the form of Irish cream) and those that don't. I personally prefer the ones that don't, but I want to develop both.
 
-I use cold brew in mine rather than espresso. I do want to develop a version that starts with either moka pot or Aeropress coffee at espresso strength. 
+I use cold brew in mine rather than espresso. I do want to experiment with either moka pot or Aeropress coffee at espresso strength. 
+
+---
+
+# Mr. Black Espresso Martini 
+
+This tastes like boozy, sweet cold brew in the best possible way. Mostly unchanged from the 
+[Mr. Black website](https://www.mrblack.co/en-us/cocktails/espresso-martini). The only change 
+I've made was using demarara syrup, and halving the amount. It's elegant, smooth, strong, and 
+delicious.
+
+## Ingredients:
+
+- 1 oz cold brew concentrate (I make an 4:1 recipe)
+- 1 oz vodka
+- 1 oz Mr. Black 
+- 1/4 oz demarara syrup
+- 3 coffee beans (optional garnish)
+
+## Hardware:
+
+- Cocktail shaker
+- Strainer
+- Coup or Nick & Nora glass (wine glass or cocktail glass is fine)
+
+## Directions:
+
+1. Add cold brew, vodka, Mr. Black, and syrup to shaker 
+2. Shake vigorously over ice 
+3. Strain into glass. 
+
+---
+
+## Notes:
+
+- Original recipe: 
 
 ---
 
@@ -35,17 +70,11 @@ This also has the added benefit that I don't have to keep simple syrup around.
 ## Directions:
 
 1. Add cold brew, vodka, and Chambord to shaker 
-
 2. Shake vigorously over ice or frozen cold brew cubes.
-
 3. Strain into glass. 
-
 4. Add 2-3 dashes of bitters. Serve.
 
 ## Notes:
 
-- This should froth up when shaken to visually mimic the _crema_ on an espresso shot.
 - If you want a stronger coffee flavor, use frozen cold brew cubes. If you want it a little weaker, use regular ice. 
 - You could replace half of the Chambord with Sweet Vermouth and omit the bitters.
-
----
