@@ -8,7 +8,7 @@ ingredients: apple, dried fig, chamomile
 
 The was my great-grandmother's cure-all tea recipe, especially for upset stomach and respiritory issues. I'm far less superstitious than your average southern Italian, and am personally skeptical of these sorts of home remedies. However it's warm, comforting, and reminds me of my childhood. It's hot water, which is great when you're congested anyway, and full of whatever nutrients is in the steeping ingredients.
 
-I don't know the source of the word "dicotta"; I assume it's part of the Molise/Abruzzo dialect. Or possibly something even more local, to either Campobasso or unique to Monacilioni. I'm unsure.
+I don't know the source of the word "dicotta". It may be related to the Italian "decotto" or decoction. It may be a local mis-spelling, or something my great grandmother only said, but never wrote down, and was transcribed poorly. I'm not sure.  
 
 ## Ingredients:
 
