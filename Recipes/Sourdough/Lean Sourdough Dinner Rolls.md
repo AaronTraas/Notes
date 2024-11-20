@@ -4,6 +4,8 @@ tags: sourdough
 ingredients: flour, sourdough-starter
 ---
 
+![Dinner Rolls](../../images/dinner_rolls.jpg)
+
 # Lean Sourdough Dinner Rolls
 
 Adapted from my [Leftover Oatmeal Bread](./Leftover%20Oatmeal%20Bread.html) recipe, which is a crowd pleaser.

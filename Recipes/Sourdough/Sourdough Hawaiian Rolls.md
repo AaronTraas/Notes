@@ -4,6 +4,8 @@ tags: sourdough
 ingredients: flour, sourdough-starter
 ---
 
+![Sourdough Hawaiian Rolls](../../images/hawaiian_rolls.jpg)
+
 # Sourdough Hawaiian Rolls
 
 Adapted from my [Lean Sourdough Dinner Rolls](./Lean%20Sourdough%20Dinner%20Rolls.html) recipe, which is really great. Also inspired by [Sourdough Hawaiian Rolls](https://www.farmhouseonboone.com/sourdough-hawaiian-rolls), which calls for a lot of mixing in a stand mixer, which I don't own or have space for.
