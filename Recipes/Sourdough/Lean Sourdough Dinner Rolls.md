@@ -15,7 +15,7 @@ You may need to add more flour—possibly a lot more—to get the dough texture 
 ## Ingredients:
 
 - ~2 cups bread flour
-- 180mL cup water
+- 180mL water (replace some or all with milk)
 - 35g sugar (can use maple syrup, honey, brown sugar, etc.)
 - 50g sourdough starter or discard
 - 5g / 1 tsp salt
