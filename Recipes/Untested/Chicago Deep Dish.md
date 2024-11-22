@@ -1,7 +1,4 @@
-# Chicago Deep-Dish Casserole
-
-![](../../images/chicago_deep_dish_casserole.png)
-
+# _UNTESTED_ Chicago Deep-Dish Casserole
 
 ## Ingredients
 

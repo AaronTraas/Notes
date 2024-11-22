@@ -1,6 +1,4 @@
-# Pok Pok Wings
-![fish_sauce_wings.png](../../images/fish_sauce_wings.png)
-
+# _UNTESTED_ Pok Pok Wings
 
 ## Ingredients:
 
