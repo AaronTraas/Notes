@@ -4,14 +4,14 @@
 
 ## Ingredients:
 
-1. ½ cup Vietnamese fish sauce  
-2. ½ cup superfine sugar  _(or just regular white sugar)_  
-3. 4 garlic cloves, 2 crushed and 2 minced ( _we used about 4 heads of garlic, divided_)
-4. 3 pounds chicken wings split at the drumettes ( _We used drummets and wings and find it's easier to fry._)
-5. 2 tablespoons vegetable oil, plus more for frying  
-6. 1 cup cornstarch  
-7. 1 tablespoon chopped cilantro  
-8. 1 tablespoon chopped mint
+- ½ cup Vietnamese fish sauce  
+- ½ cup superfine sugar  _(or just regular white sugar)_  
+- 4 garlic cloves, 2 crushed and 2 minced ( _we used about 4 heads of garlic, divided_)
+- 3 pounds chicken wings split at the drumettes ( _We used drummets and wings and find it's easier to fry._)
+- 2 tablespoons vegetable oil, plus more for frying  
+- 1 cup cornstarch  
+- 1 tablespoon chopped cilantro  
+- 1 tablespoon chopped mint
  
 ## Directions:
 
@@ -22,4 +22,4 @@
 
 * * *
 
-[Original Recipe](http://www.theravenouscouple.com/2013/02/fish-sauce-wings-pok-pok-wings-recipe.html)
+[Original Recipe](https://theravenouscouple.com/2013/02/fish-sauce-wings-pok-pok-wings-recipe.html)

@@ -38,28 +38,28 @@
 
 **For the Dough:**   
 
-  * Mix flour, cornmeal, salt, sugar, and yeast in bowl of stand mixer fitted with dough hook on low speed until incorporated, about 1 minute.  
-  * Add water and melted butter and mix on low speed until fully combined, 1 to 2 minutes, scraping sides and bottom of bowl occasionally.
-  * Increase speed to medium and knead until dough is glossy and smooth and pulls away from sides of bowl, 4 to 5 minutes. (Dough will only pull away from sides while mixer is on. When mixer is off, dough will fall back to sides.)
-  * Using fingers, coat large bowl with 1 teaspoon olive oil, rubbing excess oil from fingers onto blade of rubber spatula. Using oiled spatula, transfer dough to bowl, turning once to oil top; cover tightly with plastic wrap.  
-  * Let rise at room temperature until nearly doubled in volume, 45 to 60 minutes.
+1. Mix flour, cornmeal, salt, sugar, and yeast in bowl of stand mixer fitted with dough hook on low speed until incorporated, about 1 minute.  
+2. Add water and melted butter and mix on low speed until fully combined, 1 to 2 minutes, scraping sides and bottom of bowl occasionally.
+3. Increase speed to medium and knead until dough is glossy and smooth and pulls away from sides of bowl, 4 to 5 minutes. (Dough will only pull away from sides while mixer is on. When mixer is off, dough will fall back to sides.)
+4. Using fingers, coat large bowl with 1 teaspoon olive oil, rubbing excess oil from fingers onto blade of rubber spatula. Using oiled spatula, transfer dough to bowl, turning once to oil top; cover tightly with plastic wrap.  
+5. Let rise at room temperature until nearly doubled in volume, 45 to 60 minutes.
 
 **For the Sauce:**   
-  * While dough rises, heat butter in medium saucepan over medium heat until melted.  
-  * Add onion, oregano, and ½ teaspoon salt; cook, stirring occasionally, until liquid has evaporated and onion is golden brown, about 5 minutes.  
-  * Add garlic and cook until fragrant, about 30 seconds.  
-  * Stir in tomatoes and sugar, increase heat to high, and bring to simmer.  
-  * Lower heat to medium-low and simmer until reduced to 2½ cups, 25 to 30 minutes.  
-  * Off heat, stir in basil and oil, then season with salt and pepper.
+1. While dough rises, heat butter in medium saucepan over medium heat until melted.  
+2. Add onion, oregano, and ½ teaspoon salt; cook, stirring occasionally, until liquid has evaporated and onion is golden brown, about 5 minutes.
+3. Add garlic and cook until fragrant, about 30 seconds.  
+4. Stir in tomatoes and sugar, increase heat to high, and bring to simmer.  
+5. Lower heat to medium-low and simmer until reduced to 2½ cups, 25 to 30 minutes.  
+6. Off heat, stir in basil and oil, then season with salt and pepper.
 
 **To Laminate the Dough:**
 
-  * Adjust oven rack to lower position and heat oven to 425 degrees.
-  * Using rubber spatula, turn dough out onto dry work surface and roll into 15- by 12-inch rec-tangle. Using offset spatula, spread softened butter over surface of dough, leaving ½-inch border along edges. Starting at short end, roll dough into tight cylinder.
-  * With seam side down, flatten cylinder into 18- by 4-inch rectangle. Cut rectangle in half crosswise.
-  * Working with 1 half, fold into thirds like business letter; pinch seams together to form ball.
-  * Repeat with remaining half.
-  * Return balls to oiled bowl, cover tightly with plastic wrap, and let rise in refrigerator until nearly doubled in volume, 40 to 50 minutes.
+1. Adjust oven rack to lower position and heat oven to 425 degrees.
+2. Using rubber spatula, turn dough out onto dry work surface and roll into 15- by 12-inch rec-tangle. Using offset spatula, spread softened butter over surface of dough, leaving ½-inch border along edges. Starting at short end, roll dough into tight cylinder.
+3. With seam side down, flatten cylinder into 18- by 4-inch rectangle. Cut rectangle in half crosswise.
+4. Working with 1 half, fold into thirds like business letter; pinch seams together to form ball.
+5. Repeat with remaining half.
+6. Return balls to oiled bowl, cover tightly with plastic wrap, and let rise in refrigerator until nearly doubled in volume, 40 to 50 minutes.
 
 **Combining them all:**
 
