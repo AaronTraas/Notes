@@ -92,5 +92,5 @@ This is a list of things I've not tried, but want to:
 - [Crawfish Pie](/93c5ca05cd51428926d197e6d4a2d050.jpg) - from my dad
 - [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)
 - [Easy Pressure Cooker Chicken Enchiladas](https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-enchiladas-food-lab-recipe)
-- [Pok Pok Wings](./Untested/Pok%20Pok%20Wings.html)
+- [Pok Pok Wings](./Untested/Thai%20Fish%20Sauce%20Wings.html)
 - [Chicago Deep Dish](./Untested/Chicago%20Deep%20Dish.html)

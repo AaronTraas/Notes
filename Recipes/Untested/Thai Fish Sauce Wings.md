@@ -1,4 +1,4 @@
-# _UNTESTED_ Pok Pok Wings
+# _UNTESTED_ Thai Fish Sauce Wings
 
 ## Ingredients:
 
