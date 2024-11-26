@@ -1,4 +1,4 @@
-# Recipes Aaron likes to cook
+u# Recipes Aaron likes to cook
 
 I love cooking, especially for other people. The majority of my cooking is done without recipe. Likewise, a lot of the things I cook daily aren't here—roasted root veggies, various stir-fries, various egg dishes, various roasted, broiled, or grilled meats—because I don't really have recipes per se, just ways that I make things, and I tend to use whatever ingredients I have on hand or what looks good at the market. If you want me to show you how to make my family's food or other day to day stuff, and you know me personally, reach out and I'll show you how to make them. 
 
@@ -94,3 +94,4 @@ This is a list of things I've not tried, but want to:
 - [Easy Pressure Cooker Chicken Enchiladas](https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-enchiladas-food-lab-recipe)
 - [Thai Fish Sauce Wings](./Untested/Thai%20Fish%20Sauce%20Wings.html)
 - [Chicago Deep Dish](./Untested/Chicago%20Deep%20Dish.html)
+- [Thit Kho](https://www.hungryhuy.com/how-to-make-thit-heo-kho-voi-trung-vietnamese-braised-pork-with-hard-boiled-eggs/)
