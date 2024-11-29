@@ -8,8 +8,8 @@ This is a repository of Aaron's notes about the finer things in life. This is a 
 - **Tobacco** - in the [Tobacco](./Tobacco/) folder. Split into seperate notes for cigars and pipe tobacco.
 - **Adult Beverages** - in the [AdultBeverages](./AdultBeverages/) folder. Just Whisky for now. More to come.
 - **Misc Notes** 
-	- [Holiday Menu Planning](./Holiday%20Menu%20Planning.md) - Plans for future holidays and notes for past ones.
-	- [Recipes to Add](./Recipes%20to%20add.md) - Recipes Aaron needs to transcribe and add to recipe list.
+	- [Holiday Menu Planning](./Holiday%20Menu%20Planning.html) - Plans for future holidays and notes for past ones.
+	- [Recipes to Add](./Recipes%20to%20add.html) - Recipes Aaron needs to transcribe and add to recipe list.
 
 ## License
 
