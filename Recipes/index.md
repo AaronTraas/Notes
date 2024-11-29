@@ -95,3 +95,4 @@ This is a list of things I've not tried, but want to:
 - [Thai Fish Sauce Wings](./Untested/Thai%20Fish%20Sauce%20Wings.html)
 - [Chicago Deep Dish](./Untested/Chicago%20Deep%20Dish.html)
 - [Thit Kho](https://www.hungryhuy.com/how-to-make-thit-heo-kho-voi-trung-vietnamese-braised-pork-with-hard-boiled-eggs/)
+- [Khachapuri (Georgian Cheese Bread)](https://www.allrecipes.com/recipe/272625/khachapuri-georgian-cheese-bread/)
