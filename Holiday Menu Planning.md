@@ -15,7 +15,7 @@
 	- Roasted butternut squash
 	- Green beans with bacon and seasoned breadcrumbs
 - **Dessert**
-	- ???
+	- [Struffoli](./Recipes/Struffoli.html)
 
 ### 2024 Christmas Breakfast Highland Lakes & Rahway
 
