@@ -7,13 +7,13 @@
 ### 2024 Christmas Eve Dinner Rahway
 
 - **Dinner**
-	- Prime rib - Miriam and Maddie requested
+	- Prime rib - Requested by Miriam and Maddie
 	- [Dinner Rolls](./Recipes/Sourdough/Sourdough%20Hawaiian%20Rolls.html) - topped with herbs? Requested by Miriam & Maddie
 	- Mushroom gravy
 	- [Cranberry Bread](./Recipes/Cranberry%20Bread.html) - very few takers.
 	- Brussels Sprouts with bacon
 	- Roasted butternut squash
-	- Green beans with bacon and seasoned breadcrumbs
+	- Green beans with garlic and oil
 - **Dessert**
 	- [Struffoli](./Recipes/Struffoli.html)
 
@@ -24,6 +24,7 @@
 ### 2024 Christmas Dinner Highland Lakes
 - **Dinner**
 	- Lasagna alla Napoletana 
+	- Spinach salad?
 - **Dessert**
 	- ???
 
