@@ -2,11 +2,10 @@
 description: The king of all ramen toppings!
 tags: meat, sous-vide
 ingredients: pork, soy-sauce, mirin
+hero_image: chashu_ramen.jpg
 ---
 
 # Chashu Pork Belly
-
-![Ramen with Chashu Pork](../images/chashu_ramen.jpg)
 
 The king of all ramen toppings! Chashu pork at its best, in my opinion, is rich, fatty, and practically melts when it hits your tounge. Some people prefer it a little more firm and steak-like in texture, but that's not my preference. 
 

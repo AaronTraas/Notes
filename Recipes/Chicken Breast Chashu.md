@@ -2,11 +2,10 @@
 description: A tasty, healthy, and idiot-proof way to prepare chicken breast.
 tags: meat, sous-vide, healthy
 ingredients: chicken
+hero_image: chicken_chashu.png
 ---
 
 # Chicken Breast "Chashu"
-
-![apple_dutch_baby.png](../images/chicken_chashu.png)
 
 Not really chashu, but a good substitute for a chicken paitan ramen topping, or just to snack on out of the fridge.
 

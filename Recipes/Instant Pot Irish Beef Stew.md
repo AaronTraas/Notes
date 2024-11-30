@@ -2,11 +2,10 @@
 description: Savory, rich, and satisfying stew for a modern pressure cooker.
 tags: meat, main-dish, instant-pot,soup-stew-casserole
 ingredients: beef, mushrooms, potatoes, carrots, chocolate, stock
+hero_image: irish_beef_stew.jpg
 ---
 
 # Instant Pot Irish Beef Stew
-
-![Irish Beef Stew](../images/irish_beef_stew.jpg)
 
 This is a really savory, rich, and satisfying beef stew for the Instant Pot or similar pressure cooker. The Guiness, chocolate, and flavored stock add a lot of complex flavor. This is based on [another recipe](https://www.pressurecookrecipes.com/instant-pot-irish-beef-stew/) recommended by a friend, but somewhat modified. I increased the amount of meat by 1lb, because my kids requested it; I trippled the amount of mushrooms, because mushrooms are awesome and full of glutimates, and I halved the amount of Worcestershire sauce, because the original recipe tasted too much of Worcestershire sauce - it has a strong, distinct flavor, and a full tablespoon wasn't needed, especially since we were adding fish sauce. 
 

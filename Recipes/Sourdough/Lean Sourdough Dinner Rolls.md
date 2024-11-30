@@ -2,11 +2,10 @@
 description: Delicious and easy dinner rolls, with no fat mixed in to the dough.
 tags: sourdough
 ingredients: flour, sourdough-starter
+hero_image: dinner_rolls.jpg
 ---
 
 # Lean Sourdough Dinner Rolls
-
-![Dinner Rolls](../../images/dinner_rolls.jpg)
 
 Adapted from my [Leftover Oatmeal Bread](./Leftover%20Oatmeal%20Bread.html) recipe, which is a crowd pleaser.
 

@@ -2,11 +2,10 @@
 description: French meaty bean casserole. Warming, filling, and satisfying. 
 tags: main-dish, soup-stew-casserole
 ingredients: sausage, chicken, pork-shoulder, beans
+hero_image: cassoulet.jpg
 ---
 
 # Cassoulet
-
-![Cassoulet](../images/cassoulet.jpg)
 
 In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com/watch?v=g_Huy-0Xeek).
 

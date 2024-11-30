@@ -2,11 +2,10 @@
 description: Really delicious use for leftover prepared oatmeal. Honestly, better than the oatmeal.
 tags: sourdough
 ingredients: flour, sourdough-starter, oats
+hero_image: oatmeal_bread.jpg
 ---
 
 # Leftover Oatmeal Bread
-
-![Oatmeal Bread](../../images/oatmeal_bread.jpg)
 
 This was a recipe I came up with to use about 1.5 cups of prepared overnight (steel cut) oatmeal I had leftover. It was really tasty. I found a recipe online, and modified it to work with sourdough.
 

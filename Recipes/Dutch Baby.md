@@ -2,10 +2,10 @@
 description: A slightly sweet, eggy popover that's fantastic with fruit for brunch.
 tags: breakfast, friday-friendly
 ingredients: eggs, flour, berries
+hero_image: dutch_baby.png
 ---
 
 # Dutch Baby Pancake
-![dutch_baby.png](../images/dutch_baby.png)
 
 ## Hardware:
 

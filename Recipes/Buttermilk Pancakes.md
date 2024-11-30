@@ -5,7 +5,6 @@ ingredients: eggs, flour, buttermilk
 ---
 
 # Buttermilk Pancakes
-![pancakes.png](../images/pancakes.png)
 
 ## Ingredients:
 

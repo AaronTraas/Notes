@@ -2,11 +2,10 @@
 description: Delicious and soft and sweet rolls.
 tags: sourdough
 ingredients: flour, sourdough-starter
+hero_image: hawaiin_rolls.jpg
 ---
 
 # Sourdough Hawaiian Rolls
-
-![Sourdough Hawaiian Rolls](../../images/hawaiin_rolls.jpg)
 
 Adapted from my [Lean Sourdough Dinner Rolls](./Lean%20Sourdough%20Dinner%20Rolls.html) recipe, which is really great. Also inspired by [Sourdough Hawaiian Rolls](https://www.farmhouseonboone.com/sourdough-hawaiian-rolls), which calls for a lot of mixing in a stand mixer, which I don't own or have space for.
 

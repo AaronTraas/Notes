@@ -2,11 +2,10 @@
 description: A refreshing coffee cocktail, using cold brew and vodka. 
 tags: cocktails
 ingredients: vodka, coffee
+hero_image: espresso_martini.jpg
 ---
 
 # Espresso Martini
-
-![](../../images/espresso_martini.jpg)
 
 There are many variants of this on the internet, split between versions that use some sort of dairy (usually in the form of Irish cream) and those that don't. I personally prefer the ones that don't, but I want to develop both.
 
