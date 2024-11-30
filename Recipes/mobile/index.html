@@ -12,15 +12,16 @@ layout: default
 
   .recipe-link {
     display: block;
+    position: relative;
     border: 2px solid #3d5a80;
-    padding: 5.4em .7em .4em .7em;
     background-color: #98c1d9;
     background-size: cover;
-    background-position: top;
+    background-position: center;
     color: #fff;
     border-radius: 5px;
     text-shadow: 0px 0px 1px rgba(41,50,65,0.3);
     flex-grow: 1;
+    height: 10em;
   }
   .recipe-link:hover {
     color: #ee6c4d;
@@ -29,6 +30,16 @@ layout: default
   .recipe-link[data-hide=true] {
     display: none;
   }
+
+  .recipe-link > .text {
+    position: absolute;
+    background-color: rgba(32,32,32,0.5);
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1em;
+  }
+
   .recipe-link strong {
     font-size: 130%;
     line-height: 1.2em;
@@ -153,17 +164,19 @@ layout: default
         {%- endif -%}
 
   <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
-    <strong>{{page.title}}</strong>
-    <ul class="tags">
-      {% for tag in tags %}
-      <li>{{tag}}</li>
-      {% endfor -%}
-    </ul>
-    <ul class="key-ingredients">
-      {% for ingredient in ingredients %}
-      <li>{{ingredient}}</li>
-      {% endfor -%}
-    </ul>
+    <div class="text">
+      <strong>{{page.title}}</strong>
+      <ul class="tags">
+        {% for tag in tags %}
+        <li>{{tag}}</li>
+        {% endfor -%}
+      </ul>
+      <ul class="key-ingredients">
+        {% for ingredient in ingredients %}
+        <li>{{ingredient}}</li>
+        {% endfor -%}
+      </ul>
+    </div>
   </a>
       {%- endif -%}
     {%- endif -%}

@@ -4,7 +4,7 @@ tags: friday-friendly, weeknight
 ingredients: beans
 ---
 
-# "Mexican" Black Beans
+# Southwest Black Beans
 
 This is tasty, easy, quick, and optionally meatless. The heavy lifting is done by the Goya Sazon. Really brainless and easy and tasty.
 

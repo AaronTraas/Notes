@@ -2,6 +2,7 @@
 description: A sweet, appley, fall cocktail 
 tags: cocktails
 ingredients: vodka, wine
+hero_image: apple_sangria.jpg
 ---
 
 # Apple "Sangria"

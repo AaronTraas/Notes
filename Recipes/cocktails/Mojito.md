@@ -2,6 +2,7 @@
 description: My personal takes on a classic mojito. 
 tags: cocktails
 ingredients: rum, lime, mint
+hero_image: mojito.jpg
 ---
 
 # Mojito
