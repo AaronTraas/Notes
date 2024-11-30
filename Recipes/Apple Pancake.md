@@ -7,8 +7,6 @@ hero_image: apple_dutch_baby.png
 
 # Apple Pancake
 
-![apple_dutch_baby.png](../images/apple_dutch_baby.png)
-
 ## Ingredients:
 
   * 2 large or 3 medium apples, preferably tart ones like Granny Smith
