@@ -2,11 +2,10 @@
 description: Quality rustic sourdough. Very few bakeries make a better loaf.
 tags: sourdough
 ingredients: flour, sourdough-starter
+hero_image: sourdough.jpg
 ---
 
 # Basic No-Knead Sourdough
-
-![Rustic Sourdough](../../images/sourdough.jpg)
 
 From my dear friend, Kevin. He graciously gave me some of his starter, and this recipe, and I've made it about 4 times now. It's awesome. Converting it here to a recipe format which I can read and parse quickly. Also halved the recipe, as this is too much for me to use at once. Also, I've had better results in my oven with a lower temperature than his recipe called for.
 
