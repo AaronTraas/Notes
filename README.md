@@ -9,6 +9,7 @@ This is a repository of Aaron's notes about the finer things in life. This is a 
 - **Adult Beverages** - in the [AdultBeverages](./AdultBeverages/) folder. Just Whisky for now. More to come.
 - **Misc Notes** 
 	- [Holiday Menu Planning](./Holiday%20Menu%20Planning.html) - Plans for future holidays and notes for past ones.
+ - [Cooking Projects with the kids](Cooking%20Projects.html) - cooking R&D and experimentation to do with my kids.
 	- [Recipes to Add](./Recipes%20to%20add.html) - Recipes Aaron needs to transcribe and add to recipe list.
 
 ## License
