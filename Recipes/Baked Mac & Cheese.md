@@ -12,7 +12,7 @@ The best way to make mac & cheese. Stovetop mac & cheese is tasty, but pales in 
 
 # Linda's Mac & Cheese
 
-My favorite mac & cheese. Fancy cheeses you have to shred blend? Scaled milk? Mustard or other emulsifiers? Nope. Humble, home-made mac & cheese, without any of the fussiness that other great recipes call for. The only "fancy" ingredients are the Gruyère Spanish smoked paprika, and those really make the dish. Pre-shredded bagged "Mexican" cheese blend is fine. Pre-seasoned breadcrumbs are great. My basic bachelor version is, in some ways, more difficult! 
+My favorite mac & cheese. Fancy cheeses you have to shred blend? Scaled milk? Mustard or other emulsifiers? Nope. Humble, home-made mac & cheese, without any of the fussiness that other great recipes call for. The only "fancy" ingredients are the Gruyère and smoked paprika, and those really make the dish. Pre-shredded bagged "Mexican" cheese blend is fine. Pre-seasoned breadcrumbs are great. My basic bachelor version is, in some ways, more difficult! 
 
 ## Ingredients:
 
