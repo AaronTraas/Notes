@@ -7,7 +7,7 @@ hero_image: cinnamon_rolls.jpg
 
 # Cream Cheese Frosting
 
-My daughter's recipe for Cream Cheese frosting. Great on cinnamon rolls and carrot cake. Or with a spoon.  
+The way my daughter, Miriam, makes Cream Cheese frosting. Great on cinnamon rolls and carrot cake. Or with a spoon.  
 
 ## Ingredients
 
