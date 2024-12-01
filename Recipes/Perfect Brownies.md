@@ -31,7 +31,7 @@ The details that set this apart are: the use of cake flour vs. all purpose, more
 
 ## Directions:
 
-1. Melt shortening and chocolate in a double boiler/
+1. Melt shortening and chocolate in a double boiler
 2. Combine dry ingredients, in a large bowl, set aside.
 3. Whisk to combine eggs and sugar
 4. Temper the egg mixture with a portion of the melted chocolate mixture, then carefully combine the egg mixture with the chocolate mixture.
