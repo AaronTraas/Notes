@@ -3,97 +3,6 @@ title: Recipe Search
 layout: default
 ---
 <style>
-  #recipe-cards {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1em;
-    grid-auto-rows: 1fr;
-  }
-
-  .recipe-link {
-    display: block;
-    position: relative;
-    border: 2px solid #3d5a80;
-    background-color: #98c1d9;
-    background-size: cover;
-    background-position: center;
-    color: #fff;
-    border-radius: 5px;
-    text-shadow: 0px 0px 1px rgba(41,50,65,0.3);
-    flex-grow: 1;
-    height: 10em;
-  }
-  .recipe-link:hover {
-    color: #ee6c4d;
-    background-color: #3d5a80;
-  }
-  .recipe-link[data-hide=true] {
-    display: none;
-  }
-
-  .recipe-link > .text {
-    position: absolute;
-    background-color: rgba(32,32,32,0.5);
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 1em;
-  }
-
-  .recipe-link strong {
-    font-size: 130%;
-    line-height: 1.2em;
-    display: block;
-  }
-  .recipe-link ul, .recipe-link ul li, .recipe-link ul::before {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    font-size: 0.9em;
-    line-height: 1.1em;
-  }
-  .tags::before {
-    content: 'tags: ';
-    font-weight: bold;
-  }
-  .key-ingredients::before {
-    content: 'ingredients: ';
-    font-weight: bold;
-  }
-  .recipe-link ul li {
-    display: inline-block;
-    font-style: italic;
-  }
-  .recipe-link ul li::after {
-    content: ', ';
-  }
-  .recipe-link ul li:last-child::after {
-    content: '';
-  }
-  #filters {
-    padding: 0.8em;
-    margin-bottom: 1em;
-  }
-  #filters > div {
-    display: table-row;
-    width: 100%;
-  }
-  #filters > div > * {
-    margin: .2em;
-    display: table-cell;
-  }
-  #filters > div > select, #filters > div > select {
-    width: 100%;
-  }
-  #filters > div > label {
-    padding-right: 0.5em;
-  }
-
-  @media only screen and (max-width: 767px) {
-    #recipe-cards {
-      grid-template-columns: repeat(1, 1fr);
-    }
-  }
 </style>
 
 <h1>Recipe Search</h1>
@@ -158,7 +67,7 @@ layout: default
   
         {%- if page.hero_image -%}
           {%- assign recipe_image_url = '/images/' | append: page.hero_image | relative_url -%}
-          {%- assign recipe_style = 'style="background-image: url(' | append: recipe_image_url | append: ')"' -%}
+          {%- assign recipe_style = 'style="background-size: cover; background-image: url(' | append: recipe_image_url | append: ')"' -%}
         {%- else -%}
           {%- assign recipe_style = '' -%}
         {%- endif -%}

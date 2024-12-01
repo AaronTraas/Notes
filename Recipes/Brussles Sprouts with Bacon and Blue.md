@@ -1,5 +1,5 @@
 ---
-ingredients: brussels sprouts, bacon
+ingredients: brussels-sprouts, bacon
 ---
 
 # Brussels Sprouts with Bacon and Blue Cheese

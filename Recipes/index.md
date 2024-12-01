@@ -4,6 +4,8 @@ I love cooking, especially for other people. The majority of my cooking is done 
 
 Most of the recipes listed here are either found on the web and slightly tweaked, or the result of some experimentation. If it is based on another person's recipe online, I'll link to it in the recipe.
 
+<a class="button search" href="./mobile/">Recipe Search</a>
+
 ## Family Italian Recipes
 
 My maternal family's southern Italian food (from [Monacilioni, Molise, Italy](https://en.wikipedia.org/wiki/Monacilioni)). This is an attempt to preserve these recipes for my children, and subsequent generations.

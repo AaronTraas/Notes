@@ -1,0 +1,121 @@
+#recipe-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1em;
+  grid-auto-rows: 1fr;
+}
+
+#main-content .button,
+.recipe-link {
+  border: 2px solid #fff;
+  background-color: #98c1d9;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-radius: 10px;
+  color: #fff;
+  text-shadow: 0px 0px 1px rgba(41,50,65,0.3);
+	position: relative;
+  overflow: hidden;
+}
+
+#main-content .button {
+	display: inline-block;
+	padding: 0.4em 1em;
+	width: auto;
+	height: auto;
+}
+
+#main-content .button.search {
+	padding-left: 2em;
+}
+
+#main-content .button.search::before {
+	content: '';
+	display: block;
+	position: absolute;
+	left: .6em;
+	top: .5em;
+	width: 1em;
+	height: 1em;
+	color: #fff;
+	background-image: url(../images/search.svg);
+}
+
+.recipe-link {
+  display: block;
+  background-position: center;
+  flex-grow: 1;
+  height: 10em;
+}
+#main-content .button:hover, 
+.recipe-link:hover {
+  color: #ee6c4d;
+  border-color: #ee6c4d;
+  background-color: #3d5a80;
+}
+.recipe-link[data-hide=true] {
+  display: none;
+}
+
+.recipe-link > .text {
+  position: absolute;
+  background-color: rgba(32,32,32,0.5);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1em;
+}
+
+.recipe-link strong {
+  font-size: 130%;
+  line-height: 1.2em;
+  display: block;
+}
+.recipe-link ul, .recipe-link ul li, .recipe-link ul::before {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.9em;
+  line-height: 1.1em;
+}
+.tags::before {
+  content: 'tags: ';
+  font-weight: bold;
+}
+.key-ingredients::before {
+  content: 'ingredients: ';
+  font-weight: bold;
+}
+.recipe-link ul li {
+  display: inline-block;
+  font-style: italic;
+}
+.recipe-link ul li::after {
+  content: ', ';
+}
+.recipe-link ul li:last-child::after {
+  content: '';
+}
+#filters {
+  padding: 0.8em;
+  margin-bottom: 1em;
+}
+#filters > div {
+  display: table-row;
+  width: 100%;
+}
+#filters > div > * {
+  margin: .2em;
+  display: table-cell;
+}
+#filters > div > select, #filters > div > select {
+  width: 100%;
+}
+#filters > div > label {
+  padding-right: 0.5em;
+}
+
+@media only screen and (max-width: 767px) {
+	#recipe-cards {
+    grid-template-columns: repeat(1, 1fr);
+	}
+}
