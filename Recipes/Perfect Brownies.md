@@ -6,11 +6,11 @@ ingredients: flour, chocolate, shortening
 
 # Perfect Brownies
 
-These are cakey, not fudgey, brownies. Which sounds bad, but it isn't. It's not exactly cakey in a fluffy, airy way. It just has a uniform, semi-dry crumb. Like in a good chocolate chip cookie, there's a notably salty component. It's incredibly complex and balanced. 
+These are cakey, not fudgey, brownies. It's not exactly cakey in a fluffy, airy way. It just has a uniform, semi-dry crumb. Like in a good chocolate chip cookie, there's a notably salty component. These are incredibly complex and balanced. 
 
-Yes, I realize this is all exactly what most people think they don't want in a brownie. Popular opionion is that brownies should be so moist and fudge-like, and borderline under-done. But they are wrong. I was one of these people too. Then I was converted. 
+Yes—this is the opposite what most people want in a brownie. They want them be ultra-moist and fudge-like, and borderline under-cooked. But they are wrong. I was wrong like them too. Then I attained brownie enlightenment. 
 
-The details that set this apart are the use of cake flour vs. all purpose, more salt than is normal, bakers chocolate instead of cocoa, and  the baking soda. The cake flour makes a difference; it yeilds a slightly lighter-tasting, more refined texture. But all purpose is fine if you don't want to be bothered. The crumb is very short on account of the high amount of fat, including that in the baker's chocolate. The baking soda doesn't exactly provide lift; I assume it's there to counteract the acidity of the chocolate. The extra salt is good. 
+The details that set this apart are: the use of cake flour vs. all purpose, more salt than is normal, bakers chocolate instead of cocoa, and  the baking soda. The cake flour makes a difference; it yeilds a slightly lighter-tasting, more refined texture. But all purpose is fine if you don't want to be bothered. The crumb is very short on account of the high amount of fat, including that in the baker's chocolate. The baking soda doesn't exactly provide lift; I assume it's there to counteract the acidity of the chocolate. The extra salt is just good. 
 
 ## Ingredients:
 
