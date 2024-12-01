@@ -57,7 +57,7 @@ I made this recipe as a simplified Mac & Cheese for a Catholic young adult men's
 
 [Recipe card - printable PDF](https://traas.org/downloads/recipes/mac_and_cheese_recipe.pdf)
 
-But seriously... don't make this version. This is here for archival purposes early. Make the one above.
+But seriously... don't make this version. This is here for archival purposes early. Make the [recipe above](#lindas-mac--cheese).
 
 ## Hardware:
 * 2+ gallon stock pot
