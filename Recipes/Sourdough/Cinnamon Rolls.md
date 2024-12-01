@@ -2,13 +2,18 @@
 description: Yeasty and soft cinnamon rolls.
 tags: sourdough, dessert
 ingredients: flour, sourdough-starter
+hero_image: cinnamon_rolls.jpg
 ---
 
 # Sourdough Cinnamon Rolls
 
 Adapted from my [Sourdough Hawaiian Rolls](./Sourdough%20Hawaiian%20Rolls.html) recipe. 
 
-Work in progress - directions not correct.
+Basically, if you take the dinner roll dough, used entirely whole milk instead of pineapple juice, it's the perfect dough for cinnamon rolls. 
+
+I am still working on the amounts for the filling. I under-filled on my first attempt. It was very, very good, but could have used more cinnamon sugar.
+
+I like to top with [Miriam's Cream Cheese Frosting](../Cream%20Cheese%20Frosting.html)
 
 ## Ingredients:
 
@@ -19,8 +24,9 @@ Work in progress - directions not correct.
 - 45g (1/4 cup) sugar
 - 100g sourdough starter or discard
 - 15g / 1 tsp salt
-- 1 egg1
+- 1 egg
 - 2 tbsp softened butter
+- 2 tsp vanilla extract
 
 **Filling**
 
@@ -28,33 +34,31 @@ Work in progress - directions not correct.
 - sugar
 - cinnamon
 
-**Topping**
-
-- Cream cheese
-- Sugar
-
 ## Hardware:
 
 - large mixing bowl
 - bench scraper
 - wooden spoon or dough whisk
-- 2x loaf pans or larger baking dish
+- 8x8 square baking pan
 
 ## Directions:
 
-1. In mixing bowl,  milk, sugar, eggs, and sourdough starter together. Let mixture sit on counter for 15-30 minutes.
-2. Add 1 cup of flour and stir to combine into a wet dough, about 1 minute. Add additional flour, mixing well after each addition until the dough comes together into a rough dough. This may take 2 cups, or it may take 3+. Stir until all the flour is incorporated, and the dough is only slightly sticky. When the dough starts to come together, kneed in butter
+1. In mixing bowl, milk, sugar, eggs, and sourdough starter together. Let mixture sit on counter for 30-60 minutes minutes.
+2. Add 1-2 cups of flour and stir to combine into a wet dough, about 1 minute. Add additional flour, mixing well after each addition until the dough comes together into a rough dough. This may take 2 cups, or it may take 3+. Stir until all the flour is incorporated, and the dough is only slightly sticky. When the dough starts to come together, knead in butter.
 3. Cover, and let sit at room temperature for 30 minutes.
 4. Knead for 5-10 minutes on a well-floured work surface. Add more flour as needed to prevent sticking.
 5. Cover and let sit at room temperature for 30 minutes.
 6. Add salt, and knead on well floured work surface for 5-10 minutes. Add more flour as needed. Dough should not be sticky.
 7. Let dough rise until doubled. If you're using discard, this will probably take a while. If you're using ripe starter, this can be done overnight in the fridge, or 1-3 hours at room temperature.
-8. Prepare pan by spraying with baking spray, and optionally making a parchment sling for easy removal.
-9. Punch down, transfer to well floured surface. Divide into 16-32 portions. 
-10. Roll each portion into a tight ball. Roll in melted coconut oil or butter, and put in the pan. All the rolls should be touching.
-11. Optionally, sprinkle liberally with sesame seeds.
-12. Sit at room temperature to rise until doubled.
-13. Pre-heat oven to 350°F.
-14. Put pan in oven for 25 minutes. Check for doneness (should be 200°F). Cook longer if needed.
-15. Remove from pan, and cool on wire rack for at least a 15 minutes before serving. 
+8. Punch down, transfer to well floured surface. Roll flat into a 2:1 rectangle.
+9. Spread softened butter on the dough, leaving the last 2 inches on the long side unbuttered. Sprinkle cinnamon sugar mixutre evenly.
+10. From the long end that got the butter/sugar into a tight roll. Pinch the end.
+11. Divide evenly into 9 pieces with a sharp, thin knife. Easiest way is to divide in thirds, then each piece in thirds.
+12. Place in greased pan 3x3. They should be just barely touching.
+13. Cover with plastic wrap, and put pan in the fridge for 24-48 hours.
+14. The morning you are baking them, take them out of the fridge 3-5 hours early.
+15. Pre-heat oven to 350°F.
+16. Put pan in oven for 20-25 minutes. Check for doneness (should be 200°F). Cook longer if needed.
+17. Let pan cool on wire rack for 15-20 minutes.
+18. If you're not a monster, pipe on [Cream Cheese Frosting](../Cream%20Cheese%20Frosting.html) and serve.
 

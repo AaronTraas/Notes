@@ -71,5 +71,5 @@
   * Bake until crust is golden brown, 20 to 30 minutes.
   * Remove pizza from oven and let rest 10 minutes before slicing and serving.
 
-[](http://www.youtube.com/watch?v=B2uGmk0kYC4)
+[](http://www.madeinmykitchen.com/2012/06/chicago-deep-dish-pizza.html)
 
