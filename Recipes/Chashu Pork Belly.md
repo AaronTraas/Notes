@@ -29,7 +29,11 @@ This is based on Ramen Lord's recipe for sous vide chashu pork from his [Book of
   5. Remove from water bath and transfer bag into ice water until the pork is at room temperature.
   6. Place in refridgerator for at least 6 hours.
   7. Slice straight from the fridge while still cold (it's too soft to slice easily when it's warm). 
-  8. Optional - place slices on a sheet pan and char with a propane torch -- the kind you get from the hardware store for sweating pipes, not the wimpy kitchen butane torches. 
+ 
+## Serving suggestions
+
+- **Ramen:** slice thin, and char with a propane torch (the kind you get from the hardware store for sweating pipes, not the wimpy kitchen butane torches), then serve on top of the ramen of your choice.
+- **Chashu pork bowl:** chop onto small pieces (1"x1"x1/8" or so), toss in a hot pan to get some color on it. Once browned a bit, drizzle in some Japanese BBQ sauce or teriyaki sauce or similar, and toss to coat. Serve on top of hot rice, along with crispy fried shallots.
 
 ---
 
