@@ -1,8 +1,16 @@
-#recipe-cards {
+.recipe-cards {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1em;
   grid-auto-rows: 1fr;
+  padding: 0;
+  margin: 0;
+}
+
+.recipe-cards > li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
 }
 
 #main-content .button,

@@ -45,7 +45,7 @@ layout: default
   </div>
 </form>
 
-<div id="recipe-cards">
+<div class="recipe-cards">
 {% for page in sortedPages -%}
   {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
   {%- assign section = segments | first -%}

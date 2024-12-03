@@ -1,0 +1,65 @@
+{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
+
+{%- assign section_dir = 'Recipes' -%}
+<ul class="recipe-cards">
+  {% assign sortedPages = site.pages | sort: 'title' -%}
+  {%- for page in sortedPages | sort: 'title' -%}
+    {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
+    {%- assign section = segments | first -%}
+    {%- if section == section_dir %}
+      {%- if segments contains 'Untested' -%}
+      {%- else -%}
+        {%- if page_blacklist contains page.name -%}
+        {%- else -%}
+          {%- if hide_description == nil and page.description != nil and page.description != '' -%}
+            {%- assign page_description = ' — ' | append: page.description}} -%}
+          {%- else -%}
+            {%- assign page_description = '' -%}
+          {%- endif -%}
+          {%- if filter_tag == nil or page.tags contains filter_tag or filter_tag == "NONE" and page.tags == nil -%}
+          {%- if page.tags -%}
+            {%- assign tags = page.tags | remove: " " | split: ',' | sort -%}
+          {%- else -%}
+            {%- assign tags = 'none' -%}
+          {%- endif -%}
+          {%- if page.ingredients -%}
+            {%- assign ingredients = page.ingredients | remove: " " | split: ',' | sort -%}
+          {%- else -%}
+            {%- assign ingredients = 'none' -%}
+          {%- endif -%}
+          {%- if page.hero_image -%}
+            {%- assign recipe_image_url = '/images/' | append: page.hero_image | relative_url -%}
+            {%- assign recipe_style = 'style="background-size: cover; background-image: url(' | append: recipe_image_url | append: ')"' -%}
+          {%- else -%}
+            {%- assign recipe_style = '' -%}
+          {%- endif -%}
+  <li>
+    <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+      <div class="text">
+        <strong>{{page.title}}</strong>
+        {%- if hide_description != nil or page.description != nil or page.description != '' -%}
+        {{ page.description }}
+        {%- else -%}
+        <ul class="tags">
+          {% for tag in tags %}
+          <li>{{tag}}</li>
+          {% endfor -%}
+        </ul>
+        <ul class="key-ingredients">
+          {% for ingredient in ingredients %}
+          <li>{{ingredient}}</li>
+          {% endfor -%}
+        </ul>
+        {%- endif -%}
+      </div>
+    </a>
+  </li>
+        {% endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor %}
+</ul>
+{%- assign hide_description = nil -%}
+{%- assign filter_tag = nil %}
+{%- assign force_section = nil %}
