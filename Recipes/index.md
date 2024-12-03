@@ -74,10 +74,15 @@ I don't make a whole lot of desserts or sweets. Up until my late 40's, I didn't 
 {% assign filter_tag = 'christmas' -%}
 {% include recipe_links.html -%}
 
+## Cocktails
+{% assign filter_tag = 'cocktails' -%}
+{% include recipe_links.html -%}
+
 ## Miscellaneous Recipes
 
 This is a list of recipes I haven't categorized yet, or don't make sense in any catagory I have. 
 
+{% assign sections = 'Recipes' | split: ',' -%}
 {% assign filter_tag = 'NONE' -%}
 {% include site_index.html -%}
 
