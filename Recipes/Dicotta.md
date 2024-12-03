@@ -1,6 +1,7 @@
 ---
 description: Traditional home remedy tea from Monacilioni
-tags: italian, monacilioni
+category: beverages
+tags: italian, monacilioni, tea
 ingredients: apple, dried fig, chamomile
 ---
 

@@ -1,5 +1,6 @@
 ---
 description: A sweet, appley, fall cocktail 
+category: beverages
 tags: cocktails
 ingredients: vodka, wine
 hero_image: apple_sangria.jpg

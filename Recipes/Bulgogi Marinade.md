@@ -1,3 +1,8 @@
+---
+category: entrees
+ingredients: brussels-sprouts, bacon
+---
+
 # Bulgogi Marinade
 
 This marinade is easy to make and very versatile. The puree of fruits and vegitables, as well as the sugar, really 

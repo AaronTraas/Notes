@@ -1,5 +1,6 @@
 ---
 description: Really delicious use for leftover prepared oatmeal. Honestly, better than the oatmeal.
+category: baked-goods
 tags: sourdough
 ingredients: flour, sourdough-starter, oats
 hero_image: oatmeal_bread.jpg

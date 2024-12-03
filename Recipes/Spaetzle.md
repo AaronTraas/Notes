@@ -1,4 +1,5 @@
 ---
+category: sides
 ingredients: flour, eggs, milk
 ---
 

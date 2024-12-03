@@ -1,5 +1,6 @@
 ---
 description: Basic buttermilk pancake recipe
+category: breakfast
 tags: breakfast, friday-friendly
 ingredients: eggs, flour, buttermilk
 ---

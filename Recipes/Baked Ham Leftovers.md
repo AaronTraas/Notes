@@ -1,5 +1,6 @@
 ---
 description: Ideas for leftover baked ham
+category: entrees
 tags: leftovers, weeknight
 ingredients: ham
 ---

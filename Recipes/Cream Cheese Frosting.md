@@ -1,5 +1,6 @@
 ---
 description: My daughter's recipe for Cream Cheese Frosting. 
+category: desserts
 tags: dessert
 ingredients: cream cheese, butter
 hero_image: cinnamon_rolls_frosted.jpg

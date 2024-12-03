@@ -1,6 +1,7 @@
 ---
 description: Simple and hearty soup. Great way of making a second meal out of spiral-sliced ham.
-tags: main-dish, soup-stew-casserole
+category: entrees
+tags: soup-stew-casserole
 ingredients: ham, mire-poix, beans
 ---
 

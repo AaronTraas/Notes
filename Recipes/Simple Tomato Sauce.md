@@ -1,5 +1,6 @@
 ---
 description: Simple and quick tomato sauce, the way my nonna taught me.
+category: entrees
 tags: italian, monacilioni, friday-friendly
 ingredients: tomatoes, basil
 hero_image: sauce.jpg

@@ -1,5 +1,6 @@
 ---
 description: Oven braised/broiled dry-rubbed baby-back ribs
+category: entrees
 tags: main-dish, meat, bbq
 ingredients: pork ribs, brown sugar
 ---

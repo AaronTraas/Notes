@@ -1,5 +1,6 @@
 ---
 description: Delicious and easy dinner rolls, with no fat mixed in to the dough.
+category: baked-goods
 tags: sourdough
 ingredients: flour, sourdough-starter
 hero_image: dinner_rolls.jpg

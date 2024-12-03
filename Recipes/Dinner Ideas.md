@@ -1,4 +1,5 @@
 ---
+category: entrees
 ---
 
 # Quick Weeknight Dinner Ideas

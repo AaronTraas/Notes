@@ -1,5 +1,6 @@
 ---
 description: French meaty bean casserole. Warming, filling, and satisfying. 
+category: entrees
 tags: main-dish, soup-stew-casserole
 ingredients: sausage, chicken, pork-shoulder, beans
 hero_image: cassoulet.jpg

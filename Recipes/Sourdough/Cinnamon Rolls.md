@@ -1,5 +1,6 @@
 ---
 description: Yeasty and soft cinnamon rolls.
+category: baked-goods
 tags: sourdough, dessert
 ingredients: flour, sourdough-starter
 hero_image: cinnamon_rolls.jpg
