@@ -11,7 +11,7 @@
 	- [Dinner Rolls](./Recipes/Sourdough/Sourdough%20Hawaiian%20Rolls.html) - topped with herbs? Requested by Miriam & Maddie
 	- Yorkshire pudding (Miriam's request)
 	- Mushroom gravy
-	- [Cranberry Bread](./Recipes/Cranberry%20Bread.html) - very few takers.
+	- [Cranberry Bread](./Recipes/Cranberry%20Bread.html)
 	- Brussels Sprouts with bacon
 	- Salad (lettuce, cucumber, cherry tomatoes)
 - **Dessert**
