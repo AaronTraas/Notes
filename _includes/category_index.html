@@ -1,0 +1,20 @@
+{% assign current_section = page.path | split: '/' | first -%}
+
+{%- for section_name in sections -%}
+  {%- assign section_dir = section_name | replace: ' ', '%20' | relative_url -%}
+<h2><a href="{{ section_dir }}">{{section_name}}</a></h2>
+<ul>
+  {%- if section_name == current_section -%}
+    {%- for page in site.pages -%}
+       {%- if page.category -%}
+         {%- assign category = page.category | strip | split: ',' -%}
+         {%- assign all_categories = all_categories | concat: category -%}
+      {% endif -%}     
+    {%- endfor -%}
+    {%- assign all_categories_sorted = all_categories | sort | uniq -%}
+    {%- for category in all_categories_sorted | sort -%}
+  <li><a href="{{ section_dir | append: '/search/#?cagegory=' | append: category | relative_url }}">{{ category }}</a></li>
+    {%- endfor %}
+  {% endif -%}
+</ul>
+{%- endfor -%}

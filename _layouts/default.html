@@ -7,12 +7,20 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/hamburger.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/ui.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | append: site.github.build_revision | relative_url }}" media="print" type="text/css">
 
     <link rel="icon" href="https://traas.org/favicon.ico"/>
     <link rel="apple-touch-icon" href="https://traas.org/apple-touch-icon.png" />
 
     <script type="text/javascript" src="{{ '/assets/js/hamburger.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+{%- if page.scripts -%}
+  {% assign scripts = page.scripts | remove: " " | split: ',' %}
+  {%- for script_filename in scripts %}
+    <script type="text/javascript" src="{{ '/assets/js/' | append: script_filename | append: '?v=' | append: site.github.build_revision | relative_url }}"></script>
+  {% endfor %}
+{%- endif -%}
+
 {% seo %}
   </head>
 
@@ -53,8 +61,7 @@
           </header>
           <nav>        
 {% assign sections = 'Recipes,Adult Beverages,Tobacco' | split: ',' -%}
-{% assign hide_description = 'true' -%}
-{% include site_index.html -%}
+{% include category_index.html -%}
           </nav>
         </aside>
 
