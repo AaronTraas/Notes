@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
+  const filter_category = document.getElementById('category-filter');
   const filter_tag = document.getElementById('tag-filter');
   const filter_ingredient = document.getElementById('ingredient-filter');
   const recipes = document.querySelectorAll('.recipe-link');
@@ -34,6 +35,14 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
   const filter = function filter() {
     const params = new URLSearchParams(window.location.hash.slice(1));
+
+    if (filter_category.value == 'all') {
+      params.delete('category')
+    } else {
+      params.set('category', filter_category.value)
+    }
+
+
     if (filter_tag.value == 'all') {
       params.delete('tag')
     } else {
@@ -49,6 +58,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     window.location.hash = '#' + params.toString()
   }
 
+  filter_category.addEventListener('change', filter)
   filter_tag.addEventListener('change', filter)
   filter_ingredient.addEventListener('change', filter)
 

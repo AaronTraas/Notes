@@ -13,6 +13,9 @@ scripts: search.js
 {%- assign sortedPages = site.pages | sort: 'title' -%}
 
 {%- for page in sortedPages -%}
+   {%- assign categories = page.category | strip | split: ',' -%}
+   {%- assign all_categories = all_categories | concat: categories -%}
+
    {%- assign tags = page.tags | strip | split: ',' -%}
    {%- assign all_tags = all_tags | concat: tags -%}
 
@@ -20,10 +23,22 @@ scripts: search.js
    {%- assign all_ingredients = all_ingredients | concat: ingredients -%}
 {%- endfor -%}
 
-{%- assign all_tags_sorted = all_tags | sort | uniq -%}
+{%- assign all_categories_sorted = all_categories | sort | uniq -%}
+{% assign all_tags_sorted = all_tags | sort | uniq -%}
 {% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
 <form id="filters">
   <div>
+    <label for="category-filter">Category: </label>
+    <select id="category-filter">
+      <option>all</option>
+      {%- for category in all_categories_sorted -%}
+      {% assign category_stripped = category | strip -%}
+      <option value="{{category_stripped}}">{{category_stripped}}</option>
+      {% endfor -%}
+    </select>
+  </div>
+
+  <div style="display: none">
     <label for="tag-filter">Tag: </label>
     <select id="tag-filter">
       <option>all</option>
