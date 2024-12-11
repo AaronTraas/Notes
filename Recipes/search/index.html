@@ -3,8 +3,6 @@ title: Recipe Search
 layout: default
 scripts: search.js
 ---
-<style>
-</style>
 
 <h1>Recipe Search</h1>
 {%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
@@ -12,15 +10,28 @@ scripts: search.js
 {%- assign section_dir = 'Recipes' -%}
 {%- assign sortedPages = site.pages | sort: 'title' -%}
 
+{%- assign all_categories = '' | split: 'empty' -%}
+{%- assign all_ingredients = '' | split: 'empty' -%}
+{%- assign all_tags = '' | split: 'empty' -%}
 {%- for page in sortedPages -%}
-   {%- assign categories = page.category | strip | split: ',' -%}
-   {%- assign all_categories = all_categories | concat: categories -%}
+  {%- assign categories = page.category | strip | split: ',' -%}
+  {%- for category in categories -%}
+    {%- assign cleaned = category | strip | slugify -%}    
+    {%- assign all_categories = all_categories | push: cleaned -%}
+  {%- endfor -%}
 
-   {%- assign tags = page.tags | strip | split: ',' -%}
-   {%- assign all_tags = all_tags | concat: tags -%}
+  {%- assign tags = page.tags | strip | split: ',' -%}
+  {%- for tag in tags -%}
+    {%- assign cleaned = tag | strip | slugify -%}    
+    {%- assign all_tags = all_tags | push: cleaned -%}
+  {%- endfor -%}
 
-   {%- assign ingredients = page.ingredients | strip | split: ',' -%}
-   {%- assign all_ingredients = all_ingredients | concat: ingredients -%}
+  {%- assign ingredients = page.ingredients | strip | split: ',' -%}
+  {%- for ingredient in ingredients -%}
+    {%- assign cleaned = ingredient | strip | slugify -%}    
+    {%- assign all_ingredients = all_ingredients | push: cleaned -%}
+  {%- endfor -%}
+
 {%- endfor -%}
 
 {%- assign all_categories_sorted = all_categories | sort | uniq -%}
@@ -33,7 +44,7 @@ scripts: search.js
       <option>all</option>
       {%- for category in all_categories_sorted -%}
       {% assign category_stripped = category | strip -%}
-      <option value="{{category_stripped}}">{{category_stripped}}</option>
+      <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
       {% endfor -%}
     </select>
   </div>
@@ -44,7 +55,7 @@ scripts: search.js
       <option>all</option>
       {%- for tag in all_tags_sorted -%}
       {% assign tag_stripped = tag | strip -%}
-      <option value="{{tag_stripped}}">{{tag_stripped}}</option>
+      <option value="{{tag_stripped}}">{{ tag_stripped | replace: '-', ' ' | capitalize }}</option>
       {% endfor -%}
     </select>
   </div>
@@ -55,7 +66,7 @@ scripts: search.js
       <option>all</option>
       {%- for ingredient in all_ingredients_sorted -%}
       {% assign ingredient_stripped = ingredient | strip -%}
-      <option value="{{ingredient_stripped}}">{{ingredient_stripped}}</option>
+      <option value="{{ingredient_stripped}}">{{ ingredient_stripped | replace: '-', ' ' | capitalize }}</option>
       {% endfor -%}
     </select>
   </div>
