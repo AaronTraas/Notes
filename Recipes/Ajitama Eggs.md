@@ -1,6 +1,6 @@
 ---
 description: Tasty salty/sweet marinated eggs. Good by themselves, or sliced in half and served as a ramen topping.
-category: side
+category: sides
 tags: healthy, friday-friendly
 ingredients: eggs
 hero_image: ajitama_egg.jpg

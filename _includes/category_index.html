@@ -1,0 +1,25 @@
+{% assign current_section = page.path | split: '/' | first -%}
+
+{%- for section_name in sections -%}
+  {%- assign section_dir = section_name | replace: ' ', '%20' | relative_url -%}
+<h2><a href="{{ section_dir }}">{{section_name}}</a></h2>
+  {% if current_section == section_name %}
+<ul>
+    {% if current_section == 'Recipes' %}
+  <li><a href="{{ section_dir | append: '/search/' }}">Recipe search 🔎︎</a></li>
+    {% endif -%}     
+    {%- assign all_categories = '' | split: ',' -%}
+    {%- for page in site.pages -%}
+      {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
+      {%- if segments contains section_name and page.category -%}
+        {%- assign category = page.category | strip | split: ',' -%}
+        {%- assign all_categories = all_categories | concat: category -%}
+      {% endif -%}     
+    {%- endfor -%}
+    {%- assign all_categories_sorted = all_categories | sort | uniq -%}
+    {%- for category in all_categories_sorted | sort -%}
+  <li><a href="{{ section_dir | append: '/search/#?category=' | append: category | relative_url }}">{{ category | replace: '-', ' ' | capitalize }}</a></li>
+    {%- endfor %}
+</ul>
+  {% endif -%}     
+{%- endfor -%}

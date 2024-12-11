@@ -1,9 +1,8 @@
 ---
 title: Recipe Search
 layout: default
+scripts: search.js
 ---
-<style>
-</style>
 
 <h1>Recipe Search</h1>
 {%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
@@ -11,24 +10,52 @@ layout: default
 {%- assign section_dir = 'Recipes' -%}
 {%- assign sortedPages = site.pages | sort: 'title' -%}
 
+{%- assign all_categories = '' | split: 'empty' -%}
+{%- assign all_ingredients = '' | split: 'empty' -%}
+{%- assign all_tags = '' | split: 'empty' -%}
 {%- for page in sortedPages -%}
-   {%- assign tags = page.tags | strip | split: ',' -%}
-   {%- assign all_tags = all_tags | concat: tags -%}
+  {%- assign categories = page.category | strip | split: ',' -%}
+  {%- for category in categories -%}
+    {%- assign cleaned = category | strip | slugify -%}    
+    {%- assign all_categories = all_categories | push: cleaned -%}
+  {%- endfor -%}
 
-   {%- assign ingredients = page.ingredients | strip | split: ',' -%}
-   {%- assign all_ingredients = all_ingredients | concat: ingredients -%}
+  {%- assign tags = page.tags | strip | split: ',' -%}
+  {%- for tag in tags -%}
+    {%- assign cleaned = tag | strip | slugify -%}    
+    {%- assign all_tags = all_tags | push: cleaned -%}
+  {%- endfor -%}
+
+  {%- assign ingredients = page.ingredients | strip | split: ',' -%}
+  {%- for ingredient in ingredients -%}
+    {%- assign cleaned = ingredient | strip | slugify -%}    
+    {%- assign all_ingredients = all_ingredients | push: cleaned -%}
+  {%- endfor -%}
+
 {%- endfor -%}
 
-{%- assign all_tags_sorted = all_tags | sort | uniq -%}
+{%- assign all_categories_sorted = all_categories | sort | uniq -%}
+{% assign all_tags_sorted = all_tags | sort | uniq -%}
 {% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
 <form id="filters">
   <div>
+    <label for="category-filter">Category: </label>
+    <select id="category-filter">
+      <option>all</option>
+      {%- for category in all_categories_sorted -%}
+      {% assign category_stripped = category | strip -%}
+      <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+
+  <div style="display: none">
     <label for="tag-filter">Tag: </label>
     <select id="tag-filter">
       <option>all</option>
       {%- for tag in all_tags_sorted -%}
       {% assign tag_stripped = tag | strip -%}
-      <option value="{{tag_stripped}}">{{tag_stripped}}</option>
+      <option value="{{tag_stripped}}">{{ tag_stripped | replace: '-', ' ' | capitalize }}</option>
       {% endfor -%}
     </select>
   </div>
@@ -39,7 +66,7 @@ layout: default
       <option>all</option>
       {%- for ingredient in all_ingredients_sorted -%}
       {% assign ingredient_stripped = ingredient | strip -%}
-      <option value="{{ingredient_stripped}}">{{ingredient_stripped}}</option>
+      <option value="{{ingredient_stripped}}">{{ ingredient_stripped | replace: '-', ' ' | capitalize }}</option>
       {% endfor -%}
     </select>
   </div>
@@ -54,6 +81,12 @@ layout: default
     {%- else -%}
       {%- if page_blacklist contains page.name -%}
       {%- else -%}
+        {%- if page.category -%}
+          {%- assign category = page.category -%}
+        {%- else -%}
+          {%- assign category = 'none' -%}
+        {%- endif -%}
+
         {%- if page.tags -%}
           {%- assign tags = page.tags | remove: " " | split: ',' | sort -%}
         {%- else -%}
@@ -72,7 +105,7 @@ layout: default
           {%- assign recipe_style = '' -%}
         {%- endif -%}
 
-  <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+  <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
     <div class="text">
       <strong>{{page.title}}</strong>
       <ul class="tags">
@@ -92,40 +125,3 @@ layout: default
   {%- endif -%}
 {%- endfor -%}
 </div>
-
-<script>
-
-  document.addEventListener('DOMContentLoaded', (event) => {
-    const filter_tag = document.getElementById('tag-filter');
-    const filter_ingredient = document.getElementById('ingredient-filter');
-    const recipes = document.querySelectorAll('.recipe-link');
-
-    const hideFilteredRecipes = function(classes) {
-      recipes.forEach(function(recipe) {
-        recipe.dataset.hide = false
-        for (classname of classes) {
-          if (!recipe.classList.contains(classname)) {
-            recipe.dataset.hide = true
-            continue
-          }
-        }
-      })
-    }
-
-    const filter = function filter() {
-      const tag = filter_tag.value == 'all' ? null : 'tag-' + filter_tag.value
-      const ingredient = filter_ingredient.value == 'all' ? null : 'ingredient-' + filter_ingredient.value
-      var classes = []
-      if (tag) {
-        classes.push(tag)
-      }
-      if (ingredient) {
-        classes.push(ingredient)
-      }
-      hideFilteredRecipes(classes)
-    }
-
-    filter_tag.addEventListener('change', filter)
-    filter_ingredient.addEventListener('change', filter)
-  });
-</script>
