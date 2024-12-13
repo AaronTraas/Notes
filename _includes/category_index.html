@@ -18,7 +18,7 @@
     {%- endfor -%}
     {%- assign all_categories_sorted = all_categories | sort | uniq -%}
     {%- for category in all_categories_sorted | sort -%}
-  <li><a href="{{ section_dir | append: '/search/#?category=' | append: category | relative_url }}">{{ category | replace: '-', ' ' | capitalize }}</a></li>
+  <li><a href="{{ section_dir | append: '/search/#?category=' | append: category }}">{{ category | replace: '-', ' ' | capitalize }}</a></li>
     {%- endfor %}
 </ul>
   {% endif -%}     

@@ -86,21 +86,21 @@ This is a list of recipes I haven't categorized yet, or don't make sense in any 
 {% assign filter_tag = 'NONE' -%}
 {% include site_index.html -%}
 
-## Veggie side dish recipes:
-- [Parmesan Roasted Cauliflower](https://tasty.co/recipe/parmesan-roasted-cauliflower)
-
 ## Recipes to try
 
 This is a list of things I've not tried, but want to:
 
-- [Pork Meatball Bahn Mi](https://www.youtube.com/watch?v=I4ycWq9v1SM)
-- [Tandoori Chicken and Naan](https://youtu.be/uHL5mOzzhH4?si=9c8FF-wi4TjNSziq)
-- [Spinach and Cheese Strata](https://smittenkitchen.com/2009/12/spinach-and-cheese-strata/) - recommended by Linda
-- [Hunter's Chicken](https://youtu.be/yMVGR3ibVvs?si=Wyd0WOFdz9yoA1z6)
-- [Crawfish Pie](/93c5ca05cd51428926d197e6d4a2d050.jpg) - from my dad
-- [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)
-- [Easy Pressure Cooker Chicken Enchiladas](https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-enchiladas-food-lab-recipe)
-- [Thai Fish Sauce Wings](./Untested/Thai%20Fish%20Sauce%20Wings.html)
-- [Chicago Deep Dish](./Untested/Chicago%20Deep%20Dish.html)
-- [Thit Kho](https://www.hungryhuy.com/how-to-make-thit-heo-kho-voi-trung-vietnamese-braised-pork-with-hard-boiled-eggs/)
-- [Khachapuri (Georgian Cheese Bread)](https://www.allrecipes.com/recipe/272625/khachapuri-georgian-cheese-bread/)
+- **Sides**
+  - [Parmesan Roasted Cauliflower](https://tasty.co/recipe/parmesan-roasted-cauliflower)
+  - [Khachapuri (Georgian Cheese Bread)](https://www.allrecipes.com/recipe/272625/khachapuri-georgian-cheese-bread/)
+- **Entrees**
+  - [Pork Meatball Bahn Mi](https://www.youtube.com/watch?v=I4ycWq9v1SM)
+  - [Tandoori Chicken and Naan](https://youtu.be/uHL5mOzzhH4?si=9c8FF-wi4TjNSziq)
+  - [Spinach and Cheese Strata](https://smittenkitchen.com/2009/12/spinach-and-cheese-strata/) - recommended by Linda
+  - [Hunter's Chicken](https://youtu.be/yMVGR3ibVvs?si=Wyd0WOFdz9yoA1z6)
+  - [Crawfish Pie](/93c5ca05cd51428926d197e6d4a2d050.jpg) - from my dad
+  - [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)
+  - [Easy Pressure Cooker Chicken Enchiladas](https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-enchiladas-food-lab-recipe)
+  - [Thai Fish Sauce Wings](./Untested/Thai%20Fish%20Sauce%20Wings.html)
+  - [Chicago Deep Dish](./Untested/Chicago%20Deep%20Dish.html)
+  - [Thit Kho](https://www.hungryhuy.com/how-to-make-thit-heo-kho-voi-trung-vietnamese-braised-pork-with-hard-boiled-eggs/)
