@@ -94,8 +94,10 @@ scripts: search.js
         {%- endif -%}
         {%- if page.ingredients -%}
           {%- assign ingredients = page.ingredients | remove: " " | split: ',' | sort -%}
+          {%- assign ingredients_display = page.ingredients | remove: " " | replace: '-', ' ' | split: ',' | sort -%}
         {%- else -%}
-          {%- assign ingredients = 'none' -%}
+          {%- assign ingredients = 'none' | split: 'dummy' -%}
+          {%- assign ingredients_display = ingredients -%}
         {%- endif -%}
   
         {%- if page.hero_image -%}
@@ -108,13 +110,13 @@ scripts: search.js
   <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
     <div class="text">
       <strong>{{page.title}}</strong>
-      <ul class="tags">
+      <!-- ul class="tags">
         {% for tag in tags %}
         <li>{{tag}}</li>
         {% endfor -%}
-      </ul>
+      </ul -->
       <ul class="key-ingredients">
-        {% for ingredient in ingredients %}
+        {% for ingredient in ingredients_display %}
         <li>{{ingredient}}</li>
         {% endfor -%}
       </ul>

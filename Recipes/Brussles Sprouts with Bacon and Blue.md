@@ -1,10 +1,11 @@
 ---
 category: sides
+tag: sides
 ingredients: brussels-sprouts, bacon
+hero_image: brussels_sprouts.png
 ---
 
 # Brussels Sprouts with Bacon and Blue Cheese
-![brussels_sprouts.png](../images/brussels_sprouts.png)
 
 ## Ingredients
 
