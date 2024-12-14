@@ -10,7 +10,7 @@ hero_image: pizza.jpg
 
 My attempts at home-style pizza, cooked in a pan with lots of olive oil. Very similar to what my nonna made.
 
-This is not a rustic dough meant to be cooked without a pan. It's meant for pan pizza, calzones, garlic knots, stromboli, etc. 
+This is not a rustic dough meant to be cooked without a pan. It's and enriched dough, meant for pan pizza, calzones, garlic knots, stromboli, etc. 
 
 ---
 
