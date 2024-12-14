@@ -76,3 +76,35 @@ _Mix Dough_
 - Suggested topings include:
   - Simple pizza sauce (canned tomatoes, olive oil, garlic, oregano, salt), torn chunks of fresh mozzarella, Parmigiano-Reggiano or pecorino Romano. 
   - Quality olive oil, fresh herbs of your choice, sliced garlic, black pepper, salt, red pepper flake, Parmigiano-Reggiano or pecorino Romano. 
+
+--- 
+
+# Garlic Knots
+
+![](../../images/garlic_knots.jpg)
+
+Tasty little dough balls cooked in garlic oil. 
+
+## Ingredients:
+
+- Enriched Sourdough Pizza Dough
+- Olive oil
+- 8-10 cloves garlic
+- Salt
+
+## Hardware:
+
+- half sheet pan
+
+## Directions:
+
+1. Divide into 16 equal pieces. Shape each portion of dough into a small boule. Coat lightly with olive oil. rest at room temperature for 20-30 minutes.
+2. Mince garlic and cover in oil in a small bowl. Stir.
+3. Lighly brush baking pan with olive oil.
+4. Stretch each dough ball into a long snake - 6 inches wide or so
+5. Tie each piece into a knot. Roll in garlic oil, and place on pan.
+6. Spoon remaining garlic onto knots in pan.
+7. Rest at room temperature for 30-60 minutes, to allow the dough to rise a bit
+8. Pre-heat oven to 425°F
+9. Bake for 25-35 minutes, until crust is golden brown and garlic is cooked.
+10. Rest for 5 minutes and serve.
