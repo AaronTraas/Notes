@@ -1,16 +1,16 @@
 ---
-description: Delicious and easy dinner rolls, with no fat mixed in to the dough.
+description: Delicious, soft, and easy sandwich loaf.
 category: baked-goods
 tags: sourdough
 ingredients: flour, sourdough-starter
-hero_image: dinner_rolls.jpg
+hero_image: sandwich_loaf.jpg
 ---
 
-# Lean Sourdough Dinner Rolls
+# Sourdough Sandwich Loaf
 
 Adapted from my [Leftover Oatmeal Bread](./Leftover%20Oatmeal%20Bread.html) recipe, which is a crowd pleaser.
 
-Most dinner rolls have a lot of fat in them, usually butter. They have quite a bit in common with brioche. That's messy and a lot of work, especially if, like me, you don't own a stand mixer. This only has butter on the outside to keep the rolls seperate. 
+Most sandwich loaves are enriched (i.e., fat added to the dough), often butter. That's messy and a lot of work, especially if, like me, you don't own a stand mixer. This only has butter on the outside to keep the rolls seperate. 
 
 You may need to add more flour—possibly a lot more—to get the dough texture right. It should be smooth and just barely tacky, but not sticky.
 
@@ -21,7 +21,6 @@ You may need to add more flour—possibly a lot more—to get the dough texture 
 - 35g sugar (can use maple syrup, honey, brown sugar, etc.)
 - 50g sourdough starter or discard
 - 5g / 1 tsp salt
-- 2 tbsp melted butter
 - (optional) Sesame seeds
 
 ## Hardware:
@@ -41,14 +40,32 @@ You may need to add more flour—possibly a lot more—to get the dough texture 
 6. Add salt, and knead on well floured work surface for 3-5 minutes. Add more flour as needed. Dough should not be sticky.
 7. Let dough rise until doubled. If you're using discard, this will probably take a while. If you're using ripe starter, this can be done overnight in the fridge, or 1-3 hours at room temperature.
 8. Prepare pan by spraying with baking spray, and optionally making a parchment sling for easy removal.
-9. Punch down, transfer to well floured surface. Divide into 8-16 portions. 
-10. Roll each portion into a tight ball. Roll in melted butter, and put in the pan. All the rolls should be touching.
-11. Optionally, sprinkle liberally with sesame seeds.
-12. Sit at room temperature to rise until doubled.
-13. Pre-heat oven to 375°F.
-14. Put pan in oven for 25 minutes. Check for doneness (should be 200°F). Cook longer if needed.
-15. Remove from pan, and cool on wire rack for at least an hour before slicing. 
+9. Roll into a flat rectangle, with the shorter dimension roughly the size of the pan. Roll up tightly into a cylandar, and tuck in the edges.
+10. Optionally, spritz with water and sprinkle liberally with sesame seeds.
+11. Sit at room temperature to rise until doubled.
+12. Pre-heat oven to 375°F.
+13. Put pan in oven for 25 minutes. Check for doneness (should be 200°F). Cook longer if needed.
+14. Remove from pan, and cool on wire rack for at least an hour before slicing. 
 
-## Notes
+---
 
-- Base recipe here: <https://blog.kitchenmage.com/2007/08/kitchenmages-le.html>
+# Rye Sandwich Loaf
+
+![](../../images/rye_sandwich_loaf.jpg)
+
+This is very similar to the above, with three simple changes:
+
+1. Replace 1/3 of the flour with rye flour.
+2. When you flatten the dough to roll it up during the shaping, sprinkle liberally with caraway seeds. Optionally top with caraway seeds.
+3. This takes longer to cook. It often takes 40 minutes or so.
+
+---
+
+# Lean Dinner Rolls:
+
+![](../../images/dinner_rolls.jpg)
+
+Basically, shaping step is different:
+
+1. Divide into 8-16 portions. 
+2. Roll each portion into a tight ball. Roll in melted butter, and place into pan. All the rolls should be touching.

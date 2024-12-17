@@ -1,7 +1,5 @@
 # Holiday Menu Planning
 
----
-
 ## Christmas
 
 ### 2024 Christmas Eve Dinner Rahway
@@ -10,7 +8,7 @@
 	- Prime rib - Requested by Miriam and Maddie
 	- [Dinner Rolls](./Recipes/Sourdough/Sourdough%20Hawaiian%20Rolls.html) - topped with herbs? Requested by Miriam & Maddie
 	- Yorkshire pudding (Miriam's request)
-	- Mushroom gravy
+	- [Mushroom gravy](https://www.seriouseats.com/mushroom-gravy-sauce-recipe)
 	- [Cranberry Bread](./Recipes/Cranberry%20Bread.html)
 	- Brussels Sprouts with bacon
 	- Salad (lettuce, cucumber, cherry tomatoes)
