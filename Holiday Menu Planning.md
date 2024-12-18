@@ -79,6 +79,7 @@ Wednesday (Christmas)
   - 6am - take cinnamon rolls out of the fridge
   - 8am - bake cinnamon rolls
   - 10am - mass
+  - noon - drop kids off at Claire's mother's house
 - At Linda's in the late afternoon:
   - boil lasagna
   - cut meatballs and hard boiled eggs
