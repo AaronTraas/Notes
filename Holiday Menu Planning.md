@@ -28,19 +28,19 @@
 
 ## Schedule
 
-Thursday:
+**Thursday:**
 - go to liquor store and pick up order
 - buy roast
 - salt, start dry aging in fridge
 
-Sunday: 
+**Sunday:**
 - Complete grocery shopping done
 - Fry meatballs and sausage
 - hard boil 6 eggs
 - feed sourdough starter for double batch of dinner rolls
 - make cranberry bread
 
-Monday:
+**Monday:**
 - dough for dinner rolls and cinnamon rolls
 - assemble dinner rolls in pan
 - assemble cinnamon rolls in 2 pans
@@ -50,21 +50,21 @@ Monday:
 - make pate a choux. Store in piping bag with star tip.
 - make dough for struffoli
 
-Tuesday (Christmas Eve):
+**Tuesday (Christmas Eve):**
 - Before girls arrive:
   - prep Roast roast in pan
   - prep basic Brussels sprouts
   - make mushroom gravy
   - make Yorkshire pudding batter
   - bake dinner rolls
-- After girls arrive:
+- After girls arrive (3pm):
   - Miriam pipes pate a choux into zeppoles on parchment paper and puts in fridge
   - put roast in oven
   - assemble salad
   - make mulled cider
   - prep struffoli
   - prep syrup for struffoli
-- After Allen-Pooles arrive:
+- After Allen-Pooles arrive (5:30pm):
   - reheat mushroom gravy
   - reheat dinner rolls
   - finish Brussels sprouts
@@ -75,10 +75,15 @@ Tuesday (Christmas Eve):
   - dress zeppoles with syrup and nonpareils 
 
 Wednesday (Christmas)
-- boil lasagna
-- cut meatballs and hard boiled eggs
-- assemble lasagna 
-- bake lasagna 
+- Morning
+  - 6am - take cinnamon rolls out of the fridge
+  - 8am - bake cinnamon rolls
+  - 10am - mass
+- At Linda's in the late afternoon:
+  - boil lasagna
+  - cut meatballs and hard boiled eggs
+  - assemble lasagna 
+  - bake lasagna 
 
 ---
 
