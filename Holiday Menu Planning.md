@@ -87,7 +87,7 @@ Tuesday (Christmas Eve):
   - pipe filling for zeppoles and top with cherries
   - dress zeppoles with syrup and nonpareils 
 
-# Wednesday (Christmas)
+Wednesday (Christmas)
 - boil lasagna
 - cut meatballs and hard boiled eggs
 - assemble lasagna 
