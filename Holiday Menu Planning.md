@@ -12,6 +12,7 @@
 	- Salad (lettuce, cucumber, cherry tomatoes)
 - **Dessert**
 	- [Struffoli](./Recipes/Struffoli.html)
+	- Zeppole di San Giuseppe
 
 ## 2024 Christmas Breakfast Highland Lakes & Rahway
 
