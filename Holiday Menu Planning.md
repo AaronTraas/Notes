@@ -35,7 +35,7 @@
 - salt, start dry aging in fridge
 
 **Sunday:**
-- Complete grocery shopping done
+- Complete grocery shopping
 - Fry meatballs and sausage
 - hard boil 6 eggs
 - feed sourdough starter for double batch of dinner rolls
