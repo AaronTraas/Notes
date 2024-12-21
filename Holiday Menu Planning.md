@@ -20,10 +20,9 @@
 
 ## 2024 Christmas Dinner Highland Lakes
 - **Dinner**
-	- Lasagna alla Napoletana 
-	- Spinach salad?
-- **Dessert**
-	- ???
+	- Chashu Bowls 
+	- sticky rice from Sushi Ya
+ - sushi rolls
 
 ---
 
@@ -36,8 +35,6 @@
 
 **Sunday:**
 - Complete grocery shopping
-- Fry meatballs and sausage
-- hard boil 6 eggs
 - feed sourdough starter for double batch of dinner rolls
 - make cranberry bread
 
@@ -77,15 +74,14 @@
 
 Wednesday (Christmas)
 - Morning
-  - 6am - take cinnamon rolls out of the fridge
+  - 6am - take cinnamon rolls out of the fridge, take out chashu from freezer
   - 8am - bake cinnamon rolls
+    - pack bags with chashu, nori, pickled ginger, fries onions, Japanese BBQ sauce
   - 10am - mass
   - noon - drop kids off at Claire's mother's house
 - At Linda's in the late afternoon:
-  - boil lasagna
-  - cut meatballs and hard boiled eggs
-  - assemble lasagna 
-  - bake lasagna 
+  - pick up rice and sushi
+  - make chashu bowls
 
 ---
 
