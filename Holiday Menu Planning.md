@@ -22,7 +22,7 @@
 - **Dinner**
 	- Chashu Bowls 
 	- sticky rice from Sushi Ya
- - sushi rolls
+ 	- sushi rolls
 
 ---
 
@@ -36,25 +36,25 @@
 **Sunday:**
 - Complete grocery shopping
 - feed sourdough starter for double batch of dinner rolls
-- make cranberry bread
 
 **Monday:**
-- dough for dinner rolls and cinnamon rolls
+- dough for [dinner rolls and cinnamon rolls](./Recipes/Sourdough/Cinnamon%20Rolls.html)
 - assemble dinner rolls in pan
 - assemble cinnamon rolls in 2 pans
-- but all bread stuff in fridge without final proof
+- make [Cranberry Bread](./Recipes/Cranberry%20Bread.html)
+- put all bread stuff in fridge without final proof
 - make cannoli filling, store in piping bag
 - make cream cheese frosting, store in 2 piping bags
 - make pate a choux. Store in piping bag with star tip.
-- make dough for struffoli
+- make dough for [Struffoli](./Recipes/Struffoli.html)
 
 **Tuesday (Christmas Eve):**
 - Before girls arrive:
   - prep Roast roast in pan
-  - prep basic Brussels sprouts
-  - make mushroom gravy
+  - prep [basic Brussels sprouts](./Recipes/Brussles%20Sprouts%20with%20Bacon%20and%20Blue.html)
+  - make [Mushroom gravy](https://www.seriouseats.com/mushroom-gravy-sauce-recipe)
   - make Yorkshire pudding batter
-  - bake dinner rolls
+  - bake dinner rolls (350F for 25 minutes)
 - After girls arrive (3pm):
   - Miriam pipes pate a choux into zeppoles on parchment paper and puts in fridge
   - put roast in oven
