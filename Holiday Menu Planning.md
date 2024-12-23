@@ -28,15 +28,6 @@
 
 ## Schedule
 
-**Thursday:**
-- go to liquor store and pick up order
-- buy roast
-- salt, start dry aging in fridge
-
-**Sunday:**
-- Complete grocery shopping
-- feed sourdough starter for double batch of dinner rolls
-
 **Monday:**
 - dough for [dinner rolls and cinnamon rolls](./Recipes/Sourdough/Cinnamon%20Rolls.html)
 - assemble dinner rolls in pan
