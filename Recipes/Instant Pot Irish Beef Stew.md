@@ -39,7 +39,7 @@ One note about the choice of stock: only use beef stock if it's home-made. Store
 
 ## Directions
 1. **Prepare the steak:** Pat dry chuck roast, season generously with salt and ground black pepper.  
-2. **Brown Chuck Roast Steak:** Heat up Instant Pot by using “Sauté” function. Add enough olive oil to the instant pot to coat the whole bottom. Carefully place seasoned side of chuck steak in Instant Pot. Add chuck to Instant pot. Brown for 10 minutes on each side. Remove and set aside.
+2. **Brown Chuck Roast Steak:** Heat up pressure cooker set to “Sauté” on high. Coat pan in the pressure cooker with a thin layer of oil. Add chuck to Instant pot. Brown for 10 minutes on each side. Remove and set aside.
 2. **Sauté Vegetables:** Add additional oil to Instant Pot if necessary.
     - Add onions and shallots, sauté until softened.
     - Add garlic, sauté for 30 secs until fragrant. 

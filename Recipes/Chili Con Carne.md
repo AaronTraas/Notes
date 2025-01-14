@@ -39,14 +39,13 @@ I'd like to develop a version of this that uses dried beans, but that would prob
 
 ## Directions
 
-1. Cut meat into 2" chunks, salt liberally.
-2. Heat pressure cooker pressure cooker on high in saute mode until hot. 
-3. Add the meat in batches and brown on all sides. Once each batch is browned, remove and set aside.
+1. **Prepare the steak:** Pat dry chuck roast, season generously with salt. Cut in half, into two roughly equal pieces that will fit in the bottom of the instant pot. 
+2. **Brown Chuck Roast Steak:** Heat up pressure cooker by using “Sauté” function. Add a neutral oil to coat bottom of pan. Add one piece of the stake to the pressure cooker. Brown for 10 minutes on each side. Repeate with other piece. 
+3. Remove beef, cut into 1.5" pieces, and set aside.
 4. Add onions and peppers to the pot. Sweat until soft.
 5. Add the beer to the cooker to deglaze the pot. Scrape the browned bits from the bottom of the pot.
-6. Add the meat back to the pressure cooker along with the tomatoes, tortilla chips, chipotle peppers, adobo sauce, tomato paste, chili powder, and ground cumin and stir to combine. 
-7. Lock the lid in place and cook under high pressure for 40 minutes. 
+6. Add the meat back to the pressure cooker along with the tomatoes, tortilla chips, chipotle peppers, adobo sauce, tomato paste, and spices, and stir to combine. 
+7. Lock the lid in place and cook under high pressure for 45 minutes. 
 8. Quick release steam, remove lid.
 9. Optionally shred meat with 2 forks.
 10. If adding beans, stir in canned beans. Turn pressure cooker to saute setting, and heat for 5-10 minutes.
-
