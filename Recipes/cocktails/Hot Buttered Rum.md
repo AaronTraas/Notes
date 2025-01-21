@@ -39,7 +39,7 @@ ingredients: rum
 1. Add batter to mug.
 2. Cover with 5oz hot water, stir vigorously with fork until dissolved and emulsified.
 3. Add rum.
-4. Optionally add a small splash of heavily spiced rum (e.g., Mamajuana) to taste.
+4. Optionally add a small splash of vanilla extract and/or heavily spiced rum (e.g., Mamajuana) to taste.
 
 ---
 
