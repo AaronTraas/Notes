@@ -45,5 +45,5 @@ ingredients: rum
 
 ## Notes:
 
-- Original recipe: https://www.seriouseats.com/hot-buttered-rum-recipe
+- Original recipe: <https://www.seriouseats.com/hot-buttered-rum-recipe>
 - Best rum combination I've found is equal parts Smith & Cross and Captain Morgan's, with a splash of Mamajuana floated on top.
