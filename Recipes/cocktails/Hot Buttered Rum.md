@@ -9,7 +9,7 @@ ingredients: rum
 
 ## Ingredients:
 
-- 4 ounces (1 stick) unsalted butter, room temperature
+- 4 ounces (1 stick) butter, room temperature
 - 8 ounces dark brown sugar
 - 1/4 teaspoon ground cloves
 - 1/4 teaspoon freshly grated nutmeg
