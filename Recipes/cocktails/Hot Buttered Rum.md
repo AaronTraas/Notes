@@ -16,7 +16,7 @@ ingredients: rum
 - 1/2 teaspoon ground cinnamon
 - 1/4 teaspoon ground allspice
 - 1/4 teaspoon ground ginger
-- 1/8 teaspoon ground cardimom
+- 1/8 teaspoon ground cardamom
 
 ## Directions:
 
