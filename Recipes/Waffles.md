@@ -1,3 +1,11 @@
+---
+description: Crispy sourdough buttermilk waffles
+category: breakfast
+tags: breakfast, friday-friendly
+ingredients: eggs, flour, buttermilk
+---
+
+# Sourdough Buttermilk Waffles 
 
 Ingredients:
 
