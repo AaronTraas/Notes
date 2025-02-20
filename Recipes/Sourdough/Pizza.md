@@ -23,9 +23,9 @@ Based on [Basic No-Knead Sourdough Bread](./Basic%20No-Knead%20Sourdough.html) r
 - 200-225g ripe, active starter
 - 360g bread flour
 - 200 mL water
-- 1 tsp sugar
-- 1 tbsp olive oil
-- 2 tsp salt
+- 1 tsp (4g) sugar
+- 1 tbsp (14g) olive oil
+- 2 tsp (6g) salt
 
 ## Hardware:
 
