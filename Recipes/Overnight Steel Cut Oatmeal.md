@@ -1,11 +1,13 @@
 ---
-description: Various ideas for appetizers and hors d'oeuvres
-category: sides
+description: Creamy and satisfying slow-cooker oatmeal. Easy breakfast.
+category: breakfast
+tags: instant-pot, breakfast, friday-friendly
+ingredients: oats, apples
+hero_image: oatmeal.jpg
 ---
 
-# Appetizers & _Hors D'oeuvres_ 
+# Overnight Oatmeal
 
-<<<<<<< Updated upstream
 This ia a really easy, yet filling and satisfying breakfast. You set it up in the slow-cooker the night before, and then serve first thing in the morning. Incredibly rich, nutty, and flavorful. I really love steel cut oats; the texture is far superior to rolled oats for oatmeal. 
 
 The 6 hours on the warm setting is crucial; the oats aren't fully cooked or hydrated. 
@@ -35,7 +37,3 @@ The 6 hours on the warm setting is crucial; the oats aren't fully cooked or hydr
 - Base recipe here: <https://cooking.nytimes.com/recipes/1022119-slow-cooker-steel-cut-oats>
 - I like to serve with either a drizzle of heavy cream or buttermilk, and small spoonful of brown sugar
 - If you are using an apple or similar fruit, reduce the water by about 1/8 cup
-=======
-- [Garlic Shrimp in a Blanket](https://www.allrecipes.com/garlic-shrimp-in-a-blanket-recipe-8783109) - spin on pigs in a blanket
-- Mini hot pockets using a modified version of [this dough](./Sourdough/Pizza.html)
->>>>>>> Stashed changes
