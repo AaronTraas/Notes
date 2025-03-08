@@ -3,22 +3,39 @@ description: Crispy sourdough buttermilk waffles
 category: breakfast
 tags: breakfast, friday-friendly
 ingredients: eggs, flour, buttermilk
+hero_image: tiramisu_waffle.jpg
 ---
 
 # Sourdough Buttermilk Waffles 
 
-Ingredients:
+The best crispy waffles I've ever made. Not a yeast risen dough, the sourdough starter is used for flavor and volume. Uses "discard" or sourdough dormant right out of the fridge.
 
-- 8oz/227g sourdough starter (active or discard)
-- 4oz/113g buttermilk 
-- 3oz/85g oil 
+The only wheat flour in this recipe comes from a 50% hydration starter. The rest of the structure comes from starch, which means a) you don't need to worry about over-mixing to produce too much gluten, and b) it yeilds a really crispy, airy waffle.
+
+## Ingredients:
+
+- 227g sourdough starter (active or discard)
+- 113g buttermilk 
+- 85g neutral oil 
 - 1 large egg
-- 1oz/28g/2 Tbsp sugar
-- 1 Tbsp vanilla extract 
-- 1.8oz/51g starch (corn, tapioca, potato, arrowroot, etc.)
+- 28g/2 Tbsp sugar
+- 1 tbsp vanilla extract 
+- 51g starch (corn, tapioca, potato, arrowroot, etc.)
 - 1/2 tsp baking powder
 - 1/4 tsp baking soda
 - 1 tsp kosher salt
 
+## Directions:
 
-<https://ultimatefoodgeek.com/2025/01/25/the-best-waffles-on-planet-earth-with-sourdough-option/>
+1. Wisk together starter, buttermilk, oil, egg, sugar, and vanilla in a bowl until the starter is dissolved and the rest of the ingredients are fully incorporated.
+2. Whisk in the rest of the ingredients until smooth.
+3. Set aside mixture for 30 minutes.
+4. Pre-heat waffle iron. Add waffle batter to iron ***without any cooking oil***, and cook until steam subsides.
+5. Store on wire rack in 200°F oven until ready to serve.
+
+--- 
+
+## Notes:
+
+- Original recipe from [Ben Starr](https://ultimatefoodgeek.com/2025/01/25/the-best-waffles-on-planet-earth-with-sourdough-option/)
+- Important: do NOT oil the waffle iron if it's non-stick. This recipe has enough fat in it to keep it from sticking.
