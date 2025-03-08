@@ -8,9 +8,13 @@ hero_image: tiramisu_waffle.jpg
 
 # Sourdough Buttermilk Waffles 
 
-The best crispy waffles I've ever made. Not a yeast risen dough, the sourdough starter is used for flavor and volume. Uses "discard" or sourdough dormant right out of the fridge.
+The best crispy waffles I've ever made. Not a yeast risen dough, the sourdough 
+starter is used for flavor and volume. Uses "discard" or sourdough dormant right 
+out of the fridge.
 
-The only wheat flour in this recipe comes from a 50% hydration starter. The rest of the structure comes from starch, which means a) you don't need to worry about over-mixing to produce too much gluten, and b) it yeilds a really crispy, airy waffle.
+The only wheat flour in this recipe comes from a 50% hydration starter. The rest 
+of the structure comes from starch, which means a) you don't need to worry about 
+over-mixing to produce too much gluten, and b) it yeilds a really crispy, airy waffle.
 
 ## Ingredients:
 
@@ -38,4 +42,8 @@ The only wheat flour in this recipe comes from a 50% hydration starter. The rest
 ## Notes:
 
 - Original recipe from [Ben Starr](https://ultimatefoodgeek.com/2025/01/25/the-best-waffles-on-planet-earth-with-sourdough-option/)
+  His recipes are great, but kinda hard to read when you're quickly throwing 
+  stuff together, as he mixes ingredients, directions, and scientific explanations. 
+  That's why I transcribed it here, even though the only change I made was to use
+  metric exclusively for the weights.
 - Important: do NOT oil the waffle iron if it's non-stick. This recipe has enough fat in it to keep it from sticking.
