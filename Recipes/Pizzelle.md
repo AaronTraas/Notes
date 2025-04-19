@@ -3,7 +3,7 @@ description: Traditional Molisano wafer cookies
 category: desserts
 tags: italian, monacilioni, dessert, easter
 ingredients: flour, sugar, eggs
-#hero_image: pizzelle.jpg
+hero_image: pizzelle.jpg
 ---
 
 # Pizzelle
@@ -25,4 +25,4 @@ My zia often made these for Easter. It's a typical cookie for Easter and Christm
 
 - Mix everything together into a loose dough 
 - Preheat pizzelle iron. Brush griddle with shortening. 
-- Place about a tablespoon and press. Cook for 30-60 seconds, or until golden brown.
+- Place about a tablespoon and press. Cook for 45-90 seconds, or until slightly  browned.
