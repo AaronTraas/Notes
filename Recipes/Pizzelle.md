@@ -26,3 +26,10 @@ My zia often made these for Easter. It's a typical cookie for Easter and Christm
 - Mix everything together into a loose dough 
 - Preheat pizzelle iron. Brush griddle with shortening. 
 - Place about a tablespoon and press. Cook for 45-90 seconds, or until slightly  browned.
+
+---
+
+## Notes:
+
+- The pizzelle iron will have quite an effect on the amount of the dough you need to add, and other things. If your iron isn't super heavy, or doesn't have a way of maintaining pressure, you're going to have to press down enough to keep it flat. If you either put too much dough or don't sufficiently flatten, the pizzelle will never crisp.
+- Optional addition, if you want more anise flavor: add anise seeds to the dough. 
