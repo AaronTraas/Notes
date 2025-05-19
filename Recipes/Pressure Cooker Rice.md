@@ -20,8 +20,6 @@ I have some specific recipes that add a little style to your dish.
 
 Ever get that really fragrant basmati rice from an Indian place served with your dish, and wonder how they do it? This is not it, but it gets you 95% of the way there on a weeknight while your curry is simmering in the pan.
 
-Note: makes your kitchen smell amazing when you open the lid. Everyone present will want to eat immediately.
-
 ## Ingredients:
 
 * 1 cup basmati rice
@@ -38,3 +36,7 @@ Note: makes your kitchen smell amazing when you open the lid. Everyone present w
 2. Add rice, water, cumin, and salt to pressure cooker. Stir. Add ghee, star anise pod, and bay leaf on top.
 3. Seal pressure cooker, and pressure cook on high for 3 minutes without the "keep warm" enabled. Wait for natural release, at least 15 minutes.
 4. Open lid, remove star anise pod and bay leaf, and either discard or use for garnish. Stir with wooden spoon or plastic paddle, and serve.
+
+## Notes:
+* Makes your kitchen smell amazing when you open the lid. Everyone present will want to eat immediately.
+* Goes great with [Chicken Tikka Masala](Chicken%20Tikka%20Masala.html)
