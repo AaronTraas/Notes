@@ -3,7 +3,7 @@ description: Various cheesecake recipes.
 category: baked-goods
 tags: dessert
 ingredients: eggs, cream cheese
-#hero_image: 
+hero_image: cheesecake_tiny.jpg 
 ---
 
 # Cheesecake
