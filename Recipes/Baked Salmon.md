@@ -1,5 +1,5 @@
 ---
-description: Easy, quick, healthy, Friday-friendly dinner. 
+description: Various simple salmon dishes that can be quickly made on a weeknight. 
 category: entrees
 tags: weeknight, healthy, friday-friendly
 ingredients: salmon
@@ -54,4 +54,4 @@ Various simple baked or broiled salmon dishes that can be quickly prepared on a 
 
 ## Notes:
 
-* Originally from <https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe>. It's a  J. Kenji López-Alt recipe, so you know it's going to be good.
+* Originally from <https://www.seriouseats.com/miso-glazed-salmon-in-the-toaster-oven-recipe>. It's a  [Kenji](https://www.kenjilopezalt.com/) recipe, so you know it's going to be good.
