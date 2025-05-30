@@ -16,7 +16,7 @@ There are many different kinds of cheesecakes. The recipes here are for sweet, d
 
 # Instant Pot Cheesecake
 
-Making this in an Instant Pot or similar electric multi-cooker makes the whole thing super easy, and has a lot of advantages over an oven. You don't have to cook it in a water bath, meaning there is no chance that water will get into the springform pan, and also you don't have to deal with a quart or more of boiling water in the oven. The tiny amount of water you add to the instant pot is enough because of how tightly the environment is sealed. It also keeps a nice constant 250F, which is nice and gentle, yielding a very creamy cheesecake.
+Making this in an Instant Pot or similar electric multi-cooker makes the whole thing super easy, and has a lot of advantages over an oven. You don't have to cook it in a water bath, meaning there is no chance that water will get into the springform pan, and also you don't have to deal with a quart or more of boiling water in the oven. The tiny amount of water you add to the instant pot is enough because of how tightly the environment is sealed. It also keeps a nice constant 250°F, which is nice and gentle, yielding a very creamy cheesecake.
 
 As multiple online recipes recommend, rather than a springform pan, use a [removeable bottom cheesecake pan from Fat Daddio](https://shop.fatdaddios.com/products/cheesecake-pans). The measurements below are for a 5" pan. Double all ingredients if you want to use a 7" pan. Anything larger, you're not going to fit in a 6 quart Instant Pot.
 
@@ -94,7 +94,7 @@ Better, in my opinion, to [Casciatelli](./Casciatelli.html) themselves. More of 
 1. Roll out Casciatelli crust to be larger than the cake pan you're baking this in by 2"
 2. Add crust to  buttered and floured pan, pressing into the corners. Dock with fork.
 3. Pour filling into crust
-4. Bake at 425F for 45 minutes, or until just set
+4. Bake at 425°F for 45 minutes, or until just set
 5. Cool to room temperature. Serve.
 
 * * *
