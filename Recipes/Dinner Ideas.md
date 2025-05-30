@@ -6,7 +6,7 @@ category: entrees
 
 This is a list of easy, quick recipes with low ingredient counts that Aaron could reasonably make on a weeknight with minimal prep and minimal dishes. 
 
-- [Baked Salmon with Maple Dijon Sauce](./Maple%20Dijon%20Salmon.html)
+- [Easy Baked Salmon](./Baked%20Salmon.html)
 - ["Mexican" Black Beans](./Southwest%20Black%20Beans.html)
 - [Chicken Chasseur](#chicken-chasseur)
 - [Chicken Paprikash](./Chicken%20Paprikash.html)

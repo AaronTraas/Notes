@@ -42,6 +42,7 @@ As multiple online recipes recommend, rather than a springform pan, use a [remov
 ## Hardware
 
 * 5" (single batch) or 7" (double batch) removeable bottom cheesecake pan or springform pan
+* parchment paper, cut into a round to line the bottom of the pan, and strips to line the edges
 
 ## Directions:
 
@@ -49,34 +50,32 @@ As multiple online recipes recommend, rather than a springform pan, use a [remov
 
 1. In a bowl, mix graham crackers crumbs, brown sugar, and flour
 2. Mix in melted butter until the mixture sticks together.
-3. Line the side & bottom of cheesecake pan with parchment paper.
-4. Add graham cracker crumbs mixture to cheescake pan. Gently press down the crumbs into the bottom and flatten.
+3. Line the sides and bottom of cheesecake pan with parchment paper.
+4. Add crumbs mixture to cheescake pan. Gently press down the crumbs into the bottom and flatten.
 5. Blind-bake crust in a 325°F oven for 15 minutes. Cool completely.
 
 **Batter**
 
 1. Add white sugar, cornstarch, and salt together in a small bowl. Mix to combine.
-2. To a second, larger bowl, add cream cheese and mix with electric hand mixer for 10 seconds with a hand on low speed.
+2. To a second, larger bowl, add cream cheese, sour cream, and vanilla and mix with electric hand mixer for 10 seconds with a hand on low speed.
 3. Add in half the sugar mixture to cream cheese and continue to beat on low speed until just incorporated. Add remaining sugar mixture and continue to beat on low speed until just incorporated.
-4. Add sour cream and vanilla extract to the cream cheese mixture. Continue to beat until just incorporated.
-5. Add egg(s) one at a time. Continue to beat until just incorporated.
-6. Add batter to fully cooled pan with crust.
-7. Tap the pan against the counter to let air bubbles rise to the surface. Pop any visible bubbles. Repeat until satisfied.
+4. Add egg(s) one at a time. Continue to beat until just incorporated.
+5. Add batter to fully cooled pan with crust.
+6. Tap the pan against the counter to let air bubbles rise to the surface.
 
 **Cook, cool, and serve**
 
-1. Place a steamer rack in pressure cooker. 
-2. Pre-heat pressure cooker on Saute mode for 5 minutes.
-3. Add 1 cup (250ml) of boiling water to pressure cooker. 
-4. Add cheesecake pan on the steamer rack in pressure cooker.
-5. Seal, and pressure cook for 28 minutes. Wait for natural release. Wait a totaly of 20 minutes or so before opening.
-6. Remove from pressure cooker. Place cheesecake on a wire rack to cool to room temperature.
-7. After cooling for 10 – 15 minutes, carefully run a thin paring knife between the sidewall and parchment paper to release the cheesecake from the pan. 
-8. Chill cheesecake in the refrigerator for at least 4 hours (preferably overnight).
+1. Add 1 cup of boiling water to pressure cooker. 
+2. Pre-heat pressure cooker covered on "saute" mode for 5-10 minutes.
+3. Add cheesecake pan on the steamer rack in pressure cooker.
+4. Seal, and pressure cook for 28 minutes. Wait for natural release. Wait a total of 20 minutes or so before opening.
+5. Remove from pressure cooker. Place cheesecake on a wire rack to cool to room temperature.
+6. After cooling for 15 minutes, run a thin paring knife between the pan and parchment. 
+7. Chill cheesecake in the refrigerator for at least 4 hours (preferably overnight).
 
 ## Notes:
 
-* Original recipe: <https://www.pressurecookrecipes.com/instant-pot-cheesecake-new-york/>
+* Original recipe: <https://www.pressurecookrecipes.com/instant-pot-cheesecake-new-york/>, which appears to be similar to [Junior's cheesecake recipe](https://www.food.com/recipe/juniors-famous-cheesecake-17927), but sour cream is used instead of heavy cream, and the ratios are a little different. And this uses a graham cracker crust, which I prefer and is easier.
 
 * * *
 
