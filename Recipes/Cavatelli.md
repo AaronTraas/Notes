@@ -1,6 +1,6 @@
 ---
 description: Hearty little curled fresh pasta typical to much of southern Italy. 
-category: sides
+category: entrees
 tags: italian, monacilioni
 ingredients: pasta, flour
 ---
