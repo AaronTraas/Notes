@@ -14,7 +14,27 @@ What I do have is an Instant Pot. The "Rice" button on the device does a terribl
 
 I have some specific recipes that add a little style to your dish.
 
----
+
+* * *
+
+# Basic Long Grain Rice
+
+Works with most long/medium grain rice. Basmati, Jasmine, Carolina, etc. 
+
+## Ingredients:
+
+* 1 cup  rice
+* 1 cup water
+* 1/2 teaspoon kosher salt
+
+## Directions:
+
+1. Wrinse rice under cold water to wash the starch off. Repeat until water runs clear. Drain.
+2. Add rice, water, and salt to pressure cooker. Stir. 
+3. Seal pressure cooker, and pressure cook on high for 3 minutes without the "keep warm" enabled. Wait for natural release, at least 15 minutes.
+4. Open lid, fluff with wooden spoon or plastic paddle, and serve.
+
+* * *
 
 # Indian Restaurant Rice
 
@@ -40,3 +60,9 @@ Ever get that really fragrant basmati rice from an Indian place served with your
 ## Notes:
 * Makes your kitchen smell amazing when you open the lid. Everyone present will want to eat immediately.
 * Goes great with [Chicken Tikka Masala](Chicken%20Tikka%20Masala.html)
+
+* * *
+
+# Sushi Rice
+
+<https://thefoodieeats.com/instant-pot-sushi-rice-recipe/#recipe>
