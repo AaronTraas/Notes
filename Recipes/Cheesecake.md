@@ -26,7 +26,7 @@ As multiple online recipes recommend, rather than a springform pan, use a [remov
 
 * 4 (60g) graham crackers, finely ground
 * 2 tablespoons salted butter, melted
-* 2 teaspoons brown sugar
+* 2 teaspoons (10g) brown sugar
 * 14g all-purpose flour 
 
 **Cheesecake Batter:**
