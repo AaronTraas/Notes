@@ -8,6 +8,8 @@ ingredients: chicken, yougurt, garam-masala
 
 # Chicken Tikka Masala
 
+Work in progress. 
+
 ## Ingredients:
 
 **Faux Tandoori Chicken:** 
@@ -17,6 +19,7 @@ ingredients: chicken, yougurt, garam-masala
   * 3 medium onions
 
 **Marinade:** 
+
   * 1 cup greek yogurt
   * 5 cloves garlic, grated or minced fine
   * 1 teaspoon grated fresh ginger

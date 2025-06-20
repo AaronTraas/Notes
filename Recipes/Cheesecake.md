@@ -24,10 +24,10 @@ As multiple online recipes recommend, rather than a springform pan, use a [remov
 
 **Crust:**
 
-* 4 (60g) graham crackers, finely ground
+* 3 (36g) graham crackers, finely ground
 * 2 tablespoons salted butter, melted
 * 2 teaspoons (10g) brown sugar
-* 14g all-purpose flour 
+* 12g all-purpose flour 
 
 **Cheesecake Batter:**
 
@@ -68,7 +68,7 @@ As multiple online recipes recommend, rather than a springform pan, use a [remov
 1. Add 1 cup of boiling water to pressure cooker. 
 2. Pre-heat pressure cooker covered on "saute" mode for 5-10 minutes.
 3. Add cheesecake pan on the steamer rack in pressure cooker.
-4. Seal, and pressure cook for 28 minutes. Wait for natural release. Wait a total of 20 minutes or so before opening.
+4. Seal, and pressure cook for 28 minutes. Wait for natural release. Wait a total of 10 minutes or so before opening.
 5. Remove from pressure cooker. Place cheesecake on a wire rack to cool to room temperature.
 6. After cooling for 15 minutes, run a thin paring knife between the pan and parchment. 
 7. Chill cheesecake in the refrigerator for at least 4 hours (preferably overnight).

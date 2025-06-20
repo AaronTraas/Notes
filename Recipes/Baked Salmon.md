@@ -1,7 +1,7 @@
 ---
 description: Various simple salmon dishes that can be quickly made on a weeknight. 
 category: entrees
-tags: weeknight, healthy, friday-friendly
+tags: weeknight, healthy, friday-friendly, linda
 ingredients: salmon
 ---
 
