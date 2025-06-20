@@ -1,10 +1,19 @@
 ---
-description: Crispy sourdough buttermilk waffles
+description: Various waffle recipes
 category: breakfast
 tags: breakfast, friday-friendly
-ingredients: eggs, flour, buttermilk
+ingredients: eggs, flour, buttermilk, linda
 hero_image: tiramisu_waffle.jpg
 ---
+
+# Waffles
+
+This page has multiple waffle recipes:
+
+1. [Sourdough Buttermilk Waffles](#sourdough-buttermilk-waffles)
+2. [Linda's Waffles](#lindas-waffles)
+
+* * *
 
 # Sourdough Buttermilk Waffles 
 
@@ -37,8 +46,6 @@ over-mixing to produce too much gluten, and b) it yeilds a really crispy, airy w
 4. Pre-heat waffle iron. Add waffle batter to iron ***without any cooking oil***, and cook until steam subsides.
 5. Store on wire rack in 200°F oven until ready to serve.
 
---- 
-
 ## Notes:
 
 - Original recipe from [Ben Starr](https://ultimatefoodgeek.com/2025/01/25/the-best-waffles-on-planet-earth-with-sourdough-option/)
@@ -47,3 +54,9 @@ over-mixing to produce too much gluten, and b) it yeilds a really crispy, airy w
   That's why I transcribed it here, even though the only change I made was to use
   metric exclusively for the weights.
 - Important: do NOT oil the waffle iron if it's non-stick. This recipe has enough fat in it to keep it from sticking.
+
+* * *
+
+# Linda's Waffles
+
+Coming soon
