@@ -1,8 +1,8 @@
 ---
 description: Various waffle recipes
 category: breakfast
-tags: breakfast, friday-friendly
-ingredients: eggs, flour, buttermilk, linda
+tags: breakfast, friday-friendly, linda
+ingredients: eggs, flour, buttermilk
 hero_image: tiramisu_waffle.jpg
 ---
 
