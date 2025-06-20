@@ -9,7 +9,7 @@ ingredients: lemons
 
 Linda's lemon bars. Modified from [Joy of Baking's](https://www.joyofbaking.com/LemonBars.html) recipe.
 
-**NOTE** Linda always makes a 1.5x recipe, and doubles the lemon juice/zest from the original recipes. The quantities are updated to reflect this.
+**NOTE TO LINDA**: as you always makes a 1.5x recipe, and doubles the lemon juice/zest from the original recipes. The quantities are updated to reflect this.
 
 ## Ingredients
 
