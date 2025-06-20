@@ -57,7 +57,7 @@ Linda's lemon bars. Modified from [Joy of Baking's](https://www.joyofbaking.com/
 **Assemble and Bake:**
 
 14. Pour the filling over the shortbread crust 
-15. Bake for about 18-20 minutes, or just until the filling has set. 
+15. Bake for 18–20 minutes, or just until the filling has set. 
 16. Remove from oven and cool on a wire rack to room temperature. 
 17. Refrigerate the bars for about one hour or until firm. 
 18. Cut into squares and dust with powdered sugar. 
