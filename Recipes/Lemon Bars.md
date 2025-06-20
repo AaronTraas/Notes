@@ -34,12 +34,12 @@ Linda's lemon bars. Modified from [Joy of Baking's](https://www.joyofbaking.com/
 
 **Prep:** 
 
-1. Preheat your oven to 350°F. 
-2. Line an 9x13 inch baking pan with foil or parchment paper, and butter the foil or parchment.
+1. Preheat oven to 350°F. 
+2. Line 9x13 inch baking pan with foil or parchment paper, and butter the foil or parchment.
 
 **Shortbread Crust:** 
 
-3. Add butter to  electric stand mixer fitted with the paddle attachment, beat until smooth. 
+3. Add butter to electric stand mixer with the paddle attachment, beat until smooth. 
 4. Add the sugar and beat until creamy. 
 5. Add the flour and salt and beat until the dough starts to come together. 
 6. Press into the bottom of pan.
