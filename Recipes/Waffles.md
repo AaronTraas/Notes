@@ -48,7 +48,7 @@ over-mixing to produce too much gluten, and b) it yeilds a really crispy, airy w
 
 ## Notes:
 
-- Original recipe from [Ben Starr](https://ultimatefoodgeek.com/2025/01/25/the-best-waffles-on-planet-earth-with-sourdough-option/)
+- Original recipe from [Ben Starr](https://ultimatefoodgeek.com/2025/01/25/the-best-waffles-on-planet-earth-with-sourdough-option/). 
   His recipes are great, but kinda hard to read when you're quickly throwing 
   stuff together, as he mixes ingredients, directions, and scientific explanations. 
   That's why I transcribed it here, even though the only change I made was to use
