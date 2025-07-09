@@ -1,6 +1,6 @@
 ---
 category: sides
-tags: healthy, friday-friendly
+tags: healthy, friday-friendly, gluten-free
 ingredients: chickpeas, tahini, garlic
 ---
 
