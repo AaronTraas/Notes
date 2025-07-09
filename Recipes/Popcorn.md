@@ -1,7 +1,7 @@
 ---
 description: Various popcorn recipes, likely all involving a wok. 
 category: sides
-tags: snack, sides
+tags: snack, sides, gluten-free
 ingredients: popcorn
 hero_image: pepcorn.jpg 
 ---
