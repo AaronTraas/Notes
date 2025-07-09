@@ -13,8 +13,15 @@ General strategy is to make stuff that's naturally gluten free -- mostly, no bre
 - Spice blends
 - Soy sauce
 
+### Ideal Substitutions
+
+- Pasta - Jovial and Banza brands
+
 ### Recipes that are naturally gluten-free
 
+{% assign sections = 'Recipes' | split: ',' -%}
+{% assign filter_tag = 'gluten-free' -%}
+{% include site_index.html -%}
 
 
 * * *
