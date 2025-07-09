@@ -1,7 +1,7 @@
 ---
 description: A tasty, healthy, and idiot-proof way to prepare chicken breast.
 category: sides
-tags: meat, sous-vide, healthy
+tags: meat, sous-vide, healthy, gluten-free
 ingredients: chicken
 hero_image: chicken_chashu.png
 ---
