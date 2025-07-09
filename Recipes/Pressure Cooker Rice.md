@@ -1,7 +1,7 @@
 ---
 description: Various rice preparations using a modern pressure cooker.
 category: sides
-tags: instant-pot
+tags: instant-pot, gluten-free
 ingredients: rice
 hero_image: indian_rice.jpg
 ---

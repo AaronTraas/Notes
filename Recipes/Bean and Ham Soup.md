@@ -1,7 +1,7 @@
 ---
 description: Simple and hearty soup. Great way of making a second meal out of spiral-sliced ham.
 category: entrees
-tags: soup-stew-casserole
+tags: soup-stew-casserole, gluten-free
 ingredients: ham, mire-poix, beans
 ---
 
