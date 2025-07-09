@@ -2,7 +2,7 @@
 description: French meaty bean casserole. Warming, filling, and satisfying. 
 category: entrees
 tags: main-dish, soup-stew-casserole
-ingredients: sausage, chicken, pork-shoulder, beans
+ingredients: sausage, chicken, pork-shoulder, beans, gluten-free
 hero_image: cassoulet.jpg
 ---
 
@@ -28,7 +28,7 @@ In development. Based roughly on [Adam Ragusea's method](https://www.youtube.com
 * 2 sprigs rosemary
 * 3 sprigs thyme 
 * 2 bay leaves
-* salt and peppe   spoon or silicone spatula
+* salt and pepper
 
 ## Directions:
 
