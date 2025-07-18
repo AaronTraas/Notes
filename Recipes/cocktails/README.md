@@ -12,7 +12,7 @@ Cocktail recipes I use, but not necessarily created, that are a little outside t
 
 ## Cocktails to develop
 
-*** From Kalahari:
+### From Kalahari:
 
 Note, these were made in their tall 24oz cups over ice. 
 
