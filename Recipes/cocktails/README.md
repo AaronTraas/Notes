@@ -14,8 +14,6 @@ Cocktail recipes I use, but not necessarily created, that are a little outside t
 
 ### From Kalahari
 
-![Kalahari Cocktails](../../images/kalahari-cocktails.jpg)
-
 Note, these were made in their tall 24oz cups over ice. Descriptions: [Kalahari Drink Menu PDF](https://www.kalahariresorts.com/media/lepayhnz/pa-cabana-drink-menu-115x11-050624_.pdf)
 
 **Captain's Coco** 
