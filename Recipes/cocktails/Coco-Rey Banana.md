@@ -35,6 +35,6 @@ This was an excellent drink that a number of us had at Kalahari.
 - [Youtube video with recipe](https://www.youtube.com/watch?v=7tsNY-vKvXQ). Ingredient amounts are from that. It also says to garnish with pineapple spear, pineapple leaf, and grape... by I think a quality maraschino cherry would be better than the grape.
 - Ratios unknown; did not observe the bartender making the drink. 
 - Assuming, as it calls for both piña colada mix and pineapple juice, just coconut cream and pineapple in slightly larger portion? 
-- Reviews of SelvaRay rum basically state and it’s evidently good, but nothing too special. Any decent, very smooth white rum with character would do.
+- Reviews of SelvaRay white rum basically state and it’s evidently good, but nothing too special. Any decent, very smooth white rum with character would do. The SelvaRey coconut is a bit more alcoholic than Malibu, at 30% ABV. 
 - I’ve not ever stocked banana liqueur, but various online sources I trust say Tempus Fugit is the way to go.
 - Linda and Aaron loved this.
