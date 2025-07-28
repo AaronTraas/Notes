@@ -77,7 +77,7 @@ scripts: search.js
   {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
   {%- assign section = segments | first -%}
   {%- if section == section_dir %}
-    {%- if segments contains 'Untested' -%}
+    {%- if page.index == 'hidden' and show_hidden != 'True' -%}
     {%- else -%}
       {%- if page_blacklist contains page.name -%}
       {%- else -%}
