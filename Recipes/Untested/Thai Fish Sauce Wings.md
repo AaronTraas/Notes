@@ -1,3 +1,8 @@
+---
+tags: untested
+index: hidden
+---
+
 # _UNTESTED_ Thai Fish Sauce Wings
 
 ## Ingredients:

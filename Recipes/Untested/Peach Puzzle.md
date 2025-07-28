@@ -1,3 +1,8 @@
+---
+tags: untested
+index: hidden
+---
+
 # Peach puzzle
 
 ![peach_puzzle.png](../../images/peach_puzzle.png)

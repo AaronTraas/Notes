@@ -1,5 +1,4 @@
 {%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
-
 {%- assign section_dir = 'Recipes' -%}
 <ul class="recipe-cards">
   {% assign sortedPages = site.pages | sort: 'title' -%}
@@ -7,7 +6,7 @@
     {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
     {%- assign section = segments | first -%}
     {%- if section == section_dir %}
-      {%- if segments contains 'Untested' or page.index == 'hidden' and show_hidden != True -%}
+      {%- if page.index == 'hidden' and show_hidden != 'True' -%}
       {%- else -%}
         {%- if page_blacklist contains page.name -%}
         {%- else -%}
@@ -63,5 +62,4 @@
 {%- assign hide_description = nil -%}
 {%- assign filter_tag = nil %}
 {%- assign force_section = nil %}
-{%- assign show_hidden = nil %}
 

@@ -62,6 +62,13 @@ I don't make a whole lot of desserts or sweets. Up until my late 40's, I didn't 
 {% assign filter_tag = 'dessert' -%}
 {% include recipe_links.html -%}
 
+## Friday-Friendly
+
+As observant Catholics, we abstain from eat meat on Fridays in our household. And yes, we do this year round. This is still in effect, per [Can. 1251](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann1244-1253_en.html). Some of these recipes are vegitarian, some par pescitarian, some are neither. [Per the USCCB](https://www.usccb.org/prayer-worship/liturgical-year/lent), broth, rendered fat, gelatin, etc. are not considered meat for purposes of this discipline. Fish and other sea creatures likewise are not considered meat.
+
+{% assign filter_tag = 'friday-friendly' -%}
+{% include recipe_links.html -%}
+
 ## Easter
 {% assign filter_tag = 'easter' -%}
 {% include recipe_links.html -%}
@@ -91,12 +98,10 @@ This is a list of recipes I haven't categorized yet, or don't make sense in any 
 This is a list of things I've not tried, but want to:
 
 - **Sides**
-  - [Parmesan Roasted Cauliflower](https://tasty.co/recipe/parmesan-roasted-cauliflower)
   - [Khachapuri (Georgian Cheese Bread)](https://www.allrecipes.com/recipe/272625/khachapuri-georgian-cheese-bread/)
 - **Entrees**
   - [Pork Meatball Bahn Mi](https://www.youtube.com/watch?v=I4ycWq9v1SM)
   - [Tandoori Chicken and Naan](https://youtu.be/uHL5mOzzhH4?si=9c8FF-wi4TjNSziq)
-  - [Spinach and Cheese Strata](https://smittenkitchen.com/2009/12/spinach-and-cheese-strata/) - recommended by Linda
   - [Hunter's Chicken](https://youtu.be/yMVGR3ibVvs?si=Wyd0WOFdz9yoA1z6)
   - [Crawfish Pie](/93c5ca05cd51428926d197e6d4a2d050.jpg) - from my dad
   - [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)

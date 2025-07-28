@@ -3,7 +3,7 @@
 Aaron's archive of Linda's recipes.
 
 {% assign filter_tag = 'linda' -%}
-{% assign show_hidden = True -%}
+{% assign show_hidden = 'True' -%}
 {% include recipe_links.html -%}
 
 * * *

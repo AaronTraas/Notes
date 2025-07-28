@@ -4,6 +4,7 @@ category: desserts
 tags: untested
 ingredients: eggs, flour, cocoa powder
 #hero_image:  
+index: hidden
 ---
 
 # Stovetop Chocolate Cake
