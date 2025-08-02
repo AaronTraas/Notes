@@ -4,5 +4,5 @@ run:
 dep: dependencies
 deps: dependencies
 dependencies:
-	sudo bundle install
+	bundle install
 
