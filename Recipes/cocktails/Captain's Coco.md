@@ -14,7 +14,7 @@ This recipe is a starting point.
 
 ## Ingredients:
 
-- 1oz Captain Morgan spiced rum
+- 2oz Captain Morgan spiced rum
 - 1oz orange juice 
 - 1oz pineapple juices
 - 1oz coconut cream
