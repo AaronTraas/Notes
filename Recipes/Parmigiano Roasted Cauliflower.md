@@ -1,7 +1,7 @@
 ---
 description: Simple and delicious preparation of cauliflower.
 category: sides
-tags: sides, linda
+tags: sides, friday-friendly, linda
 ingredients: cauliflower
 ---
 
