@@ -1,5 +1,5 @@
 ---
-description: Linda's preferred hamburger recipe.
+description: Linda's preferred burger recipe.
 category: entrees
 tags: meat, linda
 ingredients: ground-beef
@@ -8,10 +8,12 @@ index: hidden
 
 # Linda's Burgers
 
+Linda's preferred hamburger recipe.
+
 ## Ingredients
-- 2 lb ground beef
-- ½ cup crushed saltine crackers or panko breadcrumbs
-- 1 large egg
+- 2 lb 80% lean ground beef
+- ½ cup panko breadcrumbs or crushed saltine crackers
+- 1 large egg, beaten
 - 2 tbsp Worcestershire sauce
 - 2 tbsp milk
 - 1 tsp salt

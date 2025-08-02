@@ -11,10 +11,13 @@ ingredients: cauliflower
 
 ## Ingredients:
 
+*Breaded cauliflower*
+- 1 head cauliflower, chopped into bite-size florets
 - 1 cup all-purpose flour
 - 2 cups panko breadcrumbs
 - 3 large eggs, beaten
-- 1 head cauliflower, chopped into bite-size florets
+
+*Sauce*
 - 2/3 cup honey
 - 1/3 cup soy sauce
 - 4 garlic cloves, minced
@@ -23,7 +26,9 @@ ingredients: cauliflower
 - 2 tsp. red pepper flake
 - 1/2 cup water
 - 4 tsp. corn starch
-- 1/4 cup sliced scallions (garnish)
+
+*Garnish*
+- 1/4 cup sliced scallions
 
 ## Directions
 
