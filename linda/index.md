@@ -9,3 +9,10 @@ Aaron's archive of Linda's recipes.
 * * *
 
 <a class="button search" href="./Recipes/search/">All Recipe Search</a>
+
+* * *
+
+## Linda's favorite recipes that Aaron makes
+
+{% assign filter_tag = 'lin-favorite' -%}
+{% include recipe_links.html -%}

@@ -21,5 +21,11 @@
   <li><a href="{{ section_dir | append: '/search/#?category=' | append: category }}">{{ category | replace: '-', ' ' | capitalize }}</a></li>
     {%- endfor %}
 </ul>
-  {% endif -%}     
+    {% if current_section == 'Recipes' %}
+<hr />
+<ul>
+  <li><a href="/linda/">Linda's Recipes</a></li>
+</ul>
+    {% endif -%}
+  {% endif -%}
 {%- endfor -%}
