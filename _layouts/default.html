@@ -36,6 +36,13 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
+          {% assign path_pieces = page.path | split: '/' | pop -%}
+          {% assign whole_path = site.url -%}
+          <a href="{{ whole_path }}">Notes</a>
+          {%- for piece in path_pieces -%}
+            {% assign whole_path = whole_path | append: '/' | append: piece %}
+            / <a href="{{ whole_path | relative_url }}">{{piece}}</a>
+          {% endfor -%}
           {% if page.hero_image != nil -%}
             {% assign content_pieces = content | split: "</h1>" %}
             {% assign content_pieces_count = content_pieces | size %}

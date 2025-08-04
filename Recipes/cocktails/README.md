@@ -9,7 +9,7 @@ Cocktail recipes I use, but not necessarily created, that are a little outside t
 
 * * * 
 
-## Cocktails to develop
+## Cocktails Aaron is testing and developing
 
 {% assign filter_tag = 'experimental-drinks' -%}
 {% assign show_hidden = 'True' -%}
