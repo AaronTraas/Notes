@@ -11,10 +11,6 @@ Cocktail recipes I use, but not necessarily created, that are a little outside t
 
 ## Cocktails to develop
 
-### From Kalahari
-
-Note, these were made in their tall 24oz cups over ice. Descriptions: [Kalahari Drink Menu PDF](https://www.kalahariresorts.com/media/lepayhnz/pa-cabana-drink-menu-115x11-050624_.pdf)
-
-{% assign filter_tag = 'kalahari' -%}
+{% assign filter_tag = 'experimental-drinks' -%}
 {% assign show_hidden = 'True' -%}
 {% include recipe_links.html -%}

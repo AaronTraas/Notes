@@ -15,7 +15,7 @@ This recipe as follows gets about 90% of the way there. Still in progress.
 
 - 1 oz aged white rum
 - 1 oz coconut rum
-- 3/4 oz Tempus Fugit Banana liqueur
+- ¾ oz Tempus Fugit Banana liqueur
 - 1 oz cream of coconut
 - 1.5 oz pineapple juice
 - 1 oz orange juices

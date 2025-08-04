@@ -11,12 +11,12 @@ ingredients: rum
 
 - 4 ounces (1 stick) butter, room temperature
 - 8 ounces dark brown sugar
-- 1/4 teaspoon ground cloves
-- 1/4 teaspoon freshly grated nutmeg
-- 1/2 teaspoon ground cinnamon
-- 1/4 teaspoon ground allspice
-- 1/4 teaspoon ground ginger
-- 1/8 teaspoon ground cardamom
+- ¼ teaspoon ground cloves
+- ¼ teaspoon freshly grated nutmeg
+- ½ teaspoon ground cinnamon
+- ¼ teaspoon ground allspice
+- ¼ teaspoon ground ginger
+- ⅛ teaspoon ground cardamom
 
 ## Directions:
 
@@ -31,7 +31,7 @@ ingredients: rum
 ## Ingredients
 
 - 5 oz boiling water 
-- 1.5 oz dark or demerara or aged rum (see notes)
+- 1½ oz dark or demerara or aged rum (see notes)
 - 1 oz hot buttered rum batter (see above)
 
 ## Directions:
