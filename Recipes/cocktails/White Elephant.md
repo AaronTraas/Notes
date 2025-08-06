@@ -10,9 +10,9 @@ index: hidden
 
 ## Ingredients:
 
-- 2 oz Rhum Agrucike ir itger cane juice rum
+- 2 oz rhum agricole or other cane juice rum
 - 1½ oz Thai coconut syrup
-- 1oz lime juice
+- 1 oz lime juice
 
 ## Directions:
 
@@ -29,7 +29,7 @@ index: hidden
 
 - 1 can Coconut Milk (400 mL)
 - 382 grams granulated sugar (a little less than 2 cups)
-- 60 grams chopped ginger (about 2 oz)
+- 60 grams chopped ginger
 - 2 tbsp chopped cilantro
 - 1 thai chili or chili de arbol
 
