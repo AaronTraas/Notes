@@ -7,3 +7,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - github-pages
+
+baseurl: /Notes
+url: /Notes
