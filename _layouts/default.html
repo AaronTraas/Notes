@@ -37,11 +37,11 @@
       <div class="inner clearfix">
         <section id="main-content">
           {% assign path_pieces = page.path | split: '/' | pop -%}
-          {% assign whole_path = site.url -%}
+          {% assign whole_path = site.base_url -%}
           <a href="{{ whole_path }}">Notes</a>
           {%- for piece in path_pieces -%}
             {% assign whole_path = whole_path | append: '/' | append: piece %}
-            / <a href="{{ whole_path | relative_url }}">{{piece}}</a>
+            / <a href="{{ whole_path }}/">{{piece}}</a>
           {% endfor -%}
           {% if page.hero_image != nil -%}
             {% assign content_pieces = content | split: "</h1>" %}
