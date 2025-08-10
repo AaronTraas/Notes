@@ -32,6 +32,8 @@ This drink is all spirit, but somehow doesn't taste as boozy as either ingredien
 
 My preferred variant. A bit drier and more robust. The only difference is the ratio. Strong and straight-forward, yet soft and sweet, like the bold and beautiful love of my life, Linda. 
 
+Use this variant if you have a particularly nice cognac you want to appreciate and shine through.
+
 ## Ingredients:
 
 - 2 oz quality VSOP or older Cognac 
