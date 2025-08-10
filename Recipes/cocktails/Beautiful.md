@@ -1,5 +1,5 @@
 ---
-description: Perfectly balanced, super-easy spirit forward cognac cocktail. 
+description: Perfectly balanced, super-easy spirit-forward cognac cocktail. 
 category: beverages
 tags: cocktails
 ingredients: cognac, grand-marinier
