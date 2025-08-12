@@ -6,13 +6,13 @@ ingredients: keilbasa
 #hero_image: 
 ---
 
-# Bacon Wrapped Kielbasa Bites with Brown Sugar Glaze
+# Bacon Wrapped Glazed Kielbasa
 
 ## Ingredients
 
 - 1 lb. kielbasa
 - 10 slices bacon
-- 1 1/2 C brown sugar packed
+- 1½ cups brown sugar, packed
 - 3 Tbsp stone-ground mustard
 - 3 Tbsp white wine vinegar
 - 1 Tbsp black pepper

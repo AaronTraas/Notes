@@ -14,7 +14,7 @@ Sweet fall drink. Not really sangria, but tastes like caramel apples. Also, does
 
 - 2 oz Apple Cider
 - 1 oz White wine
-- 1/2 oz Caramel Vodka
+- ½ oz Caramel Vodka
 
 ### Garnish
 
