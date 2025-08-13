@@ -3,6 +3,7 @@ description: Modern pineapple coconut tiki drink from Kalahari.
 category: beverages
 tags: cocktails, tiki, kalahari
 ingredients: rum, pineapple, coconut
+hero_image: white_elephant.jpg
 ---
 
 # Captain's Coco 

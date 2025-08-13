@@ -1,8 +1,9 @@
 ---
 description: My take on the Mai Tai
 category: beverages
-tags: cocktails, tiki
+tags: cocktails, tiki, experimental-drinks
 ingredients: rum, orgeat
+index: hidden
 ---
 
 # Mai Tai

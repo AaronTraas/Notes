@@ -1,8 +1,9 @@
 ---
 description: A rich and complex coconut/banana tiki drink. 
 category: beverages
-tags: cocktails, kalahari
+tags: cocktails, kalahari, lin-favorite
 ingredients: rum, pineapple, coconut
+hero_image: coco_rey_banana.jpg
 ---
 
 # Coco-Rey Banana 
