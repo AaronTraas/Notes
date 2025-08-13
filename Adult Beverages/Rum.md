@@ -13,3 +13,11 @@ Though these claim to be coconut rums, they are low proof (usually around 20% AB
 Malibu > Hampton Bay > Largo Bay
 
 Honestly, it's not worth the savings to buy the off brands. Of course, I need to try more. 
+
+* * *
+
+## Rum Coctails
+
+{% assign filter_tag = 'cocktails' -%}
+{% assign filter_ingredient = 'rum' -%}
+{% include recipe_links.html -%}

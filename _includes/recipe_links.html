@@ -16,22 +16,23 @@
             {%- assign page_description = '' -%}
           {%- endif -%}
           {%- if filter_tag == nil or page.tags contains filter_tag or filter_tag == "NONE" and page.tags == nil -%}
-          {%- if page.tags -%}
-            {%- assign tags = page.tags | remove: " " | split: ',' | sort -%}
-          {%- else -%}
-            {%- assign tags = 'none' -%}
-          {%- endif -%}
-          {%- if page.ingredients -%}
-            {%- assign ingredients = page.ingredients | remove: " " | split: ',' | sort -%}
-          {%- else -%}
-            {%- assign ingredients = 'none' -%}
-          {%- endif -%}
-          {%- if page.hero_image -%}
-            {%- assign recipe_image_url = '/images/' | append: page.hero_image | relative_url -%}
-            {%- assign recipe_style = 'style="background-size: cover; background-image: url(' | append: recipe_image_url | append: ')"' -%}
-          {%- else -%}
-            {%- assign recipe_style = '' -%}
-          {%- endif -%}
+            {%- if filter_ingredient == nil or page.ingredients contains filter_ingredient -%}
+              {%- if page.tags -%}
+                {%- assign tags = page.tags | remove: " " | split: ',' | sort -%}
+              {%- else -%}
+                {%- assign tags = 'none' -%}
+              {%- endif -%}
+              {%- if page.ingredients -%}
+                {%- assign ingredients = page.ingredients | remove: " " | split: ',' | sort -%}
+              {%- else -%}
+                {%- assign ingredients = 'none' -%}
+              {%- endif -%}
+              {%- if page.hero_image -%}
+                {%- assign recipe_image_url = '/images/' | append: page.hero_image | relative_url -%}
+                {%- assign recipe_style = 'style="background-size: cover; background-image: url(' | append: recipe_image_url | append: ')"' -%}
+              {%- else -%}
+                {%- assign recipe_style = '' -%}
+              {%- endif -%}
   <li>
     <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
       <div class="text">
@@ -53,6 +54,7 @@
       </div>
     </a>
   </li>
+          {% endif -%}
         {% endif -%}
       {%- endif -%}
     {%- endif -%}
@@ -61,5 +63,6 @@
 </ul>
 {%- assign hide_description = nil -%}
 {%- assign filter_tag = nil %}
+{%- assign filter_ingredient = nil %}
 {%- assign force_section = nil %}
 

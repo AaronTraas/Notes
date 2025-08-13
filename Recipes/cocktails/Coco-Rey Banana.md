@@ -17,7 +17,7 @@ This recipe as follows gets about 90% of the way there. Still in progress.
 - 1 oz aged rum
 - 1 oz coconut rum (e.g. Plateray Cut & Dry)
 - ¾ oz Banana liqueur (e.g., Tempus Fugit Crème de Banane)
-- 1 oz cream of coconut
+- 1 oz [cream of coconut](../Syrups.html#cream-of-coconut)
 - 1½ oz pineapple juice
 - 1 oz orange juices
 - ½ oz grenadine

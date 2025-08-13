@@ -2,7 +2,7 @@
 description: Warming drink for a cold night. 
 category: beverages
 tags: cocktails
-ingredients: whiskey
+ingredients: scotch-whisky
 ---
 
 # Hot Toddy 
@@ -12,7 +12,7 @@ Classic warming cocktail. Honey, lemon, and hot water are great for a cough. Add
 ## Ingredients:
 
 - 5 oz boiling water 
-- 2 oz Scotch whiskey (see notes)
+- 2 oz Scotch whisky (see notes)
 - 1/2 lemon
 - 1 tsp honey
 - (optional) small chunk crystalized ginger
