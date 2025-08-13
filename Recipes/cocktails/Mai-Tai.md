@@ -10,11 +10,11 @@ index: hidden
 
 ## Ingredients:
 
-- 2oz Blended Aged Rum (ideally, Denizen Merchant Reserve)
-- 1/2oz Dry Curaçao
-- 3/4oz Orgeat
-- 1/4oz [rich demarara syrup](../Syrups.html#rich-demerara-syrup) (see notes)
-- 3/4oz Lime Juice
+- 2 oz Blended Aged Rum (ideally, Denizen Merchant Reserve)
+- ½ oz Dry Curaçao
+- ¾ oz Orgeat
+- ¼ oz [rich demarara syrup](../Syrups.html#rich-demerara-syrup) (see notes)
+- ¾ oz Lime Juice
 - 1 drop vanilla extract
 - 1 drop 5:1 saline
 - Spent Lime Shell and Mint Sprig Garnish

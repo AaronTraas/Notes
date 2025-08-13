@@ -17,7 +17,7 @@ And yeah, this is basically a painkiller with Morgan's rather than an aged rum, 
 - 2oz Captain Morgan spiced rum
 - 1oz orange juice 
 - 1oz pineapple juices
-- 1oz coconut cream
+- 1oz [cream of coconut](../Syrups.html#cream-of-coconut)
 - nutmeg
 - shredded coconut (optional)
 

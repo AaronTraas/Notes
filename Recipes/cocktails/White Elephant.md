@@ -8,10 +8,14 @@ hero_image: white_elephant.jpg
 
 # White Elephant
 
+Boozy Thai coconut curry in a glass. Bold, flavorful, complex, and elegant. Probably the best tiki drink I've had.
+
+The key is the Thai cocounut syrup -- the coconut milk, ginger, cilantro, and chilis really balance well. I was most sceptical of the cilantro, but it really works. It's important that you have the syrup age in the fridge for 1-2 days. It mellows the cilantro and brings out the ginger and chilis.
+
 ## Ingredients:
 
 - 2 oz rhum agricole or other cane juice rum
-- 1½ oz Thai coconut syrup
+- 1½ oz [Thai coconut syrup](../Syrups.html#thai-coconut-syrup)
 - 1 oz lime juice
 
 ## Directions:
@@ -21,26 +25,3 @@ hero_image: white_elephant.jpg
 3. Pour in glass. Top with ice.
 4. Garnish with lime wheel and pineapple frond.
 
-* * *
-
-# Thai Coconut Syrup
-
-## Ingredients:
-
-- 1 can Coconut Milk (400 mL)
-- 382 grams granulated sugar (a little less than 2 cups)
-- 60 grams chopped ginger
-- 2 tbsp chopped cilantro
-- 1 thai chili or chili de arbol
-
-## Directions:
-
-1. Add coconut milk and sugar to small sauce pan. Heat and stir until sugar is dissolved.
-2. Add coconut milk and sugar mixture to blender. Add the rest of the ingredients and blend until smooth.
-3. Filter through a fine mesh strainer.
-4. Filter again throught a metal coffee filter.
-5. Store in refigerator for up to 2 months.
-
-## Notes: 
-
-- Original recipe from [Make and Drink on Youtube](https://www.youtube.com/watch?v=NDKElsxCdbA)
