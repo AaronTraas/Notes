@@ -1,12 +1,14 @@
 # Rum
 
-## Coconut rum
+## Coconut Rum
 
-**Planteray Cut & Dry** - Good enough to sip. Toasted coconut, aged rum, banana notes. Really good. Complex. 
+**Planteray Cut & Dry** - ABV 40%. Good enough to sip. Toasted coconut, aged rum, banana notes. Really good. Complex. 
 
-**Parrot bay 90 coconut** - like Malibu, but with the volume turned up. Strong coconut. A little sweet. Very hot ethanol. Not a refined product, but if you want something more potent than Malibu in a coctail, this is great.
+**Parrot Bay 90 Coconut** - ABV 45%. Like Malibu, but with the volume turned up. Strong coconut. A little sweet. Very hot ethanol. Not a refined product, but if you want something more potent than Malibu in a coctail, this is great.
 
-## Coconut Liquers 
+## Coconut Liquer
+
+Though these claim to be coconut rums, they are low proof (usually around 20% ABV) and have a large amount of sugar added, beyond the typical _"dosage"_ added to many rums.
 
 Malibu > Hampton Bay > Largo Bay
 
