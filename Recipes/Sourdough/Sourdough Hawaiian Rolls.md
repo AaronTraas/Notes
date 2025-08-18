@@ -1,7 +1,7 @@
 ---
 description: Delicious and soft and sweet rolls.
 category: baked-goods
-tags: sourdough
+tags: sourdough, lin-favorite
 ingredients: flour, sourdough-starter
 hero_image: hawaiin_rolls.jpg
 ---
