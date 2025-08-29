@@ -1,0 +1,25 @@
+{%- assign section_name = 'Recipes' -%}
+{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
+{%- assign sortedPages = site.pages | sort: 'title' -%}
+
+<ul>
+{%- for page in sortedPages | sort: 'title' -%}
+  {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
+  {%- assign section = segments | first -%}
+  {%- if section == section_name %}
+    {%- if page.index == 'hidden' and show_hidden != 'True' -%}
+    {%- else -%}
+      {%- if page_blacklist contains page.name -%}
+      {%- else -%}
+        {%- assign page_description = ' — ' | append: page.description}} -%}
+        {%- if page.ingredients contains filter_ingredient -%}
+  <li><a href="{{ page.url | relative_url }}">{{page.title}}</a>{{page_description}}</li>
+        {% endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor %}
+</ul>
+{%- assign hide_description = nil -%}
+{%- assign filter_ingredient = nil %}
+{%- assign show_hidden = nil %}
