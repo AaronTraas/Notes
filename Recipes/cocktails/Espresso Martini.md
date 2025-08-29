@@ -2,7 +2,7 @@
 description: A refreshing coffee cocktail, using cold brew and vodka. 
 category: beverages
 tags: cocktails, lin-favorite
-ingredients: vodka, coffee
+ingredients: vodka, coffee, demerara-syrup
 hero_image: espresso_martini.jpg
 ---
 

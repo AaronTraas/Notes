@@ -26,6 +26,10 @@ This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper fl
 - Bring to a simmer and stir to dissolve.
 - Pour into storage bottle. Keep in refrigerator.
 
+## Recipes that use Rich Demerara Syrup
+{% assign filter_ingredient = 'demerara-syrup' -%}
+{% include recipes_by_ingredient.html -%}
+
 * * *
 
 # Cream of Coconut
@@ -41,6 +45,10 @@ This yields a 1:1 syrup, which winds up being a little less sweet and less cooke
 
 1. Add coconut milk and sugar to small sauce pan. Heat and stir until sugar is dissolved.
 2. Store in refigerator for up to 1 month.
+
+## Recipes that use Cream of Coconut
+{% assign filter_ingredient = 'cream-of-coconut' -%}
+{% include recipes_by_ingredient.html -%}
 
 * * *
 
@@ -67,3 +75,7 @@ I only use this, currently, for one drink: the [White Elephant](./cocktails/Whit
 ## Notes: 
 
 - Original recipe from [Make and Drink on Youtube](https://www.youtube.com/watch?v=NDKElsxCdbA)
+
+## Recipes that use Thai Coconut Syrup
+{% assign filter_ingredient = 'cream-of-coconut' -%}
+{% include recipes_by_ingredient.html -%}
