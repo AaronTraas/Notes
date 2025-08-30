@@ -44,8 +44,8 @@ I like to top with [Miriam's Cream Cheese Frosting](../Cream%20Cheese%20Frosting
 
 ## Directions:
 
-1. In mixing bowl, milk, sugar, eggs, and sourdough starter together. Let mixture sit on counter for 30-60 minutes minutes.
-2. Add 1-2 cups of flour and stir to combine into a wet dough, about 1 minute. Add additional flour, mixing well after each addition until the dough comes together into a rough dough. This may take 2 cups, or it may take 3+. Stir until all the flour is incorporated, and the dough is only slightly sticky. When the dough starts to come together, knead in butter.
+1. In mixing bowl, add milk, sugar, eggs, and sourdough starter, and whisk together until combined. Let mixture sit on counter for 30-60 minutes minutes.
+2. Add 1-2 cups of flour and stir to combine into a wet dough, about 1 minute. Add additional flour, mixing well after each addition until the dough comes together into a rough dough. This may take 2 cups, or it may take 3+. Stir until all the flour is incorporated, and the dough is only slightly sticky. When the dough starts to come together, knead in butter, vanilla, and salt.
 3. Cover, and let sit at room temperature for 30 minutes.
 4. Knead for 5-10 minutes on a well-floured work surface. Add more flour as needed to prevent sticking.
 5. Cover and let sit at room temperature for 30 minutes.

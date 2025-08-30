@@ -35,7 +35,7 @@ Yeild is 16 tall rolls or 32 normal size. I usually do the tall ones because of 
 
 ## Directions:
 
-1. In mixing bowl, juice, milk, sugar, eggs, and sourdough starter together. Let mixture sit on counter for 15-30 minutes.
+1. In mixing bowl, juice, milk, sugar, eggs, and sourdough starter and whisk together until. Let mixture sit on counter for 15-30 minutes.
 2. Add 1 cup of flour and stir to combine into a wet dough, about 1 minute. Add additional flour, mixing well after each addition until the dough comes together into a rough dough. This may take 2 cups, or it may take 3+. Stir until all the flour is incorporated, and the dough is only slightly sticky. When the dough starts to come together, kneed in butter
 3. Cover, and let sit at room temperature for 30 minutes.
 4. Knead for 5-10 minutes on a well-floured work surface. Add more flour as needed to prevent sticking.
