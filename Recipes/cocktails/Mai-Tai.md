@@ -3,6 +3,7 @@ description: My take on the Mai Tai
 category: beverages
 tags: cocktails, tiki, experimental-drinks
 ingredients: rum, orgeat
+hero_image: cocktail_experiment.jpg
 index: hidden
 ---
 

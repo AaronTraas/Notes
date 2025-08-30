@@ -3,10 +3,11 @@ description: Interesting caffinated Painkiller cousin
 category: beverages
 tags: cocktails, experimental-drinks
 ingredients: rum, pineapple, cream-of-coconut
+hero_image: cocktail_experiment.jpg
 index: hidden
 ---
 
-# Cafe Colada
+# Café Colada
 
 ## Ingredients:
 
