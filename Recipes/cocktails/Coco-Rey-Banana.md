@@ -24,9 +24,9 @@ This recipe as follows gets about 90% of the way there. Still in progress.
 
 ## Directions:
 
-- Add all ingredients to cocktail shaker.
-- Dry shake once to combine.
-- Pour over ice.
+1. Add all ingredients to cocktail shaker.
+2. Dry shake once to combine.
+3. Pour over ice.
 
 * * *
 

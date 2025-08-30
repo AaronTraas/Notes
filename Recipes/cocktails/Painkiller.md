@@ -20,10 +20,12 @@ This is an excellent coconut + pineapple cocktail. Heavier on the juice than the
 
 ## Directions:
 
-- Add rum, juices, and coconut cream in shaker with plenty of crushed ice.
-- Shake vigorously.
-- Pour over ice.
-- Garnish with nutmeg.
+1. Add rum, juices, and coconut cream in shaker with plenty of crushed ice.
+2. Shake vigorously.
+3. Pour over ice.
+4. Garnish with nutmeg.
+
+* * *
 
 # Captain's Coco 
 
@@ -42,11 +44,9 @@ And yeah, this is basically a painkiller with Morgan's rather than Pusser's, and
 
 ## Directions:
 
-- Add rum, juices, and coconut cream to mixing glass. Stir to combine.
-- Pour over ice.
-- Garnish with nutmeg and shredded coconut
-
-* * *
+1. Add rum, juices, and coconut cream to mixing glass. Stir to combine.
+2. Pour over ice.
+3. Garnish with nutmeg and shredded coconut
 
 ## Notes: 
 

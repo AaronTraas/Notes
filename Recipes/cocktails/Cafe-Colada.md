@@ -21,11 +21,6 @@ index: hidden
 
 ## Directions:
 
-- Add all ingredients to cocktail shaker.
-- Shake vigorously over ice.
-- Pour in glass. Top with ice.
-- Garnish with lime shell and mint sprig.
-
 1. Fill a tumbler two thirds with crushed or pebble ice
 2. Dry shake all wet ingredients. Pour into glass. 
 3. Garnish with nutmeg
