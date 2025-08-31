@@ -2,7 +2,7 @@
 description: My attempts at a mango-chili mojito
 category: beverages
 tags: cocktails, experimental-drinks
-ingredients: rum, lime, mango
+ingredients: rum, lime, mango, demerara-syrup
 hero_image: cocktail_experiment.jpg
 index: hidden
 ---
@@ -21,7 +21,7 @@ Linda had ome she really likes. Trying to replicate.
 - ½ jalapeño or fresno chili, sliced very thin and seeded
 - sprig of mint for garnish
 - 2 oz club soda
-- ¼ teaspoon of [rich demarara syrup](../Syrups.html#rich-demerara-syrup) 
+- ¼ teaspoon [rich demarara syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
 - ice
 
 ## Hardware:

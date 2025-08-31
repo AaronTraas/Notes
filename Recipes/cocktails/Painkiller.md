@@ -2,7 +2,7 @@
 description: Pineapple & coconut tiki drink. Shaken cousin to the pina colada. 
 category: beverages
 tags: cocktails, tiki, kalahari
-ingredients: rum, pineapple, cream-of-coconut
+ingredients: rum, pineapple, cream-of-coconut, acid-adjuster
 hero_image: captains_coco.jpg
 ---
 
@@ -15,7 +15,8 @@ This is an excellent coconut + pineapple cocktail. Heavier on the juice than the
 - 2oz aged rum (Pusser's is the "original")
 - 2oz pineapple juices
 - 1oz orange juice 
-- 1oz [cream of coconut](../Syrups.html#cream-of-coconut)
+- 1oz [cream of coconut](./Cocktail-Ingredients.html#cream-of-coconut)
+- (optional) 5 ml [Acid Adjuster solution](./Cocktail-Ingredients.html#acid-adjuster)
 - nutmeg
 
 ## Directions:
@@ -38,7 +39,8 @@ And yeah, this is basically a painkiller with Morgan's rather than Pusser's, and
 - 2oz Captain Morgan spiced rum
 - 1oz orange juice 
 - 1oz pineapple juices
-- 1oz [cream of coconut](../Syrups.html#cream-of-coconut)
+- 1oz [cream of coconut](./Cocktail-Ingredients.html#cream-of-coconut)
+- (optional) 5 ml [Acid Adjuster solution](./Cocktail-Ingredients.html#acid-adjuster)
 - nutmeg
 - shredded coconut (optional)
 

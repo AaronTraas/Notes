@@ -1,13 +1,14 @@
 ---
-description: Various syrup recipes that I use
+description: Various syrups and other ingredients used in cocktails
 category: ingredients
-tags: cocktails, syrup
+tags: cocktails
 ingredients: sugar
+hero_image: cocktail_experiment.jpg
 ---
 
-# Syrups
+# Cocktail Ingredients
 
-I make syrups for cockatails and other things. Home-made syrups are easy, and you can get things that are hard to find elsewhere. 
+I make syrups and other intermediary ingredients for cockatails. Home-made syrups, in particular, are easy, and you can get things that are hard to find elsewhere. 
 
 * * * 
 
@@ -77,5 +78,28 @@ I only use this, currently, for one drink: the [White Elephant](./cocktails/Whit
 - Original recipe from [Make and Drink on Youtube](https://www.youtube.com/watch?v=NDKElsxCdbA)
 
 ## Recipes that use Thai Coconut Syrup
-{% assign filter_ingredient = 'cream-of-coconut' -%}
+{% assign filter_ingredient = 'thai-coconut-syrup' -%}
+{% include recipes_by_ingredient.html -%}
+
+* * * 
+
+# Acid Adjuster
+
+This is an easy way to acid-adjust any juice up to 6% acidity. It's a 35% acid solution of citric and malic acid, to mimic the acid profile of lime juice. 
+
+To use, adding 1mL to 1oz of juice to increase acidity by 1%. This is somewhat accurate up to around 6%. 
+
+## Ingredients:
+
+- 200 mL water
+- 67 citric acid
+- 23 malic acid
+
+## Notes: 
+
+- Original recipe: <https://www.youtube.com/watch?v=8pFBK0KWkNc&t=1s>
+- Medication Doser: <https://amzn.to/3W1qin2>
+
+## Recipes that use Thai Coconut Syrup
+{% assign filter_ingredient = 'acid-adjuster' -%}
 {% include recipes_by_ingredient.html -%}

@@ -56,7 +56,7 @@ Mojito tailored to my Taste. More rum flavor in layers. Whilst in a classic moji
 - 6-12 mint (preferably spearmint) leaves
 - sprig of mint for garnish
 - 2oz club soda
-- 1 teaspoon of [rich demarara syrup](../Syrups.html#rich-demerara-syrup) 
+- 1 teaspoon of [rich demarara syrup](./Cocktail-Ingredients.html#rich-demerara-syrup) 
 - ice
 
 ## Hardware:

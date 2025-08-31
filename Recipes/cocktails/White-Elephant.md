@@ -15,7 +15,7 @@ The key is the Thai cocounut syrup -- the coconut milk, ginger, cilantro, and ch
 ## Ingredients:
 
 - 2 oz rhum agricole or other cane juice rum
-- 1½ oz [Thai coconut syrup](../Syrups.html#thai-coconut-syrup)
+- 1½ oz [Thai coconut syrup](./Cocktail-Ingredients.html#thai-coconut-syrup)
 - 1 oz lime juice
 
 ## Directions:

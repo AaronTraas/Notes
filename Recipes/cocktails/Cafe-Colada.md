@@ -2,7 +2,7 @@
 description: Interesting caffinated Painkiller cousin
 category: beverages
 tags: cocktails, experimental-drinks
-ingredients: rum, pineapple, cream-of-coconut
+ingredients: rum, pineapple, cream-of-coconut, acid-adjuster
 hero_image: cocktail_experiment.jpg
 index: hidden
 ---
@@ -16,8 +16,8 @@ index: hidden
 - 1 oz Mr. Black coffee liqueur
 - 1½ oz pineapple juice
 - ¾ oz  cream of coconut (e.g., Coco Lopez)
-- ½ oz orange juice
-- ¼ oz lime Juice
+- 1 oz orange juice
+- 5 ml [Acid Adjuster solution](./Cocktail-Ingredients.html#acid-adjuster)
 - nutmeg
 
 ## Directions:
