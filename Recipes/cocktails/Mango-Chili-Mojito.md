@@ -3,7 +3,7 @@ description: My attempts at a mango-chili mojito
 category: beverages
 tags: cocktails, experimental-drinks
 ingredients: rum, lime, mango, demerara-syrup
-hero_image: cocktail_experiment.jpg
+#hero_image: cocktail_experiment.jpg
 index: hidden
 ---
 

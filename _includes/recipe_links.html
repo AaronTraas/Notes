@@ -30,6 +30,9 @@
               {%- if page.hero_image -%}
                 {%- assign recipe_image_url = '/images/' | append: page.hero_image | relative_url -%}
                 {%- assign recipe_style = 'style="background-size: cover; background-image: url(' | append: recipe_image_url | append: ')"' -%}
+              {%- elsif page.tags contains 'cocktails' -%}
+                {%- assign recipe_image_url = '/images/cocktail_experiment.jpg' | relative_url -%}
+                {%- assign recipe_style = 'style="background-size: cover; background-image: url(' | append: recipe_image_url | append: ')"' -%}
               {%- else -%}
                 {%- assign recipe_style = '' -%}
               {%- endif -%}
