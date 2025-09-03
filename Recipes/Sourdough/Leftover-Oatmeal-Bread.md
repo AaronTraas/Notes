@@ -14,7 +14,7 @@ You may need to add more flour—possibly a lot more—to get the dough texture 
 
 ## Ingredients:
 
-- 1.5 cups of leftover [steel-cut oatmeal](../Overnight%20Steel%20Cut%20Oatmeal)
+- 1.5 cups of leftover [steel-cut oatmeal](../Overnight-Oatmeal.html)
 - 250g / 2 cups bread flour (up to 1/3 whole-wheat flour)
 - 180mL / 3/4 cup water
 - 25g / 1/8 cup brown sugar

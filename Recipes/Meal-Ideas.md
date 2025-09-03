@@ -18,6 +18,12 @@ The intention is for this list to grow over time, and even split into catagories
 
 --- 
 
+# Leftover Baked Ham Ideas
+
+- <https://www.allrecipes.com/recipe/91605/slow-cooker-lentil-and-ham-soup/>
+- <https://www.thekitchn.com/ham-and-potato-casserole-recipe-23244817>
+- Home made hame & cheese "Hot Pockets" using Pizza dough
+
 ## Chicken Chasseur
 
 AKA Hunter's Chicken. From <https://www.youtube.com/watch?v=yMVGR3ibVvs>
