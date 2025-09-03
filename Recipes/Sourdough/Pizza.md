@@ -16,7 +16,7 @@ This is not a rustic dough meant to be cooked without a pan. It's and enriched d
 
 # Enriched Sourdough Pizza Dough
 
-Based on [Basic No-Knead Sourdough Bread](./Basic%20No-Knead%20Sourdough.html) recipe. Enriched with olive oil, sugar added to make rise faster and better browning. Makes enough dough for pizza in a half sheet pan.
+Based on [Basic No-Knead Sourdough Bread](./Basic-Sourdough.html) recipe. Enriched with olive oil, sugar added to make rise faster and better browning. Makes enough dough for pizza in a half sheet pan.
 
 ## Ingredients:
 

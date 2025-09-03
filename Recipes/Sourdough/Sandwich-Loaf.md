@@ -8,7 +8,7 @@ hero_image: sandwich_loaf.jpg
 
 # Sourdough Sandwich Loaf
 
-Adapted from my [Leftover Oatmeal Bread](./Leftover%20Oatmeal%20Bread.html) recipe, which is a crowd pleaser.
+Adapted from my [Leftover Oatmeal Bread](./Leftover-Oatmeal-Bread.html) recipe, which is a crowd pleaser.
 
 Most sandwich loaves are enriched (i.e., fat added to the dough), often butter. That's messy and a lot of work, especially if, like me, you don't own a stand mixer. This only has butter on the outside to keep the rolls seperate. 
 

@@ -8,13 +8,13 @@ hero_image: cinnamon_rolls.jpg
 
 # Sourdough Cinnamon Rolls
 
-Adapted from my [Sourdough Hawaiian Rolls](./Sourdough%20Hawaiian%20Rolls.html) recipe. 
+Adapted from my [Sourdough Hawaiian Rolls](./Hawaiian-Rolls.html) recipe. 
 
 Basically, if you take the dinner roll dough, used entirely whole milk instead of pineapple juice, it's the perfect dough for cinnamon rolls. 
 
 I am still working on the amounts for the filling. I under-filled on my first attempt. It was very, very good, but could have used more cinnamon sugar.
 
-I like to top with [Miriam's Cream Cheese Frosting](../Cream%20Cheese%20Frosting.html)
+I like to top with [Miriam's Cream Cheese Frosting](../Cream-Cheese-Frosting.html)
 
 ## Ingredients:
 

@@ -8,7 +8,7 @@ hero_image: hawaiin_rolls.jpg
 
 # Sourdough Hawaiian Rolls
 
-Adapted from my [Lean Sourdough Dinner Rolls](./Lean%20Sourdough%20Dinner%20Rolls.html) recipe, which is really great. Also inspired by [Sourdough Hawaiian Rolls](https://www.farmhouseonboone.com/sourdough-hawaiian-rolls), which calls for a lot of mixing in a stand mixer, which I don't own or have space for.
+Adapted from my [Lean Sourdough Dinner Rolls](./Sandwich-Loaf.html#lean-dinner-rolls) recipe, which is really great. Also inspired by [Sourdough Hawaiian Rolls](https://www.farmhouseonboone.com/sourdough-hawaiian-rolls), which calls for a lot of mixing in a stand mixer, which I don't own or have space for.
 
 Still in development. Replaced the water from my dinner roll recipe with pineapple juice and milk. I also added butter and an egg, and increased the sugar. Because of the butter and increased sugar, it browns a little too easily, so I decreased the temperature to 350°F.
 
