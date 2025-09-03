@@ -103,3 +103,10 @@ To use, adding 1mL to 1oz of juice to increase acidity by 1%. This is somewhat a
 ## Recipes that use Thai Coconut Syrup
 {% assign filter_ingredient = 'acid-adjuster' -%}
 {% include recipes_by_ingredient.html -%}
+
+
+* * *
+
+# Mint Syrup
+
+- <https://altonbrown.com/recipes/mint-syrup/>

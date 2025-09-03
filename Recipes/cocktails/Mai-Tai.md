@@ -1,8 +1,8 @@
 ---
 description: My take on the Mai Tai
 category: beverages
-tags: cocktails, tiki, experimental-drinks, demerara-syrup
-ingredients: rum, orgeat
+tags: cocktails, tiki, experimental-drinks
+ingredients: rum, orgeat, demerara-syrup
 #hero_image: cocktail_experiment.jpg
 index: hidden
 ---
