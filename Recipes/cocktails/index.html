@@ -33,15 +33,18 @@ scripts: ingredient-filter.js
 
 {% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
 
-<form id="ingredient-filter">
-  <div>
-    {%- for ingredient in all_ingredients_sorted -%}
-    {% assign ingredient_stripped = ingredient | strip -%}
-    <label>
-      {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
-      <input type="checkbox" value="{{ingredient_stripped}}"></input>
-    </label>
-    {% endfor -%}
+<form id="filters">
+  <div id="ingredient-filter" class="multi-select">
+    <label>Ingredients: </label>
+    <div class="multi-select-options">
+      {%- for ingredient in all_ingredients_sorted -%}
+      {%- assign ingredient_stripped = ingredient | strip -%}
+      <label>
+        {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
+        <input type="checkbox" value="{{ingredient_stripped}}"></input>
+      </label>
+      {%- endfor -%}
+    </div>
   </div>
 </form>
 

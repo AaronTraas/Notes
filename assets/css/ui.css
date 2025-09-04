@@ -122,21 +122,20 @@
   padding-right: 0.5em;
 }
 
-#ingredient-filter > div {
+#filters .multi-select-options {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em;
 }
 
-#ingredient-filter label {
-  display: inline-block;
+#filters .multi-select-options label {
   border: 2px solid #275da1;;
   border-radius: 5px;
-  padding: 2px 6px;
+  padding: 1px 5px;
   font-weight: bold;
 }
 
-#ingredient-filter label:has(input:checked) {
+#.multi-select-options label:has(input:checked) {
   background-color: #2e7bcf;
   color: #fff;
 }
@@ -145,8 +144,4 @@
   #recipe-cards {
     grid-template-columns: repeat(1, 1fr);
   }
-
-  #ingredient-filter > div {
-    grid-template-columns: 1fr 1fr 1fr;
-  }\
 }
