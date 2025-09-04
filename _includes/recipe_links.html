@@ -1,6 +1,6 @@
 {%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
 {%- assign section_dir = 'Recipes' -%}
-<ul class="recipe-cards">
+<div class="recipe-cards">
   {% assign sortedPages = site.pages | sort: 'title' -%}
   {%- for page in sortedPages | sort: 'title' -%}
     {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
@@ -36,7 +36,6 @@
               {%- else -%}
                 {%- assign recipe_style = '' -%}
               {%- endif -%}
-  <li>
     <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
       <div class="text">
         <strong>{{page.title}}</strong>
@@ -56,14 +55,13 @@
         {%- endif -%}
       </div>
     </a>
-  </li>
           {% endif -%}
         {% endif -%}
       {%- endif -%}
     {%- endif -%}
   {%- endif -%}
 {%- endfor %}
-</ul>
+</div>
 {%- assign hide_description = nil -%}
 {%- assign filter_tag = nil %}
 {%- assign filter_ingredient = nil %}

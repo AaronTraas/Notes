@@ -1,0 +1,62 @@
+---
+title: Cocktail Search
+layout: default
+scripts: ingredient-filter.js
+---
+
+<h1>Cocktails</h1>
+
+
+{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
+{%- assign cocktail_pages = '' | split: "'" -%}
+
+
+{%- for page in site.pages -%}
+  {%- if page.tags contains 'cocktails' and page.category == 'beverages' and page.ingredients -%}
+    {%- assign cocktail_pages = cocktail_pages | push: page -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign sortedPages = cocktail_pages | sort: 'title' -%}
+
+
+{%- assign all_ingredients = '' | split: 'empty' -%}
+{%- assign all_tags = '' | split: 'empty' -%}
+{%- for page in sortedPages -%}
+  {%- assign ingredients = page.ingredients | strip | split: ',' -%}
+  {%- for ingredient in ingredients -%}
+    {%- assign cleaned = ingredient | strip | slugify -%}
+    {%- assign all_ingredients = all_ingredients | push: cleaned -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+
+{% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
+
+<form id="ingredient-filter">
+
+  <div>
+    {%- for ingredient in all_ingredients_sorted -%}
+    {% assign ingredient_stripped = ingredient | strip -%}
+    <label>
+      <input type="checkbox" value="{{ingredient_stripped}}"></input>
+      {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
+    </label>
+    {% endfor -%}
+  </div>
+</form>
+
+<h2>Aaron's Cocktail Recipes</h2>
+
+Cocktail recipes I use, but not necessarily created, that are a little outside the classics. These work for me, and are catered to my tastes and the tastes of the people I love to drink with. 
+
+{% assign filter_tag = 'cocktails' -%}
+{% include recipe_links.html -%}
+
+* * *
+
+<h2>Cocktails Aaron is testing and developing</h2>
+
+{% assign filter_tag = 'experimental-drinks' -%}
+{% assign show_hidden = 'True' -%}
+{% include recipe_links.html -%}
