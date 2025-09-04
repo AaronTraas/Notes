@@ -34,7 +34,6 @@ scripts: ingredient-filter.js
 {% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
 
 <form id="ingredient-filter">
-
   <div>
     {%- for ingredient in all_ingredients_sorted -%}
     {% assign ingredient_stripped = ingredient | strip -%}
