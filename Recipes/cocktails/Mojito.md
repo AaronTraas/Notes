@@ -2,7 +2,7 @@
 description: My personal takes on a classic mojito. 
 category: beverages
 tags: cocktails, lin-favorite
-ingredients: rum, lime, mint, demerara-syrup
+ingredients: rum, lime, mint, demerara-syrup, simple-syrup
 hero_image: mojito.jpg
 ---
 

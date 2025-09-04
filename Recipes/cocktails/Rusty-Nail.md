@@ -2,7 +2,7 @@
 description: Perfected version of the quintissential old-man drink. 
 category: beverages
 tags: cocktails
-ingredients: scotch-whisky
+ingredients: scotch-whisky, drambuie
 ---
 
 # Rusty Nail 

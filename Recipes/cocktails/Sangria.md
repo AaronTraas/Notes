@@ -2,7 +2,7 @@
 description: Red sangria typical of what you'd find at a Spanish/Portuguese/Brazillain restaurtant in New Jersey.
 category: beverages
 tags: cocktails
-ingredients: wine, brandy
+ingredients: wine, brandy, orange
 hero_image: sangria.jpg
 ---
 

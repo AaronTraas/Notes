@@ -2,7 +2,7 @@
 description: Warming drink for a cold night. 
 category: beverages
 tags: cocktails
-ingredients: scotch-whisky
+ingredients: scotch-whisky, lemon, honey
 ---
 
 # Hot Toddy 

@@ -2,7 +2,7 @@
 description: Classic whiskey cocktail. 
 category: beverages
 tags: cocktails, experimental-drinks
-ingredients: rye-whiskey, maraschino-liqueur
+ingredients: rye-whiskey, simple-syrup
 index: hidden
 ---
 
@@ -11,11 +11,8 @@ index: hidden
 ## Ingredients:
 
 - 2 oz. or 60 ml. Rye Whiskey
-- .25 oz. Maraschino Liqueur 
 - .25 oz. [Rich Simple Syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
 - 2 dashes of Angostura bitters
-- (optional) absinthe
-- (optional) lemon twist
 
 ## Hardware:
 
