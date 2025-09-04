@@ -30,8 +30,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
         recipe.dataset.hide = true
       }
     }
-
-    console.log(document.querySelectorAll('label:has(input:checked)'))
   }
 
   ingredient_checkboxes.forEach(checkbox => {
