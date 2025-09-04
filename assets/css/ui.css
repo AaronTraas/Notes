@@ -127,7 +127,7 @@
   flex-wrap: wrap;
   gap: 0.5em;
   position: relative;
-  padding-right: 2em;
+  padding-right: 2.5em;
 }
 
 #filters .multi-select .multi-select-toggle {
@@ -161,6 +161,17 @@
   background-color: #ccc;
 }
 
+#filters .multi-select label:has(input.multi-select-option):after {
+  display: inline-block;
+  content: '+';
+  width: .7em;
+  text-align: right;
+}
+
+#filters .multi-select label:has(input.multi-select-option:checked):after {
+  content: '-';
+}
+
 #filters .multi-select-options label:has(input[type="checkbox"]) {
   display: none;
 }
@@ -179,6 +190,10 @@
   display: inline-block;
   background-color: #2e7bcf;
   color: #fff;
+}
+
+#filters .multi-select-options input[type="checkbox"] {
+  display: none;
 }
 
 @media only screen and (max-width: 767px) {

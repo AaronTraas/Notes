@@ -41,7 +41,7 @@ scripts: ingredient-filter.js
       {%- assign ingredient_stripped = ingredient | strip -%}
       <label>
         {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
-        <input type="checkbox" value="{{ingredient_stripped}}"></input>
+        <input type="checkbox" class="multi-select-option" value="{{ingredient_stripped}}"></input>
       </label>
       {%- endfor -%}
       <label class="filter-toggle">
