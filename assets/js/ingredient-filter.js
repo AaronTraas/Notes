@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-  const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter input[type="checkbox"]');
+  const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter .multi-select-options input[type="checkbox"]');
   const recipes = document.querySelectorAll('.recipe-link');
 
   function hideFilteredRecipes(classes) {

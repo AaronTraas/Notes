@@ -128,14 +128,20 @@
   gap: 0.5em;
 }
 
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) .multi-select-options label:has(input:not(:checked)) {
+  display: inline-block;
+}
+
 #filters .multi-select-options label {
-  border: 2px solid #275da1;;
+  display: none;
+  border: 2px solid #275da1;
   border-radius: 5px;
   padding: 1px 5px;
   font-weight: bold;
 }
 
-#.multi-select-options label:has(input:checked) {
+#filters .multi-select-options label:has(input:checked) {
+  display: inline-block;
   background-color: #2e7bcf;
   color: #fff;
 }
