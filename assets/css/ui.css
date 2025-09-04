@@ -135,6 +135,11 @@
   border-radius: 5px;
 }
 
+#ingredient-filter label:has(input:checked) {
+  background-color: blue;
+  font-weight: bold;
+}
+
 @media only screen and (max-width: 767px) {
   #recipe-cards {
     grid-template-columns: repeat(1, 1fr);

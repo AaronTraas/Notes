@@ -23,8 +23,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }
 
     const selected_ingredients_selector = selected_ingredients.join('')
-    console.log(selected_ingredients_selector)
-    console.log(recipes)
 
     for (const recipe of recipes) {
       recipe.dataset.hide = false
@@ -32,6 +30,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
         recipe.dataset.hide = true
       }
     }
+
+    console.log(document.querySelectorAll('label:has(input:checked)'))
   }
 
   ingredient_checkboxes.forEach(checkbox => {

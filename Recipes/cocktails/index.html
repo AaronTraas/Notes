@@ -1,5 +1,5 @@
 ---
-title: Cocktail Search
+title: Cocktails
 layout: default
 scripts: ingredient-filter.js
 ---
@@ -39,8 +39,8 @@ scripts: ingredient-filter.js
     {%- for ingredient in all_ingredients_sorted -%}
     {% assign ingredient_stripped = ingredient | strip -%}
     <label>
-      <input type="checkbox" value="{{ingredient_stripped}}"></input>
       {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
+      <input type="checkbox" value="{{ingredient_stripped}}"></input>
     </label>
     {% endfor -%}
   </div>
@@ -48,12 +48,12 @@ scripts: ingredient-filter.js
 
 <h2>Aaron's Cocktail Recipes</h2>
 
-Cocktail recipes I use, but not necessarily created, that are a little outside the classics. These work for me, and are catered to my tastes and the tastes of the people I love to drink with. 
+<p>Cocktail recipes I use, but not necessarily created, that are a little outside the classics. These work for me, and are catered to my tastes and the tastes of the people I love to drink with.</p>
 
 {% assign filter_tag = 'cocktails' -%}
 {% include recipe_links.html -%}
 
-* * *
+<hr>
 
 <h2>Cocktails Aaron is testing and developing</h2>
 
