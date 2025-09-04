@@ -128,8 +128,26 @@
   gap: 0.5em;
 }
 
+#filters .multi-select .multi-select-toggle {
+  display: none;
+}
+
 #filters .multi-select:has(input[value="multi-select-toggle"]:checked) .multi-select-options label:has(input:not(:checked)) {
   display: inline-block;
+}
+
+#filters .multi-select .expanded {
+  display: none;
+}
+#filters .multi-select .collapsed {
+  display: inline-block;
+}
+
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) .expanded {
+  display: inline-block;
+}
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) .collapsed {
+  display: none;
 }
 
 #filters .multi-select-options label {

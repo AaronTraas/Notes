@@ -46,8 +46,9 @@ scripts: ingredient-filter.js
       {%- endfor -%}
     </div>
     <label class="filter-toggle">
-      Close
-      <input type="checkbox" value="multi-select-toggle"></input>
+      <span class="expanded">X Close</span>
+      <span class="collapsed">+ Add</span>
+      <input type="checkbox" class="multi-select-toggle" value="multi-select-toggle"></input>
     </label>
   </div>
 </form>
