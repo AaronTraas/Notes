@@ -126,6 +126,8 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em;
+  position: relative;
+  padding-right: 2em;
 }
 
 #filters .multi-select .multi-select-toggle {
@@ -140,22 +142,37 @@
   display: none;
 }
 #filters .multi-select .collapsed {
-  display: inline-block;
+  display: inline;
 }
 
 #filters .multi-select:has(input[value="multi-select-toggle"]:checked) .expanded {
-  display: inline-block;
+  display: inline;
+  padding: 0 4px 3px 4px;
 }
 #filters .multi-select:has(input[value="multi-select-toggle"]:checked) .collapsed {
   display: none;
 }
 
-#filters .multi-select-options label {
-  display: none;
+#filters .multi-select label:has(input[type="checkbox"]) {
   border: 2px solid #275da1;
   border-radius: 5px;
   padding: 1px 5px;
   font-weight: bold;
+  background-color: #ccc;
+}
+
+#filters .multi-select-options label:has(input[type="checkbox"]) {
+  display: none;
+}
+
+#filters .multi-select .multi-select-options label.filter-toggle:has(input[type="checkbox"]) {
+  display: inline-block;
+}
+
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) label.filter-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 #filters .multi-select-options label:has(input:checked) {

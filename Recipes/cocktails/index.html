@@ -44,12 +44,12 @@ scripts: ingredient-filter.js
         <input type="checkbox" value="{{ingredient_stripped}}"></input>
       </label>
       {%- endfor -%}
+      <label class="filter-toggle">
+        <span class="expanded">🗙</span>
+        <span class="collapsed">＋</span>
+        <input type="checkbox" class="multi-select-toggle" value="multi-select-toggle"></input>
+      </label>
     </div>
-    <label class="filter-toggle">
-      <span class="expanded">X Close</span>
-      <span class="collapsed">+ Add</span>
-      <input type="checkbox" class="multi-select-toggle" value="multi-select-toggle"></input>
-    </label>
   </div>
 </form>
 
