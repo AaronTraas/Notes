@@ -1,0 +1,66 @@
+{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
+{%- assign filtered_pages = '' | split: "'" -%}
+
+{%- for page in site.pages -%}
+  {%- if page.ingredients -%}
+    {%- if filter_tag == nil or page.tags contains filter_tag -%}
+      {%- assign filtered_pages = filtered_pages | push: page -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign sortedPages = filtered_pages | sort: 'title' -%}
+
+
+{%- assign all_ingredients = '' | split: 'empty' -%}
+{%- assign all_categories = '' | split: 'empty' -%}
+{%- for page in sortedPages -%}
+  {%- assign categories = page.category | strip | split: ',' -%}
+  {%- for category in categories -%}
+    {%- assign cleaned = category | strip | slugify -%}
+    {%- assign all_categories = all_categories | push: cleaned -%}
+  {%- endfor -%}
+
+  {%- assign ingredients = page.ingredients | strip | split: ',' -%}
+  {%- for ingredient in ingredients -%}
+    {%- assign cleaned = ingredient | strip | slugify -%}
+    {%- assign all_ingredients = all_ingredients | push: cleaned -%}
+  {%- endfor -%}
+{%- endfor -%}
+{% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
+{%- assign all_categories_sorted = all_categories | sort | uniq -%}
+
+<form id="filters">
+{% if filter_tag == nil %}
+  <div>
+    <label for="category-filter">Category: </label>
+    <select id="category-filter">
+      <option>all</option>
+      {%- for category in all_categories_sorted -%}
+      {% assign category_stripped = category | strip -%}
+      <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+{%- endif -%}
+
+  <div id="ingredient-filter" class="multi-select">
+    <label>Ingredients: </label>
+    <div class="multi-select-options">
+      {%- for ingredient in all_ingredients_sorted -%}
+      {%- assign ingredient_stripped = ingredient | strip -%}
+      <label>
+        {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
+        <input type="checkbox" class="multi-select-option" value="{{ingredient_stripped}}"></input>
+      </label>
+      {%- endfor -%}
+      <label class="filter-toggle">
+        <span class="expanded">🗙</span>
+        <span class="collapsed">＋</span>
+        <input type="checkbox" class="multi-select-toggle" value="multi-select-toggle"></input>
+      </label>
+    </div>
+  </div>
+</form>
+
+{%- assign filter_tag = nil %}
+{% assign filter_category = nil -%}

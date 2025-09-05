@@ -1,57 +1,15 @@
 ---
 title: Cocktails
 layout: default
-scripts: ingredient-filter.js
+scripts: recipe-filter.js
 ---
 
 <h1>Cocktails</h1>
 
 
-{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
-{%- assign cocktail_pages = '' | split: "'" -%}
-
-
-{%- for page in site.pages -%}
-  {%- if page.tags contains 'cocktails' and page.category == 'beverages' and page.ingredients -%}
-    {%- assign cocktail_pages = cocktail_pages | push: page -%}
-  {%- endif -%}
-{%- endfor -%}
-
-{%- assign sortedPages = cocktail_pages | sort: 'title' -%}
-
-
-{%- assign all_ingredients = '' | split: 'empty' -%}
-{%- assign all_tags = '' | split: 'empty' -%}
-{%- for page in sortedPages -%}
-  {%- assign ingredients = page.ingredients | strip | split: ',' -%}
-  {%- for ingredient in ingredients -%}
-    {%- assign cleaned = ingredient | strip | slugify -%}
-    {%- assign all_ingredients = all_ingredients | push: cleaned -%}
-  {%- endfor -%}
-{%- endfor -%}
-
-
-{% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
-
-<form id="filters">
-  <div id="ingredient-filter" class="multi-select">
-    <label>Ingredients: </label>
-    <div class="multi-select-options">
-      {%- for ingredient in all_ingredients_sorted -%}
-      {%- assign ingredient_stripped = ingredient | strip -%}
-      <label>
-        {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
-        <input type="checkbox" class="multi-select-option" value="{{ingredient_stripped}}"></input>
-      </label>
-      {%- endfor -%}
-      <label class="filter-toggle">
-        <span class="expanded">🗙</span>
-        <span class="collapsed">＋</span>
-        <input type="checkbox" class="multi-select-toggle" value="multi-select-toggle"></input>
-      </label>
-    </div>
-  </div>
-</form>
+{% assign filter_category = 'beverages' -%}
+{% assign filter_tag = 'cocktails' -%}
+{% include filters.html -%}
 
 <h2>Aaron's Cocktail Recipes</h2>
 

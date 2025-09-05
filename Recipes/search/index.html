@@ -1,78 +1,16 @@
 ---
 title: Recipe Search
 layout: default
-scripts: search.js
+scripts: recipe-filter.js
 ---
 
 <h1>Recipe Search</h1>
-{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
 
-{%- assign section_dir = 'Recipes' -%}
-{%- assign sortedPages = site.pages | sort: 'title' -%}
-
-{%- assign all_categories = '' | split: 'empty' -%}
-{%- assign all_ingredients = '' | split: 'empty' -%}
-{%- assign all_tags = '' | split: 'empty' -%}
-{%- for page in sortedPages -%}
-  {%- assign categories = page.category | strip | split: ',' -%}
-  {%- for category in categories -%}
-    {%- assign cleaned = category | strip | slugify -%}    
-    {%- assign all_categories = all_categories | push: cleaned -%}
-  {%- endfor -%}
-
-  {%- assign tags = page.tags | strip | split: ',' -%}
-  {%- for tag in tags -%}
-    {%- assign cleaned = tag | strip | slugify -%}    
-    {%- assign all_tags = all_tags | push: cleaned -%}
-  {%- endfor -%}
-
-  {%- assign ingredients = page.ingredients | strip | split: ',' -%}
-  {%- for ingredient in ingredients -%}
-    {%- assign cleaned = ingredient | strip | slugify -%}    
-    {%- assign all_ingredients = all_ingredients | push: cleaned -%}
-  {%- endfor -%}
-
-{%- endfor -%}
-
-{%- assign all_categories_sorted = all_categories | sort | uniq -%}
-{% assign all_tags_sorted = all_tags | sort | uniq -%}
-{% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
-<form id="filters">
-  <div>
-    <label for="category-filter">Category: </label>
-    <select id="category-filter">
-      <option>all</option>
-      {%- for category in all_categories_sorted -%}
-      {% assign category_stripped = category | strip -%}
-      <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
-      {% endfor -%}
-    </select>
-  </div>
-
-  <div style="display: none">
-    <label for="tag-filter">Tag: </label>
-    <select id="tag-filter">
-      <option>all</option>
-      {%- for tag in all_tags_sorted -%}
-      {% assign tag_stripped = tag | strip -%}
-      <option value="{{tag_stripped}}">{{ tag_stripped | replace: '-', ' ' | capitalize }}</option>
-      {% endfor -%}
-    </select>
-  </div>
-
-  <div>
-    <label for="ingredient-filter">Ingredient: </label>
-    <select id="ingredient-filter">
-      <option>all</option>
-      {%- for ingredient in all_ingredients_sorted -%}
-      {% assign ingredient_stripped = ingredient | strip -%}
-      <option value="{{ingredient_stripped}}">{{ ingredient_stripped | replace: '-', ' ' | capitalize }}</option>
-      {% endfor -%}
-    </select>
-  </div>
-</form>
+{% include filters.html -%}
 
 <div class="recipe-cards">
+{%- assign sortedPages = site.pages | sort: 'title' -%}
+{%- assign section_dir = 'Recipes' -%}
 {% for page in sortedPages -%}
   {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
   {%- assign section = segments | first -%}

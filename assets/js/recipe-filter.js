@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', (event) => {
   const filter_category = document.getElementById('category-filter');
-  const filter_tag = document.getElementById('tag-filter');
-  const filter_ingredient = document.getElementById('ingredient-filter');
+  const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter input.multi-select-option');
   const recipes = document.querySelectorAll('.recipe-link');
 
   function handleHashChange() {
@@ -11,13 +10,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
     if (params.has('category')) {
       classes.push('category-' + params.get('category'))
     }
-    if (params.has('tag')) {
-      classes.push('tag-' + params.get('tag'))
-    }
-    if (params.has('ingredient')) {
-      classes.push('ingredient-' + params.get('ingredient'))
+    if (params.has('ingredients')) {
+      const ingredients = params.get('ingredients').split('|')
+      classes = classes.concat(ingredients)
     }
 
+    console.log(classes)
     hideFilteredRecipes(classes)
   }
 
@@ -43,24 +41,26 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }
 
 
-    if (filter_tag.value == 'all') {
-      params.delete('tag')
-    } else {
-      params.set('tag', filter_tag.value)
+    const selected_ingredients = []
+    for (const cb of ingredient_checkboxes) {
+      if (cb.checked) {
+        selected_ingredients.push('ingredient-' + cb.value)
+      }
     }
 
-    if (filter_ingredient.value == 'all') {
-      params.delete('ingredient')
+    if (selected_ingredients.length == 0) {
+      params.delete('ingredients')
     } else {
-      params.set('ingredient', filter_ingredient.value)
+      params.set('ingredients', selected_ingredients.join('|'))
     }
 
     window.location.hash = '#' + params.toString()
   }
 
   filter_category.addEventListener('change', filter)
-  filter_tag.addEventListener('change', filter)
-  filter_ingredient.addEventListener('change', filter)
+  ingredient_checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', filter)
+  });
 
   window.addEventListener("hashchange", handleHashChange);
 
