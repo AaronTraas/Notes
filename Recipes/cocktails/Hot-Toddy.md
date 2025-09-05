@@ -13,7 +13,7 @@ Classic warming cocktail. Honey, lemon, and hot water are great for a cough. Add
 
 - 5 oz boiling water 
 - 2 oz Scotch whisky (see notes)
-- 1/2 lemon
+- ½ lemon
 - 1 tsp honey
 - (optional) small chunk crystalized ginger
 
