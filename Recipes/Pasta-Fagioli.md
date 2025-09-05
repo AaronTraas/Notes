@@ -7,7 +7,7 @@ ingredients: beans, pasta, garlic, olive-oil, tomato-sauce
 
 # Pasta e Fagioli
 
-This is the most basic version of the southern Italian classic. No prociutto, fancy cheese, *mire poix*, etc. Just pasta, beans, garlic, oil, and leftover sauce. Basic, humble, and satisfying. Peasent food at its finest, just like my nonna used to make.
+This is the most basic version of the southern Italian classic. No prosciutto, fancy cheese, *mire poix*, etc. Just pasta, beans, garlic, oil, and leftover sauce. Basic, humble, and satisfying. Peasent food at its finest, just like my nonna used to make.
 
 ## Ingredients
 
