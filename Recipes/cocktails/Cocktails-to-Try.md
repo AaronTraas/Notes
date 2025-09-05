@@ -53,3 +53,19 @@ Crack ice into glass
 Top with Ginger Beer
 
 From <https://www.youtube.com/watch?v=X-36v2b0Pn8>
+
+* * *
+
+## Earl Grey Martini:
+
+- 1 oz. or 30 ml. Simple Syrup
+- .75 oz. or 22 ml. Lemon Juice
+- 1.5 oz. or 45 ml. Tea infused gin
+- 1 Edd white
+
+Dry shake.
+Add ice and shake again.
+Strain into glass.
+Garnish with lemon twist.
+
+From <https://youtu.be/chC-4DxroMo?si=VAh0YPGTQL2Nqa4u>
