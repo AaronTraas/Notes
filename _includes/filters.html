@@ -50,7 +50,7 @@
       {%- assign ingredient_stripped = ingredient | strip -%}
       <label>
         {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
-        <input type="checkbox" class="multi-select-option" value="{{ingredient_stripped}}"></input>
+        <input type="checkbox" class="multi-select-option" name="ingredients" value="{{ingredient_stripped}}"></input>
       </label>
       {%- endfor -%}
       <label class="filter-toggle">

@@ -3,16 +3,29 @@ document.addEventListener('DOMContentLoaded', (event) => {
   const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter input.multi-select-option');
   const recipes = document.querySelectorAll('.recipe-link');
 
-  function handleHashChange() {
+  function handleHashChange(firstTime = false) {
     const params = new URLSearchParams(window.location.hash.slice(1));
     var classes = []
 
     if (params.has('category')) {
       classes.push('category-' + params.get('category'))
+      if (firstTime) {
+        filter_category.value = params.get('category')
+      }
     }
     if (params.has('ingredients')) {
       const ingredients = params.get('ingredients').split('|')
-      classes = classes.concat(ingredients)
+      classes = classes.concat(ingredients.map(str => 'ingredient-' + str))
+      if (firstTime) {
+        for (const checkbox of ingredient_checkboxes) {
+          // Check if the checkbox's value is in the array of values to select
+          if (ingredients.includes(checkbox.value)) {
+            checkbox.checked = true; // Set the checkbox as checked
+          } else {
+            checkbox.checked = false; // Set the checkbox as unchecked
+          }
+        }
+      }
     }
 
     hideFilteredRecipes(classes)
@@ -44,7 +57,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     const selected_ingredients = []
     for (const cb of ingredient_checkboxes) {
       if (cb.checked) {
-        selected_ingredients.push('ingredient-' + cb.value)
+        selected_ingredients.push(cb.value)
       }
     }
 
@@ -66,5 +79,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
   window.addEventListener("hashchange", handleHashChange);
 
-  handleHashChange()
+  handleHashChange(true)
 })
