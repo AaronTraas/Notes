@@ -2,7 +2,7 @@
 description: Salty cured pork wrapped in salty cured pork.
 category: appetizers
 tags: appetizers, linda
-ingredients: keilbasa
+ingredients: keilbasa, bacon, mustard, brown-sugar
 #hero_image: 
 ---
 

@@ -1,0 +1,27 @@
+---
+title: Linda's Recipes
+layout: default
+scripts: recipe-filter.js
+---
+
+<h1>Linda's Recipes</h1>
+
+<p>Aaron's archive of Linda's recipes.</p>
+
+{% assign filter_tag = 'linda' -%}
+{% include filters.html -%}
+
+{% assign filter_tag = 'linda' -%}
+{% assign show_hidden = 'True' -%}
+{% include recipe_links.html -%}
+
+<hr>
+
+<a class="button search" href="./Recipes/search/">All Recipe Search</a>
+
+<hr>
+
+<h2>Linda's favorite recipes that Aaron makes</h2>
+
+{% assign filter_tag = 'lin-favorite' -%}
+{% include recipe_links.html -%}
