@@ -2,7 +2,7 @@
 description: Classic bitter, sweet, vibrant Italian cocktail. 
 category: beverages
 tags: cocktails
-ingredients: campari, vermouth, gin
+ingredients: campari, amaro, vermouth, gin
 hero_image: negroni.jpg
 ---
 
@@ -59,26 +59,3 @@ Alton Brown's stronger version of the negroni, made with either a semi-sweet or 
 
 - Original recipe: <https://altonbrown.com/recipes/classic-negroni-cocktail/>
 
----
-
-# Americano
-
-Ancestor to the Negroni. Lighter, lower ABV cocktail.
-
-## Ingredients:
-
-- 1 oz Campari
-- 1 oz sweet vermouth
-- Club soda or seltzer
-
-## Hardware:
-
-- Highball glass or other tall glass
-- bar spoon
-
-## Directions:
-
-1. Add ice to glass.
-2. Add Campari and gin over ice.
-3. Top with club soda
-4. Stir in glass to chill. 
