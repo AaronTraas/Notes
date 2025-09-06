@@ -1,9 +1,9 @@
 ---
 description: Classic bitter, sweet, vibrant Italian cocktail. 
 category: beverages
-tags: cocktails, experimental-drinks
+tags: cocktails
 ingredients: campari, vermouth, gin
-index: hidden
+hero_image: negroni.jpg
 ---
 
 # Negroni
