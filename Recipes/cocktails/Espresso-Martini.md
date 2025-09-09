@@ -23,7 +23,7 @@ This tastes like slightly boozy, sweet cold brew coffee in the best possible way
 - 1 oz cold brew concentrate (I make a 4:1 recipe)
 - 1 oz vodka
 - 1 oz Mr. Black 
-- ¼ oz [rich demarara syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
+- ¼ oz [rich demerara syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
 - 3 coffee beans (optional garnish)
 
 ## Hardware:
