@@ -92,8 +92,8 @@ To use, adding 1mL to 1oz of juice to increase acidity by 1%. This is somewhat a
 ## Ingredients:
 
 - 200 mL water
-- 67 citric acid
-- 23 malic acid
+- 67 grams citric acid
+- 23 grams malic acid
 
 ## Notes: 
 
