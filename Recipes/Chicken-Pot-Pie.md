@@ -3,6 +3,7 @@ description: Chicken pot pie.
 category: entrees
 tags: meat, linda
 ingredients: chicken, pie crust, chicken-broth
+hero_image: chicken-pot-pie.jpg
 ---
 
 # Chicken Pot Pie
