@@ -66,23 +66,6 @@ Ancestor to the [Negroni](./Negroni.html). Lighter, lower ABV cocktail.
 
 * * *
 
-# Boulevardier
-
-[Negroni](./Negroni.html), but with bourbon instead of gin.
-
-## Ingredients: 
-
-- 1 oz Campari
-- 1 oz bourbon
-- 1 oz sweet vermouth
-
-## Directions:
-
-1. Stir all ingredients with ice and strain into a chilled coupe or rocks glass. 
-2. Garnish with a lemon or orange twist. 
-
-* * *
-
 # Negroni Sbagliato
 
 ## Ingredients: 
