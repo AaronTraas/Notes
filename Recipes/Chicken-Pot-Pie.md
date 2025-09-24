@@ -5,7 +5,7 @@ tags: meat, linda
 ingredients: chicken, pie crust, chicken-broth
 ---
 
-# Chicken Pot Pe
+# Chicken Pot Pie
 
 Linda's chicken pot pie recipe.
 
@@ -15,8 +15,9 @@ Linda's chicken pot pie recipe.
 - 1 cup sliced carrots
 - 1 cup frozen green peas
 - ½ cup sliced celery
-- ⅓ cup butter
 - ⅓ cup chopped onion
+- ⅓ cup butter
+- 1 russet potato, diced (optional)
 - ⅓ cup all-purpose flour
 - ½ tsp salt
 - ¼ tsp black pepper
