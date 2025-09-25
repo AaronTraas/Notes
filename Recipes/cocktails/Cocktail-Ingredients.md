@@ -31,6 +31,29 @@ This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper fl
 {% assign filter_ingredient = 'demerara-syrup' -%}
 {% include recipes_by_ingredient.html -%}
 
+* * * 
+
+# Cinnanon Demerara Syrup
+
+A rich demerara syrup infused with cinnamon. Based on the Smuggler's Cove recipe.
+
+## Ingredients:
+
+- 8 oz Demerara sugar
+- 4 oz water
+- 3 cinnamon sticks
+
+## Directions:
+
+- Add all ingredients to small saucepan.
+- Bring to a simmer and stir to dissolve.
+- Strain, pour into storage bottle. Keep in refrigerator.
+
+## Recipes that use Cinnamon Demerara Syrup
+{% assign filter_ingredient = 'cinnamon-syrup' -%}
+{% include recipes_by_ingredient.html -%}
+
+
 * * *
 
 # Cream of Coconut

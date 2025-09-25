@@ -1,0 +1,17 @@
+---
+title: Cocktails
+layout: default
+scripts: recipe-filter.js
+---
+
+<h1>Sourdough Recipes</h1>
+
+<p>I've taken up to making sourdough bread. First, because my daughter likes it, and we didn't go through the gigantic loaves we got at the store quick enough before they spoiled. Then, because it's delicious and fun.</p>
+
+{% assign filter_tag = 'sourdough' -%}
+{% include filters.html -%}
+
+{% assign sections = 'Recipes' | split: ',' -%}
+{% assign filter_tag = 'sourdough' -%}
+{% include recipe_links.html -%}
+

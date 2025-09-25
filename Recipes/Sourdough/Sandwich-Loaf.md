@@ -2,7 +2,7 @@
 description: Delicious, soft, and easy sandwich loaf.
 category: baked-goods
 tags: sourdough
-ingredients: flour, sourdough-starter
+ingredients: flour, sourdough-starter, milk
 hero_image: sandwich_loaf.jpg
 ---
 
@@ -17,7 +17,7 @@ You may need to add more flour—possibly a lot more—to get the dough texture 
 ## Ingredients:
 
 - ~2 cups bread flour
-- 180mL water (replace some or all with milk)
+- 180mL milk (or water)
 - 35g sugar (can use maple syrup, honey, brown sugar, etc.)
 - 50g sourdough starter or discard
 - 5g / 1 tsp salt

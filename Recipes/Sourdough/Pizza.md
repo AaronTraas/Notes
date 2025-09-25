@@ -2,7 +2,7 @@
 description: Home-style sourdough pizza dough and related recipes.
 category: baked-goods
 tags: sourdough, italian, monacilioni
-ingredients: flour, sourdough-starter
+ingredients: flour, sourdough-starter, olive-oil
 hero_image: pizza.jpg
 ---
 
