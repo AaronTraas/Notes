@@ -1,18 +1,19 @@
 ---
 description: Classic whiskey cocktail. 
 category: beverages
-tags: cocktails, experimental-drinks
-ingredients: rye-whiskey, simple-syrup
-index: hidden
+tags: cocktails
+ingredients: rye-whiskey, simple-syrup, bitters
 ---
 
 # Old Fashioned
 
 ## Ingredients:
 
-- 2 oz. or 60 ml. Rye Whiskey
-- .25 oz. [Rich Simple Syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
+- 2 oz. Rye Whiskey (e.g., Old Forrester_
+- .25 oz. [Rich Demerara Syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
 - 2 dashes of Angostura bitters
+- 2 dashes of Orange bitters
+- Garnish: orange peel
 
 ## Hardware:
 
