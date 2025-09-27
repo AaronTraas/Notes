@@ -7,14 +7,16 @@ ingredients: rye-whiskey, banana-liqueur, bitters
 
 # Banana Old Fashioned
 
+Perfectly balanced. The half ounce of creme de banane tempers and adds richness and sweetness to the rye. The walnut bitters is a better fit than angostura, as it adds a rich nuttiness. Fresh grated cinnamon on top adds to the aroma more than the flavor.
+
 ## Ingredients:
 
-- 1/2 oz Creme de Banane
 - 2 oz Rye (Old Forrester)
-- 2 dashes black walnut bitters
+- 1/2 oz Creme de Banane (Tempus Fugit)
+- 4 dashes black walnut bitters
 - 2 dashes orange bitters
 - 1 dash vanilla extract
-- Garnish: orange peel
+- Garnish: orange peel, fresh grated cinnamon
 
 ## Hardware:
 
@@ -24,10 +26,8 @@ ingredients: rye-whiskey, banana-liqueur, bitters
 
 ## Directions
 
-1. Add rye, Maraschino, syrup, and ice to mixing glass and stir
-2. Spritz absinthe into glass
-3. Strain into glass over a large ice cube
-4. Garnish with a twist of lemon
+1. Add rye, creme de banane, bitters, vanilla, and ice to mixing glass and stir
+2. Garnish with orange peel
 
 ## Notes:
 
