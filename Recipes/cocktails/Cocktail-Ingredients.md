@@ -35,7 +35,7 @@ This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper fl
 
 # Cinnanon Demerara Syrup
 
-A rich demerara syrup infused with cinnamon. Based on the Smuggler's Cove recipe.
+A rich demerara syrup infused with cinnamon. Based on the [Smuggler's Cove](https://www.thrillist.com/recipe/smugglers-cove-cinnamon-syrup) recipe.
 
 ## Ingredients:
 
