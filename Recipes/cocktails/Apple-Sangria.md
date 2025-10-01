@@ -19,7 +19,7 @@ Sweet fall drink. Not really sangria, but tastes like caramel apples. Also, does
 ### Garnish
 
 - 1 tsp granulated sugar
-- 1/2 tsp cinnamon
+- ½ tsp cinnamon
 
 ## Directions
 
@@ -43,7 +43,7 @@ In progress experiment
 ## Ingredients:
 
 - 750 ml bottle of Chardonnay
-- 1/2-1 cup Spanish brandy 
+- ½-1 cup Spanish brandy 
 - 1 cup apple cider juice
 - 2 tbsp caramel syrup 
 - enough cut fruit (apple, pear, orange, lemon, lime) to make liquid look half full of fruit

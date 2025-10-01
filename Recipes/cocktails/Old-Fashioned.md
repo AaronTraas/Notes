@@ -10,7 +10,7 @@ ingredients: rye-whiskey, simple-syrup, bitters
 ## Ingredients:
 
 - 2 oz. Rye Whiskey (e.g., Old Forrester_
-- .25 oz. [Rich Demerara Syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
+- ¼ oz. [Rich Demerara Syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
 - 2 dashes of Angostura bitters
 - 2 dashes of Orange bitters
 - Garnish: orange peel

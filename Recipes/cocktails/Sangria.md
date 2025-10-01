@@ -15,8 +15,8 @@ Original recipe from [austinvn](https://github.com/austinvn), who has excellent 
 ## Ingredients:
 
 - 750 ml bottle of robust red wine
-- 1/2-1 cup Spanish brandy 
-- 1/2-1 cup orange juice
+- ½-1 cup Spanish brandy 
+- ½-1 cup orange juice
 - 1-2 tbsp brown sugar 
 - enough cut fruit (apple, pear, orange, lemon, lime) to make liquid look half full of fruit
 

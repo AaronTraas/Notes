@@ -10,10 +10,10 @@ index: hidden
 
 ## Ingredients:
 
-- 2oz aged white rum
-- 3/4 oz creme de banane (preferred, Tempus Fugit)
-- 1/2 oz lime juice
-- 1/2 oz cinnamon demerara syrup
+- 2 oz aged white rum
+- ¾ oz creme de banane (preferred, Tempus Fugit)
+- ½ oz lime juice
+- ½ oz cinnamon demerara syrup
 - garnish: lime wheel, cinnamon stick
 
 ## Directions:

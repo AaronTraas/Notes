@@ -12,7 +12,7 @@ Perfectly balanced. The half ounce of creme de banane tempers and adds richness 
 ## Ingredients:
 
 - 2 oz Rye (Old Forrester)
-- 1/2 oz Creme de Banane (Tempus Fugit)
+- ½ oz Creme de Banane (Tempus Fugit)
 - 4 dashes black walnut bitters
 - 2 dashes orange bitters
 - 1 dash vanilla extract

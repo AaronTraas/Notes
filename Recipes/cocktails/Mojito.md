@@ -18,12 +18,12 @@ Mojito tailored to my lady's tastes.
 
 ## Ingredients:
 
-- 1oz white rum
-- 1oz aged rum
+- 1 oz white rum
+- 1 oz aged rum
 - 2 small limes, quartered 
 - 6-12 mint (preferably spearmint) leaves
 - sprig of mint for garnish
-- 2oz Sprite 
+- 2 oz Sprite 
 - ice
 
 ## Hardware:
@@ -49,13 +49,13 @@ Mojito tailored to my Taste. More rum flavor in layers. Whilst in a classic moji
 
 ## Ingredients:
 
-- 1oz white rum
-- 1oz aged rum
+- 1 oz white rum
+- 1 oz aged rum
 - splash of mamajuana or strong flavored spiced rum, to taste
 - 2 small limes, quartered 
 - 6-12 mint (preferably spearmint) leaves
 - sprig of mint for garnish
-- 2oz club soda
+- 2 oz club soda
 - 1 teaspoon of [rich demarara syrup](./Cocktail-Ingredients.html#rich-demerara-syrup) 
 - ice
 
