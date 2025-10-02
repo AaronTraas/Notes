@@ -41,7 +41,7 @@
           <a href="{{ '/' | relative_url }}">Notes</a>
           {%- for piece in path_pieces -%}
             {% assign whole_path = whole_path | append: piece | append: '/' %}
-            / <a href="{{ whole_path  | relative_url }}">{{piece}}</a>
+            / <a href="{{ whole_path  | relative_url }}">{{piece | capitalize }}</a>
           {% endfor -%}
           {% if page.hero_image != nil -%}
             {% assign content_pieces = content | split: "</h1>" %}
