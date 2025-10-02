@@ -7,10 +7,13 @@
   {%- assign section_dir = section_name | replace: ' ', '%20' | relative_url -%}
 <h2><a href="{{ section_dir }}">{{section_name}}</a></h2>
   {% if current_section == section_name %}
-<ul>
     {% if current_section == 'Recipes' %}
-  <li><a href="{{ section_dir | append: '/search/' }}">Recipe search 🔎︎</a></li>
-    {% endif -%}     
+<ul>
+  <li class="nolist"><a href="{{ section_dir | append: '/search/' }}">🔎︎ Recipe search</a></li>
+</ul>
+<hr />
+    {% endif -%}
+<ul>
     {%- assign all_categories = '' | split: ',' -%}
     {%- for page in site.pages -%}
       {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
@@ -27,7 +30,9 @@
     {% if current_section == 'Recipes' %}
 <hr />
 <ul>
-  <li><a href="{{ 'linda/' | relative_url }}">Linda's Recipes</a></li>
+  <li class="nolist"><a href="{{ 'Recipes/cocktails/' | relative_url }}">🍸 Cocktails</a></li>
+  <li class="nolist"><a href="{{ 'linda/' | relative_url }}">❤️ Linda's Recipes</a></li>
+  <li class="nolist"><a href="{{ 'Recipes/Sourdough/' | relative_url }}">🍞 Sourdough</a></li>
 </ul>
     {% endif -%}
   {% endif -%}
