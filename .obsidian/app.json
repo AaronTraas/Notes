@@ -1,1 +1,8 @@
-{}
+{
+  "showLineNumber": true,
+  "userIgnoreFilters": [
+    "_site/"
+  ],
+  "showUnsupportedFiles": true,
+  "promptDelete": false
+}

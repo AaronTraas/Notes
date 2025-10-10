@@ -15,7 +15,7 @@ Also note: I'm not much of a baker. I love cooking, but I'm not so fond of bakin
 ## Ingredients:
 **Cake:**
 * Dry ingredients:
-    * 165g cups all-purpose flour (1¾ cups)
+    * 165 g cups all-purpose flour (1¾ cups)
     * ¼ teaspoons ground cinnamon
     * 1 teaspoons baking powder (0.28 oz / 8g)
     * 1 teaspoons kosher slt (0.21 oz / 6g)

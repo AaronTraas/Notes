@@ -1,8 +1,12 @@
 ---
-description: My daughter's recipe for Cream Cheese Frosting. 
+description: My daughter's recipe for Cream Cheese Frosting.
 category: ingredients
-tags: [dessert]
-ingredients: [cream cheese, butter, gluten-free]
+tags:
+  - dessert
+ingredients:
+  - cream-cheese
+  - butter
+  - gluten-free
 hero_image: cinnamon_rolls_frosted.jpg
 ---
 
