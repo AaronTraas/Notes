@@ -2,7 +2,7 @@
 {%- assign filtered_pages = '' | split: "'" -%}
 
 {%- for page in site.pages -%}
-  {%- if page.ingredients -%}
+  {%- if page.ingredients and page.ingredients.first -%}
     {%- if filter_tag == nil or page.tags contains filter_tag -%}
       {%- assign filtered_pages = filtered_pages | push: page -%}
     {%- endif -%}
@@ -20,7 +20,7 @@
     {%- assign all_categories = all_categories | push: cleaned -%}
   {%- endfor -%}
 
-  {%- assign ingredients = page.ingredients | strip | split: ',' -%}
+  {%- assign ingredients = page.ingredients -%}
   {%- for ingredient in ingredients -%}
     {%- assign cleaned = ingredient | strip | slugify -%}
     {%- assign all_ingredients = all_ingredients | push: cleaned -%}

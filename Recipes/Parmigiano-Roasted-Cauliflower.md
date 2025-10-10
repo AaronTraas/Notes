@@ -1,8 +1,8 @@
 ---
 description: Simple and delicious preparation of cauliflower.
 category: sides
-tags: sides, friday-friendly, linda
-ingredients: cauliflower
+tags: [sides, friday-friendly, linda]
+ingredients: [cauliflower]
 ---
 
 # Parmigiano Roasted Cauliflower

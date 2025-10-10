@@ -1,8 +1,8 @@
 ---
 description: Simple and quick tomato sauce, the way my nonna taught me.
 category: ingredients
-tags: italian, monacilioni, friday-friendly, gluten-free
-ingredients: tomatoes, basil
+tags: [italian, monacilioni, friday-friendly, gluten-free]
+ingredients: [tomatoes, basil]
 hero_image: sauce.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
-category: entrees
-ingredients: brussels-sprouts, bacon
+category: ingredients
+ingredients: [soy-sauce, pear, kiwi]
 ---
 
 # Bulgogi Marinade

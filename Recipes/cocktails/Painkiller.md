@@ -1,8 +1,8 @@
 ---
 description: Pineapple & coconut tiki drink. Shaken cousin to the pina colada. 
 category: beverages
-tags: cocktails, tiki, kalahari
-ingredients: rum, pineapple, orange, cream-of-coconut, acid-adjuster
+tags: [cocktails, tiki, kalahari]
+ingredients: [rum, pineapple, orange, cream-of-coconut, acid-adjuster]
 hero_image: captains_coco.jpg
 ---
 

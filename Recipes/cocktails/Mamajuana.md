@@ -1,8 +1,8 @@
 ---
 description: Attempt at creating a Dominican 
 category: beverages
-tags: cocktails, tiki, experimental-drinks
-ingredients: rum, wine, honey
+tags: [cocktails, tiki, experimental-drinks]
+ingredients: [rum, wine, honey]
 index: hidden
 ---
 

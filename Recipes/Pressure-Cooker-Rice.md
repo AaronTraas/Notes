@@ -1,8 +1,8 @@
 ---
 description: Various rice preparations using a modern pressure cooker.
 category: sides
-tags: instant-pot, gluten-free
-ingredients: rice
+tags: [instant-pot, gluten-free]
+ingredients: [rice]
 hero_image: indian_rice.jpg
 ---
 
@@ -59,7 +59,7 @@ Ever get that really fragrant basmati rice from an Indian place served with your
 
 ## Notes:
 * Makes your kitchen smell amazing when you open the lid. Everyone present will want to eat immediately.
-* Goes great with [Chicken Tikka Masala](Chicken%20Tikka%20Masala.html)
+* Goes great with [Chicken Tikka Masala](Chicken-Tikka-Masala.html)
 
 * * *
 

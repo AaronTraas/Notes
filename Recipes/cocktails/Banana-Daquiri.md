@@ -1,8 +1,8 @@
 ---
 description: Banana Daquiri. 
 category: beverages
-tags: cocktails, experimental-drinks
-ingredients: rum, simple-syrup, banana-liqueur, lime
+tags: [cocktails, experimental-drinks]
+ingredients: [rum, simple-syrup, banana-liqueur, lime]
 index: hidden
 ---
 

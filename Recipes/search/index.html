@@ -25,14 +25,14 @@ scripts: recipe-filter.js
           {%- assign category = 'none' -%}
         {%- endif -%}
 
-        {%- if page.tags -%}
-          {%- assign tags = page.tags | remove: " " | split: ',' | sort -%}
+        {%- if page.tags and page.tags.first -%}
+          {%- assign tags = page.tags | sort -%}
         {%- else -%}
           {%- assign tags = 'none' -%}
         {%- endif -%}
-        {%- if page.ingredients -%}
-          {%- assign ingredients = page.ingredients | remove: " " | split: ',' | sort -%}
-          {%- assign ingredients_display = page.ingredients | remove: " " | replace: '-', ' ' | split: ',' | sort -%}
+        {%- if page.ingredients and page.ingredients.first -%}
+          {%- assign ingredients = page.ingredients | sort -%}
+          {%- assign ingredients_display = page.ingredients | sort -%}
         {%- else -%}
           {%- assign ingredients = 'none' | split: 'dummy' -%}
           {%- assign ingredients_display = ingredients -%}

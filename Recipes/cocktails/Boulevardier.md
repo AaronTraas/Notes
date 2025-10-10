@@ -1,8 +1,8 @@
 ---
 description: A variant on the Negroni, replacing the gin with bourbon/rye. 
 category: beverages
-tags: cocktails
-ingredients: campari, amaro, vermouth, bourbon, rye
+tags: [cocktails]
+ingredients: [campari, amaro, vermouth, bourbon, rye]
 hero_image: negroni.jpg
 ---
 

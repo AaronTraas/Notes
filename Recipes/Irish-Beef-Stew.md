@@ -1,8 +1,8 @@
 ---
 description: Savory, rich, and satisfying stew for a modern pressure cooker.
 category: entrees
-tags: meat, instant-pot,soup-stew-casserole, lin-favorite
-ingredients: beef, mushrooms, potatoes, carrots, chocolate, stock
+tags: [meat, instant-pot,soup-stew-casserole, lin-favorite]
+ingredients: [beef, mushrooms, potatoes, carrots, chocolate, stock]
 hero_image: irish_beef_stew.jpg
 ---
 

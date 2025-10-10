@@ -6,10 +6,10 @@ category: entrees
 
 This is a list of easy, quick recipes with low ingredient counts that Aaron could reasonably make on a weeknight with minimal prep and minimal dishes. 
 
-- [Easy Baked Salmon](./Baked%20Salmon.html)
-- ["Mexican" Black Beans](./Southwest%20Black%20Beans.html)
+- [Easy Baked Salmon](./Baked-Salmon.html)
+- ["Mexican" Black Beans](./Southwest-Black-Beans.html)
 - [Chicken Chasseur](#chicken-chasseur)
-- [Chicken Paprikash](./Chicken%20Paprikash.html)
+- [Chicken Paprikash](./Chicken-Paprikash.html)
 - [Oven Baked Pork Chops with Potatoes](https://www.recipetineats.com/oven-baked-pork-chops-with-potatoes/#recipe)
 - [Rice cooker rice with eggs, veggies, and Chinese sausage](https://youtu.be/--P6IGVLVZo)
 - [Sausage, Veggies, and Spätzle](#sausage-veggies-and-spätzle)

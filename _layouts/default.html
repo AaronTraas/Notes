@@ -30,6 +30,7 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+
       </div>
     </header>
 
@@ -43,6 +44,7 @@
             {% assign whole_path = whole_path | append: piece | append: '/' %}
             / <a href="{{ whole_path  | relative_url }}">{{piece | capitalize }}</a>
           {% endfor -%}
+
           {% if page.hero_image != nil -%}
             {% assign content_pieces = content | split: "</h1>" %}
             {% assign content_pieces_count = content_pieces | size %}

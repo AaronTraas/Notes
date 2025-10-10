@@ -1,8 +1,8 @@
 ---
 description: Classic bitter, sweet, vibrant Italian cocktail. 
 category: beverages
-tags: cocktails
-ingredients: campari, amaro, vermouth, gin
+tags: [cocktails]
+ingredients: [campari, amaro, vermouth, gin]
 hero_image: negroni.jpg
 ---
 

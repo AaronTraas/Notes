@@ -1,8 +1,8 @@
 ---
 description: The king of all ramen toppings!
 category: sides
-tags: meat, sous-vide
-ingredients: pork-belly, soy-sauce, mirin
+tags: [meat, sous-vide]
+ingredients: [pork-belly, soy-sauce, mirin]
 hero_image: chashu_ramen.jpg
 ---
 

@@ -1,8 +1,8 @@
 ---
 description: My daughter's recipe for Cream Cheese Frosting. 
 category: ingredients
-tags: dessert
-ingredients: cream cheese, butter, gluten-free
+tags: [dessert]
+ingredients: [cream cheese, butter, gluten-free]
 hero_image: cinnamon_rolls_frosted.jpg
 ---
 
@@ -30,4 +30,4 @@ The way my daughter, Miriam, makes Cream Cheese frosting. Great on cinnamon roll
 
 ## Notes
 
-- I like to make-ahead when I make [Sourdough Cinnamon Rolls](./Sourdough/Cinnamon%20Rolls.html), which is an overnight ferment, then an overnight proof once formed. I store in the fridge in a disposable piping bag.
+- I like to make-ahead when I make [Sourdough Cinnamon Rolls](./Sourdough/Cinnamon-Rolls.html), which is an overnight ferment, then an overnight proof once formed. I store in the fridge in a disposable piping bag.

@@ -1,8 +1,8 @@
 ---
 description: Tasty breaded cauliflower with Korean fried chicken vibes.
 category: entrees
-tags: main-dish, friday-friendly, linda
-ingredients: cauliflower
+tags: [main-dish, friday-friendly, linda]
+ingredients: [cauliflower, eggs, flour, breadcrumbs, honey, soy-sauce]
 ---
 
 # Honey-Soy-Garlic Cauliflower

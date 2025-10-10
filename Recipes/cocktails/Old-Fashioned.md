@@ -1,8 +1,8 @@
 ---
 description: Classic whiskey cocktail. 
 category: beverages
-tags: cocktails
-ingredients: rye-whiskey, simple-syrup, bitters
+tags: [cocktails]
+ingredients: [rye-whiskey, simple-syrup, bitters]
 ---
 
 # Old Fashioned

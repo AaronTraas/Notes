@@ -1,7 +1,7 @@
 ---
 category: sides
-tag: sides, gluten-free
-ingredients: brussels-sprouts, bacon
+tag: [sides, gluten-free]
+ingredients: [brussels-sprouts, bacon]
 hero_image: brussels_sprouts.png
 ---
 

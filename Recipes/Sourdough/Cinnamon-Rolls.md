@@ -1,8 +1,8 @@
 ---
 description: Yeasty and soft cinnamon rolls.
 category: baked-goods
-tags: sourdough, dessert
-ingredients: flour, sourdough-starter, eggs, butter, milk
+tags: [sourdough, dessert]
+ingredients: [flour, sourdough-starter, eggs, butter, milk]
 hero_image: cinnamon_rolls.jpg
 ---
 
@@ -61,5 +61,5 @@ I like to top with [Miriam's Cream Cheese Frosting](../Cream-Cheese-Frosting.htm
 15. Pre-heat oven to 350°F.
 16. Put pan in oven for 20-25 minutes. Check for doneness (should be 200°F). Cook longer if needed.
 17. Let pan cool on wire rack for 15-20 minutes.
-18. If you're not a monster, pipe on [Cream Cheese Frosting](../Cream%20Cheese%20Frosting.html) and serve.
+18. If you're not a monster, pipe on [Cream Cheese Frosting](../Cream-Cheese-Frosting.html) and serve.
 

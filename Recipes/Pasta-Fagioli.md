@@ -1,8 +1,8 @@
 ---
 description: Basic southern Italian bean and pasta soup.
 category: entrees
-tags: italian, monacilioni, friday-friendly
-ingredients: beans, pasta, garlic, olive-oil, tomato-sauce
+tags: [italian, monacilioni, friday-friendly]
+ingredients: [beans, pasta, garlic, olive-oil, tomato-sauce]
 ---
 
 # Pasta e Fagioli

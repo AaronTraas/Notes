@@ -1,8 +1,8 @@
 ---
 description: A slightly sweet, eggy popover that's fantastic with fruit for brunch.
 category: breakfast
-tags: breakfast, friday-friendly
-ingredients: eggs, flour, berries
+tags: [breakfast, friday-friendly]
+ingredients: [eggs, flour, berries]
 hero_image: dutch_baby.png
 ---
 

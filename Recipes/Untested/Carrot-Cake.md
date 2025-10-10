@@ -48,7 +48,7 @@ Also note: I'm not much of a baker. I love cooking, but I'm not so fond of bakin
 11.  Put pans in the oven. Bake until the cakes are springy to the touch in the center and toothpick inserted into the centers comes out clean, 25 to 30 minutes.
 12. Remove the cakes from the oven and let cool completely in the pans. 
 13. Remove cakes from pans, peel parchment from cake.
-14. Frost Cake with [Cream Cheese Frosting](Cream%20Cheese%20Frosting.md)
+14. Frost Cake with [Cream Cheese Frosting](../Cream-Cheese-Frosting.md)
 
 * * *
 
