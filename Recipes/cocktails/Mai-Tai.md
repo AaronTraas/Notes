@@ -13,7 +13,7 @@ index: hidden
 - 2 oz Blended Aged Rum (ideally, Denizen Merchant Reserve)
 - ½ oz Dry Curaçao
 - ¾ oz Orgeat
-- ¼ oz [rich demarara syrup](../Cocktail-Ingredients.html#rich-demerara-syrup) (see notes)
+- ¼ oz [rich demarara syrup](./Cocktail-Ingredients.html#rich-demerara-syrup) (see notes)
 - ¾ oz Lime Juice
 - 1 drop vanilla extract
 - 1 drop 5:1 saline

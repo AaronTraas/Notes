@@ -4,10 +4,10 @@
 
 - **Dinner**
 	- Prime rib - Requested by Miriam and Maddie
-	- [Dinner Rolls](./Recipes/Sourdough/Sourdough%20Hawaiian%20Rolls.html) - topped with herbs? Requested by Miriam & Maddie
+	- [Dinner Rolls](./Recipes/Sourdough/Sourdough-Hawaiian-Rolls.html) - topped with herbs? Requested by Miriam & Maddie
 	- Yorkshire pudding (Miriam's request)
 	- [Mushroom gravy](https://www.seriouseats.com/mushroom-gravy-sauce-recipe)
-	- [Cranberry Bread](./Recipes/Cranberry%20Bread.html)
+	- [Cranberry Bread](./Recipes/Cranberry-Bread.html)
 	- Brussels Sprouts with bacon
 	- Salad (lettuce, cucumber, cherry tomatoes)
 - **Dessert**
@@ -16,7 +16,7 @@
 
 ## 2024 Christmas Breakfast Highland Lakes & Rahway
 
-- [Cinnamon Rolls](./Recipes/Sourdough/Cinnamon%20Rolls.html)
+- [Cinnamon Rolls](./Recipes/Sourdough/Cinnamon-Rolls.html)
 
 ## 2024 Christmas Dinner Highland Lakes
 - **Dinner**
@@ -29,10 +29,10 @@
 ## Schedule
 
 **Monday:**
-- dough for [dinner rolls and cinnamon rolls](./Recipes/Sourdough/Cinnamon%20Rolls.html)
+- dough for [dinner rolls and cinnamon rolls](./Recipes/Sourdough/Cinnamon-Rolls.html)
 - assemble dinner rolls in pan
 - assemble cinnamon rolls in 2 pans
-- make [Cranberry Bread](./Recipes/Cranberry%20Bread.html)
+- make [Cranberry Bread](./Recipes/Cranberry-Bread.html)
 - put all bread stuff in fridge without final proof
 - make cannoli filling, store in piping bag
 - make cream cheese frosting, store in 2 piping bags
@@ -42,7 +42,7 @@
 **Tuesday (Christmas Eve):**
 - Before girls arrive:
   - prep Roast roast in pan
-  - prep [basic Brussels sprouts](./Recipes/Brussles%20Sprouts%20with%20Bacon%20and%20Blue.html)
+  - prep [basic Brussels sprouts](./Recipes/Brussles-Sprouts-with-Bacon-and-Blue.html)
   - make [Mushroom gravy](https://www.seriouseats.com/mushroom-gravy-sauce-recipe)
   - make Yorkshire pudding batter
   - bake dinner rolls (350F for 25 minutes)
@@ -81,8 +81,8 @@ Wednesday (Christmas)
 ## Thanksgiving
 
 ### 2024 Bayonne
-- ✔️[Dinner Rolls](./Recipes/Sourdough/Sourdough%20Hawaiian%20Rolls.html) - big hit. Make again. Probably every year.
+- ✔️[Dinner Rolls](./Recipes/Sourdough/Sourdough-Hawaiian-Rolls.html) - big hit. Make again. Probably every year.
 - [Sangria](./Recipes/cocktails/Sangria.html) - no one but Aaron on had any.
 
 ### 2023 Bayonne
-- [Cranberry Bread](./Recipes/Cranberry%20Bread.html) - very few takers.
+- [Cranberry Bread](./Recipes/Cranberry-Bread.html) - very few takers.

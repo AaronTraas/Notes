@@ -110,4 +110,4 @@ This is a list of things I've not tried, but want to:
   - [Chicago Deep Dish](./Untested/Chicago-Deep-Dish.html)
   - [Thit Kho](https://www.hungryhuy.com/how-to-make-thit-heo-kho-voi-trung-vietnamese-braised-pork-with-hard-boiled-eggs/)
 - **Desserts**
-  - [Steamed Chocolate Cake](./Untested/Steamed_Chocolate_Cake.html) - from Milk Street
+  - [Steamed Chocolate Cake](./Untested/Steamed-Chocolate-Cake.html) - from Milk Street

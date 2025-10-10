@@ -8,7 +8,7 @@ hero_image: ajitama_egg.jpg
 
 # Ajitama Eggs
 
-My second favorite ramen topping, after [chashu pork belly](Chashu Pork Belly.html). Also, very tasty by themselves. I've made them with both hard and soft boiled eggs. A 7 minute soft boiled is just about perfect.
+My second favorite ramen topping, after [chashu pork belly](Chashu-Pork-Belly.html). Also, very tasty by themselves. I've made them with both hard and soft boiled eggs. A 7 minute soft boiled is just about perfect.
 
 ## Ingredients
 
