@@ -7,7 +7,7 @@ ingredients: [coffee]
 
 # Cold Brew Concentrate
 
-In the summer, I make a fair bit of cold brew. I prefer it on a hot afternoon to hot coffee. It's also really great in an [espresso martini](cocktails/Espresso Martini.md).
+In the summer, I make a fair bit of cold brew. I prefer it on a hot afternoon to hot coffee. It's also really great in an [espresso martini](cocktails/Espresso-Martini.md).
 
 ## Ingredients:
 

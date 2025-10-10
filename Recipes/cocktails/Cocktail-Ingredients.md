@@ -14,7 +14,7 @@ I make syrups and other intermediary ingredients for cockatails. Home-made syrup
 
 # Rich Demerara Syrup
 
-This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper flavor. A rich syrup also adds better mouthfeel, as the drink is less diluted. Replacing simple syrup with this in certain coctails perfects them, such as my [espresso martini](./cocktails/Espresso-Martini.html)
+This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper flavor. A rich syrup also adds better mouthfeel, as the drink is less diluted. Replacing simple syrup with this in certain coctails perfects them, such as my [espresso martini](./Espresso-Martini.html)
 
 ## Ingredients:
 
@@ -78,7 +78,7 @@ This yields a 1:1 syrup, which winds up being a little less sweet and less cooke
 
 # Thai Coconut Syrup
 
-I only use this, currently, for one drink: the [White Elephant](./cocktails/White Elephant.html). There's probably other uses for this, like glazing a donut, or tossing grilled shrimp in.
+I only use this, currently, for one drink: the [White Elephant](./White-Elephant.html). There's probably other uses for this, like glazing a donut, or tossing grilled shrimp in.
 
 ## Ingredients:
 

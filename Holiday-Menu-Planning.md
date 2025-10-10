@@ -4,7 +4,7 @@
 
 - **Dinner**
 	- Prime rib - Requested by Miriam and Maddie
-	- [Dinner Rolls](./Recipes/Sourdough/Sourdough-Hawaiian-Rolls.html) - topped with herbs? Requested by Miriam & Maddie
+	- [Dinner Rolls](./Recipes/Sourdough/Hawaiian-Rolls.html) - topped with herbs? Requested by Miriam & Maddie
 	- Yorkshire pudding (Miriam's request)
 	- [Mushroom gravy](https://www.seriouseats.com/mushroom-gravy-sauce-recipe)
 	- [Cranberry Bread](./Recipes/Cranberry-Bread.html)
@@ -42,7 +42,7 @@
 **Tuesday (Christmas Eve):**
 - Before girls arrive:
   - prep Roast roast in pan
-  - prep [basic Brussels sprouts](./Recipes/Brussles-Sprouts-with-Bacon-and-Blue.html)
+  - prep [basic Brussels sprouts](./Recipes/Brussles-Sprouts-Bacon-Blue.html)
   - make [Mushroom gravy](https://www.seriouseats.com/mushroom-gravy-sauce-recipe)
   - make Yorkshire pudding batter
   - bake dinner rolls (350F for 25 minutes)
@@ -81,7 +81,7 @@ Wednesday (Christmas)
 ## Thanksgiving
 
 ### 2024 Bayonne
-- ✔️[Dinner Rolls](./Recipes/Sourdough/Sourdough-Hawaiian-Rolls.html) - big hit. Make again. Probably every year.
+- ✔️[Dinner Rolls](./Recipes/Sourdough/Hawaiian-Rolls.html) - big hit. Make again. Probably every year.
 - [Sangria](./Recipes/cocktails/Sangria.html) - no one but Aaron on had any.
 
 ### 2023 Bayonne

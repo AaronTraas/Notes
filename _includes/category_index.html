@@ -5,7 +5,7 @@
 
 {%- for section_name in sections -%}
   {%- assign section_dir = section_name | replace: ' ', '%20' | relative_url -%}
-<h2><a href="{{ section_dir }}">{{section_name}}</a></h2>
+<h2><a href="{{ section_dir }}/">{{section_name}}</a></h2>
   {% if current_section == section_name %}
     {% if current_section == 'Recipes' %}
 <ul>
