@@ -1,8 +1,17 @@
 ---
-description: My attempt at Chicken Tikka Masala for a home kitchen without a tandoor 
+description: My attempt at Chicken Tikka Masala for a home kitchen without a tandoor
 category: entrees
-tags: [indian, meat, gluten-free, lin-favorite]
-ingredients: [chicken, yougurt, garam-masala]
+tags:
+  - indian
+  - meat
+  - gluten-free
+  - lin-favorite
+ingredients:
+  - chicken
+  - yougurt
+  - garam-masala
+favorite:
+  - linda
 ---
 
 # Chicken Tikka Masala

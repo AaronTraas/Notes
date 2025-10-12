@@ -1,8 +1,14 @@
 ---
-description: Autumnal spin on an old fashioned whiskey cocktail. 
+description: Autumnal spin on an old fashioned whiskey cocktail.
 category: beverages
-tags: [cocktails, fall]
-ingredients: [rye-whiskey, banana-liqueur, bitters]
+tags:
+  - cocktails
+  - fall
+ingredients:
+  - rye-whiskey
+  - banana-liqueur
+  - bitters
+favorite: aaron
 ---
 
 # Banana Old Fashioned

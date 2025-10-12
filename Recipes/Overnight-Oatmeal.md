@@ -1,9 +1,17 @@
 ---
 description: Creamy and satisfying slow-cooker oatmeal. Easy breakfast.
 category: breakfast
-tags: [instant-pot, breakfast, friday-friendly, gluten-free]
-ingredients: [oats, apples]
+tags:
+  - instant-pot
+  - breakfast
+  - friday-friendly
+  - gluten-free
+ingredients:
+  - oats
+  - apples
 hero_image: oatmeal.jpg
+favorite:
+  - aaron
 ---
 
 # Overnight Oatmeal
