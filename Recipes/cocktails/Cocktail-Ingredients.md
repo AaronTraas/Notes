@@ -28,8 +28,8 @@ This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper fl
 - Pour into storage bottle. Keep in refrigerator.
 
 ## Recipes that use Rich Demerara Syrup
-{% assign filter_ingredient = 'demerara-syrup' -%}
-{% include recipes_by_ingredient.html -%}
+{% include recipes_by_ingredient.html 
+    filter_ingredient = 'demerara-syrup' -%}
 
 * * * 
 
@@ -50,8 +50,8 @@ A rich demerara syrup infused with cinnamon. Based on the [Smuggler's Cove](http
 - Strain, pour into storage bottle. Keep in refrigerator.
 
 ## Recipes that use Cinnamon Demerara Syrup
-{% assign filter_ingredient = 'cinnamon-syrup' -%}
-{% include recipes_by_ingredient.html -%}
+{% include recipes_by_ingredient.html 
+    filter_ingredient = 'cinnamon-syrup' -%}
 
 
 * * *
@@ -71,8 +71,8 @@ This yields a 1:1 syrup, which winds up being a little less sweet and less cooke
 2. Store in refigerator for up to 1 month.
 
 ## Recipes that use Cream of Coconut
-{% assign filter_ingredient = 'cream-of-coconut' -%}
-{% include recipes_by_ingredient.html -%}
+{% include recipes_by_ingredient.html 
+    filter_ingredient = 'cream-of-coconut' -%}
 
 * * *
 
@@ -101,8 +101,8 @@ I only use this, currently, for one drink: the [White Elephant](./White-Elephant
 - Original recipe from [Make and Drink on Youtube](https://www.youtube.com/watch?v=NDKElsxCdbA)
 
 ## Recipes that use Thai Coconut Syrup
-{% assign filter_ingredient = 'thai-coconut-syrup' -%}
-{% include recipes_by_ingredient.html -%}
+{% include recipes_by_ingredient.html 
+    filter_ingredient = 'thai-coconut-syrup'-%}
 
 * * * 
 
@@ -124,8 +124,8 @@ To use, adding 1mL to 1oz of juice to increase acidity by 1%. This is somewhat a
 - Medication Doser: <https://amzn.to/3W1qin2>
 
 ## Recipes that use Thai Coconut Syrup
-{% assign filter_ingredient = 'acid-adjuster' -%}
-{% include recipes_by_ingredient.html -%}
+{% include recipes_by_ingredient.html 
+    filter_ingredient = 'acid-adjuster' -%}
 
 
 * * *

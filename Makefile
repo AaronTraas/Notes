@@ -14,4 +14,4 @@ check:
 check-links-local:
 links-local:
 check-local:
-	linkchecker http://127.0.0.1:4000/Notes/
+	linkchecker http://127.0.0.1:4000/

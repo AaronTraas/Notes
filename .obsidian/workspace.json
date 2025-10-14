@@ -197,6 +197,8 @@
   },
   "active": "96d9facac62f9cf1",
   "lastOpenFiles": [
+    "_site/Gemfile.lock",
+    "_site/Gemfile",
     "Recipes/Overnight-Oatmeal.md",
     "Recipes/Brussles-Sprouts-Bacon-Blue.md",
     "Recipes/Baby-Back-Ribs.md",
@@ -231,8 +233,6 @@
     "_site/Recipes/Linda-Misc.html",
     "_site/Recipes/Linda-Burgers 1.html",
     "Recipes/Untested/Carrot-Cake.md",
-    "_config.yml",
-    "Cooking-Projects.md",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]

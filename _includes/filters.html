@@ -3,7 +3,7 @@
 
 {%- for page in site.pages -%}
   {%- if page.ingredients and page.ingredients.first -%}
-    {%- if filter_tag == nil or page.tags contains filter_tag -%}
+    {%- if include.filter_tag == nil or page.tags contains include.filter_tag -%}
       {%- assign filtered_pages = filtered_pages | push: page -%}
     {%- endif -%}
   {%- endif -%}
@@ -30,7 +30,7 @@
 {%- assign all_categories_sorted = all_categories | sort | uniq -%}
 
 <form id="filters">
-{% if filter_tag == nil and filter_category == nil %}
+{% if include.filter_tag == nil and include.filter_category == nil %}
   <div>
     <label for="category-filter">Category: </label>
     <select id="category-filter">
@@ -61,6 +61,3 @@
     </div>
   </div>
 </form>
-
-{%- assign filter_tag = nil %}
-{% assign filter_category = nil -%}

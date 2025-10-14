@@ -6,17 +6,22 @@
     {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
     {%- assign section = segments | first -%}
     {%- if section == section_dir %}
-      {%- if page.index == 'hidden' and show_hidden != 'True' -%}
+      {%- if page.index == 'hidden' and include.show_hidden != 'True' -%}
       {%- else -%}
         {%- if page_blacklist contains page.name -%}
         {%- else -%}
-          {%- if hide_description == nil and page.description != nil and page.description != '' -%}
+          {%- if page.category -%}
+            {%- assign category = page.category -%}
+          {%- else -%}
+            {%- assign category = 'none' -%}
+          {%- endif -%}
+          {%- if include.hide_description == nil and page.description != nil and page.description != '' -%}
             {%- assign page_description = ' — ' | append: page.description}} -%}
           {%- else -%}
             {%- assign page_description = '' -%}
           {%- endif -%}
-          {%- if filter_tag == nil or page.tags contains filter_tag or filter_tag == "NONE" and page.tags == nil -%}
-            {%- if filter_ingredient == nil or page.ingredients contains filter_ingredient -%}
+          {%- if include.filter_tag == nil or page.tags contains include.filter_tag or include.filter_tag == "NONE" and page.tags == nil -%}
+            {%- if include.filter_ingredient == nil or page.ingredients contains include.filter_ingredient -%}
               {%- if page.tags and page.tags.first -%}
                 {%- assign tags = page.tags | sort -%}
               {%- else -%}
@@ -36,10 +41,10 @@
               {%- else -%}
                 {%- assign recipe_style = '' -%}
               {%- endif -%}
-    <a class="recipe-link tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+    <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
       <div class="text">
         <strong>{{page.title}}</strong>
-        {%- if hide_description != nil or page.description != nil or page.description != '' -%}
+        {%- if include.hide_description != nil or page.description != nil or page.description != '' -%}
         {{ page.description }}
         {%- else -%}
         <ul class="tags">
@@ -62,8 +67,3 @@
   {%- endif -%}
 {%- endfor %}
 </div>
-{%- assign hide_description = nil -%}
-{%- assign filter_tag = nil %}
-{%- assign filter_ingredient = nil %}
-{%- assign force_section = nil %}
-

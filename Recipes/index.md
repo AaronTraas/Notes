@@ -10,80 +10,67 @@ Most of the recipes listed here are either found on the web and slightly tweaked
 
 My maternal family's southern Italian food (from [Monacilioni, Molise, Italy](https://en.wikipedia.org/wiki/Monacilioni)). This is an attempt to preserve these recipes for my children, and subsequent generations.
 
-{% assign filter_tag = 'monacilioni' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='monacilioni' -%}
 
 ## Recipes for Instant Pot
 
 The following recipes are good use of an Instant Pot or similar multi-function electric pressure cooker. Great for a weeknight if you plan correctly.
 
-{% assign filter_tag = 'instant-pot' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='instant-pot' -%}
 
 ## Sous Vide Recipes
 
 The following recipes are idiot-proof, and make use of an immersion circulator, and ideally a vacuum sealer.
 
-{% assign filter_tag = 'sous-vide' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='sous-vide' -%}
 
 ## Healthy Recipes
 
 I count calories, and have lost a tremendous amount of weight, and kept it off. These are my staples for meals I eat by myself. They are also quite tasty.
 
-{% assign filter_tag = 'healthy' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='healthy' -%}
 
 ## Sourdough Recipes
 
 I've taken up to making sourdough bread. First, because my daughter likes it, and we didn't go through the gigantic loaves we got at the store quick enough before they spoiled. Then, because it's delicious and fun.
 
-{% assign filter_tag = 'sourdough' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='sourdough' -%}
 
 ## Soups, Stews, and Casseroles
 
 Hearty, delicious, warm dishes that are great for the colder months. 
 
-{% assign filter_tag = 'soup-stew-casserole' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='soup-stew-casserole' -%}
 
 ## Breakfast
 
 I actually don't frequently eat breakfast, but these recipes are great crowd pleasers.
 
-{% assign filter_tag = 'breakfast' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='breakfast' -%}
 
 ## Desserts
 
 I don't make a whole lot of desserts or sweets. Up until my late 40's, I didn't really bake at all. But here's some stuff that's absolutely worth making.
 
-{% assign filter_tag = 'dessert' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='dessert' -%}
 
 ## Friday-Friendly
 
 As observant Catholics, we abstain from eat meat on Fridays in our household. And yes, we do this year round. This is still in effect, per [Can. 1251](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann1244-1253_en.html). Some of these recipes are vegitarian, some par pescitarian, some are neither. [Per the USCCB](https://www.usccb.org/prayer-worship/liturgical-year/lent), broth, rendered fat, gelatin, etc. are not considered meat for purposes of this discipline. Fish and other sea creatures likewise are not considered meat.
 
-{% assign filter_tag = 'friday-friendly' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='friday-friendly' -%}
 
 ## Easter
-{% assign filter_tag = 'easter' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='easter' -%}
 
 ## Thanksgiving
-{% assign filter_tag = 'thanksgiving' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='thanksgiving' -%}
 
 ## Christmas
-{% assign filter_tag = 'christmas' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='christmas' -%}
 
 ## Cocktails
-{% assign filter_tag = 'cocktails' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html filter_tag='cocktails' -%}
 
 ## Miscellaneous Recipes
 

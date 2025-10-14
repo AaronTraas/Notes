@@ -8,12 +8,12 @@ scripts: recipe-filter.js
 
 <p>Aaron's archive of Linda's recipes.</p>
 
-{% assign filter_tag = 'linda' -%}
-{% include filters.html -%}
+{% include filters.html
+    filter_tag = 'linda'-%}
 
-{% assign filter_tag = 'linda' -%}
-{% assign show_hidden = 'True' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html
+    filter_tag='linda'
+    show_hidden = 'True' -%}
 
 <hr>
 
@@ -23,5 +23,5 @@ scripts: recipe-filter.js
 
 <h2>Linda's favorite recipes that Aaron makes</h2>
 
-{% assign filter_tag = 'lin-favorite' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html
+    filter_tag = 'lin-favorite'-%}

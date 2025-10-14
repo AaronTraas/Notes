@@ -12,7 +12,7 @@
       {%- if page_blacklist contains page.name -%}
       {%- else -%}
         {%- assign page_description = ' — ' | append: page.description}} -%}
-        {%- if page.ingredients contains filter_ingredient -%}
+        {%- if page.ingredients contains include.filter_ingredient -%}
   <li><a href="{{ page.url | relative_url }}">{{page.title}}</a>{{page_description}}</li>
         {% endif -%}
       {%- endif -%}
@@ -20,6 +20,4 @@
   {%- endif -%}
 {%- endfor %}
 </ul>
-{%- assign hide_description = nil -%}
-{%- assign filter_ingredient = nil %}
 {%- assign show_hidden = nil %}

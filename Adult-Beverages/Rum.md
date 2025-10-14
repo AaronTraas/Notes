@@ -18,6 +18,6 @@ Honestly, it's not worth the savings to buy the off brands. Of course, I need to
 
 ## Rum Coctails
 
-{% assign filter_tag = 'cocktails' -%}
-{% assign filter_ingredient = 'rum' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html 
+    filter_ingredient = 'rum'
+    filter_tag = 'cocktails' -%}

@@ -8,3 +8,4 @@ plugins:
   - jekyll-remote-theme
   - github-pages
 
+exclude: [.obsidian]

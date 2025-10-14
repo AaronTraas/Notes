@@ -26,6 +26,6 @@ Scores are on a 1-10. These scores are relative to each other, not to spirits in
 
 ## Scotch Whisky Coctails
 
-{% assign filter_tag = 'cocktails' -%}
-{% assign filter_ingredient = 'scotch-whisky' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html 
+    filter_ingredient = 'scotch-whisky'
+    filter_tag = 'cocktails' -%}

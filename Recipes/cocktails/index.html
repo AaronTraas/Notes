@@ -8,17 +8,17 @@ scripts: recipe-filter.js
 
 <p>Cocktail recipes I use, but not necessarily created, that are a little outside the classics. These work for me, and are catered to my tastes and the tastes of the people I love to drink with.</p>
 
-{% assign filter_category = 'beverages' -%}
-{% assign filter_tag = 'cocktails' -%}
-{% include filters.html -%}
+{% include filters.html
+    filter_tag      = 'cocktails'
+    filter_category = 'beverages' -%}
 
-{% assign filter_tag = 'cocktails' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html
+    filter_tag = 'cocktails'-%}
 
 <hr>
 
 <h2>Cocktails Aaron is testing and developing</h2>
 
-{% assign filter_tag = 'experimental-drinks' -%}
-{% assign show_hidden = 'True' -%}
-{% include recipe_links.html -%}
+{% include recipe_links.html
+    filter_tag  = 'experimental-drinks'
+    show_hidden = 'True' -%}
