@@ -19,9 +19,7 @@ General strategy is to make stuff that's naturally gluten free -- mostly, no bre
 
 ### Recipes that are naturally gluten-free
 
-{% assign sections = 'Recipes' | split: ',' -%}
-{% assign filter_tag = 'gluten-free' -%}
-{% include site_index.html -%}
+{% include recipe_links.html
+  section    = 'Recipes'
+  filter_tag = 'gluten-free' -%}
 
-
-* * *

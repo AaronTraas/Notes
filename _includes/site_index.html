@@ -1,35 +1,29 @@
 {% assign current_section = page.path | split: '/' | first -%}
 {%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
 
-{%- for section_name in include.sections -%}
-  {%- assign section_dir = section_name | replace: ' ', '%20' -%}
-  {%- if include.sections.size > 1 -%}
-<h2><a href="{{ section_dir | relative_url }}/">{{section_name}}</a></h2>
-  {% endif -%}
-  {%- if section_name == current_section or include.force_section != nil -%}
+{%- assign section_dir = include.section | replace: ' ', '%20' -%}
+{%- if include.section == current_section or include.force_section != nil -%}
 <ul>
-    {% assign sortedPages = site.pages | sort: 'title' -%}
-    {%- for page in sortedPages | sort: 'title' -%}
-      {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
-      {%- assign section = segments | first -%}
-      {%- if section == section_dir %}
-        {%- if page.index == 'hidden' and include.show_hidden != 'True' -%}
+  {% assign sortedPages = site.pages | sort: 'title' -%}
+  {%- for page in sortedPages | sort: 'title' -%}
+    {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
+    {%- assign section = segments | first -%}
+    {%- if section == section_dir %}
+      {%- if page.index == 'hidden' and include.show_hidden != 'True' -%}
+      {%- else -%}
+        {%- if page_blacklist contains page.name -%}
         {%- else -%}
-          {%- if page_blacklist contains page.name -%}
+          {%- if hide_description == nil and page.description != nil and page.description != '' -%}
+            {%- assign page_description = ' — ' | append: page.description}} -%}
           {%- else -%}
-            {%- if include.hide_description == nil and page.description != nil and page.description != '' -%}
-              {%- assign page_description = ' — ' | append: page.description}} -%}
-            {%- else -%}
-              {%- assign page_description = '' -%}
-            {%- endif -%}
-            {%- if include.filter_tag == nil or page.tags contains include.filter_tag or include.filter_tag == "NONE" and page.tags == nil -%}
-  <li><a href="{{ page.url | relative_url }}">{{page.title}}</a>{{page_description}}</li>
-            {% endif -%}
+            {%- assign page_description = '' -%}
           {%- endif -%}
+          {%- if include.filter_tag == nil or page.tags contains include.filter_tag or include.filter_tag == "NONE" and page.tags == nil -%}
+  <li><a href="{{ page.url | relative_url }}">{{page.title}}</a>{{page_description}}</li>
+          {% endif -%}
         {%- endif -%}
       {%- endif -%}
-    {%- endfor %}
+    {%- endif -%}
+  {%- endfor %}
 </ul>
-  {% endif -%}
-{%- endfor -%}
-
+{% endif -%}

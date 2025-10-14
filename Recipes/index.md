@@ -76,9 +76,9 @@ As observant Catholics, we abstain from eat meat on Fridays in our household. An
 
 This is a list of recipes I haven't categorized yet, or don't make sense in any catagory I have. 
 
-{% assign sections = 'Recipes' | split: ',' -%}
-{% assign filter_tag = 'NONE' -%}
-{% include site_index.html -%}
+{% include site_index.html 
+  section    = 'Recipes'
+  filter_tag = 'NONE' -%}
 
 ## Recipes to try
 

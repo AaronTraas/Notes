@@ -1,4 +1,4 @@
 # Tobacco
 
-{% assign sections = 'Tobacco' | split: ',' -%}
-{% include site_index.html %}
+{% include site_index.html 
+  section = 'Tobacco' %}

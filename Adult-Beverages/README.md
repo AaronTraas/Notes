@@ -13,8 +13,8 @@ I don't always add everything here; I wish I were more diligent. Please understa
 
 Cocktail recipes I use, but not necessarily created, that are a little outside the classics. These work for me, and are catered to my tastes and the tastes of the people I love to drink with. 
 
-{% assign section_list = 'Recipes' | split: ',' -%}
 {% include site_index.html
+	section       = 'Recipes'
 	filter_tag    = 'cocktails' 
 	sections      = section_list 
 	force_section = true -%}

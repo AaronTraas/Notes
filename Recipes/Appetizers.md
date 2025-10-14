@@ -9,9 +9,9 @@ tags:
 
 ## Recipes
 
-{% assign filter_tag = 'linda' -%}
-{% assign filter_category = 'appetizers' -%}
-{% include recipes_by_tag_catagory.html -%}
+{% include recipes_by_tag_catagory.html 
+  filter_tag = 'linda'
+  filter_category = 'appetizers'-%}
 ## Web links
 - [Garlic Cheese Monkey Bread](https://www.homecookingadventure.com/garlic-cheese-monkey-bread/#recipe)
 - [Stuffed Mushrooms with Apples](https://www.weaversorchard.com/stuffed-mushrooms-apples/#tasty-recipes-18941-jump-target)
