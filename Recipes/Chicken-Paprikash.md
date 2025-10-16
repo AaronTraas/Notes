@@ -1,9 +1,19 @@
 ---
-description: Hungarian braised chicken in a creamy paprika sauce. 
+description: Hungarian braised chicken in a creamy paprika sauce.
 category: entrees
-tags: [meat, soup-stew-casserole, main-dish]
-ingredients: [chicken, paprika, onions, stock, sour-cream]
+tags:
+  - meat
+  - soup-stew-casserole
+  - main-dish
+ingredients:
+  - chicken
+  - paprika
+  - onions
+  - stock
+  - sour-cream
 hero_image: paprikash.jpg
+favorite:
+  - miriam
 ---
 
 # Chicken Paprikash

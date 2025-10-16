@@ -1,0 +1,38 @@
+---
+title: Favorites debug
+layout: default
+scripts: recipe-filter.js
+---
+
+{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
+{%- assign filtered_pages = '' | split: "'" -%}
+{%- for page in site.pages -%}
+  {%- if page_blacklist contains page.name -%}
+  {%- else -%}
+    {%- assign filtered_pages = filtered_pages | push: page -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign sortedPages = filtered_pages | sort: 'title' -%}
+
+{%- assign all_favorites = '' | split: 'empty' -%}
+{%- for page in sortedPages -%}
+  {%- assign favorites = page.favorite -%}
+  {%- for favorite in favorites -%}
+<!--     DEBUG: `favorites` in {{page.name}}: '{{favorite}}'<br> -->
+    {%- assign all_favorites = all_favorites | push: favorite -%}
+  {%- endfor -%}
+{%- endfor -%}
+{% assign all_favorites_sorted = all_favorites | sort | uniq -%}
+
+
+{%- for favorite in all_favorites_sorted -%}
+<h2>{{ favorite | replace: '-', ' ' | capitalize }}</h2>
+<ul>
+  {%- for page in sortedPages -%}
+    {% if page.favorite contains favorite %}
+  <li><a href="{{ page.url | relative_url }}">{{page.title}}</a> — {{page.description}}</li>
+    {%- endif -%}
+  {% endfor -%}
+</ul>
+{% endfor -%}

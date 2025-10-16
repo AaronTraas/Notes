@@ -7,7 +7,6 @@ ingredients:
   - scotch-whisky
   - drambuie
 favorite:
-  - /
   - aaron
 ---
 

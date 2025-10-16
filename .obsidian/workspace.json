@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Chashu-Pork-Belly.md",
+                "file": "Recipes/Tiramisu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chashu-Pork-Belly"
+              "title": "Tiramisu"
             }
           }
         ],
@@ -197,15 +197,24 @@
   },
   "active": "96d9facac62f9cf1",
   "lastOpenFiles": [
+    "Recipes/cocktails/Hot-Buttered-Rum.md",
+    "Recipes/Tiramisu.md",
+    "Recipes/Struffoli.md",
+    "Recipes/Apple-Pancake.md",
+    "Recipes/Untested/Steamed-Chocolate-Cake.md",
+    "_site/Recipes/Tiramisu.html",
+    "_site/Recipes/Struffoli 1.html",
+    "Recipes/Chicken-Tikka-Masala.md",
+    "Recipes/Chicken-Paprikash.md",
+    "Recipes/cocktails/Rusty-Nail.md",
+    "Recipes/Chashu-Pork-Belly.md",
     "_site/Gemfile.lock",
     "_site/Gemfile",
     "Recipes/Overnight-Oatmeal.md",
     "Recipes/Brussles-Sprouts-Bacon-Blue.md",
     "Recipes/Baby-Back-Ribs.md",
-    "Recipes/Apple-Pancake.md",
     "Recipes/Dutch-Baby.md",
     "Recipes/Irish-Beef-Stew.md",
-    "Recipes/Chicken-Tikka-Masala.md",
     "Recipes/cocktails/Mojito.md",
     "Recipes/Sourdough/Hawaiian-Rolls.md",
     "Recipes/Sourdough/Cinnamon-Rolls.md",
@@ -215,24 +224,15 @@
     "Recipes/cocktails/Apple-Sangria.md",
     "Recipes/cocktails/Espresso-Martini.md",
     "Recipes/cocktails/Coco-Rey-Banana.md",
-    "Recipes/cocktails/Rusty-Nail.md",
     "Recipes/cocktails/Banana-Old-Fashioned.md",
     "Recipes/Appetizers.md",
     "_site/Recipes/Appetizers.html",
     "Recipes/Jalapeño Poppers.md",
-    "Recipes/Cream-Cheese-Frosting.md",
-    "Recipes/Cheesecake.md",
     "_site/Recipes/Jalapeño Poppers.html",
     "_site/Recipes/Jalapeno Poppers.html",
     "_site/Recipes/Kielbasa-Bacon 1.html",
-    "Recipes/Ajitama-Eggs.md",
     "_includes/recipes_by_tag_catagory.html",
-    "Recipes/cocktails/Cocktail-Ingredients.md",
     "_includes/recipes_by_ingredient.html",
-    "_site/Recipes/Linda-Appetizers.html",
-    "_site/Recipes/Linda-Misc.html",
-    "_site/Recipes/Linda-Burgers 1.html",
-    "Recipes/Untested/Carrot-Cake.md",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]

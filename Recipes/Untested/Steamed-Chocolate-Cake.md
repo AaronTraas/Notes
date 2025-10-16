@@ -1,9 +1,11 @@
 ---
-description: Chocolate cake steamed in a dutch oven or similar. 
+description: Chocolate cake steamed in a dutch oven or similar.
 category: desserts
 tags: untested
-ingredients: eggs, flour, cocoa powder
-#hero_image:  
+ingredients:
+  - eggs
+  - flour
+  - cocoa
 index: hidden
 ---
 

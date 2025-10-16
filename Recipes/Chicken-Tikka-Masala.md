@@ -12,6 +12,7 @@ ingredients:
   - garam-masala
 favorite:
   - linda
+  - miriam
 ---
 
 # Chicken Tikka Masala
