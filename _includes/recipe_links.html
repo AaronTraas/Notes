@@ -41,7 +41,7 @@
               {%- else -%}
                 {%- assign recipe_style = '' -%}
               {%- endif -%}
-    <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+    <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} favorite-{{ page.favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
       {% if page.favorite and page.favorite.first -%}
       <div class="favorite-icons">
         {% assign favorites_sorted = page.favorite | sort %}

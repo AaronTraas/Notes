@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', (event) => {
   const filter_category = document.getElementById('category-filter');
+  const filter_favorite = document.getElementById('favorite-filter');
   const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter input.multi-select-option');
   const recipes = document.querySelectorAll('.recipe-link');
 
@@ -11,6 +12,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
       classes.push('category-' + params.get('category'))
       if (firstTime) {
         filter_category.value = params.get('category')
+      }
+    }
+    if (params.has('favorite')) {
+      classes.push('favorite-' + params.get('favorite'))
+      if (firstTime) {
+        filter_favorite.value = params.get('favorite')
       }
     }
     if (params.has('ingredients')) {
@@ -54,6 +61,14 @@ document.addEventListener('DOMContentLoaded', (event) => {
       }
     }
 
+    if (filter_favorite) {
+      if (filter_favorite.value == 'all') {
+        params.delete('favorite')
+      } else {
+        params.set('favorite', filter_favorite.value)
+      }
+    }
+
     const selected_ingredients = []
     for (const cb of ingredient_checkboxes) {
       if (cb.checked) {
@@ -72,6 +87,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
   if (filter_category) {
     filter_category.addEventListener('change', filter)
+  }
+  if (filter_favorite) {
+    filter_favorite.addEventListener('change', filter)
   }
   ingredient_checkboxes.forEach(checkbox => {
     checkbox.addEventListener('change', filter)

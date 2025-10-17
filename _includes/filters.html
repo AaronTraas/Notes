@@ -13,11 +13,12 @@
 
 {%- assign all_ingredients = '' | split: 'empty' -%}
 {%- assign all_categories = '' | split: 'empty' -%}
+{%- assign all_favorites = '' | split: 'empty' -%}
 {%- for page in sortedPages -%}
-  {%- assign categories = page.category | strip | split: ',' -%}
-  {%- for category in categories -%}
-    {%- assign cleaned = category | strip | slugify -%}
-    {%- assign all_categories = all_categories | push: cleaned -%}
+  {%- assign all_categories = all_categories | push: page.category -%}
+
+  {%- for favorite in page.favorite -%}
+    {%- assign all_favorites = all_favorites | push: favorite -%}
   {%- endfor -%}
 
   {%- assign ingredients = page.ingredients -%}
@@ -26,8 +27,9 @@
     {%- assign all_ingredients = all_ingredients | push: cleaned -%}
   {%- endfor -%}
 {%- endfor -%}
-{% assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
+{%- assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
 {%- assign all_categories_sorted = all_categories | sort | uniq -%}
+{%- assign all_favorites_sorted = all_favorites | sort | uniq -%}
 
 <form id="filters">
 {% if include.filter_tag == nil and include.filter_category == nil %}
@@ -38,6 +40,15 @@
       {%- for category in all_categories_sorted -%}
       {% assign category_stripped = category | strip -%}
       <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+  <div>
+    <label for="favorite-filter">Favorites: </label>
+    <select id="favorite-filter">
+      <option>all</option>
+      {%- for favorite in all_favorites_sorted -%}
+      <option value="{{ favorite }}">{{ favorite | capitalize }}</option>
       {% endfor -%}
     </select>
   </div>
