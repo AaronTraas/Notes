@@ -5,7 +5,6 @@ tags:
   - meat
   - instant-pot
   - soup-stew-casserole
-  - lin-favorite
 ingredients:
   - beef
   - mushrooms

@@ -3,7 +3,6 @@ description: A refreshing coffee cocktail, using cold brew and vodka.
 category: beverages
 tags:
   - cocktails
-  - lin-favorite
 ingredients:
   - vodka
   - coffee

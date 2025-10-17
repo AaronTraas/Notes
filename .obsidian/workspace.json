@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "242100d264288747",
+        "id": "d80b19ef823a7b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1686bdf60c5b87c7",
+            "id": "8251242e9540b49c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,13 +171,16 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "github-gitless-sync:Open sync conflicts view": false,
-      "github-gitless-sync:Sync with GitHub": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "1686bdf60c5b87c7",
+  "active": "8251242e9540b49c",
   "lastOpenFiles": [
+    "Recipes/cocktails/Coco-Rey-Banana.md",
+    "Recipes/cocktails/Espresso-Martini.md",
+    "Recipes/Sourdough/Hawaiian-Rolls.md",
+    "Recipes/Chicken-Tikka-Masala.md",
+    "Recipes/Irish-Beef-Stew.md",
     "assets/css/ui.css",
     "_layouts/default.html",
     "_includes/favorites.html",
@@ -189,7 +192,6 @@
     "Recipes/Untested/Steamed-Chocolate-Cake.md",
     "_site/Recipes/Tiramisu.html",
     "_site/Recipes/Struffoli 1.html",
-    "Recipes/Chicken-Tikka-Masala.md",
     "Recipes/Chicken-Paprikash.md",
     "Recipes/cocktails/Rusty-Nail.md",
     "Recipes/Chashu-Pork-Belly.md",
@@ -199,21 +201,16 @@
     "Recipes/Brussles-Sprouts-Bacon-Blue.md",
     "Recipes/Baby-Back-Ribs.md",
     "Recipes/Dutch-Baby.md",
-    "Recipes/Irish-Beef-Stew.md",
     "Recipes/cocktails/Mojito.md",
-    "Recipes/Sourdough/Hawaiian-Rolls.md",
     "Recipes/Sourdough/Cinnamon-Rolls.md",
     "Recipes/cocktails/Negroni.md",
     "Recipes/cocktails/White-Elephant.md",
     "Recipes/cocktails/Painkiller.md",
     "Recipes/cocktails/Apple-Sangria.md",
-    "Recipes/cocktails/Espresso-Martini.md",
-    "Recipes/cocktails/Coco-Rey-Banana.md",
     "Recipes/cocktails/Banana-Old-Fashioned.md",
     "_site/Recipes/Appetizers.html",
     "_site/Recipes/Jalapeño Poppers.html",
     "_site/Recipes/Jalapeno Poppers.html",
-    "_site/Recipes/Kielbasa-Bacon 1.html",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]
