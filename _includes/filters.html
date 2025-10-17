@@ -47,6 +47,7 @@
     <label for="favorite-filter">Favorites: </label>
     <select id="favorite-filter">
       <option>all</option>
+      <option value="any">any</option>
       {%- for favorite in all_favorites_sorted -%}
       <option value="{{ favorite }}">{{ favorite | capitalize }}</option>
       {% endfor -%}
