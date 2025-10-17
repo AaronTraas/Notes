@@ -8,6 +8,8 @@ ingredients:
   - bacon
   - cream-cheese
   - chilis
+favorite:
+  - aaron
 ---
 
 # Jalapeño Poppers

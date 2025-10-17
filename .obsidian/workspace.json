@@ -11,13 +11,46 @@
             "id": "8251242e9540b49c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Jalapeño Poppers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Jalapeño Poppers"
+            }
+          },
+          {
+            "id": "76d9ff2e43042ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Lemon-Bars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lemon-Bars"
+            }
+          },
+          {
+            "id": "c74e1cdac0d6be8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Mac-and-Cheese.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mac-and-Cheese"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,8 +207,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8251242e9540b49c",
+  "active": "c74e1cdac0d6be8f",
   "lastOpenFiles": [
+    "Recipes/Lemon-Bars.md",
+    "Recipes/Jalapeño Poppers.md",
     "Recipes/cocktails/Coco-Rey-Banana.md",
     "Recipes/cocktails/Espresso-Martini.md",
     "Recipes/Sourdough/Hawaiian-Rolls.md",
@@ -184,7 +219,6 @@
     "assets/css/ui.css",
     "_layouts/default.html",
     "_includes/favorites.html",
-    "Recipes/Jalapeño Poppers.md",
     "Recipes/Tiramisu.md",
     "Recipes/cocktails/Hot-Buttered-Rum.md",
     "Recipes/Struffoli.md",

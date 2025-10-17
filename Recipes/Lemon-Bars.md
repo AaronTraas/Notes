@@ -1,8 +1,17 @@
 ---
-description: Perfect rich, tart, lemon curd on a shortbread crust 
+description: Perfect rich, tart, lemon curd on a shortbread crust
 category: desserts
-tags: [dessert, linda]
-ingredients: [lemons, butter, sugar, flour, eggs]
+tags:
+  - dessert
+  - linda
+ingredients:
+  - lemons
+  - butter
+  - sugar
+  - flour
+  - eggs
+favorite:
+  - aaron
 ---
 
 # Lemon Bars
