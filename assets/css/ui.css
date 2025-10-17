@@ -234,11 +234,9 @@
 
 .favorite-tag > *::after {
   content: '★';
-  color: #EFBF04;
-}
-
-.favorite-tag > *::after {
   position: absolute;
+  font-size: 17px;
+  color: #EFBF04;
   right: 2px;
   top: -5px;
 }
