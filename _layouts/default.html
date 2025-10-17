@@ -59,7 +59,7 @@
           <div class="favorite-tag">
             {% assign favorites_sorted = page.favorite | sort %}
             {% for favorite in favorites_sorted -%}
-              <a class="{{favorite}}" href="{{ 'Recipes/search/#?favorite=' | append: favorite }}">{{ favorite | capitalize }}</a>
+              <a class="{{favorite}}" href="{{ '/Recipes/search/#?favorite=' | append: favorite | relative_url }}">{{ favorite | capitalize }}</a>
             {% endfor -%}
           </div>
           {% endif -%}
