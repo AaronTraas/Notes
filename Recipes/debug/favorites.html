@@ -27,7 +27,9 @@ scripts: recipe-filter.js
 
 
 {%- for favorite in all_favorites_sorted -%}
-<h2>{{ favorite | replace: '-', ' ' | capitalize }}</h2>
+<div class="favorite-tag">
+  <a class="{{favorite}}" href="{{ '/Recipes/search/#?favorite=' | append: favorite }}">{{ favorite | capitalize }}</a>
+</div>
 <ul>
   {%- for page in sortedPages -%}
     {% if page.favorite contains favorite %}

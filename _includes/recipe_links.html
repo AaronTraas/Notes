@@ -42,6 +42,15 @@
                 {%- assign recipe_style = '' -%}
               {%- endif -%}
     <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+      {% if page.favorite and page.favorite.first -%}
+      <div class="favorite-icons">
+        {% assign favorites_sorted = page.favorite | sort %}
+        {% for favorite in favorites_sorted -%}
+          <span class="{{favorite}}">★</span>
+        {% endfor -%}
+      </div>
+      {% endif -%}
+
       <div class="text">
         <strong>{{page.title}}</strong>
         {%- if include.hide_description != nil or page.description != nil or page.description != '' -%}

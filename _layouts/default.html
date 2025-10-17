@@ -30,7 +30,6 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-
       </div>
     </header>
 
@@ -45,20 +44,31 @@
             / <a href="{{ whole_path  | relative_url }}">{{piece | capitalize }}</a>
           {% endfor -%}
 
-          {% if page.hero_image != nil -%}
-            {% assign content_pieces = content | split: "</h1>" %}
-            {% assign content_pieces_count = content_pieces | size %}
-            {% if content_pieces_count > 1 -%}
-              {% assign content_snipped = content_pieces | shift | join: "</h1>" %}
-            {% else -%}
-              {% assign content_snipped = content_pieces | join: "</h1>" %}
-            {% endif -%}
-            <h1>{{ page.title }}</h1>
-            <img src="{{ '/images/' | append: page.hero_image | relative_url }}" />
-            {{ content_snipped }}
+
+          {% assign content_pieces = content | split: "</h1>" %}
+          {% assign content_pieces_count = content_pieces | size %}
+          {% if content_pieces_count > 1 -%}
+            {% assign content_snipped = content_pieces | shift | join: "</h1>" %}
           {% else -%}
-            {{ content }}
+            {% assign content_snipped = content_pieces | join: "</h1>" %}
           {% endif -%}
+          <h1>{{ page.title }}</h1>
+
+
+          {% if page.favorite and page.favorite.first -%}
+          <div class="favorite-tag">
+            {% assign favorites_sorted = page.favorite | sort %}
+            {% for favorite in favorites_sorted -%}
+              <a class="{{favorite}}" href="{{ '/Recipes/search/#?favorite=' | append: favorite }}">{{ favorite | capitalize }}</a>
+            {% endfor -%}
+          </div>
+          {% endif -%}
+
+          {% if page.hero_image != nil -%}
+          <img src="{{ '/images/' | append: page.hero_image | relative_url }}" />
+          {% endif -%}
+
+          {{ content_snipped }}
         </section>
 
         <a href="#" id="hamburger"></a>

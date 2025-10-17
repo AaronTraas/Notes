@@ -21,35 +21,36 @@
   border-radius: 10px;
   color: #fff;
   text-shadow: 0px 0px 1px rgba(41,50,65,0.3);
-	position: relative;
+  position: relative;
   overflow: hidden;
 }
 
 #main-content .button {
-	display: inline-block;
-	padding: 0.4em 1em;
-	width: auto;
-	height: auto;
+  display: inline-block;
+  padding: 0.4em 1em;
+  width: auto;
+  height: auto;
 }
 
 #main-content .button.search {
-	padding-left: 2em;
+  padding-left: 2em;
 }
 
 #main-content .button.search::before {
-	content: '';
-	display: block;
-	position: absolute;
-	left: .6em;
-	top: .5em;
-	width: 1em;
-	height: 1em;
-	color: #fff;
-	background-image: url(../images/search.svg);
+  content: '';
+  display: block;
+  position: absolute;
+  left: .6em;
+  top: .5em;
+  width: 1em;
+  height: 1em;
+  color: #fff;
+  background-image: url(../images/search.svg);
 }
 
 .recipe-link {
   display: block;
+  position: relative;
   background-position: center;
   flex-grow: 1;
   height: 10em;
@@ -194,6 +195,72 @@
 
 #filters .multi-select-options input[type="checkbox"] {
   display: none;
+}
+
+.favorite-tag {
+  margin: 0 0 1em 0;
+}
+
+.favorite-icons {
+  display: block;
+  position: absolute;
+  top: 6px;
+  right: 6px;
+}
+
+.favorite-tag > *,
+.favorite-icons > * {
+  display: inline-block;
+  position: relative;
+  border-radius: 4px;
+  background: #888;
+}
+
+.favorite-icons > * {
+  color: #EFBF04;
+  font-size: 22px;
+  line-height: 16px;
+  padding: 1px 2px 6px 2px;
+  border: 1px solid rgba(255,255,255,0.5);
+}
+
+.favorite-tag > * {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 1px 2em 1px 0.7em;
+  margin: 0 0.5em 0 0;
+  color: #fff;
+}
+
+.favorite-tag > *::after {
+  content: '★';
+  color: #EFBF04;
+}
+
+.favorite-tag > *::after {
+  position: absolute;
+  right: 2px;
+  top: -5px;
+}
+
+.favorite-tag > *.aaron,
+.favorite-icons > *.aaron {
+  background: #800020;
+}
+
+.favorite-tag > *.maddie,
+.favorite-icons > *.maddie {
+  background: #F143AB;
+}
+
+.favorite-tag > *.miriam,
+.favorite-icons > *.miriam {
+  background: #800080;
+}
+
+.favorite-tag > *.linda,
+.favorite-icons > *.linda {
+  background: #0f52ba;
 }
 
 @media only screen and (max-width: 767px) {
