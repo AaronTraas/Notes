@@ -15,7 +15,7 @@ index: hidden
 - ¾ oz Orgeat
 - ¼ oz [rich demarara syrup](./Cocktail-Ingredients.html#rich-demerara-syrup) (see notes)
 - ¾ oz Lime Juice
-- 1 drop vanilla extract
+- 1 drop vanilla extract (??)
 - 1 drop 5:1 saline
 - Spent Lime Shell and Mint Sprig Garnish
 
@@ -30,5 +30,6 @@ index: hidden
 
 ## Notes: 
 
+- As far as the rum goes, there's a lot of methods. Some people online recommend Denizen Merchant Reserve as the rum. The best Mai Tai I've ever had was made with a combination of Plantaray 3 star and Appleton 8 year (made at [Black Sheep Bar and Provisions](https://www.theblacksheepnj.com/)).
 - Original recipe calls for Smuggler's Cove's Orgeat and Smuggler's Cove Mai Tai syrup. Honestly, probably not worth the effort because I don't make a lot of Mai Tais. The Mai Tai syrup is a 2:1 demerara syrup (which I keep around) that has vanilla and salt added. So I'm just using rich demerara with added vanilla and saline in the drink.
 - The smuggler's cove orgeat is also a 2:1 syrup, and since we're using store bought, I'm upping the amount from 1/2 oz to 3/4oz. It needs more sweetness and more almond flavor.
