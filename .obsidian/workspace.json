@@ -20,6 +20,48 @@
               "icon": "lucide-file",
               "title": "Last-Word"
             }
+          },
+          {
+            "id": "bc4235d2f0172460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Improved-Whiskey-Cocktail.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Improved-Whiskey-Cocktail"
+            }
+          },
+          {
+            "id": "d0a68fa3135e75f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Old-Fashioned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Old-Fashioned"
+            }
+          },
+          {
+            "id": "812703cc85202c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Banana-Old-Fashioned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Banana-Old-Fashioned"
+            }
           }
         ]
       }
@@ -200,10 +242,13 @@
   },
   "active": "02a07f041c4dc8aa",
   "lastOpenFiles": [
+    "Recipes/cocktails/Banana-Old-Fashioned.md",
+    "Recipes/cocktails/Old-Fashioned.md",
+    "Recipes/cocktails/Improved-Whiskey-Cocktail.md",
+    "Recipes/cocktails/Last-Word.md",
     "_site/Recipes/cocktails/Last-Word.html",
     "_site/Recipes/cocktails/Mai-Tai 1.html",
     "Recipes/cocktails/Mai-Tai.md",
-    "Recipes/cocktails/Last-Word.md",
     "Recipes/Jalapeño Poppers.md",
     "Recipes/Lemon-Bars.md",
     "Recipes/Mac-and-Cheese.md",
@@ -232,10 +277,7 @@
     "Recipes/Baby-Back-Ribs.md",
     "Recipes/Dutch-Baby.md",
     "Recipes/cocktails/Mojito.md",
-    "Recipes/Sourdough/Cinnamon-Rolls.md",
-    "Recipes/cocktails/Negroni.md",
     "_site/Recipes/Appetizers.html",
-    "_site/Recipes/Jalapeño Poppers.html",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]

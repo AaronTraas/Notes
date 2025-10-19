@@ -1,5 +1,5 @@
 ---
-description: Classic gin cocktail
+description: Complex, herbaceous cocktail cocktail that's cool, refreshing, and sophisticated.
 category: beverages
 tags: [cocktails, experimental-drinks]
 ingredients: [lime, gin, maraschino-liqueur, chartreuse]
@@ -8,11 +8,19 @@ index: hidden
 
 # The Last Word
 
+Boozy, balanced, spirit-forward cocktail that's complex, herbaceous, cool, refreshing, and sophisticated. 
 ## Ingredients:
-- Gin (Gray Whale)
-- Green Chartreuse
-- Maraschino Liqueur (Luxardo)
-- Lime
+- ¾ oz Gin (Gray Whale)
+- ¾ oz Green Chartreuse
+- ¾ oz Luxardo Maraschino Liqueur 
+- ¾ oz fresh lime juice
+- 1 Maraschino cherry (Luxardo or Amerana)
+
+## Directions
+
+1. Add spirits and lime into a cocktail shaker with ice. Shake until chilled.
+2. Strain into a coup or similar
+3. Add maraschino cherry to garnish
 
 ## Notes:
 
