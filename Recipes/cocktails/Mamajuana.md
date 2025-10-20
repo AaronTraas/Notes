@@ -38,3 +38,26 @@ The recipes that came with the kit were as follows:
 - 26 oz sweet red wine
 - 15 oz honey
 
+* * *
+
+## Experiment notes:
+
+### 2025-08-11
+
+8 bottles:
+
+- 50% Brugal Anejo rum
+- 40% Captain Morgan's spiced rum
+- 10% honey
+
+### 2025-10-19
+
+batches with 1.5 oz honey, 8 oz rum:
+
+1. 100% Bacardi white
+2. 1/2 Morgan / 1/2 El Dorado 12
+3. 100% Kraken
+4. 1/3 Kraken / 2/3 Cut & Dry
+5. 1/2 Morgan / 1/2 Planteray Dark
+6. 1/4 Morgan / 1/4 Kraken / 1/2 Planteray Dark
+7  1/2 Morgan / 1/4 Smith & Cross / 1/4 Mount Gay
