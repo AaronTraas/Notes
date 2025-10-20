@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02a07f041c4dc8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/cocktails/Last-Word.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Last-Word"
-            }
-          },
-          {
             "id": "bc4235d2f0172460",
             "type": "leaf",
             "state": {
@@ -62,8 +48,37 @@
               "icon": "lucide-file",
               "title": "Banana-Old-Fashioned"
             }
+          },
+          {
+            "id": "b2c37b59e621e729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Maple-Old-Fashioned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maple-Old-Fashioned"
+            }
+          },
+          {
+            "id": "4f1518eed636366b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Hot-Toddy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hot-Toddy"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,12 +255,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "02a07f041c4dc8aa",
+  "active": "4f1518eed636366b",
   "lastOpenFiles": [
+    "Recipes/cocktails/Maple-Old-Fashioned.md",
     "Recipes/cocktails/Banana-Old-Fashioned.md",
-    "Recipes/cocktails/Old-Fashioned.md",
     "Recipes/cocktails/Improved-Whiskey-Cocktail.md",
     "Recipes/cocktails/Last-Word.md",
+    "Recipes/cocktails/Old-Fashioned.md",
+    "_site/Recipes/cocktails/Maple-Old-Fashioned.html",
+    "_site/Recipes/cocktails/Banana-Old-Fashioned 1.html",
+    "Recipes/cocktails/Negroni.md",
     "_site/Recipes/cocktails/Last-Word.html",
     "_site/Recipes/cocktails/Mai-Tai 1.html",
     "Recipes/cocktails/Mai-Tai.md",
@@ -271,13 +290,8 @@
     "Recipes/cocktails/Rusty-Nail.md",
     "Recipes/Chashu-Pork-Belly.md",
     "_site/Gemfile.lock",
-    "_site/Gemfile",
     "Recipes/Overnight-Oatmeal.md",
     "Recipes/Brussles-Sprouts-Bacon-Blue.md",
-    "Recipes/Baby-Back-Ribs.md",
-    "Recipes/Dutch-Baby.md",
-    "Recipes/cocktails/Mojito.md",
-    "_site/Recipes/Appetizers.html",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]

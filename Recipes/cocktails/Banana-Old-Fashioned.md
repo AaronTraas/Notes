@@ -8,7 +8,9 @@ ingredients:
   - rye-whiskey
   - banana-liqueur
   - bitters
-favorite: [aaron]
+  - walnut-bitters
+favorite:
+  - aaron
 ---
 
 # Banana Old Fashioned

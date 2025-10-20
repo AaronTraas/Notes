@@ -23,8 +23,12 @@ Classic warming cocktail. Honey, lemon, and hot water are great for a cough. Add
 2. Add whiskey stir
 3. Optionally garnish with lemon wheel or slice of lemon zest
 
----
-
 ## Notes:
 
 - Whiskey should be something with some amount of smoke, and a little brininess, but no peat or iodine bomb. Think Jonnie Black or Bowmore, not Laphroig. Nothing too expensive either. 
+
+* * *
+
+# Pumpkin Toddy
+
+<https://www.liquor.com/recipes/pumpkin-toddy/>

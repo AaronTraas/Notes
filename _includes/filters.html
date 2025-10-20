@@ -43,6 +43,8 @@
       {% endfor -%}
     </select>
   </div>
+{%- endif -%}
+
   <div>
     <label for="favorite-filter">Favorites: </label>
     <select id="favorite-filter">
@@ -53,7 +55,6 @@
       {% endfor -%}
     </select>
   </div>
-{%- endif -%}
 
   <div id="ingredient-filter" class="multi-select">
     <label>Ingredients: </label>

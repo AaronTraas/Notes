@@ -1,9 +1,17 @@
 ---
 description: Complex, herbaceous cocktail cocktail that's cool, refreshing, and sophisticated.
 category: beverages
-tags: [cocktails, experimental-drinks]
-ingredients: [lime, gin, maraschino-liqueur, chartreuse]
+tags:
+  - cocktails
+  - experimental-drinks
+ingredients:
+  - lime
+  - gin
+  - maraschino-liqueur
+  - chartreuse
 index: hidden
+favorite:
+  - aaron
 ---
 
 # The Last Word
@@ -20,7 +28,7 @@ Boozy, balanced, spirit-forward cocktail that's complex, herbaceous, cool, refre
 
 1. Add spirits and lime into a cocktail shaker with ice. Shake until chilled.
 2. Strain into a coup or similar
-3. Add maraschino cherry to garnish
+3. Add maraschino cherry to garnish. It's fairly standard to drop it in without the toothpick.
 
 ## Notes:
 
