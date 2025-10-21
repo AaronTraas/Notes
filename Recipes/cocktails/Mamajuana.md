@@ -1,9 +1,10 @@
 ---
-description: Attempt at creating a Dominican 
+description: Attempt at creating a Dominican
 category: beverages
 tags: [cocktails, tiki, experimental-drinks]
 ingredients: [rum, wine, honey]
 index: hidden
+favorite: [austin]
 ---
 
 # Mamajuana
@@ -51,6 +52,8 @@ The recipes that came with the kit were as follows:
 - 10% honey
 
 ### 2025-10-19
+
+Collaboration with [Austin](https://github.com/austinvn)'.
 
 batches with 1.5 oz honey, 8 oz rum:
 

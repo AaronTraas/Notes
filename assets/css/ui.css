@@ -246,6 +246,11 @@
   background: #800020;
 }
 
+.favorite-tag > *.austin,
+.favorite-icons > *.austin {
+  background: #444;
+}
+
 .favorite-tag > *.maddie,
 .favorite-icons > *.maddie {
   background: #F143AB;

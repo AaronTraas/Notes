@@ -1,7 +1,15 @@
 ---
 category: sides
-tags: [healthy, friday-friendly, gluten-free]
-ingredients: [chickpeas, tahini, garlic]
+tags:
+  - healthy
+  - friday-friendly
+  - gluten-free
+ingredients:
+  - chickpeas
+  - tahini
+  - garlic
+favorite:
+  - austin
 ---
 
 # Hummus
@@ -32,3 +40,7 @@ ingredients: [chickpeas, tahini, garlic]
 7. Blend thoroughly. Hummus will be very thick at this point, like peanut butter. Add a small amount of water (about 1tbsp at a time), blend further, check consistency. Repeat with more water until you reach the desired consistency. I usually end up adding about 3-sh tbsp. I like to get it to a point where it pours slowly but easily out of the blender. Whatever your preference, get it slightly more watery than that, because it will thicken a bit as it cools.
 
 8. Refrigerate until cool, at least an hour. Hummus keeps for 3-4 days in the fridge. For serving, I like to garnish with a drizzle of EVOO and some za'atar (spice blend, not really necessary but it looks and smells nice).
+
+* * *
+## Notes:
+- Recipe from [Austin](https://github.com/austinvn)'.

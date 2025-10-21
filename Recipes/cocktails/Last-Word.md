@@ -3,15 +3,14 @@ description: Complex, herbaceous cocktail cocktail that's cool, refreshing, and 
 category: beverages
 tags:
   - cocktails
-  - experimental-drinks
 ingredients:
   - lime
   - gin
   - maraschino-liqueur
   - chartreuse
-index: hidden
 favorite:
   - aaron
+  - austin
 ---
 
 # The Last Word

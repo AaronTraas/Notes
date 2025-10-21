@@ -8,6 +8,7 @@ ingredients:
   - drambuie
 favorite:
   - aaron
+  - austin
 ---
 
 # Rusty Nail 

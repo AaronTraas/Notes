@@ -11,6 +11,7 @@ ingredients:
   - walnut-bitters
 favorite:
   - aaron
+  - austin
 ---
 
 # Banana Old Fashioned

@@ -10,6 +10,7 @@ ingredients:
   - mezcal
   - banana-liqueur
 favorite:
+  - austin
 ---
 
 # Smokey Banana
