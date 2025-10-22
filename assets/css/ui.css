@@ -1,3 +1,7 @@
+html, body {
+	font-family: open-sans, sans-serif;
+}
+
 .recipe-cards {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -117,7 +121,6 @@
   display: table-cell;
 }
 #filters > div > select, #filters > div > select {
-  width: 100%;
 }
 #filters > div > label {
   padding-right: 0.5em;
@@ -128,7 +131,8 @@
   flex-wrap: wrap;
   gap: 0.5em;
   position: relative;
-  padding-right: 2.5em;
+  padding-right: 1em;
+	font-size: 13px;
 }
 
 #filters .multi-select .multi-select-toggle {
@@ -148,7 +152,8 @@
 
 #filters .multi-select:has(input[value="multi-select-toggle"]:checked) .expanded {
   display: inline;
-  padding: 0 4px 3px 4px;
+  padding: 0;
+  text-align: center;
 }
 #filters .multi-select:has(input[value="multi-select-toggle"]:checked) .collapsed {
   display: none;
@@ -183,8 +188,10 @@
 
 #filters .multi-select:has(input[value="multi-select-toggle"]:checked) label.filter-toggle {
   position: absolute;
+  width: 1em;
+  text-align: center;
   top: 0;
-  right: 0;
+  right: -0.5em;
 }
 
 #filters .multi-select-options label:has(input:checked) {
@@ -219,8 +226,8 @@
 .favorite-icons > * {
   color: #EFBF04;
   font-size: 22px;
-  line-height: 16px;
-  padding: 1px 2px 6px 2px;
+  line-height: 18px;
+  padding: 2px;
   border: 1px solid rgba(255,255,255,0.5);
 }
 
@@ -238,7 +245,7 @@
   font-size: 17px;
   color: #EFBF04;
   right: 2px;
-  top: -5px;
+  top: -3px;
 }
 
 .favorite-tag > *.aaron,
