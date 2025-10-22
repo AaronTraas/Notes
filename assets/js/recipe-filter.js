@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', (event) => {
   const filter_category = document.getElementById('category-filter');
   const filter_favorite = document.getElementById('favorite-filter');
+  const favorite_checkboxes = document.querySelectorAll('#favorite-filter input.multi-select-option');
   const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter input.multi-select-option');
   const recipes = document.querySelectorAll('.recipe-link');
 
@@ -15,9 +16,17 @@ document.addEventListener('DOMContentLoaded', (event) => {
       }
     }
     if (params.has('favorite')) {
-      classes.push('favorite-' + params.get('favorite'))
+      const ingredients = params.get('favorite').split('|')
+      classes = classes.concat(ingredients.map(str => 'favorite-' + str))
       if (firstTime) {
-        filter_favorite.value = params.get('favorite')
+        for (const checkbox of ingredient_checkboxes) {
+          // Check if the checkbox's value is in the array of values to select
+          if (ingredients.includes(checkbox.value)) {
+            checkbox.checked = true; // Set the checkbox as checked
+          } else {
+            checkbox.checked = false; // Set the checkbox as unchecked
+          }
+        }
       }
     }
     if (params.has('ingredients')) {
@@ -61,12 +70,16 @@ document.addEventListener('DOMContentLoaded', (event) => {
       }
     }
 
-    if (filter_favorite) {
-      if (filter_favorite.value == 'all') {
-        params.delete('favorite')
-      } else {
-        params.set('favorite', filter_favorite.value)
+    const selected_favorites = []
+    for (const cb of favorite_checkboxes) {
+      if (cb.checked) {
+        selected_favorites.push(cb.value)
       }
+    }
+    if (selected_favorites.length == 0) {
+      params.delete('favorite')
+    } else {
+      params.set('favorite', selected_favorites.join('|'))
     }
 
     const selected_ingredients = []
@@ -75,7 +88,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
         selected_ingredients.push(cb.value)
       }
     }
-
     if (selected_ingredients.length == 0) {
       params.delete('ingredients')
     } else {
@@ -88,9 +100,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
   if (filter_category) {
     filter_category.addEventListener('change', filter)
   }
-  if (filter_favorite) {
-    filter_favorite.addEventListener('change', filter)
-  }
+  favorite_checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', filter)
+  });
   ingredient_checkboxes.forEach(checkbox => {
     checkbox.addEventListener('change', filter)
   });
