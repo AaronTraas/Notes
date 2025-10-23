@@ -15,6 +15,9 @@ hero_image: captains_coco.jpg
 favorite:
   - aaron
   - austin
+authors:
+  - aaron
+  - austin
 ---
 
 # Painkiller

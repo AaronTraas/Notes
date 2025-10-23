@@ -8,6 +8,8 @@ ingredients:
   - eggs
   - cream-cheese
 hero_image: cheesecake_tiny.jpg
+authors:
+  - aaron
 ---
 
 # Cheesecake

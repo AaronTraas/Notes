@@ -10,6 +10,9 @@ ingredients:
 hero_image: sangria.jpg
 favorite:
   - austin
+authors:
+  - aaron
+  - austin
 ---
 
 # Sangria 

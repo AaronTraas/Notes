@@ -14,6 +14,8 @@ ingredients:
 hero_image: paprikash.jpg
 favorite:
   - miriam
+authors:
+  - aaron
 ---
 
 # Chicken Paprikash

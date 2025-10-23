@@ -13,6 +13,8 @@ ingredients:
   - vanilla
 favorite:
 index: hidden
+authors:
+  - aaron
 ---
 
 # Maple Old Fashioned

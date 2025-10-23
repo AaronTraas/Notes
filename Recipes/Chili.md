@@ -1,8 +1,17 @@
 ---
 description: Basic pressure-cooker chili. Bean or no bean - your choice!
 category: entrees
-tags: [meat, instant-pot, soup-stew-casserole]
-ingredients: [beef, tortillas, salsa, chipotles]
+tags:
+  - meat
+  - instant-pot
+  - soup-stew-casserole
+ingredients:
+  - beef
+  - tortillas
+  - salsa
+  - chipotles
+authors:
+  - aaron
 ---
 
 # Pressure Cooker Chili Con Carne

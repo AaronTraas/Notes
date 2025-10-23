@@ -15,6 +15,8 @@ ingredients:
 hero_image: irish_beef_stew.jpg
 favorite:
   - linda
+authors:
+  - aaron
 ---
 
 # Instant Pot Irish Beef Stew

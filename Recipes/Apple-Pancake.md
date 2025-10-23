@@ -11,6 +11,8 @@ ingredients:
 hero_image: apple_dutch_baby.png
 favorite:
   - miriam
+authors:
+  - aaron
 ---
 # Apple Pancake
 

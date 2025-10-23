@@ -1,7 +1,13 @@
 ---
 category: sides
-tags: [snack]
-ingredients: [flour, eggs, milk]
+tags:
+  - sides
+ingredients:
+  - flour
+  - eggs
+  - milk
+authors:
+  - aaron
 ---
 
 # Spätzle

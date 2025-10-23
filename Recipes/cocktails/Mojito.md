@@ -1,7 +1,8 @@
 ---
 description: My personal takes on a classic mojito.
 category: beverages
-tags: [cocktails]
+tags:
+  - cocktails
 ingredients:
   - rum
   - lime
@@ -11,6 +12,9 @@ ingredients:
 hero_image: mojito.jpg
 favorite:
   - linda
+authors:
+  - aaron
+  - austin
 ---
 
 # Mojito

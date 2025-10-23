@@ -1,8 +1,12 @@
 ---
-description: Cold brew concentrate that can be used in cocktails, enjoyed neat over ice, or diluted. 
+description: Cold brew concentrate that can be used in cocktails, enjoyed neat over ice, or diluted.
 category: beverages
-tags: [coffee]
-ingredients: [coffee]
+tags:
+  - coffee
+ingredients:
+  - coffee
+authors:
+  - aaron
 ---
 
 # Cold Brew Concentrate

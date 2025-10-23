@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "ingredients": "multitext",
-    "favorite": "multitext"
+    "favorite": "multitext",
+    "authors": "multitext"
   }
 }

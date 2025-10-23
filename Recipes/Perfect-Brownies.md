@@ -1,8 +1,14 @@
 ---
-description: Delicate, melt-in-your-mouth brownies. Not fugdey, but perfect. 
+description: Delicate, melt-in-your-mouth brownies. Not fugdey, but perfect.
 category: desserts
-tags: [dessert]
-ingredients: [flour, chocolate, shortening]
+tags:
+  - dessert
+ingredients:
+  - flour
+  - chocolate
+  - shortening
+authors:
+  - aaron
 ---
 
 # Perfect Brownies

@@ -13,6 +13,8 @@ favorite:
   - aaron
   - maddie
   - miriam
+authors:
+  - aaron
 ---
 
 # Dutch Baby Pancake

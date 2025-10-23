@@ -10,6 +10,8 @@ ingredients:
   - garlic
 favorite:
   - austin
+authors:
+  - austin
 ---
 
 # Hummus

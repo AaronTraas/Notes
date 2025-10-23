@@ -13,6 +13,8 @@ ingredients:
 hero_image: struffoli.jpg
 favorite:
   - miriam
+authors:
+  - aaron
 ---
 
 # Struffoli

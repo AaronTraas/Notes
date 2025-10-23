@@ -1,8 +1,17 @@
 ---
-description: Super easy and tasty Mexican-ish black bean recipe. 
+description: Super easy and tasty Mexican-ish black bean recipe.
 category: entrees
-tags: [friday-friendly, weeknight]
-ingredients: [beans, garlic, onion, bacon, cilantro]
+tags:
+  - friday-friendly
+  - weeknight
+ingredients:
+  - beans
+  - garlic
+  - onion
+  - bacon
+  - cilantro
+authors:
+  - aaron
 ---
 
 # Southwest Black Beans

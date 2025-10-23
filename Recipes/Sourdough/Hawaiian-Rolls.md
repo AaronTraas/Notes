@@ -1,10 +1,20 @@
 ---
 description: Delicious and soft and sweet rolls.
 category: baked-goods
-tags: [sourdough]
-ingredients: [flour, sourdough-starter, eggs, butter, milk, pineapple]
+tags:
+  - sourdough
+ingredients:
+  - flour
+  - sourdough-starter
+  - eggs
+  - butter
+  - milk
+  - pineapple
 hero_image: hawaiin_rolls.jpg
-favorite: [linda]
+favorite:
+  - linda
+authors:
+  - aaron
 ---
 
 # Sourdough Hawaiian Rolls

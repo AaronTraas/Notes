@@ -12,6 +12,9 @@ ingredients:
 favorite:
   - aaron
   - austin
+authors:
+  - aaron
+  - austin
 ---
 
 # Banana Old Fashioned

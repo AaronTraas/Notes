@@ -10,6 +10,8 @@ ingredients:
   - chilis
 favorite:
   - aaron
+authors:
+  - linda
 ---
 
 # Jalapeño Poppers

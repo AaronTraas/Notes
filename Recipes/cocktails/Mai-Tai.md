@@ -1,10 +1,22 @@
 ---
 description: My takes on the Mai Tai
 category: beverages
-tags: [cocktails, tiki, experimental-drinks]
-ingredients: [rum, curaçao, lime, orgeat, demerara-syrup, simple-syrup]
+tags:
+  - cocktails
+  - tiki
+  - experimental-drinks
+ingredients:
+  - rum
+  - curaçao
+  - lime
+  - orgeat
+  - demerara-syrup
+  - simple-syrup
 index: hidden
-favorite: [linda]
+favorite:
+  - linda
+authors:
+  - aaron
 ---
 
 # Mai Tai

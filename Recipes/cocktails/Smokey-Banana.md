@@ -11,6 +11,8 @@ ingredients:
   - banana-liqueur
 favorite:
   - austin
+authors:
+  - austin
 ---
 
 # Smokey Banana

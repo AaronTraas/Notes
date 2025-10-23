@@ -4,6 +4,8 @@ category: entrees
 tags: meat, linda
 ingredients: ground-beef
 index: hidden
+authors:
+  - linda
 ---
 
 # Linda's Burgers

@@ -3,6 +3,9 @@ description: Assorted recipes from the web that Linda makes.
 category: appetizers
 tags:
   - linda
+authors:
+  - aaron
+  - linda
 ---
 
 # Appetizer Ideas

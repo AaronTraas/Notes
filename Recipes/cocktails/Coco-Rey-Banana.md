@@ -1,10 +1,24 @@
 ---
 description: A rich and complex coconut/banana tiki drink.
 category: beverages
-tags: [cocktails, kalahari]
-ingredients: [rum, pineapple, orange, grenadine, cream-of-coconut, banana-liqueur, acid-adjuster]
+tags:
+  - cocktails
+  - kalahari
+ingredients:
+  - rum
+  - pineapple
+  - orange
+  - grenadine
+  - cream-of-coconut
+  - banana-liqueur
+  - acid-adjuster
 hero_image: coco_rey_banana.jpg
-favorite: [linda, aaron]
+favorite:
+  - linda
+  - aaron
+authors:
+  - aaron
+  - austin
 ---
 
 # Coco-Rey Banana 

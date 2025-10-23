@@ -11,6 +11,8 @@ ingredients:
 favorite:
   - aaron
   - austin
+authors:
+  - aaron
 ---
 
 # The Last Word

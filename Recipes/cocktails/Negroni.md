@@ -11,6 +11,8 @@ ingredients:
 hero_image: negroni.jpg
 favorite:
   - aaron
+authors:
+  - aaron
 ---
 
 # Negroni

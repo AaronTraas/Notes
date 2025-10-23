@@ -12,6 +12,8 @@ ingredients:
   - eggs
 favorite:
   - aaron
+authors:
+  - linda
 ---
 
 # Lemon Bars

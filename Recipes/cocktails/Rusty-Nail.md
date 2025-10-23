@@ -9,6 +9,9 @@ ingredients:
 favorite:
   - aaron
   - austin
+authors:
+  - aaron
+  - austin
 ---
 
 # Rusty Nail 

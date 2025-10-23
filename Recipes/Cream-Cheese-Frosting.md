@@ -8,6 +8,9 @@ ingredients:
   - butter
   - gluten-free
 hero_image: cinnamon_rolls_frosted.jpg
+authors:
+  - aaron
+  - miriam
 ---
 
 # Cream Cheese Frosting

@@ -10,6 +10,9 @@ ingredients:
   - cheese
 favorite:
   - aaron
+authors:
+  - aaron
+  - linda
 ---
 
 # Baked Mac & Cheese

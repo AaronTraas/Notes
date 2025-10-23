@@ -1,9 +1,15 @@
 ---
 description: Delicious, soft, and easy sandwich loaf.
 category: baked-goods
-tags: [sourdough]
-ingredients: [flour, sourdough-starter, milk]
+tags:
+  - sourdough
+ingredients:
+  - flour
+  - sourdough-starter
+  - milk
 hero_image: sandwich_loaf.jpg
+authors:
+  - aaron
 ---
 
 # Sourdough Sandwich Loaf

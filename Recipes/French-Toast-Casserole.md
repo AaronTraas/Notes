@@ -1,9 +1,14 @@
 ---
-description: Tastier, richer assemble-ahead recipe for a decadent breakfast, 
+description: Tastier, richer assemble-ahead recipe for a decadent breakfast,
 category: breakfast
-tags: [breakfast]
-ingredients: [eggs, bread]
+tags:
+  - breakfast
+ingredients:
+  - eggs
+  - bread
 hero_image: french_toast_casserole.jpg
+authors:
+  - aaron
 ---
 
 # French Toast Casserole

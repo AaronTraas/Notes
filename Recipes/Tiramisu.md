@@ -11,6 +11,8 @@ ingredients:
   - cocoa
 favorite:
   - miriam
+authors:
+  - aaron
 ---
 # Triamisù
 

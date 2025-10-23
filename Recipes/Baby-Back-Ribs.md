@@ -11,6 +11,8 @@ ingredients:
   - brown-sugar
 favorite:
   - aaron
+authors:
+  - aaron
 ---
 
 # Baby Back Ribs

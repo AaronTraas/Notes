@@ -13,6 +13,8 @@ ingredients:
 hero_image: cinnamon_rolls.jpg
 favorite:
   - aaron
+authors:
+  - aaron
 ---
 
 # Sourdough Cinnamon Rolls

@@ -13,6 +13,8 @@ hero_image: espresso_martini.jpg
 favorite:
   - aaron
   - linda
+authors:
+  - aaron
 ---
 
 # Espresso Martini
