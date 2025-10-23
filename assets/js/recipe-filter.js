@@ -16,12 +16,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
       }
     }
     if (params.has('favorite')) {
-      const ingredients = params.get('favorite').split('|')
-      classes = classes.concat(ingredients.map(str => 'favorite-' + str))
+      const favorite = params.get('favorite').split('|')
+      classes = classes.concat(favorite.map(str => 'favorite-' + str))
       if (firstTime) {
-        for (const checkbox of ingredient_checkboxes) {
+        for (const checkbox of favorite_checkboxes) {
           // Check if the checkbox's value is in the array of values to select
-          if (ingredients.includes(checkbox.value)) {
+          if (favorite.includes(checkbox.value)) {
             checkbox.checked = true; // Set the checkbox as checked
           } else {
             checkbox.checked = false; // Set the checkbox as unchecked

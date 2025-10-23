@@ -123,6 +123,7 @@ html, body {
 }
 #filters > div > select, #filters > div > select {
 }
+
 #filters > div > label {
   padding-right: 0.5em;
 }
@@ -133,13 +134,14 @@ html, body {
   gap: 0.5em;
   position: relative;
   padding-right: 1em;
-	font-size: 13px;
+  font-size: 13px;
 }
 
 #filters .multi-select .multi-select-toggle {
   display: none;
 }
 
+#filters #favorite-filter .multi-select-options label:has(input[type="checkbox"]),
 #filters .multi-select:has(input[value="multi-select-toggle"]:checked) .multi-select-options label:has(input:not(:checked)) {
   display: inline-block;
 }
@@ -235,41 +237,57 @@ html, body {
 .favorite-tag > * {
   font-size: 12px;
   font-weight: bold;
-  padding: 1px 2em 1px 0.7em;
+  padding: 1px 0.5em 1px 0.8em;
   margin: 0 0.5em 0 0;
   color: #fff;
+  text-align center;
 }
 
+#filters #favorite-filter .multi-select-options label {
+  font-size: 12px;
+  border-color: #666;
+}
+
+#filters #favorite-filter .multi-select-options label::after,
+#filters #favorite-filter .multi-select-options label:has(input.multi-select-option:checked)::after,
 .favorite-tag > *::after {
   content: '★';
-  position: absolute;
-  font-size: 17px;
+  display: inline;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#filters #favorite-filter .multi-select-options label:has(input.multi-select-option:checked)::after,
+.favorite-tag > *::after {
   color: #EFBF04;
-  right: 2px;
-  top: -3px;
 }
 
 .favorite-tag > *.aaron,
+#favorite-filter label.aaron:has(input:checked),
 .favorite-icons > *.aaron {
   background: #800020;
 }
 
 .favorite-tag > *.austin,
+#favorite-filter label.austin:has(input:checked),
 .favorite-icons > *.austin {
   background: #444;
 }
 
 .favorite-tag > *.maddie,
+#favorite-filter label.maddie:has(input:checked),
 .favorite-icons > *.maddie {
   background: #F143AB;
 }
 
 .favorite-tag > *.miriam,
+#favorite-filter label.miriam:has(input:checked),
 .favorite-icons > *.miriam {
   background: #800080;
 }
 
 .favorite-tag > *.linda,
+#favorite-filter label.linda:has(input:checked),
 .favorite-icons > *.linda {
   background: #0f52ba;
 }

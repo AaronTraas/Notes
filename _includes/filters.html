@@ -49,16 +49,11 @@
     <label for="favorite-filter">Favorites: </label>
     <div class="multi-select-options">
       {%- for favorite in all_favorites_sorted -%}
-      <label>
+      <label class="{{favorite}}">
         {{ favorite | capitalize }}
         <input type="checkbox" class="multi-select-option" name="favorites" value="{{favorite}}"></input>
       </label>
       {%- endfor -%}
-      <label class="filter-toggle">
-        <span class="expanded">🗙</span>
-        <span class="collapsed">＋</span>
-        <input type="checkbox" class="multi-select-toggle" value="multi-select-toggle"></input>
-      </label>
     </div>
   </div>
 
