@@ -1,14 +1,10 @@
 ---
 description: Quality rustic sourdough. Very few bakeries make a better loaf.
 category: baked-goods
-tags:
-  - sourdough
-ingredients:
-  - flour
-  - sourdough-starter
+tags: [sourdough]
+ingredients: [flour, sourdough-starter]
 hero_image: sourdough.jpg
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Basic No-Knead Sourdough

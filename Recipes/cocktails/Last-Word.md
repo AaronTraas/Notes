@@ -1,18 +1,10 @@
 ---
 description: Complex, herbaceous cocktail cocktail that's cool, refreshing, and sophisticated.
 category: beverages
-tags:
-  - cocktails
-ingredients:
-  - lime
-  - gin
-  - maraschino-liqueur
-  - chartreuse
-favorite:
-  - aaron
-  - austin
-authors:
-  - aaron
+tags: [cocktails]
+ingredients: [lime, gin, maraschino-liqueur, chartreuse]
+favorite: [aaron]
+authors: [aaron]
 ---
 
 # The Last Word

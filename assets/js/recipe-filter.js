@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', (event) => {
   const filter_category = document.getElementById('category-filter');
+  const filter_author = document.getElementById('author-filter');
   const filter_favorite = document.getElementById('favorite-filter');
   const favorite_checkboxes = document.querySelectorAll('#favorite-filter input.multi-select-option');
   const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter input.multi-select-option');
@@ -13,6 +14,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
       classes.push('category-' + params.get('category'))
       if (firstTime) {
         filter_category.value = params.get('category')
+      }
+    }
+    if (params.has('author')) {
+      classes.push('author-' + params.get('author'))
+      if (firstTime) {
+        filter_author.value = params.get('author')
       }
     }
     if (params.has('favorite')) {
@@ -70,6 +77,14 @@ document.addEventListener('DOMContentLoaded', (event) => {
       }
     }
 
+    if (filter_author) {
+      if (filter_author.value == 'all') {
+        params.delete('author')
+      } else {
+        params.set('author', filter_author.value)
+      }
+    }
+
     const selected_favorites = []
     for (const cb of favorite_checkboxes) {
       if (cb.checked) {
@@ -99,6 +114,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
   if (filter_category) {
     filter_category.addEventListener('change', filter)
+  }
+  if (filter_author) {
+    filter_author.addEventListener('change', filter)
   }
   favorite_checkboxes.forEach(checkbox => {
     checkbox.addEventListener('change', filter)

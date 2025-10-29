@@ -1,17 +1,10 @@
 ---
 description: Perfected version of the quintissential old-man drink.
 category: beverages
-tags:
-  - cocktails
-ingredients:
-  - scotch-whisky
-  - drambuie
-favorite:
-  - aaron
-  - austin
-authors:
-  - aaron
-  - austin
+tags: [cocktails]
+ingredients: [scotch-whisky, drambuie]
+favorite: [aaron]
+authors: [aaron, austin]
 ---
 
 # Rusty Nail 

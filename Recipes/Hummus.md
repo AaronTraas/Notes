@@ -1,17 +1,8 @@
 ---
 category: sides
-tags:
-  - healthy
-  - friday-friendly
-  - gluten-free
-ingredients:
-  - chickpeas
-  - tahini
-  - garlic
-favorite:
-  - austin
-authors:
-  - austin
+tags: [healthy, friday-friendly, gluten-free]
+ingredients: [chickpeas, tahini, garlic]
+authors: [austin]
 ---
 
 # Hummus

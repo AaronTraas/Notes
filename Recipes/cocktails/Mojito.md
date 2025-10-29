@@ -1,20 +1,11 @@
 ---
 description: My personal takes on a classic mojito.
 category: beverages
-tags:
-  - cocktails
-ingredients:
-  - rum
-  - lime
-  - mint
-  - demerara-syrup
-  - simple-syrup
+tags: [cocktails]
+ingredients: [rum, lime, mint, demerara-syrup, simple-syrup]
 hero_image: mojito.jpg
-favorite:
-  - linda
-authors:
-  - aaron
-  - austin
+favorite: [linda]
+authors: [aaron, austin]
 ---
 
 # Mojito

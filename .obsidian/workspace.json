@@ -4,109 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "bb33b221b842cafe",
+        "id": "3fa257ea762dfefb",
         "type": "tabs",
         "children": [
           {
-            "id": "374a1eabd9b27221",
+            "id": "dee3603b53ba48a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/Basic-Sourdough.md",
+                "file": "Recipes/cocktails/Painkiller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic-Sourdough"
+              "title": "Painkiller"
             }
           },
           {
-            "id": "cd03965cfa385b8e",
+            "id": "f0723c78aad3efa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/Cinnamon-Rolls.md",
+                "file": "Recipes/cocktails/Mamajuana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cinnamon-Rolls"
+              "title": "Mamajuana"
             }
           },
           {
-            "id": "c312d9483dd22d58",
+            "id": "02e0d5c09f333831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/English-Muffins.md",
+                "file": "Recipes/cocktails/Rusty-Nail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English-Muffins"
+              "title": "Rusty-Nail"
             }
           },
           {
-            "id": "8c0db41249fe22c9",
+            "id": "b09ae93844b04b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/Hawaiian-Rolls.md",
+                "file": "Recipes/cocktails/Smokey-Banana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hawaiian-Rolls"
+              "title": "Smokey-Banana"
             }
           },
           {
-            "id": "a84a4c91eefd7ed3",
+            "id": "ac4cf5d53cf9ec23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/Leftover-Oatmeal-Bread.md",
+                "file": "Recipes/cocktails/Banana-Old-Fashioned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leftover-Oatmeal-Bread"
+              "title": "Banana-Old-Fashioned"
             }
           },
           {
-            "id": "3d19edbedb9bc60d",
+            "id": "de5118e9f807c80e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/Pizza.md",
+                "file": "Recipes/cocktails/Last-Word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pizza"
+              "title": "Last-Word"
             }
           },
           {
-            "id": "94d388be6cb5f5dd",
+            "id": "84369207c363cd1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/Sandwich-Loaf.md",
+                "file": "Recipes/Hummus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sandwich-Loaf"
+              "title": "Hummus"
+            }
+          },
+          {
+            "id": "b9dbdbb541f1bf90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_config.yml",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_config"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -283,35 +297,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "94d388be6cb5f5dd",
+  "active": "b9dbdbb541f1bf90",
   "lastOpenFiles": [
-    "Recipes/Sourdough/Pizza.md",
-    "Recipes/Sourdough/Leftover-Oatmeal-Bread.md",
-    "Recipes/Sourdough/Hawaiian-Rolls.md",
-    "Recipes/Sourdough/English-Muffins.md",
-    "Recipes/Sourdough/Cinnamon-Rolls.md",
-    "Recipes/Sourdough/Basic-Sourdough.md",
-    "Recipes/cocktails/Mango-Chili-Mojito.md",
+    "_data/authors.yaml",
+    "_data",
+    "Recipes/Hummus.md",
+    "Recipes/cocktails/Last-Word.md",
     "Recipes/cocktails/Banana-Old-Fashioned.md",
+    "Recipes/cocktails/Sangria.md",
+    "Recipes/cocktails/Smokey-Banana.md",
+    "Recipes/cocktails/Rusty-Nail.md",
+    "Recipes/cocktails/Coco-Rey-Banana.md",
+    "Recipes/cocktails/Mamajuana.md",
+    "Recipes/cocktails/Mojito.md",
+    "Recipes/cocktails/Painkiller.md",
+    "Recipes/Sourdough/Basic-Sourdough.md",
+    "Recipes/Sourdough/Cinnamon-Rolls.md",
+    "Recipes/Sourdough/English-Muffins.md",
+    "Recipes/Sourdough/Hawaiian-Rolls.md",
+    "Recipes/Sourdough/Leftover-Oatmeal-Bread.md",
+    "Recipes/Sourdough/Pizza.md",
+    "Recipes/Sourdough/Sandwich-Loaf.md",
+    "Recipes/cocktails/Mango-Chili-Mojito.md",
     "Recipes/cocktails/Beautiful.md",
     "Recipes/cocktails/Boulevardier.md",
     "Recipes/cocktails/Campari-Cocktails.md",
     "Recipes/cocktails/Cocktail-Ingredients.md",
     "Recipes/cocktails/Cocktails-to-Try.md",
-    "Recipes/cocktails/Coco-Rey-Banana.md",
     "Recipes/cocktails/Espresso-Martini.md",
     "Recipes/cocktails/Hot-Buttered-Rum.md",
-    "Recipes/cocktails/Hot-Toddy.md",
-    "Recipes/cocktails/Improved-Whiskey-Cocktail.md",
     "Recipes/cocktails/index.html",
-    "Recipes/cocktails/Last-Word.md",
-    "Recipes/cocktails/Mai-Tai.md",
-    "Recipes/cocktails/Mamajuana.md",
-    "Recipes/cocktails/Maple-Old-Fashioned.md",
-    "Recipes/cocktails/Mojito.md",
-    "Recipes/cocktails/Negroni.md",
-    "Recipes/cocktails/Old-Fashioned.md",
-    "Recipes/cocktails/Painkiller.md",
     "_layouts/default.html",
     "assets/css/ui.css",
     "_site/Recipes/cocktails/Smokey-Banana.html",
@@ -320,7 +335,6 @@
     "_site/Recipes/cocktails/Banana-Old-Fashioned 1.html",
     "_site/Recipes/cocktails/Last-Word.html",
     "_site/Recipes/cocktails/Mai-Tai 1.html",
-    "_includes/favorites.html",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]

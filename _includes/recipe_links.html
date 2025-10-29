@@ -52,11 +52,19 @@
   {%- else -%}
     {%- assign tags = 'none' -%}
   {%- endif -%}
+
+  {%- if page.authors and page.authors.first -%}
+    {%- assign authors = page.authors | push: 'any' | sort -%}
+  {%- else -%}
+    {%- assign authors = 'none' -%}
+  {%- endif -%}
+
   {%- if page.favorite and page.favorite.first -%}
     {%- assign favorite = page.favorite | push: 'any' | sort -%}
   {%- else -%}
     {%- assign favorite = 'none' -%}
   {%- endif -%}
+
   {%- if page.ingredients and page.ingredients.first -%}
     {%- assign ingredients = page.ingredients | sort -%}
   {%- else -%}
@@ -71,7 +79,7 @@
   {%- else -%}
     {%- assign recipe_style = '' -%}
   {%- endif -%}
-  <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+  <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
     {% if page.favorite and page.favorite.first -%}
     <div class="favorite-icons">
       {% assign favorites_sorted = page.favorite | sort %}

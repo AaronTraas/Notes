@@ -1,18 +1,9 @@
 ---
 description: Complex, balanced, herbaceous mezcal cocktail with banana.
 category: beverages
-tags:
-  - cocktails
-ingredients:
-  - lime
-  - maraschino-liqueur
-  - chartreuse
-  - mezcal
-  - banana-liqueur
-favorite:
-  - austin
-authors:
-  - austin
+tags: [cocktails]
+ingredients: [lime, maraschino-liqueur, chartreuse, mezcal, banana-liqueur]
+authors: [austin]
 ---
 
 # Smokey Banana

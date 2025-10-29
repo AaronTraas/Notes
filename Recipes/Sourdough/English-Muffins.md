@@ -1,15 +1,10 @@
 ---
 description: Better than store bought, in both texture and flavor.
 category: baked-goods
-tags:
-  - sourdough
-ingredients:
-  - flour
-  - sourdough-starter
-  - butter
+tags: [sourdough]
+ingredients: [flour, sourdough-starter, butter]
 hero_image: english_muffins.jpg
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Sourdough English Muffins

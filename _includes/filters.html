@@ -13,12 +13,17 @@
 
 {%- assign all_ingredients = '' | split: 'empty' -%}
 {%- assign all_categories = '' | split: 'empty' -%}
+{%- assign all_authors = '' | split: 'empty' -%}
 {%- assign all_favorites = '' | split: 'empty' -%}
 {%- for page in sortedPages -%}
   {%- assign all_categories = all_categories | push: page.category -%}
 
   {%- for favorite in page.favorite -%}
     {%- assign all_favorites = all_favorites | push: favorite -%}
+  {%- endfor -%}
+
+  {%- for author in page.authors -%}
+    {%- assign all_authors = all_authors | push: author -%}
   {%- endfor -%}
 
   {%- assign ingredients = page.ingredients -%}
@@ -28,6 +33,7 @@
   {%- endfor -%}
 {%- endfor -%}
 {%- assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
+{%- assign all_authors_sorted = all_authors | sort | uniq -%}
 {%- assign all_categories_sorted = all_categories | sort | uniq -%}
 {%- assign all_favorites_sorted = all_favorites | sort | uniq -%}
 
@@ -40,6 +46,23 @@
       {%- for category in all_categories_sorted -%}
       {% assign category_stripped = category | strip -%}
       <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+{%- endif -%}
+
+{% if all_authors_sorted.size > 1 %}
+  <div>
+    <label for="author-filter">Author: </label>
+    <select id="author-filter">
+      <option>all</option>
+      {%- for author in all_authors_sorted -%}
+        {%- if site.data.authors[author] -%}
+          {%- assign author_name = site.data.authors[author] -%}
+        {%- else -%}
+          {%- assign author_name = author | capitalize -%}
+        {%- endif -%}
+      <option value="{{ author }}">{{ author_name }}</option>
       {% endfor -%}
     </select>
   </div>
