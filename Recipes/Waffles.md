@@ -1,20 +1,10 @@
 ---
 description: Various waffle recipes
 category: breakfast
-tags:
-  - breakfast
-  - friday-friendly
-  - sourdough
-  - linda
-ingredients:
-  - eggs
-  - flour
-  - buttermilk
-  - sourdough-starter
+tags: [breakfast, friday-friendly, sourdough]
+ingredients: [eggs, flour, buttermilk, sourdough-starter]
 hero_image: tiramisu_waffle.jpg
-authors:
-  - aaron
-  - linda
+authors: [aaron, linda]
 ---
 
 # Waffles

@@ -1,16 +1,9 @@
 ---
 description: Salty cured pork wrapped in salty cured pork.
 category: appetizers
-tags:
-  - appetizers
-  - linda
-ingredients:
-  - keilbasa
-  - bacon
-  - mustard
-  - brown-sugar
-authors:
-  - linda
+tags: [appetizers]
+ingredients: [keilbasa, bacon, mustard, brown-sugar]
+authors: [linda]
 ---
 
 # Bacon Wrapped Glazed Kielbasa

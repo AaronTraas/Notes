@@ -3,10 +3,37 @@
 
 {%- for page in site.pages -%}
   {%- if page.ingredients and page.ingredients.first -%}
-    {%- if include.filter_tag == nil or page.tags contains include.filter_tag -%}
-      {%- assign filtered_pages = filtered_pages | push: page -%}
+  {%- else -%}
+    {%- continue -%}
+  {%- endif -%}
+
+  {%- if include.filter_author -%}
+    {%- if page.authors contains include.filter_author -%}
+    {%- else -%}
+      {%- continue -%}
     {%- endif -%}
   {%- endif -%}
+
+  {%- if include.filter_tag == nil or page.tags contains include.filter_tag -%}
+  {%- else -%}
+    {%- continue -%}
+  {%- endif -%}
+
+  {%- if include.filter_category -%}
+    {%- if include.filter_category == 'all' or page.category contains include.filter_category -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- if include.filter_favorites -%}
+    {%- if include.filter_favorites == 'n/a' or page.favorite contains include.filter_favorites -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- assign filtered_pages = filtered_pages | push: page -%}
 {%- endfor -%}
 {%- assign sortedPages = filtered_pages | sort: 'title' -%}
 
@@ -51,7 +78,7 @@
   </div>
 {%- endif -%}
 
-{% if all_authors_sorted.size > 1 %}
+{% if include.filter_author == nil and all_authors_sorted.size > 1 %}
   <div>
     <label for="author-filter">Author: </label>
     <select id="author-filter">
@@ -68,6 +95,7 @@
   </div>
 {%- endif -%}
 
+{% if include.filter_favorites == nil %}
   <div id="favorite-filter" class="multi-select">
     <label for="favorite-filter">Favorites: </label>
     <div class="multi-select-options">
@@ -79,6 +107,7 @@
       {%- endfor -%}
     </div>
   </div>
+{%- endif -%}
 
   <div id="ingredient-filter" class="multi-select">
     <label>Ingredients: </label>

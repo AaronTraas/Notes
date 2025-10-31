@@ -60,8 +60,17 @@ html, body {
   flex-grow: 1;
   height: 10em;
 }
+.recipe-cards .recipe-link > a {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
 #main-content .button:hover, 
-.recipe-cards .recipe-link:hover {
+.recipe-cards .recipe-link > a:hover {
   color: #ee6c4d;
   border-color: #ee6c4d;
   background-color: #3d5a80;
@@ -70,13 +79,14 @@ html, body {
   display: none;
 }
 
-.recipe-cards .recipe-link > .text {
+.recipe-cards .recipe-link > a > .text {
   position: absolute;
   background-color: rgba(32,32,32,0.5);
   bottom: 0;
   left: 0;
   right: 0;
   padding: 1em;
+  color: #fff;
 }
 
 .recipe-cards .recipe-link strong {

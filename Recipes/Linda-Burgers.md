@@ -1,11 +1,10 @@
 ---
 description: Linda's preferred burger recipe.
 category: entrees
-tags: meat, linda
+tags: [meat]
 ingredients: ground-beef
 index: hidden
-authors:
-  - linda
+authors: [linda]
 ---
 
 # Linda's Burgers

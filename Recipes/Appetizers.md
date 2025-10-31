@@ -1,11 +1,8 @@
 ---
 description: Assorted recipes from the web that Linda makes.
 category: appetizers
-tags:
-  - linda
-authors:
-  - aaron
-  - linda
+tags: [appetizers]
+authors: [aaron, linda]
 ---
 
 # Appetizer Ideas
@@ -14,7 +11,6 @@ authors:
 
 {% include recipe_links.html 
   list_style        = 'list'
-  filter_tag = 'linda'
   filter_category = 'appetizers'-%}
 ## Web links
 - [Garlic Cheese Monkey Bread](https://www.homecookingadventure.com/garlic-cheese-monkey-bread/#recipe)

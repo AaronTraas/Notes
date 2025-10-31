@@ -5,7 +5,6 @@ tags:
   - weeknight
   - healthy
   - friday-friendly
-  - linda
 ingredients:
   - salmon
   - soy-sauce

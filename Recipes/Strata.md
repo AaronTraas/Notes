@@ -1,7 +1,7 @@
 ---
 description: Baked savory <i>pain perdu</i> with spinach and cheese.
 category: entrees
-tags: [entrees, friday-friendly, linda]
+tags: [entrees, friday-friendly]
 ingredients: [eggs, bread, cheese, spinach]
 authors: [linda]
 ---

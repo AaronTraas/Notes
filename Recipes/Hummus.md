@@ -1,5 +1,5 @@
 ---
-category: sides
+category: appetizers
 tags: [healthy, friday-friendly, gluten-free]
 ingredients: [chickpeas, tahini, garlic]
 authors: [austin]

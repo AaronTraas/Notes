@@ -32,6 +32,13 @@
     {%- endif -%}
   {%- endif -%}
 
+  {%- if include.filter_author -%}
+    {%- if page.authors contains include.filter_author -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
+  {%- endif -%}
+
   {%- if include.filter_tag -%}
     {%- if page.tags contains include.filter_tag or include.filter_tag == "NONE" and page.tags == nil -%}
     {%- else -%}
@@ -96,8 +103,8 @@
   {%- else -%}
     {%- assign recipe_style = '' -%}
   {%- endif -%}
-  <li>
-    <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+  <li class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" {{ recipe_style }}>
+    <a href="{{ page.url | relative_url }}">
     {%- if include.list_style == 'list' -%}
         {{page.title}}
     {%- else -%}

@@ -1,18 +1,10 @@
 ---
 description: Classic baked Mac & Cheese
 category: entrees
-tags:
-  - soup-stew-casserole
-  - friday-friendly
-  - linda
-ingredients:
-  - pasta
-  - cheese
-favorite:
-  - aaron
-authors:
-  - aaron
-  - linda
+tags: [soup-stew-casserole, friday-friendly]
+ingredients: [pasta, cheese]
+favorite: [aaron]
+authors: [aaron, linda]
 ---
 
 # Baked Mac & Cheese

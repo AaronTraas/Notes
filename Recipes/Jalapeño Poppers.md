@@ -1,17 +1,10 @@
 ---
 description: Salty cured pork wrapped in salty cured pork.
 category: appetizers
-tags:
-  - appetizers
-  - linda
-ingredients:
-  - bacon
-  - cream-cheese
-  - chilis
-favorite:
-  - aaron
-authors:
-  - linda
+tags: [appetizers]
+ingredients: [bacon, cream-cheese, chilis]
+favorite: [aaron]
+authors: [linda]
 ---
 
 # Jalapeño Poppers
