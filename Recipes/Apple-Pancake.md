@@ -1,18 +1,11 @@
 ---
 description: Delicious cross between an apple pie and a Dutch baby pancake.
 category: baked-goods
-tags:
-  - breakfast
-  - dessert
-ingredients:
-  - eggs
-  - flour
-  - apples
+tags: [breakfast, dessert]
+ingredients: [eggs, flour, apples]
 hero_image: apple_dutch_baby.png
-favorite:
-  - miriam
-authors:
-  - aaron
+favorite: [miriam, maddie]
+authors: [aaron]
 ---
 # Apple Pancake
 

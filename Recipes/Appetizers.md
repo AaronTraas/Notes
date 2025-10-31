@@ -12,7 +12,8 @@ authors:
 
 ## Recipes
 
-{% include recipes_by_tag_catagory.html 
+{% include recipe_links.html 
+  list_style        = 'list'
   filter_tag = 'linda'
   filter_category = 'appetizers'-%}
 ## Web links

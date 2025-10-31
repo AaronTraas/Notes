@@ -1,6 +1,13 @@
 {%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
 {%- assign section_dir = 'Recipes' -%}
-<div class="recipe-cards">
+
+{%- if include.list_style == 'list' %}
+  {%- assign list_class = 'recipe-list' -%}
+{%- else -%}
+  {%- assign list_class = 'recipe-cards' -%}
+{%- endif -%}
+
+<ul class="{{list_class}}">
 {% assign sortedPages = site.pages | sort: 'title' -%}
 {%- for page in sortedPages | sort: 'title' -%}
   {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
@@ -16,6 +23,13 @@
 
   {%- if page_blacklist contains page.name -%}
     {%- continue -%}
+  {%- endif -%}
+
+  {%- if include.filter_category -%}
+    {%- if page.category contains include.filter_category -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
   {%- endif -%}
 
   {%- if include.filter_tag -%}
@@ -70,7 +84,10 @@
   {%- else -%}
     {%- assign ingredients = 'none' -%}
   {%- endif -%}
-  {%- if page.hero_image -%}
+
+  {%- if include.list_style == 'list' -%}
+    {%- assign recipe_style = '' -%}
+  {%- elsif page.hero_image -%}
     {%- assign recipe_image_url = '/images/' | append: page.hero_image | relative_url -%}
     {%- assign recipe_style = 'style="background-size: cover; background-image: url(' | append: recipe_image_url | append: ')"' -%}
   {%- elsif page.tags contains 'cocktails' -%}
@@ -79,33 +96,44 @@
   {%- else -%}
     {%- assign recipe_style = '' -%}
   {%- endif -%}
-  <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
-    {% if page.favorite and page.favorite.first -%}
-    <div class="favorite-icons">
-      {% assign favorites_sorted = page.favorite | sort %}
-      {% for favorite in favorites_sorted -%}
-        <span class="{{favorite}}">★</span>
-      {% endfor -%}
-    </div>
-    {% endif -%}
+  <li>
+    <a class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" href="{{ page.url | relative_url }}" {{ recipe_style }}>
+    {%- if include.list_style == 'list' -%}
+        {{page.title}}
+    {%- else -%}
+      {% if page.favorite and page.favorite.first -%}
+      <span class="favorite-icons">
+        {% assign favorites_sorted = page.favorite | sort %}
+        {% for favorite in favorites_sorted -%}
+          <span class="{{favorite}}">★</span>
+        {% endfor -%}
+      </span>
+      {% endif -%}
 
-    <div class="text">
-      <strong>{{page.title}}</strong>
-      {%- if include.hide_description != nil or page.description != nil or page.description != '' -%}
-      {{ page.description }}
-      {%- else -%}
-      <ul class="tags">
-        {% for tag in tags %}
-        <li>{{tag}}</li>
-        {% endfor -%}
-      </ul>
-      <ul class="key-ingredients">
-        {% for ingredient in ingredients %}
-        <li>{{ingredient}}</li>
-        {% endfor -%}
-      </ul>
+      <span class="text">
+        <strong>{{page.title}}</strong>
+        {%- if include.hide_description != nil or page.description != nil or page.description != '' -%}
+        {{ page.description }}
+        {%- else -%}
+        <ul class="tags">
+          {% for tag in tags %}
+          <li>{{tag}}</li>
+          {% endfor -%}
+        </ul>
+        <ul class="key-ingredients">
+          {% for ingredient in ingredients %}
+          <li>{{ingredient}}</li>
+          {% endfor -%}
+        </ul>
+        {%- endif -%}
+      </span>
       {%- endif -%}
-    </div>
-  </a>
+    </a>
+    {%- if include.list_style == 'list' -%}
+      {%- if include.hide_description != nil or page.description != nil or page.description != '' %}
+        — {{ page.description }}
+      {%- endif -%}
+    {%- endif -%}
+  </li>
 {%- endfor %}
-</div>
+</ul>

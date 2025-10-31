@@ -42,7 +42,7 @@
 **Tuesday (Christmas Eve):**
 - Before girls arrive:
   - prep Roast roast in pan
-  - prep [basic Brussels sprouts](./Recipes/Brussles-Sprouts-Bacon-Blue.html)
+  - prep Brussels sprouts
   - make [Mushroom gravy](https://www.seriouseats.com/mushroom-gravy-sauce-recipe)
   - make Yorkshire pudding batter
   - bake dinner rolls (350F for 25 minutes)

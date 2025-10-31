@@ -1,17 +1,9 @@
 ---
 description: Baked savory <i>pain perdu</i> with spinach and cheese.
 category: entrees
-tags:
-  - entrees
-  - friday-friendly
-  - linda
-ingredients:
-  - eggs
-  - bread
-  - cheese
-  - spinach
-authors:
-  - linda
+tags: [entrees, friday-friendly, linda]
+ingredients: [eggs, bread, cheese, spinach]
+authors: [linda]
 ---
 
 # Spinach & Cheese Strata
@@ -21,7 +13,7 @@ authors:
 - 9 large eggs
 - 1 (10 ounce) package frozen spinach, thawed, squeeze of all excess liquid, and chopped
 - 6 ounces coarsely grated Gruyère (2 cups)
-- 2 ounces finely grated parmesan (1 cup)
+- 2 ounces finely grated Parmesan (1 cup)
 - 1 1/2 cups finely chopped onion (1 large)
 - 2 3/4 cups milk
 - 3 tablespoons unsalted butter

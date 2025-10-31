@@ -4,7 +4,7 @@ category: baked-goods
 tags: [sourdough, dessert]
 ingredients: [flour, sourdough-starter, eggs, butter, milk]
 hero_image: cinnamon_rolls.jpg
-favorite: [aaron]
+favorite: [aaron, maddie]
 authors: [aaron]
 ---
 
