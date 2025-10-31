@@ -1,5 +1,5 @@
 ---
-description: Salty cured pork wrapped in salty cured pork.
+description: Bacon-wrapped cheezy chilis. American bar food at its finest.
 category: appetizers
 tags: [appetizers]
 ingredients: [bacon, cream-cheese, chilis]
