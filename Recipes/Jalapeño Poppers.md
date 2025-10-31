@@ -17,6 +17,7 @@ Linda's jalapeño poppers. Pretty basic and classic
 - 1 lb bacon, thin-sliced
 - 1 lb cream cheese
 - 1/2 lb shredded cheddar cheese
+
 ## Directions
 
 1. Preheat oven to 375°F. 

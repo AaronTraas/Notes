@@ -1,13 +1,10 @@
 ---
 description: Various syrups and other ingredients used in cocktails
 category: ingredients
-tags:
-  - cocktails
-ingredients:
-  - sugar
+tags: [cocktails]
+ingredients: [sugar]
 hero_image: cocktail_experiment.jpg
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Cocktail Ingredients

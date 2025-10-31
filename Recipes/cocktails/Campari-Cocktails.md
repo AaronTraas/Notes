@@ -1,15 +1,10 @@
 ---
 description: Various cocktails I want to try with Campari.
 category: beverages
-tags:
-  - cocktails
-  - experimental-drinks
-ingredients:
-  - campari
-  - amaro
+tags: [cocktails, experimental-drinks]
+ingredients: [campari, amaro]
 index: hidden
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Campari Cocktails

@@ -1,18 +1,10 @@
 ---
 description: Traditional Molisano wafer cookies
 category: desserts
-tags:
-  - italian
-  - monacilioni
-  - dessert
-  - easter
-ingredients:
-  - flour
-  - sugar
-  - eggs
+tags: [italian, monacilioni, dessert, easter]
+ingredients: [flour, sugar, eggs]
 hero_image: pizzelle.jpg
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Pizzelle

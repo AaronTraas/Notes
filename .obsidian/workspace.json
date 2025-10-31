@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Chili.md",
+                "file": "Recipes/cocktails/Maple-Old-Fashioned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chili"
+              "title": "Maple-Old-Fashioned"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "favorite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,34 +216,34 @@
   },
   "active": "c005adeafcf17bbc",
   "lastOpenFiles": [
-    "Recipes/Waffles.md",
-    "Recipes/Strata.md",
-    "Recipes/Parmigiano-Roasted-Cauliflower.md",
-    "Recipes/Mac-and-Cheese.md",
-    "Recipes/Linda-Burgers.md",
-    "Recipes/Lemon-Bars.md",
-    "Recipes/Kielbasa-Bacon.md",
-    "Recipes/Honey-Soy-Garlic-Cauliflower.md",
-    "Recipes/Jalapeño Poppers.md",
-    "Recipes/Chicken-Pot-Pie.md",
-    "Recipes/Baked-Salmon.md",
-    "Recipes/Appetizers.md",
-    "Recipes/Hummus.md",
-    "Recipes/cocktails/Boulevardier.md",
-    "Recipes/cocktails/Hot-Buttered-Rum.md",
+    "Recipes/Untested/Peach-Puzzle.md",
+    "Recipes/Overnight-Oatmeal.md",
+    "Recipes/cocktails/White-Elephant.md",
+    "Recipes/Tomato-Sauce.md",
+    "Recipes/Tiramisu.md",
+    "Recipes/Struffoli.md",
+    "Recipes/Spaetzle.md",
+    "Recipes/Southwest-Black-Beans.md",
+    "Recipes/Pressure-Cooker-Rice.md",
+    "Recipes/Popcorn.md",
+    "Recipes/Pizzelle.md",
+    "Recipes/Perfect-Brownies.md",
+    "Recipes/Pancakes.md",
+    "Recipes/cocktails/Old-Fashioned.md",
+    "Recipes/cocktails/Negroni.md",
+    "Recipes/cocktails/Maple-Old-Fashioned.md",
+    "Recipes/cocktails/Mango-Chili-Mojito.md",
     "Recipes/cocktails/Mai-Tai.md",
-    "Recipes/Chili.md",
+    "Recipes/cocktails/Improved-Whiskey-Cocktail.md",
+    "Recipes/cocktails/Hot-Toddy.md",
+    "Recipes/cocktails/Hot-Buttered-Rum.md",
+    "Recipes/French-Toast-Casserole.md",
+    "Recipes/cocktails/Espresso-Martini.md",
     "Recipes/Dutch-Baby.md",
-    "Recipes/cocktails/Cocktails-to-Try.md",
-    "Recipes/cocktails/Earl-Grey-Martini.md",
-    "Recipes/Apple-Pancake.md",
-    "Recipes/Irish-Beef-Stew.md",
-    "Recipes/Sourdough/Cinnamon-Rolls.md",
-    "Recipes/Chashu-Pork-Belly.md",
-    "Recipes/Chicken-Tikka-Masala.md",
+    "Recipes/Dicotta.md",
+    "Recipes/Cream-Cheese-Frosting.md",
     "_site/Recipes/cocktails/Earl-Grey-Martini.html",
     "_site/Recipes/cocktails/Mai-Tai 1.html",
-    "Recipes/cocktails/Painkiller.md",
     "_config.yml",
     "_data/authors.yaml",
     "_data",

@@ -1,5 +1,5 @@
 ---
-tags: untested
+tags: [untested]
 index: hidden
 ---
 

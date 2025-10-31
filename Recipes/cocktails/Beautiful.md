@@ -1,10 +1,9 @@
 ---
 description: Perfectly balanced, super-easy spirit-forward cognac cocktail.
 category: beverages
-tags: cocktails
+tags: [cocktails]
 ingredients: cognac, grand-marinier
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Beautiful (Cocktail) 

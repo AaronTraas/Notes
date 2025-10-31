@@ -1,20 +1,10 @@
 ---
 description: Autumnal spin on an old fashioned whiskey cocktail.
 category: beverages
-tags:
-  - cocktails
-  - fall
-  - experimental-drinks
-ingredients:
-  - bitters
-  - bourbon
-  - walnut-bitters
-  - maple-syrup
-  - vanilla
-favorite:
+tags: [cocktails, fall, experimental-drinks]
+ingredients: [bitters, bourbon, walnut-bitters, maple-syrup, vanilla]
 index: hidden
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Maple Old Fashioned

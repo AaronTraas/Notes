@@ -1,15 +1,9 @@
 ---
 description: Warming drink for a cold night; tastes like the holidays.
 category: beverages
-tags:
-  - cocktails
-ingredients:
-  - rum
-  - butter
-  - sugar
-  - cinnamon
-authors:
-  - aaron
+tags: [cocktails]
+ingredients: [rum, butter, sugar, cinnamon]
+authors: [aaron]
 ---
 
 # Hot Buttered Rum Batter 

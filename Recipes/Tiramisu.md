@@ -1,18 +1,10 @@
 ---
 description: Modern Italian classic dessert
 category: desserts
-tags:
-  - italian
-  - dessert
-ingredients:
-  - eggs
-  - mascarpone
-  - sugar
-  - cocoa
-favorite:
-  - miriam
-authors:
-  - aaron
+tags: [italian, dessert]
+ingredients: [eggs, mascarpone, sugar, cocoa]
+favorite: [miriam]
+authors: [aaron]
 ---
 # Triamisù
 

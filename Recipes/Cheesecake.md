@@ -1,15 +1,10 @@
 ---
 description: Various cheesecake recipes.
 category: desserts
-tags:
-  - desserts
-  - instant-pot
-ingredients:
-  - eggs
-  - cream-cheese
+tags: [desserts, instant-pot]
+ingredients: [eggs, cream-cheese]
 hero_image: cheesecake_tiny.jpg
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Cheesecake

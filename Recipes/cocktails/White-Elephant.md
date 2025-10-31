@@ -1,19 +1,11 @@
 ---
 description: Thai coconut lime cocktail
 category: beverages
-tags:
-  - cocktails
-  - tiki
-ingredients:
-  - rum
-  - thai-coconut-syrup
-  - lime
+tags: [cocktails, tiki]
+ingredients: [rum, thai-coconut-syrup, lime]
 hero_image: white_elephant.jpg
-favorite:
-  - linda
-  - aaron
-authors:
-  - aaron
+favorite: [linda, aaron]
+authors: [aaron]
 ---
 
 # White Elephant

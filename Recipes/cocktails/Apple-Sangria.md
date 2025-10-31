@@ -1,17 +1,10 @@
 ---
 description: A sweet, appley, fall cocktail
 category: beverages
-tags:
-  - cocktails
-ingredients:
-  - vodka
-  - wine
-  - brandy
-  - cider
-  - simple-syrup
+tags: [cocktails]
+ingredients: [vodka, wine, brandy, cider, simple-syrup]
 hero_image: apple_sangria.jpg
-authors:
-  - linda
+authors: [linda]
 ---
 
 # Apple "Sangria"

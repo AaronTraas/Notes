@@ -1,19 +1,9 @@
 ---
 description: Various quick and easy baked salmon dishes.
 category: entrees
-tags:
-  - weeknight
-  - healthy
-  - friday-friendly
-ingredients:
-  - salmon
-  - soy-sauce
-  - miso
-  - maple-syrup
-  - mustard
-authors:
-  - aaron
-  - linda
+tags: [weeknight, healthy, friday-friendly]
+ingredients: [salmon, soy-sauce, miso, maple-syrup, mustard]
+authors: [aaron, linda]
 ---
 
 # Easy Baked/Broiled Salmon

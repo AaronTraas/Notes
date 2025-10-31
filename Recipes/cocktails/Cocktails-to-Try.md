@@ -1,12 +1,9 @@
 ---
 description: Various cocktails Aaron & Linda want to try.
 category: beverages
-tags:
-  - cocktails
-  - experimental-drinks
+tags: [cocktails, experimental-drinks]
 index: hidden
-authors:
-  - aaron
+authors: [aaron]
 ---
 
 # Cocktails I'd Like to Try

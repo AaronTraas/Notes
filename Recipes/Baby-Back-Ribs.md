@@ -1,18 +1,10 @@
 ---
 description: Oven braised/broiled dry-rubbed baby-back ribs
 category: entrees
-tags:
-  - main-dish
-  - meat
-  - bbq
-  - gluten-free
-ingredients:
-  - pork-ribs
-  - brown-sugar
-favorite:
-  - aaron
-authors:
-  - aaron
+tags: [main-dish, meat, bbq, gluten-free]
+ingredients: [pork-ribs, brown-sugar]
+favorite: [aaron]
+authors: [aaron]
 ---
 
 # Baby Back Ribs

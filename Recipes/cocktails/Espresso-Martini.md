@@ -1,20 +1,11 @@
 ---
 description: A refreshing coffee cocktail, using cold brew and vodka.
 category: beverages
-tags:
-  - cocktails
-ingredients:
-  - vodka
-  - coffee
-  - coffee-liqueur
-  - demerara-syrup
-  - simple-syrup
+tags: [cocktails]
+ingredients: [vodka, coffee, coffee-liqueur, demerara-syrup, simple-syrup]
 hero_image: espresso_martini.jpg
-favorite:
-  - aaron
-  - linda
-authors:
-  - aaron
+favorite: [aaron, linda]
+authors: [aaron]
 ---
 
 # Espresso Martini
