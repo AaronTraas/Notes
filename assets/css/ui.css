@@ -222,7 +222,7 @@ html, body {
   margin: 0 0 1em 0;
 }
 
-.favorite-icons {
+.recipe-cards .favorite-icons {
   display: block;
   position: absolute;
   top: 6px;

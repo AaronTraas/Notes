@@ -108,18 +108,9 @@
     {%- if include.list_style == 'list' -%}
         {{page.title}}
     {%- else -%}
-      {% if page.favorite and page.favorite.first -%}
-      <span class="favorite-icons">
-        {% assign favorites_sorted = page.favorite | sort %}
-        {% for favorite in favorites_sorted -%}
-          <span class="{{favorite}}">★</span>
-        {% endfor -%}
-      </span>
-      {% endif -%}
-
       <span class="text">
         <strong>{{page.title}}</strong>
-        {%- if include.hide_description != nil or page.description != nil or page.description != '' -%}
+      {%- if include.hide_description != nil or page.description != nil or page.description != '' -%}
         {{ page.description }}
         {%- else -%}
         <ul class="tags">
@@ -134,9 +125,19 @@
         </ul>
         {%- endif -%}
       </span>
-      {%- endif -%}
+
+      {% if page.favorite and page.favorite.first -%}
+      <span class="favorite-icons">
+        {% assign favorites_sorted = page.favorite | sort %}
+        {% for favorite in favorites_sorted -%}
+          <span class="{{favorite}}">★</span>
+        {% endfor -%}
+      </span>
+      {% endif -%}
+    {%- endif -%}
     </a>
-    {%- if include.list_style == 'list' -%}
+
+    {%- if include.list_style == 'list' and page.description -%}
       {%- if include.hide_description != nil or page.description != nil or page.description != '' %}
         — {{ page.description }}
       {%- endif -%}
