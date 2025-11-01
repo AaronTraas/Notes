@@ -3,9 +3,10 @@ email: aaron@traas.org
 
 # Build settings
 remote_theme: pages-themes/architect@v0.2.0
+markdown: GFM
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - github-pages
 
-exclude: [.obsidian]
+exclude: [.obsidian,.git,.github,Makefile,Gemfile,Gemfile.lock]
