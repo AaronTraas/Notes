@@ -5,6 +5,7 @@ tags: [cocktails, fall, experimental-drinks]
 ingredients: [bitters, bourbon, walnut-bitters, maple-syrup, vanilla]
 index: hidden
 authors: [aaron]
+seasons: [fall]
 ---
 
 # Maple Old Fashioned

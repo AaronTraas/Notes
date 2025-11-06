@@ -5,6 +5,7 @@ tags: [cocktails, experimental-drinks]
 ingredients: [rum, lime, mango, demerara-syrup, simple-syrup, chilis]
 index: hidden
 authors: [aaron]
+seasons: [spring, summer]
 ---
 
 # Mango Chili Mojito

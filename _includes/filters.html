@@ -42,6 +42,7 @@
 {%- assign all_categories = '' | split: 'empty' -%}
 {%- assign all_authors = '' | split: 'empty' -%}
 {%- assign all_favorites = '' | split: 'empty' -%}
+{%- assign all_seasons = '' | split: 'empty' -%}
 {%- for page in sortedPages -%}
   {%- assign all_categories = all_categories | push: page.category -%}
 
@@ -58,11 +59,17 @@
     {%- assign cleaned = ingredient | strip | slugify -%}
     {%- assign all_ingredients = all_ingredients | push: cleaned -%}
   {%- endfor -%}
+
+  {%- for season in page.seasons -%}
+    {%- assign all_seasons = all_seasons | push: season -%}
+  {%- endfor -%}
 {%- endfor -%}
+
 {%- assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
 {%- assign all_authors_sorted = all_authors | sort | uniq -%}
 {%- assign all_categories_sorted = all_categories | sort | uniq -%}
 {%- assign all_favorites_sorted = all_favorites | sort | uniq -%}
+{%- assign all_seasons_sorted = all_seasons | sort | uniq -%}
 
 <form id="filters">
 {% if include.filter_tag == nil and include.filter_category == nil %}
@@ -73,6 +80,18 @@
       {%- for category in all_categories_sorted -%}
       {% assign category_stripped = category | strip -%}
       <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+{%- endif -%}
+
+{% if include.filter_season == nil and all_seasons_sorted.size > 1 %}
+  <div class="multi-select">
+    <label for="season-filter">Season: </label>
+    <select id="season-filter">
+      <option>all</option>
+      {%- for season in all_seasons_sorted -%}
+      <option value="{{ season }}">{{ season | replace: '-', ' ' | capitalize }}</option>
       {% endfor -%}
     </select>
   </div>

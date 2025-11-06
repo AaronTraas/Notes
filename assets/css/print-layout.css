@@ -1,0 +1,16 @@
+body > header h2,
+body > header a.button,
+#sidebar,
+#breadcrumb {
+  display: none !important;
+}
+
+#main-content {
+  float: none;
+  width: auto;
+}
+
+body > header,
+body > footer {
+  padding: 0;
+}

@@ -5,6 +5,7 @@ tags: [cocktails]
 ingredients: [campari, amaro, vermouth, bourbon, rye]
 hero_image: negroni.jpg
 authors: [aaron]
+seasons: [summer]
 ---
 
 # Boulevardier

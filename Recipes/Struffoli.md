@@ -6,6 +6,7 @@ ingredients: [eggs, flour, butter]
 hero_image: struffoli.jpg
 favorite: [miriam]
 authors: [aaron]
+seasons: [christmas]
 ---
 
 # Struffoli

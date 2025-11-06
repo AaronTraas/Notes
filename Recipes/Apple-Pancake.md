@@ -6,6 +6,7 @@ ingredients: [eggs, flour, apples]
 hero_image: apple_dutch_baby.png
 favorite: [miriam, maddie]
 authors: [aaron]
+seasons: [fall]
 ---
 # Apple Pancake
 

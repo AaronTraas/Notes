@@ -6,6 +6,7 @@ ingredients: [campari, amaro, vermouth, gin]
 hero_image: negroni.jpg
 favorite: [aaron]
 authors: [aaron]
+seasons: [summer]
 ---
 
 # Negroni

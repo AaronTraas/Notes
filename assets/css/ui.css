@@ -1,6 +1,12 @@
 html, body {
   font-family: open-sans, sans-serif;
   font-size: 14px;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat;
+}
+
+#content-wrapper {
+  background: #fff;
+  padding-bottom: 30px;
 }
 
 .recipe-cards {

@@ -5,6 +5,7 @@ tags: [italian, monacilioni, dessert, easter]
 ingredients: [ricotta, flour]
 hero_image: casciatelli.jpg
 authors: [aaron]
+seasons: [easter]
 ---
 
 # Casciatelli

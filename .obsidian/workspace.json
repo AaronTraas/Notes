@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71c140aaba0bb151",
+        "id": "90b35c620d9a4274",
         "type": "tabs",
         "children": [
           {
-            "id": "d3cdae6a72446d18",
+            "id": "5e1b6e8aa0847b18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/cocktails/Hot-Buttered-Rum.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hot-Buttered-Rum"
+              "title": "New tab"
             }
           }
         ]
@@ -84,8 +80,7 @@
               "title": "Tag Navigation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,14 +194,40 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "176cc41245d9e906",
+  "active": "5e1b6e8aa0847b18",
   "lastOpenFiles": [
+    "_site/assets/css/print-layout.css",
+    "assets/css/print-layout.css",
+    "Recipes/cocktails/Apple-Sangria.md",
+    "Recipes/Casciatelli.md",
+    "Recipes/Chili.md",
+    "Recipes/Cold-Brew.md",
+    "Recipes/Cranberry-Bread.md",
+    "Recipes/Irish-Beef-Stew.md",
+    "Recipes/Pizzelle.md",
+    "Recipes/Struffoli.md",
+    "Recipes/cocktails/Negroni.md",
+    "Recipes/cocktails/Painkiller.md",
+    "Recipes/cocktails/Sangria.md",
+    "Recipes/cocktails/Smokey-Banana.md",
+    "Recipes/cocktails/White-Elephant.md",
+    "Recipes/Apple-Pancake.md",
+    "Recipes/Bean-Ham-Soup.md",
+    "Recipes/Cassoulet.md",
+    "_includes/filters.html",
+    "Recipes/cocktails/Mojito.md",
+    "Recipes/cocktails/Maple-Old-Fashioned.md",
+    "Recipes/cocktails/Mai-Tai.md",
+    "Recipes/cocktails/Hot-Toddy.md",
+    "Recipes/cocktails/Mango-Chili-Mojito.md",
+    "Recipes/cocktails/Coco-Rey-Banana.md",
+    "Recipes/cocktails/Earl-Grey-Martini.md",
+    "Recipes/cocktails/Campari-Cocktails.md",
+    "Recipes/cocktails/Boulevardier.md",
+    "assets/css/print.css",
     "_site/assets/css/footer.css",
     "assets/css/footer.css",
     "_site/Recipes/cocktails/Mamajuana.html",
-    "Recipes/cocktails/Hot-Buttered-Rum.md",
-    "Recipes/Appetizers.md",
-    "Recipes/cocktails/Mai-Tai.md",
     "_site/images/white_elephant.jpg",
     "_site/images/tiramisu_waffle.jpg",
     "_site/images/struffoli.jpg",
@@ -218,35 +239,9 @@
     "_site/images/pizzelle.jpg",
     "_site/images/pizza.jpg",
     "_site/images",
-    "_site/Recipes/index.md",
-    "_site/Recipes/Untested/index.md",
-    "_site/Recipes/Allergies.md",
-    "_site/README.md",
-    "_site/LICENSE.md",
-    "_site/Holiday-Menu-Planning.md",
-    "_site/Cooking-Projects.md",
-    "_site/Build.md",
     "_site/feed.xml",
     "_site/index.html",
     "_site/Recipes/index.html",
-    "_site/Recipes/Allergies.html",
-    "_site/Holiday-Menu-Planning.html",
-    "_site/Cooking-Projects.html",
-    "_site/Build.html",
-    "_site/Adult-Beverages/Scotch-Whisky.md",
-    "_site/Adult-Beverages/Rum.md",
-    "_site/Adult-Beverages/README.md",
-    "_site/Adult-Beverages/Japanese-Whisky.md",
-    "_site/Adult-Beverages/Irish-Whiskey.md",
-    "_site/Adult-Beverages/American-Whiskey.md",
-    "_site/Tobacco/README.md",
-    "_site/Tobacco/Cigars.md",
-    "Recipes/cocktails/Maple-Old-Fashioned.md",
-    "Recipes/Untested/Peach-Puzzle.md",
-    "Recipes/Overnight-Oatmeal.md",
-    "Recipes/cocktails/White-Elephant.md",
-    "Recipes/Tomato-Sauce.md",
-    "Recipes/Tiramisu.md",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]

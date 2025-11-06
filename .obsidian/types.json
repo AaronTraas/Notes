@@ -5,6 +5,7 @@
     "tags": "tags",
     "ingredients": "multitext",
     "favorite": "multitext",
-    "authors": "multitext"
+    "authors": "multitext",
+    "seasons": "multitext"
   }
 }

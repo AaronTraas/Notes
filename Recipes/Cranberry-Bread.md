@@ -5,6 +5,7 @@ tags: [dessert, thanksgiving, christmas]
 ingredients: [eggs, flour, cranberries, orange]
 hero_image: cranberry_bread.jpg
 authors: [aaron]
+seasons: [fall, winter, christmas, thanksgiving]
 ---
 
 # Cranberry Bread

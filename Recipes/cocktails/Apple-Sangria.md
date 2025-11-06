@@ -5,6 +5,7 @@ tags: [cocktails]
 ingredients: [vodka, wine, brandy, cider, simple-syrup]
 hero_image: apple_sangria.jpg
 authors: [linda]
+seasons: [fall]
 ---
 
 # Apple "Sangria"

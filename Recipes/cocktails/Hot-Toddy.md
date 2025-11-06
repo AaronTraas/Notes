@@ -4,6 +4,7 @@ category: beverages
 tags: [cocktails]
 ingredients: [scotch-whisky, lemon, honey]
 authors: [aaron]
+seasons: [winter]
 ---
 
 # Hot Toddy 

@@ -6,6 +6,7 @@ ingredients: [rum, lime, mint, demerara-syrup, simple-syrup]
 hero_image: mojito.jpg
 favorite: [linda]
 authors: [aaron, austin]
+seasons: [spring, summer]
 ---
 
 # Mojito

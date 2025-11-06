@@ -5,6 +5,7 @@ tags: [cocktails, experimental-drinks]
 ingredients: [campari, amaro]
 index: hidden
 authors: [aaron]
+seasons: [summer]
 ---
 
 # Campari Cocktails

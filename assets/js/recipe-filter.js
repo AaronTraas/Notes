@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   const filter_category = document.getElementById('category-filter');
   const filter_author = document.getElementById('author-filter');
   const filter_favorite = document.getElementById('favorite-filter');
+  const filter_season = document.getElementById('season-filter');
   const favorite_checkboxes = document.querySelectorAll('#favorite-filter input.multi-select-option');
   const ingredient_checkboxes = document.querySelectorAll('#ingredient-filter input.multi-select-option');
   const recipes = document.querySelectorAll('.recipe-link');
@@ -20,6 +21,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
       classes.push('author-' + params.get('author'))
       if (firstTime) {
         filter_author.value = params.get('author')
+      }
+    }
+    if (params.has('season')) {
+      classes.push('season-' + params.get('season'))
+      if (firstTime) {
+        filter_season.value = params.get('season')
       }
     }
     if (params.has('favorite')) {
@@ -85,6 +92,14 @@ document.addEventListener('DOMContentLoaded', (event) => {
       }
     }
 
+    if (filter_season) {
+      if (filter_season.value == 'all') {
+        params.delete('season')
+      } else {
+        params.set('season', filter_season.value)
+      }
+    }
+
     const selected_favorites = []
     for (const cb of favorite_checkboxes) {
       if (cb.checked) {
@@ -114,6 +129,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
   if (filter_category) {
     filter_category.addEventListener('change', filter)
+  }
+  if (filter_season) {
+    filter_season.addEventListener('change', filter)
   }
   if (filter_author) {
     filter_author.addEventListener('change', filter)

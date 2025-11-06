@@ -80,6 +80,12 @@
     {%- assign authors = 'none' -%}
   {%- endif -%}
 
+  {%- if page.seasons and page.seasons.first -%}
+    {%- assign seasons = page.seasons | push: 'any' | sort -%}
+  {%- else -%}
+    {%- assign seasons = 'none' -%}
+  {%- endif -%}
+
   {%- if page.favorite and page.favorite.first -%}
     {%- assign favorite = page.favorite | push: 'any' | sort -%}
   {%- else -%}
@@ -103,7 +109,7 @@
   {%- else -%}
     {%- assign recipe_style = '' -%}
   {%- endif -%}
-  <li class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" {{ recipe_style }}>
+  <li class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} season-{{ seasons | join: ' season-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" {{ recipe_style }}>
     <a href="{{ page.url | relative_url }}">
     {%- if include.list_style == 'list' -%}
         {{page.title}}

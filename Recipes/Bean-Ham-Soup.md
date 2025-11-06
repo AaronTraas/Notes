@@ -4,6 +4,7 @@ category: entrees
 tags: [soup-stew-casserole, gluten-free]
 ingredients: [ham, mire-poix, beans]
 authors: [aaron]
+seasons: [fall, winter]
 ---
 
 # Bean Ham Bone Soup

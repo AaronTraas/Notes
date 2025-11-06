@@ -5,6 +5,7 @@ tags: [meat, instant-pot, soup-stew-casserole]
 ingredients: [beef, tortillas, salsa, chipotles]
 authors: [aaron]
 favorite: [maddie]
+seasons: [winter, fall]
 ---
 
 # Pressure Cooker Chili Con Carne

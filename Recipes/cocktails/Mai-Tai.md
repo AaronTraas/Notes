@@ -5,6 +5,7 @@ tags: [cocktails, tiki]
 ingredients: [rum, curaçao, lime, orgeat, demerara-syrup, simple-syrup]
 favorite: [linda]
 authors: [aaron]
+seasons: [spring, summer]
 ---
 
 # Mai Tai

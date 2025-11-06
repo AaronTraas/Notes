@@ -4,6 +4,7 @@ category: beverages
 tags: [cocktails]
 ingredients: [rum, butter, sugar, cinnamon]
 authors: [aaron]
+seasons: [fall, winter]
 ---
 
 # Hot buttered Rum

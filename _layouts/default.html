@@ -7,11 +7,13 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet"><link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link rel="stylesheet" href="{{ '/assets/css/footer.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/footer.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/hamburger.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link rel="stylesheet" href="{{ '/assets/css/ui.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    
+    <link rel="stylesheet" href="{{ '/assets/css/ui.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print-layout.css?v=' | append: site.github.build_revision | relative_url }}" media="print" type="text/css">
+
     <link rel="icon" href="https://traas.org/favicon.ico"/>
     <link rel="apple-touch-icon" href="https://traas.org/apple-touch-icon.png" />
 
@@ -42,12 +44,13 @@
         <section id="main-content">
           {% assign path_pieces = page.path | split: '/' | pop -%}
           {% assign whole_path = '/' -%}
-          <a href="{{ '/' | relative_url }}">Notes</a>
+          <div id="breadcrumb">
+            <a href="{{ '/' | relative_url }}">Notes</a>
           {%- for piece in path_pieces -%}
             {% assign whole_path = whole_path | append: piece | append: '/' %}
             / <a href="{{ whole_path  | relative_url }}">{{piece | capitalize }}</a>
           {% endfor -%}
-
+          </div>
 
           {% assign content_pieces = content | split: "</h1>" %}
           {% assign content_pieces_count = content_pieces | size %}

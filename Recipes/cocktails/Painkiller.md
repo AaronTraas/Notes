@@ -6,6 +6,7 @@ ingredients: [rum, pineapple, orange, cream-of-coconut, acid-adjuster]
 hero_image: captains_coco.jpg
 favorite: [aaron]
 authors: [aaron, austin]
+seasons: [spring, summer]
 ---
 
 # Painkiller

@@ -6,6 +6,7 @@ ingredients: [rum, pineapple, orange, grenadine, cream-of-coconut, banana-liqueu
 hero_image: coco_rey_banana.jpg
 favorite: [linda, aaron]
 authors: [aaron, austin]
+seasons: [summer, spring]
 ---
 
 # Coco-Rey Banana 

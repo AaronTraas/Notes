@@ -5,6 +5,7 @@ tags: [main-dish, soup-stew-casserole]
 ingredients: [sausage, chicken, pork-shoulder, beans, gluten-free]
 hero_image: cassoulet.jpg
 authors: [aaron]
+seasons: [fall, winter]
 ---
 
 # Cassoulet

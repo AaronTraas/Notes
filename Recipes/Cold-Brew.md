@@ -4,6 +4,7 @@ category: beverages
 tags: [coffee]
 ingredients: [coffee]
 authors: [aaron]
+seasons: [spring, summer]
 ---
 
 # Cold Brew Concentrate

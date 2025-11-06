@@ -6,6 +6,7 @@ ingredients: [beef, mushrooms, potatoes, carrots, chocolate, stock]
 hero_image: irish_beef_stew.jpg
 favorite: [linda, maddie]
 authors: [aaron]
+seasons: [winter, fall]
 ---
 
 # Instant Pot Irish Beef Stew

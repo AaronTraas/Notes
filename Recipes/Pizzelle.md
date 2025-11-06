@@ -5,6 +5,7 @@ tags: [italian, monacilioni, dessert, easter]
 ingredients: [flour, sugar, eggs]
 hero_image: pizzelle.jpg
 authors: [aaron]
+seasons: [easter]
 ---
 
 # Pizzelle
