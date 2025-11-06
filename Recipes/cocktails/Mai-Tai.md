@@ -16,6 +16,7 @@ Classic tiki drink. Simple, balanced, and delicious.
 # Black Sheep Mai Tai
 
 The best Mai Tai that Linda and I have tasted was made at  [Black Sheep Bar and Provisions](https://www.theblacksheepnj.com/) in Garwood, NJ. Really fantastic craft cocktails. Their formula differs from the traditional recipe; it forgoes the simple syrup, and the sweetness is provided by a larger amount of orgeat and curaçao. The mix of Planteray 3-Stars and Appleton 8 year rums is just right; enough of the Jamaican funk, and enough of the great balance from the light blend of the 3-Stars. 
+
 ## Ingredients:
 
 - 1 oz Appleton Estate 8 Year Old Reserve Rum ([See Note](#notes))
@@ -23,6 +24,7 @@ The best Mai Tai that Linda and I have tasted was made at  [Black Sheep Bar and 
 - ¾ oz Pierre Ferrand Dry Curacao ([See Note](#notes)) 
 - ¾ oz lime juice
 - ¾ oz orgeat syrup ([See Note](#notes))
+
 ## Directions:
 
 - Add all ingredients to cocktail shaker.
