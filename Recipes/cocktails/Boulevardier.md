@@ -1,11 +1,12 @@
 ---
 description: A variant on the Negroni, replacing the gin with bourbon/rye.
 category: beverages
-tags: [cocktails]
+tags: [cocktails, amaro]
 ingredients: [campari, amaro, vermouth, bourbon, rye]
 hero_image: negroni.jpg
 authors: [aaron]
 seasons: [summer]
+related_tag: amaro
 ---
 
 # Boulevardier

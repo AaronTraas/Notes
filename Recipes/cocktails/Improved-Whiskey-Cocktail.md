@@ -1,10 +1,11 @@
 ---
 description: More modern version of the Old Fashioned.
 category: beverages
-tags: [cocktails, experimental-drinks]
+tags: [cocktails, experimental-drinks, old-fashioned]
 ingredients: [rye-whiskey, maraschino-liqueur, simple-syrup, absinthe, lemon, bitters]
 index: hidden
 authors: [aaron]
+related_tag: [old-fashioned]
 ---
 
 # Improved Whiskey Cocktail

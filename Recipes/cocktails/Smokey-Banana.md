@@ -1,9 +1,10 @@
 ---
 description: Complex, balanced, herbaceous mezcal cocktail with banana.
 category: beverages
-tags: [cocktails]
+tags: [cocktails, modern-craft-cocktail]
 ingredients: [lime, maraschino-liqueur, chartreuse, mezcal, banana-liqueur]
 authors: [austin]
+related_tag: modern-craft-cocktail
 ---
 
 # Smokey Banana

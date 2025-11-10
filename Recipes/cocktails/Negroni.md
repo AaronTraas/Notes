@@ -1,12 +1,13 @@
 ---
 description: Classic bitter, sweet, vibrant Italian cocktail.
 category: beverages
-tags: [cocktails]
+tags: [cocktails, amaro]
 ingredients: [campari, amaro, vermouth, gin]
 hero_image: negroni.jpg
 favorite: [aaron]
 authors: [aaron]
 seasons: [summer]
+related_tag: amaro
 ---
 
 # Negroni

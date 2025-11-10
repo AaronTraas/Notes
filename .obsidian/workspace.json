@@ -4,105 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "90b35c620d9a4274",
+        "id": "c516a98abac7fd31",
         "type": "tabs",
         "children": [
           {
-            "id": "fe10c08062705f30",
+            "id": "6e75613cd4bdbbb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sourdough/Cinnamon-Rolls.md",
+                "file": "Recipes/cocktails/Smokey-Banana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cinnamon-Rolls"
+              "title": "Smokey-Banana"
             }
           },
           {
-            "id": "6927bba93a2b6769",
+            "id": "b4fb3aa4db48fc56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Recipes/cocktails/White-Elephant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "White-Elephant"
             }
           },
           {
-            "id": "e05031b4aa556179",
+            "id": "463d32468cc71734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/cocktails/Apple Old Fashioned.md",
+                "file": "Recipes/cocktails/Last-Word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apple Old Fashioned"
+              "title": "Last-Word"
             }
           },
           {
-            "id": "c0ff7ccc0d06e564",
+            "id": "0cbc85864bdc9cf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/cocktails/Banana-Old-Fashioned.md",
+                "file": "Recipes/cocktails/Earl-Grey-Martini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Banana-Old-Fashioned"
-            }
-          },
-          {
-            "id": "2efbd3839cfe3329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/cocktails/Apple-Sangria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apple-Sangria"
-            }
-          },
-          {
-            "id": "1b9d05b704c13780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/cocktails/Mamajuana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mamajuana"
-            }
-          },
-          {
-            "id": "1083937b27f30edd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/cocktails/Hot-Buttered-Rum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hot-Buttered-Rum"
+              "title": "Earl-Grey-Martini"
             }
           }
         ],
@@ -268,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -283,39 +241,41 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c0ff7ccc0d06e564",
+  "active": "0cbc85864bdc9cf4",
   "lastOpenFiles": [
-    "_site/images/banana_old_fashioned.jpg",
-    "Recipes/cocktails/Apple-Sangria.md",
-    "Recipes/cocktails/Banana-Old-Fashioned.md",
-    "Recipes/cocktails/Apple Old Fashioned.md",
-    "images/banana_old_fashioned.jpg",
+    "Recipes/cocktails/Last-Word.md",
+    "Recipes/cocktails/Smokey-Banana.md",
+    "Recipes/cocktails/White-Elephant.md",
+    "Recipes/cocktails/Hot-Buttered-Rum.md",
     "Recipes/cocktails/Mamajuana.md",
+    "Recipes/cocktails/Apple-Sangria.md",
+    "Recipes/cocktails/Maple-Old-Fashioned.md",
+    "Recipes/cocktails/Improved-Whiskey-Cocktail.md",
+    "Recipes/cocktails/Old-Fashioned.md",
+    "Recipes/cocktails/Banana-Old-Fashioned.md",
+    "Recipes/Sourdough/Cinnamon-Rolls.md",
+    "README.md",
+    "Recipes/cocktails/Apple Old Fashioned.md",
+    "Recipes/cocktails/Boulevardier.md",
+    "Recipes/cocktails/Campari-Cocktails.md",
+    "Recipes/cocktails/Negroni.md",
+    "Recipes/cocktails/Coco-Rey-Banana.md",
+    "Recipes/cocktails/Mai-Tai.md",
+    "Recipes/cocktails/Painkiller.md",
+    "_layouts/default.html",
+    "_site/images/banana_old_fashioned.jpg",
+    "images/banana_old_fashioned.jpg",
     "_site/Recipes/cocktails/Apple Old Fashioned.html",
     "Cooking-Projects.md",
-    "README.md",
     "_site/Cooking-Projects.html",
-    "Recipes/Sourdough/Cinnamon-Rolls.md",
-    "Recipes/cocktails/Hot-Buttered-Rum.md",
     "Recipes/cocktails/Earl-Grey-Martini.md",
     "Recipes/cocktails/Cocktail-Ingredients.md",
-    "Recipes/cocktails/Boulevardier.md",
     "Recipes/cocktails/Hot-Toddy.md",
-    "Recipes/cocktails/Mai-Tai.md",
-    "Recipes/cocktails/White-Elephant.md",
     "_site/assets/css/print-layout.css",
     "assets/css/print-layout.css",
     "Recipes/Casciatelli.md",
     "Recipes/Chili.md",
     "Recipes/Cold-Brew.md",
-    "Recipes/Cranberry-Bread.md",
-    "Recipes/Irish-Beef-Stew.md",
-    "Recipes/Pizzelle.md",
-    "Recipes/Struffoli.md",
-    "Recipes/cocktails/Negroni.md",
-    "Recipes/cocktails/Painkiller.md",
-    "Recipes/cocktails/Sangria.md",
-    "Recipes/cocktails/Smokey-Banana.md",
     "_includes/filters.html",
     "assets/css/print.css",
     "_site/assets/css/footer.css",
@@ -329,8 +289,6 @@
     "_site/images/sangria.jpg",
     "_site/images/sandwich_loaf.jpg",
     "_site/images/rye_sandwich_loaf.jpg",
-    "_site/images/pizzelle.jpg",
-    "_site/images",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]

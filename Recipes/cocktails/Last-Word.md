@@ -1,10 +1,11 @@
 ---
 description: Complex, herbaceous cocktail cocktail that's cool, refreshing, and sophisticated.
 category: beverages
-tags: [cocktails]
+tags: [cocktails, modern-craft-cocktail]
 ingredients: [lime, gin, maraschino-liqueur, chartreuse]
 favorite: [aaron]
 authors: [aaron]
+related_tag: modern-craft-cocktail
 ---
 
 # The Last Word

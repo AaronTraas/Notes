@@ -7,6 +7,7 @@ hero_image: captains_coco.jpg
 favorite: [aaron]
 authors: [aaron, austin]
 seasons: [spring, summer]
+related_tag: tiki
 ---
 
 # Painkiller

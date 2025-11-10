@@ -10,6 +10,7 @@
 <ul class="{{list_class}}">
 {% assign sortedPages = site.pages | sort: 'title' -%}
 {%- for page in sortedPages | sort: 'title' -%}
+
   {%- assign segments = page.dir | remove_first: '/' | split: '/' -%}
   {%- assign section = segments | first -%}
 

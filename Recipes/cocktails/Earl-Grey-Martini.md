@@ -1,10 +1,11 @@
 ---
 description: Tea-infused gin sour cocktail
 category: beverages
-tags: [cocktails, experimental-drinks]
+tags: [cocktails, experimental-drinks, modern-craft-cocktail]
 ingredients: [gin, tea, eggs, sugar, lemon]
 index: hidden
 authors: [aaron]
+related_tag: modern-craft-cocktail
 ---
 
 # Earl Grey Martini

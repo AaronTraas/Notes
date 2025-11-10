@@ -76,6 +76,15 @@
           {% endif -%}
 
           {{ content_snipped }}
+
+          {% if page.related_tag -%}
+          <hr>
+          <h2>Related</h2>
+
+            {% include recipe_links.html
+              show_hidden      = 'True'
+              filter_tag    = page.related_tag -%}
+          {% endif -%}
         </section>
 
         <a href="#" id="hamburger"></a>

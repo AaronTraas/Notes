@@ -1,19 +1,12 @@
 ---
 description: A balanced, autumnal and fruity old fashioned
 category: beverages
-tags:
-  - cocktails
-  - experimental-drinks
-ingredients:
-  - simple-syrup
-  - bourbon
-  - bitters
-  - cinnamon
-authors:
-  - aaron
-seasons:
-  - fall
+tags: [cocktails, experimental-drinks, old-fashioned]
+ingredients: [simple-syrup, bourbon, bitters, cinnamon]
+authors: [aaron]
+seasons: [fall]
 index: hidden
+related_tag: old-fashioned
 ---
 # Apple Old Fashioned
 

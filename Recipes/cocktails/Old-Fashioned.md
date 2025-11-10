@@ -1,9 +1,10 @@
 ---
 description: Classic whiskey cocktail.
 category: beverages
-tags: [cocktails]
+tags: [cocktails, old-fashioned]
 ingredients: [rye-whiskey, simple-syrup, bitters]
 authors: [aaron]
+related_tag: old-fashioned
 ---
 
 # Old Fashioned

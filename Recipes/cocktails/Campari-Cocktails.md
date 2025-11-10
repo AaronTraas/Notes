@@ -6,6 +6,7 @@ ingredients: [campari, amaro]
 index: hidden
 authors: [aaron]
 seasons: [summer]
+related_tag: amaro
 ---
 
 # Campari Cocktails
