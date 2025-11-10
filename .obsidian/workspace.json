@@ -22,6 +22,76 @@
             }
           },
           {
+            "id": "6927bba93a2b6769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "e05031b4aa556179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Apple Old Fashioned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apple Old Fashioned"
+            }
+          },
+          {
+            "id": "c0ff7ccc0d06e564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Banana-Old-Fashioned.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Banana-Old-Fashioned"
+            }
+          },
+          {
+            "id": "2efbd3839cfe3329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Apple-Sangria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apple-Sangria"
+            }
+          },
+          {
+            "id": "1b9d05b704c13780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/cocktails/Mamajuana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mamajuana"
+            }
+          },
+          {
             "id": "1083937b27f30edd",
             "type": "leaf",
             "state": {
@@ -35,7 +105,8 @@
               "title": "Hot-Buttered-Rum"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,20 +283,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fe10c08062705f30",
+  "active": "c0ff7ccc0d06e564",
   "lastOpenFiles": [
-    "Recipes/cocktails/Hot-Buttered-Rum.md",
+    "_site/images/banana_old_fashioned.jpg",
+    "Recipes/cocktails/Apple-Sangria.md",
+    "Recipes/cocktails/Banana-Old-Fashioned.md",
+    "Recipes/cocktails/Apple Old Fashioned.md",
+    "images/banana_old_fashioned.jpg",
+    "Recipes/cocktails/Mamajuana.md",
+    "_site/Recipes/cocktails/Apple Old Fashioned.html",
+    "Cooking-Projects.md",
+    "README.md",
+    "_site/Cooking-Projects.html",
     "Recipes/Sourdough/Cinnamon-Rolls.md",
+    "Recipes/cocktails/Hot-Buttered-Rum.md",
     "Recipes/cocktails/Earl-Grey-Martini.md",
     "Recipes/cocktails/Cocktail-Ingredients.md",
     "Recipes/cocktails/Boulevardier.md",
     "Recipes/cocktails/Hot-Toddy.md",
     "Recipes/cocktails/Mai-Tai.md",
     "Recipes/cocktails/White-Elephant.md",
-    "README.md",
     "_site/assets/css/print-layout.css",
     "assets/css/print-layout.css",
-    "Recipes/cocktails/Apple-Sangria.md",
     "Recipes/Casciatelli.md",
     "Recipes/Chili.md",
     "Recipes/Cold-Brew.md",
@@ -237,12 +316,7 @@
     "Recipes/cocktails/Painkiller.md",
     "Recipes/cocktails/Sangria.md",
     "Recipes/cocktails/Smokey-Banana.md",
-    "Recipes/Apple-Pancake.md",
-    "Recipes/Bean-Ham-Soup.md",
-    "Recipes/Cassoulet.md",
     "_includes/filters.html",
-    "Recipes/cocktails/Mojito.md",
-    "Recipes/cocktails/Maple-Old-Fashioned.md",
     "assets/css/print.css",
     "_site/assets/css/footer.css",
     "assets/css/footer.css",
@@ -256,10 +330,7 @@
     "_site/images/sandwich_loaf.jpg",
     "_site/images/rye_sandwich_loaf.jpg",
     "_site/images/pizzelle.jpg",
-    "_site/images/pizza.jpg",
     "_site/images",
-    "_site/feed.xml",
-    "_site/index.html",
     "Untitled.canvas",
     "_site/Untitled.canvas"
   ]
