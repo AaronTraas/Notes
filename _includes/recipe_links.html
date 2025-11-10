@@ -7,14 +7,14 @@
   {%- assign list_class = 'recipe-cards' -%}
 {%- endif -%}
 
-<ul class="{{list_class}}">
 {% assign sortedPages = site.pages | sort: 'title' -%}
-{%- for sitePage in sortedPages | sort: 'title' -%}
+
+<ul class="{{list_class}}">
+{% for sitePage in sortedPages | sort: 'title' -%}
 
   {%- assign segments = sitePage.dir | remove_first: '/' | split: '/' -%}
   {%- assign section = segments | first -%}
 
-  {%comment%} Make sure we don't include this current page in the list of pages being displayed. {%endcomment%}
   {%- if page.path == sitePage.path %}
     {%- continue -%}
   {%- endif -%}
@@ -115,7 +115,9 @@
   {%- else -%}
     {%- assign recipe_style = '' -%}
   {%- endif -%}
+
   <li class="recipe-link category-{{ category }} tag-{{ tags | join: ' tag-' }} author-{{ authors | join: ' author-' }} season-{{ seasons | join: ' season-' }} favorite-{{ favorite | join: ' favorite-' }} ingredient-{{ ingredients | join: ' ingredient-' }}" {{ recipe_style }}>
+
     <a href="{{ sitePage.url | relative_url }}">
     {%- if include.list_style == 'list' -%}
         {{sitePage.title}}

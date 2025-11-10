@@ -200,8 +200,11 @@
   },
   "active": "8bb396470f45d2d7",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "_site/Recipes/cocktails/Apple Old Fashioned.html",
     "Recipes/cocktails/Apple Old Fashioned.md",
+=======
+>>>>>>> Stashed changes
     "Recipes/index.md",
     "Recipes/Meatballs.md",
     "_site/Recipes/Meatballs.html",
@@ -233,6 +236,10 @@
     "_site/images/banana_old_fashioned.jpg",
     "images/banana_old_fashioned.jpg",
     "_site/Cooking-Projects.html",
+<<<<<<< Updated upstream
+=======
+    "Recipes/cocktails/Cocktail-Ingredients.md",
+>>>>>>> Stashed changes
     "_site/assets/css/print-layout.css",
     "assets/css/print-layout.css",
     "_includes/filters.html",

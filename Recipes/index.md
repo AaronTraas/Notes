@@ -10,8 +10,10 @@ Most of the recipes listed here are either found on the web and slightly tweaked
 
 My maternal family's southern Italian food (from [Monacilioni, Molise, Italy](https://en.wikipedia.org/wiki/Monacilioni)). This is an attempt to preserve these recipes for my children, and subsequent generations.
 
-{% include recipe_links.html filter_tag='monacilioni' -%}
+{% include recipe_links.html 
+  filter_tag='monacilioni' -%}
 
+  
 ## Recipes for Instant Pot
 
 The following recipes are good use of an Instant Pot or similar multi-function electric pressure cooker. Great for a weeknight if you plan correctly.

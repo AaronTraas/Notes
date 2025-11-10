@@ -1,10 +1,11 @@
 ---
 description: Attempt at creating a Dominican
 category: beverages
-tags: [cocktails, tiki, experimental-drinks]
+tags: [cocktails, tiki, experimental-drinks, wine-cocktails]
 ingredients: [rum, wine, honey]
 index: hidden
 authors: [aaron, austin]
+related_tag: wine-coctails
 ---
 
 # Mamajuana
