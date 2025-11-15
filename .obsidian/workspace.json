@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "4341c33598bfa15b",
+    "id": "6af0872efa46fa4b",
     "type": "split",
     "children": [
       {
-        "id": "c6efb0b2a0918685",
+        "id": "3e2337c9795a2317",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb396470f45d2d7",
+            "id": "ae6b46b2695260b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Meatballs.md",
+                "file": "Recipes/Baked-Salmon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meatballs"
+              "title": "Baked-Salmon"
+            }
+          },
+          {
+            "id": "4424b3492613b086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Untested/Char-Sui-Pork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Char-Sui-Pork"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5726ee8993df166e",
+    "id": "375772a075ec928b",
     "type": "split",
     "children": [
       {
-        "id": "07faabcdd56d02e6",
+        "id": "c60ce6d94a7fb283",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ee0cdb38d96bdd",
+            "id": "c04c96a07ada17d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +63,12 @@
             }
           },
           {
-            "id": "176cc41245d9e906",
+            "id": "08038e73a01153ca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "hot buttered",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "39104122917e8b7c",
+            "id": "dd9a21d3ff5b9d30",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +90,7 @@
             }
           },
           {
-            "id": "8ec7c2bfae49e223",
+            "id": "513f23dfa01774c5",
             "type": "leaf",
             "state": {
               "type": "tag-navigation-view",
@@ -91,15 +106,15 @@
     "width": 300
   },
   "right": {
-    "id": "52b3250aba343d39",
+    "id": "136fe7a61f633ae2",
     "type": "split",
     "children": [
       {
-        "id": "2f65f3d7d721df4f",
+        "id": "4b7b18bb10082835",
         "type": "tabs",
         "children": [
           {
-            "id": "c7876a11df99a88c",
+            "id": "6d9c728ed23dc709",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -117,7 +132,7 @@
             }
           },
           {
-            "id": "64e2e0a449805db0",
+            "id": "70db0bff0286982f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +145,7 @@
             }
           },
           {
-            "id": "ad83ec82b5a8160b",
+            "id": "2f8f765df452cd6f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,21 +160,7 @@
             }
           },
           {
-            "id": "f19afdfedcba8a9c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "96a76e08d299595c",
+            "id": "e92d9a4b0336df35",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,7 +174,21 @@
             }
           },
           {
-            "id": "fa4e0707839e4a56",
+            "id": "7d58836e4d1cd4a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e0138446de1cefaf",
             "type": "leaf",
             "state": {
               "type": "related-notes-view",
@@ -183,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,61 +213,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8bb396470f45d2d7",
+  "active": "c04c96a07ada17d1",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "_site/Recipes/cocktails/Apple Old Fashioned.html",
-    "Recipes/cocktails/Apple Old Fashioned.md",
-=======
->>>>>>> Stashed changes
-    "Recipes/index.md",
-    "Recipes/Meatballs.md",
-    "_site/Recipes/Meatballs.html",
-    "_site/Recipes/Pasta-Fagioli 1.html",
-    "Recipes/Pasta-Fagioli.md",
-    "Recipes/cocktails/Mamajuana.md",
-    "Recipes/cocktails/Sangria.md",
-    "Recipes/cocktails/Apple-Sangria.md",
-    "Recipes/cocktails/Apple-Old-Fashioned.md",
-    "_site/Recipes/cocktails/Apple-Old-Fashioned.html",
-    "Recipes/cocktails/Earl-Grey-Martini.md",
-    "Recipes/cocktails/Last-Word.md",
-    "Recipes/cocktails/Smokey-Banana.md",
-    "Recipes/cocktails/White-Elephant.md",
-    "Recipes/cocktails/Hot-Buttered-Rum.md",
-    "Recipes/cocktails/Maple-Old-Fashioned.md",
-    "Recipes/cocktails/Improved-Whiskey-Cocktail.md",
-    "Recipes/cocktails/Old-Fashioned.md",
-    "Recipes/cocktails/Banana-Old-Fashioned.md",
-    "Recipes/Sourdough/Cinnamon-Rolls.md",
-    "README.md",
-    "Recipes/cocktails/Boulevardier.md",
-    "Recipes/cocktails/Campari-Cocktails.md",
-    "Recipes/cocktails/Negroni.md",
-    "Recipes/cocktails/Coco-Rey-Banana.md",
-    "Recipes/cocktails/Mai-Tai.md",
-    "Recipes/cocktails/Painkiller.md",
-    "_layouts/default.html",
-    "_site/images/banana_old_fashioned.jpg",
-    "images/banana_old_fashioned.jpg",
-    "_site/Cooking-Projects.html",
-<<<<<<< Updated upstream
-=======
-    "Recipes/cocktails/Cocktail-Ingredients.md",
->>>>>>> Stashed changes
-    "_site/assets/css/print-layout.css",
-    "assets/css/print-layout.css",
-    "_includes/filters.html",
-    "assets/css/print.css",
-    "_site/images/white_elephant.jpg",
-    "_site/images/tiramisu_waffle.jpg",
-    "_site/images/struffoli.jpg",
-    "_site/images/sourdough.jpg",
-    "_site/images/sauce.jpg",
-    "_site/images/sangria.jpg",
-    "_site/images/sandwich_loaf.jpg",
-    "_site/images/rye_sandwich_loaf.jpg",
-    "Untitled.canvas",
-    "_site/Untitled.canvas"
+    "Recipes/Chashu-Pork-Belly.md",
+    "Recipes/Untested/Char-Sui-Pork.md",
+    "Recipes/Baked-Salmon.md"
   ]
 }
