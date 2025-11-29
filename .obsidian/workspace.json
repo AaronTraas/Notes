@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/French-Chocolate-Silk.md",
+                "file": "Recipes/French-Silk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "French-Chocolate-Silk"
+              "title": "French-Silk"
             }
           }
         ],
@@ -230,7 +230,7 @@
   "active": "47c08a61d5236681",
   "lastOpenFiles": [
     "Recipes/Cheese-Blintzes.md",
-    "Recipes/French-Chocolate-Silk.md",
+    "Recipes/French-Silk.md",
     "Recipes/Apple-Pancake.md",
     "Recipes/Baked-Salmon.md",
     "Recipes/Untested/Char-Sui-Pork.md",
