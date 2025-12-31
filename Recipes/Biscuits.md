@@ -1,7 +1,7 @@
 ---
 description: Buttermilk buscuits that would go perfect with sausage gravy.
 category: baked-goods
-tags: [breakfast]
+tags: [breakfast, gravy]
 ingredients: [flour, shortening, buttermilk, sugar]
 authors: [miriam]
 ---
@@ -34,3 +34,9 @@ Developing. Based on [Tyler Florence's recipe](https://www.foodnetwork.com/recip
 10. Make a dimple in the center of each biscuit. 
 11. Brush with melted butter. 
 12. Bake for 15 minutes until golden brown.
+
+* * *
+## Related
+
+{% include recipe_links.html 
+    filter_tag = 'biscuits' -%}

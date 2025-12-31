@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae6b46b2695260b2",
+            "id": "47c08a61d5236681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Baked-Salmon.md",
+                "file": "Recipes/Sausage-Gravy.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Baked-Salmon"
+              "title": "Sausage-Gravy"
             }
           },
           {
-            "id": "47c08a61d5236681",
+            "id": "193291fb2e3dc436",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "Biscuits"
             }
-          },
-          {
-            "id": "38eb1fa941330b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Apple-Pancake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apple-Pancake"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,8 +214,15 @@
   },
   "active": "47c08a61d5236681",
   "lastOpenFiles": [
-    "Recipes/Apple-Pancake.md",
     "Recipes/Biscuits.md",
+    "Recipes/Sausage-Gravy.md",
+    "Recipes/cocktails/Cocktail-Ingredients.md",
+    "_site/Recipes/Sausage-Gravy.html",
+    "_site/Recipes/French-Silk.html",
+    "_site/Recipes/Cheese-Blintzes.html",
+    "_site/Recipes/Untested/Char-Sui-Pork.html",
+    "_site/Recipes/Biscuits.html",
+    "Recipes/Apple-Pancake.md",
     "Recipes/Baked-Salmon.md",
     "Recipes/Struffoli.md",
     "Recipes/cocktails/Hot-Buttered-Rum.md",
