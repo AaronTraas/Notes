@@ -8,16 +8,17 @@ authors: [aaron]
 
 # Buttermilk Pancakes
 
+The quantity is for 3-4 people. Double it if more, or if teenagers are hangry.
 ## Ingredients:
 
-  * 2 cups all-purpose flour  
-  * 2 teaspoons baking powder  
-  * 1 teaspoon baking soda  
+  * 1 cups all-purpose flour  
+  * 1 teaspoons baking powder  
+  * ½ teaspoon baking soda  
   * ½ teaspoon salt  
-  * 3 tablespoons sugar  
-  * 2 large eggs 
-  * 3 cups buttermilk  
-  * 4 tablespoons unsalted butter, melted, plus ½ teaspoon for griddle  
+  * 1½ tablespoons sugar  
+  * 1 large eggs 
+  * 1½ cups buttermilk  
+  * 2 tablespoons unsalted butter, melted, plus ½ teaspoon for griddle  
 
 ## Directions:
 
