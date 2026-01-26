@@ -5,26 +5,25 @@ tags: [breakfast, friday-friendly]
 ingredients: [eggs, flour, buttermilk]
 authors: [aaron]
 ---
-
 # Buttermilk Pancakes
 
 The quantity is for 3-4 people. Double it if more, or if teenagers are hangry.
 ## Ingredients:
 
-  * 1 cups all-purpose flour  
-  * 1 teaspoons baking powder  
+  * 1 cup all-purpose flour  
+  * 1 teaspoon baking powder  
   * ½ teaspoon baking soda  
   * ½ teaspoon salt  
   * 1½ tablespoons sugar  
-  * 1 large eggs 
+  * 1 large egg 
   * 1½ cups buttermilk  
-  * 2 tablespoons unsalted butter, melted, plus ½ teaspoon for griddle  
+  * 2 tablespoons unsalted butter, melted  
 
 ## Directions:
 
   1. Heat oven to 175°F. 
   2. Whisk together dry ingredients (flour, baking powder, baking soda, and salt) in a medium bowl. 
-  3. Whisk together wet ingredients (eggs, buttermilk, sugar, and 4 tablespoons butter) in a seperate bowl (or better, a large measuring cup with a spout). 
+  3. Whisk together wet ingredients (eggs, buttermilk, sugar, and 4 tablespoons butter) in a separate bowl (or better, a large measuring cup with a spout). 
   4. Add the wet ingredients to the dry ingredients, whisk together until just combined. Batter should have small to medium lumps.  
   5. Test griddle by sprinkling a few drops of water on it. If water bounces and spatters off griddle, it is hot enough. Using a pastry brush, brush remaining ½ teaspoon of butter onto griddle. Wipe off excess.
   6. Pour half-cup doses of batter on to the pan, in pools 2 inches away from one other. When pancakes have bubbles on top and are slightly dry around edges,  flip over. Cook until golden on bottom.  
