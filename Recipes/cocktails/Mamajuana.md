@@ -59,9 +59,25 @@ Collaboration with [Austin](https://github.com/austinvn)'.
 batches with 1.5 oz honey, 8 oz rum:
 
 1. 100% Bacardi white
-2. 1/2 Morgan / 1/2 El Dorado 12
+2. 1/2 Morgan / 1/2 Planteray Dark
 3. 100% Kraken
-4. 1/3 Kraken / 2/3 Cut & Dry
-5. 1/2 Morgan / 1/2 Planteray Dark
-6. 1/4 Morgan / 1/4 Kraken / 1/2 Planteray Dark
-7  1/2 Morgan / 1/4 Smith & Cross / 1/4 Mount Gay
+4. 1/4 Morgan / 1/4 Kraken / 1/2 Planteray Dark
+5. 1/2 Morgan / 1/2 El Dorado 12
+6. 1/3 Kraken / 2/3 Cut & Dry
+7. 1/2 Morgan / 1/4 Smith & Cross / 1/4 Mount Gay
+8. Christmas mix (above)
+9. Austin's batch (previous)
+
+## 2026-01-30: tasting
+
+From best to worst:
+
+- Aaron: 8, 9, 4, 7, 6, 3, 2, 1, 5
+- Austin: 9, 4, 7, 3, 8, 6, 2, 1, 5
+- Lex: 7, 9, 8, 4, 2, 6, 1, 3, 5
+- Buster: 9, 4, 6, 7, 8, 2, 3, 1, 5
+- Linda: 8, 7 , 9, 6, 4, 3, 2, 5, 1* 
+
+[*]:Linda states that her actual ranking is 8675309... She's had a few.
+
+
