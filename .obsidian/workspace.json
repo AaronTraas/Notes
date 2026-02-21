@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Biscuits"
             }
+          },
+          {
+            "id": "bf92dc71ab49ab2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Goan-Vindaloo.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Goan-Vindaloo"
+            }
+          },
+          {
+            "id": "633a030807d2646f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Chicken-Tikka-Masala.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chicken-Tikka-Masala"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,8 +255,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c04c96a07ada17d1",
+  "active": "bf92dc71ab49ab2f",
   "lastOpenFiles": [
+    "Recipes/Chicken-Tikka-Masala.md",
+    "Recipes/Goan-Vindaloo.md",
+    "Recipes/cocktails/Mamajuana.md",
     "Recipes/Baked-Italian-Pasta.md",
     "_site/images/lasagna.jpg",
     "images/lasagna.jpg",
