@@ -22,7 +22,7 @@ _spice paste:_
 - 3 tablespoons Kashmiri chili powder 
 - 1 tablespoon paprika
 - 1 tablespoon ground cumin
-- 2 teaspoons table salt
+- 1 tablespoon kosher salt
 - 1 teaspoon black pepper
 - ¼ teaspoon cayenne pepper (optional, for heat)
 - ½ teaspoon ground cinnamon
@@ -34,10 +34,11 @@ _spice paste:_
 
 1. Blend all of the spice paste ingredients until smooth.
 2. Combine the spice paste with the and marinate for at least 1 hour (better,  overnight).
-3. Heat oil in a Dutch oven over medium heat. Saute chopped onion until soft and golden brown.
-4. Add the pork mixture, spread it evenly, and cook for 40 minutes covered over medium heat. 
-5. Add vinegar, stir to combine, cover, and cook for 20 minutes. 
-6. Uncover and continue cooking until pork is fork-tender (20–30 minutes).
-7. Rest uncovered for 10 minutes. Serve. 
+3. Preheat oven to 325°F.
+4. Heat oil in a Dutch oven over medium heat. Saute chopped onion 5-10 minutes until soft and golden brown.
+5. Add the pork mixture to dutch oven, spread it evenly, and cook a few minutes until the pork starts to release some liquid.
+6. Cover dutch oven, cook in 325°F oven for 40 minutes. 
+7. Add vinegar, stir to combine, cover, and cook in 325°F oven for 20-30 minutes, until fork tender. 
+8. Rest uncovered for 10 minutes. Serve. 
 
 From <https://m.youtube.com/watch?v=zWlGO73xV8Q>
