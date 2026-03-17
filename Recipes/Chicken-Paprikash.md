@@ -19,8 +19,8 @@ Still working on this. Was very good. Could have used a little more cayenne. The
 - 5 cloves garlic, crushed
 - 4 tablespoons Hungarian sweet paprika ([I used this](https://www.amazon.com/dp/B004YXNJT8))
 - 2 teaspoons smoked paprika
-- 1/2 teaspoon cayenne pepper
-- 1/2 cup dry white wine
+- ½ teaspoon cayenne pepper
+- ½ cup dry white wine
 - 2 cups low-sodium chicken stock (home-made would be best)
 - 2 tablespoons all-purpose flour
 - 1 cup sour cream
