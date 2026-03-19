@@ -6,7 +6,7 @@ ingredients: [bitters, bourbon, walnut-bitters, maple-syrup, vanilla]
 index: hidden
 authors: [aaron]
 seasons: [fall]
-related_tag: [old-fashioned]
+related_tag: old-fashioned
 ---
 
 # Maple Old Fashioned
@@ -29,7 +29,3 @@ related_tag: [old-fashioned]
 
 1. Add whiskey, syrup, bitters, vanilla, and ice to mixing glass and stir
 2. Garnish with cinnamon stick
-
-## Notes:
-
-- Recipe from: <https://www.cocktailcontessa.com/banana-old-fashioned/>
