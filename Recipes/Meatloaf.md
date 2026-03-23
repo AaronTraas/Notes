@@ -1,21 +1,16 @@
 ---
 description: Work in progress; fairly standard free-form meatloaf.
 category: entrees
-tags:
-  - meat
-ingredients:
-  - ground-beef
-  - eggs
-  - worcestershire-sauce
-  - onions
-authors:
-  - aaron
+tags: [meat]
+ingredients: [ground-beef, eggs, worcestershire-sauce, onions]
+authors: [aaron]
 ---
 
 # Meatloaf
 
 Work in progress. Trying to replace the salt with beef stock concentrate, which has a fair bit of salt, but also a lot of other things as well.
 ## Ingredients
+
 - 2 lb 80% lean ground beef
 - 1 cup crushed stale bread or breadcrumbs
 - 2 large eggs, beaten

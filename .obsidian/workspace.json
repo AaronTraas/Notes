@@ -35,7 +35,8 @@
               "title": "Linda-Burgers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2342b6b2b399d504",
+  "active": "226e7f7deb772014",
   "lastOpenFiles": [
-    "Recipes/Linda-Burgers.md",
     "Recipes/Meatloaf.md",
+    "Recipes/Linda-Burgers.md",
     "Recipes/Southwest-Black-Beans.md",
     "Recipes/Baked-Italian-Pasta.md",
     "Recipes/cocktails/Mamajuana.md",

@@ -12,8 +12,9 @@ authors: [linda]
 Linda's preferred hamburger recipe.
 
 ## Ingredients
+
 - 2 lb 80% lean ground beef
-- ½ cup panko breadcrumbs or crushed saltine crackers
+- ½ cup seasoned panko breadcrumbs or crushed saltine crackers
 - 1 large egg, beaten
 - 1 medium onion, minced
 - 2 tbsp Worcestershire sauce
@@ -24,15 +25,14 @@ Linda's preferred hamburger recipe.
 
 ## Directions
 
-1. Saute onions until soft and tender.
-2. Add all ingredients to a large mixing bowl. Mix by hand until mixture is smooth. 
-3. Divide into 6 thick patties or 12 thin patties.
-4. Shape patties by hand, slightly larger than the buns you plan to use. Use a spoon or thumb to press a dent in the center of each patty. 
-5. Preheat the grill or a skillet to medium heat. (Approximately 350-400°F.)
-6. Cook patties:
+1. Add all ingredients to a large mixing bowl. Mix by hand until mixture is smooth. 
+2. Divide into 6 thick patties or 12 thin patties.
+3. Shape patties by hand, slightly larger than the buns you plan to use. Use a spoon or thumb to press a dent in the center of each patty. 
+4. Preheat the grill or a skillet to medium heat. (Approximately 350-400°F.)
+5. Cook patties:
     - For thick patties: Grill or fry the patties for 3-4 minutes per side.
     - For thin patties: Cook on the griddle for 2 minutes per side.
-7. Serve.
+6. Serve.
 
 * * * 
 
