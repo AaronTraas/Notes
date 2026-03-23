@@ -4,67 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "3e2337c9795a2317",
+        "id": "0ad42a0cd805d84d",
         "type": "tabs",
         "children": [
           {
-            "id": "0bbcd890692740eb",
+            "id": "2342b6b2b399d504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Baked-Italian-Pasta.md",
+                "file": "Recipes/Meatloaf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baked-Italian-Pasta"
+              "title": "Meatloaf"
             }
           },
           {
-            "id": "245c5066e35ebc78",
+            "id": "226e7f7deb772014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/cocktails/Mamajuana.md",
+                "file": "Recipes/Linda-Burgers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mamajuana"
-            }
-          },
-          {
-            "id": "193291fb2e3dc436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Biscuits.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Biscuits"
-            }
-          },
-          {
-            "id": "bf92dc71ab49ab2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Goan-Vindaloo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Goan-Vindaloo"
+              "title": "Linda-Burgers"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,19 +212,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bf92dc71ab49ab2f",
+  "active": "2342b6b2b399d504",
   "lastOpenFiles": [
+    "Recipes/Linda-Burgers.md",
+    "Recipes/Meatloaf.md",
+    "Recipes/Southwest-Black-Beans.md",
+    "Recipes/Baked-Italian-Pasta.md",
+    "Recipes/cocktails/Mamajuana.md",
+    "Recipes/Biscuits.md",
+    "Recipes/Goan-Vindaloo.md",
     "Recipes/Chicken-Tikka-Masala.md",
     "Recipes/Irish-Beef-Stew.md",
     "Recipes/Cranberry-Bread.md",
     "recipe-link.md",
-    "Recipes/Goan-Vindaloo.md",
-    "Recipes/cocktails/Mamajuana.md",
-    "Recipes/Baked-Italian-Pasta.md",
     "_site/images/lasagna.jpg",
     "images/lasagna.jpg",
     "_site/Recipes/Baked-Italian-Pasta.html",
-    "Recipes/Biscuits.md",
     "Recipes/Sausage-Gravy.md",
     "Recipes/Pancakes.md",
     "signal-desktop.sources",
