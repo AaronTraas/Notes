@@ -2,7 +2,7 @@
 description: Perfectly balanced, super-easy spirit-forward cognac cocktail.
 category: beverages
 tags: [cocktails]
-ingredients: cognac, grand-marinier
+ingredients: [cognac, grand-marinier]
 authors: [aaron]
 ---
 
