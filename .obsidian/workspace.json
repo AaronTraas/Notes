@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0ad42a0cd805d84d",
+        "id": "b411624997288a74",
         "type": "tabs",
         "children": [
           {
-            "id": "2342b6b2b399d504",
+            "id": "78d1c32f6ee3e131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Meatloaf.md",
+                "file": "Recipes/cocktails/Royal-Hawaiian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meatloaf"
-            }
-          },
-          {
-            "id": "226e7f7deb772014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Linda-Burgers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linda-Burgers"
-            }
-          },
-          {
-            "id": "3942885a10e85797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Chicken-Pot-Pie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chicken-Pot-Pie"
+              "title": "Royal-Hawaiian"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pie crust",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +84,7 @@
               "title": "Tag Navigation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,11 +198,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3942885a10e85797",
+  "active": "78d1c32f6ee3e131",
   "lastOpenFiles": [
+    "Recipes/cocktails/Mai-Tai.md",
+    "Recipes/cocktails/Royal-Hawaiian.md",
+    "Recipes/cocktails/White-Elephant.md",
+    "Recipes/cocktails/Old-Fashioned.md",
+    "_site/images/royal_hawaiian.jpg",
+    "_site/Recipes/cocktails/Royal-Hawaiian.html",
+    "_site/Recipes/Meatloaf.html",
+    "_site/Recipes/Goan-Vindaloo.html",
+    "_site/Recipes/Chicken-Chasseur.html",
+    "images/royal_hawaiian.jpg",
+    "Recipes/cocktails/Maple-Old-Fashioned.md",
+    "Recipes/Linda-Burgers.md",
+    "Recipes/Chicken-Pot-Pie.md",
     "Recipes/cocktails/Beautiful.md",
     "Recipes/cocktails/Boulevardier.md",
-    "Recipes/Linda-Burgers.md",
     "Recipes/Meatloaf.md",
     "Recipes/Southwest-Black-Beans.md",
     "Recipes/Baked-Italian-Pasta.md",
@@ -254,16 +236,9 @@
     "_site/Recipes/Sausage-Gravy.html",
     "_site/Recipes/French-Silk.html",
     "_site/Recipes/Cheese-Blintzes.html",
-    "_site/Recipes/Untested/Char-Sui-Pork.html",
-    "_site/Recipes/Biscuits.html",
     "Recipes/Apple-Pancake.md",
     "Recipes/Baked-Salmon.md",
     "Recipes/Struffoli.md",
-    "Recipes/cocktails/Hot-Buttered-Rum.md",
-    "Recipes/Lemon-Bars.md",
-    "Recipes/French-Silk.md",
-    "Recipes/Cheese-Blintzes.md",
-    "Recipes/Untested/Char-Sui-Pork.md",
-    "Recipes/Chashu-Pork-Belly.md"
+    "Recipes/cocktails/Hot-Buttered-Rum.md"
   ]
 }

@@ -1,9 +1,8 @@
 ---
 description: Autumnal spin on an old fashioned whiskey cocktail.
 category: beverages
-tags: [cocktails, fall, experimental-drinks, old-fashioned]
+tags: [cocktails, fall, old-fashioned]
 ingredients: [bitters, bourbon, walnut-bitters, maple-syrup, vanilla]
-index: hidden
 authors: [aaron]
 seasons: [fall]
 related_tag: old-fashioned
@@ -14,10 +13,10 @@ related_tag: old-fashioned
 ## Ingredients:
 
 - 2 oz Bourbon whiskey
-- ½ oz Maple Syrup (preferably, barrel aged maple syrup)
+- ¼ oz Maple Syrup (preferably, barrel aged maple syrup)
 - 4 dashes black walnut bitters
 - 1 dash vanilla extract
-- Garnish: Cinnamon stick
+- Garnish: Cinnamon stick, fresh grated cinnamon
 
 ## Hardware:
 
