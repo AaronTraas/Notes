@@ -1,0 +1,26 @@
+---
+title: Linda's Recipes
+layout: default
+scripts: recipe-filter.js
+---
+
+<h1>Linda's Recipes</h1>
+
+<p>Aaron's archive of Linda's recipes.</p>
+
+{% include filters.html
+    filter_category  = 'all'
+    filter_favorites = 'n/a'
+    filter_author    = 'linda' -%}
+
+{% include recipe_links.html
+    filter_author    = 'linda'
+    show_hidden      = 'True' -%}
+
+<hr>
+
+<h2>Linda's favorite recipes that Aaron makes</h2>
+
+{% include recipe_links.html
+    filter_author   = 'aaron'
+    filter_favorite = 'linda' -%}

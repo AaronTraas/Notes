@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
+
+    <link rel="icon" href="https://traas.org/favicon.ico">
+    <link rel="apple-touch-icon" href="https://traas.org/apple-touch-icon.png">
+
+    <style>
+      html { margin: 0; padding: 0; font-family: 'Open Sans', sans-serif; font-size: 10pt; line-height: 1.5em; background-color: #fff; color: #222; }
+      body { max-width: 8.5in; margin: 0 auto; padding: 0.5in; }
+
+      footer { margin: 2em 0; padding-top: 1em; border-top: 1px solid #555; }
+    </style>
+  </head>
+
+  <body>
+
+    {{ content }}
+
+    <footer>
+      Copyright &copy; {{ 'now' | date: "%Y" }} Aaron Traas.
+    </footer>
+  </body>
+</html>

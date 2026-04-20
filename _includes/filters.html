@@ -1,0 +1,148 @@
+{%- assign page_blacklist = 'index.html,index.md,README.md' | split: ',' -%}
+{%- assign filtered_pages = '' | split: "'" -%}
+
+{%- for page in site.pages -%}
+  {%- if page.ingredients and page.ingredients.first -%}
+  {%- else -%}
+    {%- continue -%}
+  {%- endif -%}
+
+  {%- if include.filter_author -%}
+    {%- if page.authors contains include.filter_author -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- if include.filter_tag == nil or page.tags contains include.filter_tag -%}
+  {%- else -%}
+    {%- continue -%}
+  {%- endif -%}
+
+  {%- if include.filter_category -%}
+    {%- if include.filter_category == 'all' or page.category contains include.filter_category -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- if include.filter_favorites -%}
+    {%- if include.filter_favorites == 'n/a' or page.favorite contains include.filter_favorites -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- assign filtered_pages = filtered_pages | push: page -%}
+{%- endfor -%}
+{%- assign sortedPages = filtered_pages | sort: 'title' -%}
+
+
+{%- assign all_ingredients = '' | split: 'empty' -%}
+{%- assign all_categories = '' | split: 'empty' -%}
+{%- assign all_authors = '' | split: 'empty' -%}
+{%- assign all_favorites = '' | split: 'empty' -%}
+{%- assign all_seasons = '' | split: 'empty' -%}
+{%- for page in sortedPages -%}
+  {%- assign all_categories = all_categories | push: page.category -%}
+
+  {%- for favorite in page.favorite -%}
+    {%- assign all_favorites = all_favorites | push: favorite -%}
+  {%- endfor -%}
+
+  {%- for author in page.authors -%}
+    {%- assign all_authors = all_authors | push: author -%}
+  {%- endfor -%}
+
+  {%- assign ingredients = page.ingredients -%}
+  {%- for ingredient in ingredients -%}
+    {%- assign cleaned = ingredient | strip | slugify -%}
+    {%- assign all_ingredients = all_ingredients | push: cleaned -%}
+  {%- endfor -%}
+
+  {%- for season in page.seasons -%}
+    {%- assign all_seasons = all_seasons | push: season -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{%- assign all_ingredients_sorted = all_ingredients | sort | uniq -%}
+{%- assign all_authors_sorted = all_authors | sort | uniq -%}
+{%- assign all_categories_sorted = all_categories | sort | uniq -%}
+{%- assign all_favorites_sorted = all_favorites | sort | uniq -%}
+{%- assign all_seasons_sorted = all_seasons | sort | uniq -%}
+
+<form id="filters">
+{% if include.filter_tag == nil and include.filter_category == nil %}
+  <div>
+    <label for="category-filter">Category: </label>
+    <select id="category-filter">
+      <option>all</option>
+      {%- for category in all_categories_sorted -%}
+      {% assign category_stripped = category | strip -%}
+      <option value="{{ category_stripped }}">{{ category_stripped | replace: '-', ' ' | capitalize }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+{%- endif -%}
+
+{% if include.filter_season == nil and all_seasons_sorted.size > 1 %}
+  <div class="multi-select">
+    <label for="season-filter">Season: </label>
+    <select id="season-filter">
+      <option>all</option>
+      {%- for season in all_seasons_sorted -%}
+      <option value="{{ season }}">{{ season | replace: '-', ' ' | capitalize }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+{%- endif -%}
+
+{% if include.filter_author == nil and all_authors_sorted.size > 1 %}
+  <div>
+    <label for="author-filter">Author: </label>
+    <select id="author-filter">
+      <option>all</option>
+      {%- for author in all_authors_sorted -%}
+        {%- if site.data.authors[author] -%}
+          {%- assign author_name = site.data.authors[author] -%}
+        {%- else -%}
+          {%- assign author_name = author | capitalize -%}
+        {%- endif -%}
+      <option value="{{ author }}">{{ author_name }}</option>
+      {% endfor -%}
+    </select>
+  </div>
+{%- endif -%}
+
+{% if include.filter_favorites == nil %}
+  <div id="favorite-filter" class="multi-select">
+    <label for="favorite-filter">Favorites: </label>
+    <div class="multi-select-options">
+      {%- for favorite in all_favorites_sorted -%}
+      <label class="{{favorite}}">
+        {{ favorite | capitalize }}
+        <input type="checkbox" class="multi-select-option" name="favorites" value="{{favorite}}"></input>
+      </label>
+      {%- endfor -%}
+    </div>
+  </div>
+{%- endif -%}
+
+  <div id="ingredient-filter" class="multi-select">
+    <label>Ingredients: </label>
+    <div class="multi-select-options">
+      {%- for ingredient in all_ingredients_sorted -%}
+      {%- assign ingredient_stripped = ingredient | strip -%}
+      <label>
+        {{ ingredient_stripped | replace: '-', ' ' | capitalize }}
+        <input type="checkbox" class="multi-select-option" name="ingredients" value="{{ingredient_stripped}}"></input>
+      </label>
+      {%- endfor -%}
+      <label class="filter-toggle">
+        <span class="expanded">🗙</span>
+        <span class="collapsed">＋</span>
+        <input type="checkbox" class="multi-select-toggle" value="multi-select-toggle"></input>
+      </label>
+    </div>
+  </div>
+</form>

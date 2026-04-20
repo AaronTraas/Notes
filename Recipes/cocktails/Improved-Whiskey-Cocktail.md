@@ -1,0 +1,37 @@
+---
+description: More modern version of the Old Fashioned.
+category: beverages
+tags: [cocktails, experimental-drinks, old-fashioned]
+ingredients: [rye-whiskey, maraschino-liqueur, simple-syrup, absinthe, lemon, bitters]
+index: hidden
+authors: [aaron]
+related_tag: [old-fashioned]
+---
+
+# Improved Whiskey Cocktail
+
+## Ingredients:
+
+- 2 oz. or 60 ml. Rye Whiskey
+- ¼ oz. Maraschino Liqueur 
+- ¼ oz. [Rich Simple Syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
+- 2 dashes of Angostura bitters
+- (optional) absinthe
+- (optional) lemon twist
+
+## Hardware:
+
+- Mixing glass
+- bar spoon
+- rocks glass or similar
+
+## Directions
+
+1. Add rye, Maraschino, syrup, and ice to mixing glass and stir
+2. Spritz absinthe into glass
+3. Strain into glass over a large ice cube
+4. Garnish with a twist of lemon
+
+## Notes:
+
+- Recipe from: <https://www.youtube.com/watch?v=X-36v2b0Pn8>

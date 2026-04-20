@@ -1,0 +1,17 @@
+title: Aaron's Notes
+description: Aaron's public personal notes
+email: aaron@traas.org
+
+# Build settings
+remote_theme: pages-themes/architect@v0.2.0
+markdown: GFM
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-remote-theme
+  - github-pages
+
+whitelist:
+  - jekyll-redirect-from
+
+exclude: [.obsidian,.git,.github,Makefile,Gemfile,Gemfile.lock]

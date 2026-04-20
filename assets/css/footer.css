@@ -1,0 +1,11 @@
+body > footer {
+  padding: 20px 0;
+  border-top: solid 1px #275da1;
+  color: #fff;
+  margin: 0;
+}
+
+body > footer a {
+  color: #fff;
+  text-decoration: underline;
+}

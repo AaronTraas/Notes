@@ -1,0 +1,24 @@
+---
+title: Cocktails
+layout: default
+scripts: recipe-filter.js
+---
+
+<h1>Aaron's Cocktail Recipes</h1>
+
+<p>Cocktail recipes I use, but not necessarily created, that are a little outside the classics. These work for me, and are catered to my tastes and the tastes of the people I love to drink with.</p>
+
+{% include filters.html
+    filter_tag      = 'cocktails'
+    filter_category = 'beverages' -%}
+
+{% include recipe_links.html
+    filter_tag = 'cocktails'-%}
+
+<hr>
+
+<h2>Cocktails Aaron is testing and developing</h2>
+
+{% include recipe_links.html
+    filter_tag  = 'experimental-drinks'
+    show_hidden = 'True' -%}

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/footer.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/hamburger.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/ui.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/dialog.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print-layout.css?v=' | append: site.github.build_revision | relative_url }}" media="print" type="text/css">
+
+    <link rel="icon" href="https://traas.org/favicon.ico">
+    <link rel="apple-touch-icon" href="https://traas.org/apple-touch-icon.png">
+
+    <script type="text/javascript" src="{{ '/assets/js/hamburger.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+{%- if page.scripts -%}
+  {% assign scripts = page.scripts | remove: " " | split: ',' %}
+  {%- for script_filename in scripts %}
+    <script src="{{ '/assets/js/' | append: script_filename | append: '?v=' | append: site.github.build_revision | relative_url }}"></script>
+  {% endfor %}
+{%- endif -%}
+
+{% seo %}
+
+    <style>
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          {% assign path_pieces = page.path | split: '/' | pop -%}
+          {% assign whole_path = '/' -%}
+          <div id="breadcrumb">
+            <a href="{{ '/' | relative_url }}">Notes</a>
+          {%- for piece in path_pieces -%}
+            {% assign whole_path = whole_path | append: piece | append: '/' %}
+            / <a href="{{ whole_path  | relative_url }}">{{piece | capitalize }}</a>
+          {% endfor -%}
+          </div>
+
+          {% assign content_pieces = content | split: "</h1>" %}
+          {% assign content_pieces_count = content_pieces | size %}
+          {% if content_pieces_count > 1 -%}
+            {% assign content_snipped = content_pieces | shift | join: "</h1>" %}
+          {% else -%}
+            {% assign content_snipped = content_pieces | join: "</h1>" %}
+          {% endif -%}
+          <h1>{{ page.title }}</h1>
+
+
+          {% if page.favorite and page.favorite.first -%}
+          <div class="favorite-tag">
+            {% assign favorites_sorted = page.favorite | sort %}
+            {% for favorite in favorites_sorted -%}
+              <a class="{{favorite}}" href="{{ '/Recipes/search/#?favorite=' | append: favorite | relative_url }}">{{ favorite | capitalize }}</a>
+            {% endfor -%}
+          </div>
+          {% endif -%}
+
+          {% if page.hero_image != nil -%}
+          <img src="{{ '/images/' | append: page.hero_image | relative_url }}" />
+          {% endif -%}
+
+          {{ content_snipped }}
+
+          {% if page.related_tag -%}
+          <hr>
+          <h2>Related</h2>
+
+          {% include recipe_links.html
+            show_hidden   = 'True'
+            filter_tag    = page.related_tag -%}
+          {% endif -%}
+        </section>
+
+        <a href="#" id="hamburger"></a>
+        <aside id="sidebar">
+          <header>
+            <a href="#" id="hamburger-close"></a>
+          </header>
+          <nav>        
+            {% include category_index.html -%}
+          </nav>
+        </aside>
+
+      </div>
+    </div>
+
+    <footer>
+      <div class="inner">
+        Copyright &copy; {{ 'now' | date: "%Y" }} Aaron Traas. All content and code licenced under <a href="{{ '/LICENSE.html' | relative_url }}">Traas.org Content License 1.0</a>.
+      </div>
+    </footer>
+
+    <dialog id="eula">
+      <header>End-User License Agreement</header>
+      <p>
+        By clicking <strong>'I Accept'</strong> below, you acknowledge that you have read
+        and agree to the <a href="{{ '/LICENSE.html' | relative_url }}">Traas.org Content
+        License</a>, and you are <strong>not a person that is explicitly prohibited</strong>
+        from accessing this content as detailed in Section 3, "Additional Use Restrictions"
+        therein.
+      </p>
+      <footer>
+        <button class="accept">I Accept</button>
+      </footer>
+    </dialog>
+
+    <script>
+      const eulaAccepted = document.cookie.split('; ').find(row => row.startsWith('eulaAccepted='));
+
+      if (!eulaAccepted) {
+        const eula_dialog = document.getElementById("eula")
+        eula_dialog.showModal();
+        document.querySelectorAll('#eula .accept').forEach(button => {
+          button.focus()
+          button.blur()
+          button.addEventListener('click', function() {
+            console.log('Button clicked!');
+            eula_dialog.close();
+            const date = new Date();
+            date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000));
+            document.cookie = "eulaAccepted=true; expires=" + date.toUTCString() + "; path=/";
+          });
+        });
+      }
+    </script>
+  </body>
+</html>

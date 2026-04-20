@@ -1,0 +1,316 @@
+html, body {
+  font-family: open-sans, sans-serif;
+  font-size: 14px;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat;
+}
+
+#content-wrapper {
+  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  padding-bottom: 30px;
+}
+
+.recipe-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1em;
+  grid-auto-rows: 1fr;
+  padding: 0;
+  margin: 0;
+}
+
+.recipe-cards > li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#main-content .button,
+.recipe-cards .recipe-link {
+  border: 2px solid #fff;
+  background-color: #98c1d9;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-radius: 10px;
+  color: #fff;
+  text-shadow: 0px 0px 1px rgba(41,50,65,0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+#main-content .button {
+  display: inline-block;
+  padding: 0.4em 1em;
+  width: auto;
+  height: auto;
+}
+
+#main-content .button.search {
+  padding-left: 2em;
+}
+
+#main-content .button.search::before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: .6em;
+  top: .5em;
+  width: 1em;
+  height: 1em;
+  color: #fff;
+  background-image: url(../images/search.svg);
+}
+
+.recipe-cards .recipe-link {
+  display: block;
+  position: relative;
+  background-position: center;
+  flex-grow: 1;
+  height: 10em;
+}
+.recipe-cards .recipe-link > a {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+#main-content .button:hover, 
+.recipe-cards .recipe-link > a:hover {
+  color: #ee6c4d;
+  border-color: #ee6c4d;
+  background-color: #3d5a80;
+}
+.recipe-link[data-hide=true] {
+  display: none;
+}
+
+.recipe-cards .recipe-link > a > .text {
+  position: absolute;
+  background-color: rgba(32,32,32,0.5);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1em;
+  color: #fff;
+}
+
+.recipe-cards .recipe-link strong {
+  font-size: 130%;
+  line-height: 1.2em;
+  display: block;
+}
+.recipe-cards .recipe-link ul,
+.recipe-cardsli, .recipe-link ul::before {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.9em;
+  line-height: 1.1em;
+}
+.tags::before {
+  content: 'tags: ';
+  font-weight: bold;
+}
+.key-ingredients::before {
+  content: 'ingredients: ';
+  font-weight: bold;
+}
+.recipe-cards .recipe-link ul li {
+  display: inline-block;
+  font-style: italic;
+}
+.recipe-cards .recipe-link ul li::after {
+  content: ', ';
+}
+.recipe-cards .recipe-link ul li:last-child::after {
+  content: '';
+}
+#filters {
+  padding: 0.8em;
+  margin-bottom: 1em;
+}
+#filters > div {
+  display: table-row;
+  width: 100%;
+}
+#filters > div > * {
+  margin: .2em;
+  display: table-cell;
+}
+#filters > div > select, #filters > div > select {
+}
+
+#filters > div > label {
+  padding-right: 0.5em;
+}
+
+#filters .multi-select-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  position: relative;
+  padding-right: 1em;
+  font-size: 13px;
+}
+
+#filters .multi-select .multi-select-toggle {
+  display: none;
+}
+
+#filters #favorite-filter .multi-select-options label:has(input[type="checkbox"]),
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) .multi-select-options label:has(input:not(:checked)) {
+  display: inline-block;
+}
+
+#filters .multi-select .expanded {
+  display: none;
+}
+#filters .multi-select .collapsed {
+  display: inline;
+}
+
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) .expanded {
+  display: inline;
+  padding: 0;
+  text-align: center;
+}
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) .collapsed {
+  display: none;
+}
+
+#filters .multi-select label:has(input[type="checkbox"]) {
+  border: 2px solid #275da1;
+  border-radius: 5px;
+  padding: 1px 5px;
+  font-weight: bold;
+  background-color: #ccc;
+}
+
+#filters .multi-select label:has(input.multi-select-option):after {
+  display: inline-block;
+  content: '+';
+  width: .7em;
+  text-align: right;
+}
+
+#filters .multi-select label:has(input.multi-select-option:checked):after {
+  content: '-';
+}
+
+#filters .multi-select-options label:has(input[type="checkbox"]) {
+  display: none;
+}
+
+#filters .multi-select .multi-select-options label.filter-toggle:has(input[type="checkbox"]) {
+  display: inline-block;
+}
+
+#filters .multi-select:has(input[value="multi-select-toggle"]:checked) label.filter-toggle {
+  position: absolute;
+  width: 1em;
+  text-align: center;
+  top: 0;
+  right: -0.5em;
+}
+
+#filters .multi-select-options label:has(input:checked) {
+  display: inline-block;
+  background-color: #2e7bcf;
+  color: #fff;
+}
+
+#filters .multi-select-options input[type="checkbox"] {
+  display: none;
+}
+
+.favorite-tag {
+  margin: 0 0 1em 0;
+}
+
+.recipe-cards .favorite-icons {
+  display: block;
+  position: absolute;
+  top: 6px;
+  right: 6px;
+}
+
+.favorite-tag > *,
+.favorite-icons > * {
+  display: inline-block;
+  position: relative;
+  border-radius: 4px;
+  background: #888;
+}
+
+.favorite-icons > * {
+  color: #EFBF04;
+  font-size: 22px;
+  line-height: 18px;
+  padding: 2px;
+  border: 1px solid rgba(255,255,255,0.5);
+}
+
+.favorite-tag > * {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 1px 0.5em 1px 0.8em;
+  margin: 0 0.5em 0 0;
+  color: #fff;
+  text-align center;
+}
+
+#filters #favorite-filter .multi-select-options label {
+  font-size: 12px;
+  border-color: #666;
+}
+
+#filters #favorite-filter .multi-select-options label::after,
+#filters #favorite-filter .multi-select-options label:has(input.multi-select-option:checked)::after,
+.favorite-tag > *::after {
+  content: '★';
+  display: inline;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+#filters #favorite-filter .multi-select-options label:has(input.multi-select-option:checked)::after,
+.favorite-tag > *::after {
+  color: #EFBF04;
+}
+
+.favorite-tag > *.aaron,
+#favorite-filter label.aaron:has(input:checked),
+.favorite-icons > *.aaron {
+  background: #800020;
+}
+
+.favorite-tag > *.austin,
+#favorite-filter label.austin:has(input:checked),
+.favorite-icons > *.austin {
+  background: #444;
+}
+
+.favorite-tag > *.maddie,
+#favorite-filter label.maddie:has(input:checked),
+.favorite-icons > *.maddie {
+  background: #F143AB;
+}
+
+.favorite-tag > *.miriam,
+#favorite-filter label.miriam:has(input:checked),
+.favorite-icons > *.miriam {
+  background: #800080;
+}
+
+.favorite-tag > *.linda,
+#favorite-filter label.linda:has(input:checked),
+.favorite-icons > *.linda {
+  background: #0f52ba;
+}
+
+@media only screen and (max-width: 767px) {
+  #recipe-cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
