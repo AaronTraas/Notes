@@ -11,11 +11,12 @@ authors: [aaron]
 
 I make syrups and other intermediary ingredients for cockatails. Home-made syrups, in particular, are easy, and you can get things that are hard to find elsewhere. 
 
+
 * * * 
 
 # Rich Demerara Syrup
 
-This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper flavor. A rich syrup also adds better mouthfeel, as the drink is less diluted. Replacing simple syrup with this in certain coctails perfects them, such as my [espresso martini](./Espresso-Martini.html)
+This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper flavor. A rich syrup also adds better mouthfeel, as the drink is less diluted. Replacing simple syrup with this in certain cocktails perfects them, such as my [espresso martini](./Espresso-Martini.html)
 
 ## Ingredients:
 
@@ -32,6 +33,31 @@ This is a 2:1 simple syrup that uses demerara sugar, which gives a lot deeper fl
 {% include recipe_links.html 
     list_style        = 'list'
     filter_ingredient = 'demerara-syrup' -%}
+
+
+* * * 
+
+# Strawberry Syrup
+
+## Ingredients:
+
+- 8 oz strawberries, hulled and quartered
+- 8 oz white sugar
+- 8 oz water
+
+## Directions:
+
+- Add all ingredients to small saucepan.
+- Bring to a boil.
+- Bring to a simmer and stir to dissolve.
+- Simmer for 20 minutes.
+- Strain. Pour into storage bottle. Keep in refrigerator.
+
+## Recipes that use Strawberry Syrup
+{% include recipe_links.html 
+    list_style        = 'list'
+    filter_ingredient = 'strawberry-syrup' -%}
+
 
 * * * 
 
