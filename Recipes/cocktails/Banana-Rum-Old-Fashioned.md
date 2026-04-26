@@ -13,13 +13,13 @@ ingredients:
 authors:
   - aaron
   - austin
-hero_image: banana_old_fashioned.jpg
 related_tag: old-fashioned
 favorite:
   - aaron
+hero_image: banana_rum_old_fashioned.jpg
 ---
 
-# Banana Old Fashioned
+# Banana Rum Old Fashioned
 
 If you like grown-up rum cocktails meant for sipping, this is for you.
 
@@ -40,6 +40,32 @@ If you like grown-up rum cocktails meant for sipping, this is for you.
 
 ## Directions
 
-1. Add rye, creme de banane, bitters, and ice to glass with ice and stir
+1. Add rum, creme de banane, bitters, and ice to glass with ice and stir
 2. Top with a dash of fresh grated cinnamon
+
+* * *
+# Banana Rum New Fashioned
+
+A less spirit-forward version for people who aren't used to sipping straight liquor. It uses ½ oz less rum, and more approachable rums than the version Aaron likes.
+
+## Ingredients:
+
+- 1 oz aged rum (e.g., Rhum Barbancourt 8 year)
+- ½ oz spiced rum (e.g., Captain Morgan's)
+- ½ oz Creme de Banane (Tempus Fugit)
+- 4 dashes black walnut bitters
+- 2 dashes orange bitters
+- Fresh grated cinnamon
+- Garnish: slice of banana
+
+## Hardware:
+
+- bar spoon
+- rocks glass or similar
+
+## Directions
+
+1. Add rum, creme de banane, bitters, and ice to glass with ice and stir
+2. Top with a dash of fresh grated cinnamon
+
 
