@@ -1,13 +1,13 @@
 ---
-description: Classic whiskey cocktail.
+description: Rum twist on a classic cocktail.
 category: beverages
 tags:
   - cocktails
   - old-fashioned
 ingredients:
-  - rye-whiskey
   - simple-syrup
   - bitters
+  - rum
 authors:
   - aaron
 related_tag: old-fashioned
@@ -15,11 +15,11 @@ favorite:
   - aaron
 ---
 
-# Old Fashioned
+# Rum Old Fashioned
 
 ## Ingredients:
 
-- 2 oz. Rye Whiskey (e.g., Old Forrester)
+- 2 oz. dark or aged rum
 - ¼ oz. [Rich Demerara Syrup](./Cocktail-Ingredients.html#rich-demerara-syrup)
 - 2 dashes of Angostura bitters
 - 2 dashes of Orange bitters
