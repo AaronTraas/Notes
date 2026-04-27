@@ -27,8 +27,8 @@ Optionally, if you're feeling lazy or are missing some ingredients, replace the 
 - 6 tbsp oyster sauce
 - 2 tbsp soy sauce
 - 2 tbsp Mirin
-- 2 tsp sambal or sriracha 
-- 2 tsp sesame oil (optional)
+- 2 tsp sambal or sriracha (optional)
+- 2 tsp toasted sesame oil 
 - 6 cloves garlic, crushed
 - 1 tbsp fresh ginger, grated
 
