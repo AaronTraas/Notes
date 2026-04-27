@@ -5,6 +5,7 @@ tags: [main-dish, meat, bbq, gluten-free]
 ingredients: [pork-ribs, brown-sugar]
 favorite: [aaron]
 authors: [aaron]
+related_tag: bbq
 ---
 
 # Baby Back Ribs

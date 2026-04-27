@@ -1,7 +1,7 @@
 ---
 description: Chicken skewers like you'd get from Chinese takeout
 category: entrees
-tags: [meat, main-dish]
+tags: [meat, main-dish, bbq]
 ingredients: [chicken, soy-sauce, oyster-sauce, ginger, garlic]
 authors: [aaron]
 related_tag: bbq
