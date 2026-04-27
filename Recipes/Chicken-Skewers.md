@@ -8,9 +8,13 @@ related_tag: bbq
 hero_image: chicken_skewers.jpg
 ---
 
-# Chinese Grilled Chicken Skewers
+# Chicken Skewers
 
-Not super authentic, but very delicious. I subbed out the chinese cooking wine and sugar for mirin, as it's basically cooking wine + sugar. This is best cooked on a low and slow grill. 
+I am trying to replicate the chicken skewers you get from Chinese takeout or buffet. Not super authentic, but very delicious. I subbed out the chinese cooking wine and sugar for mirin, as it's basically cooking wine + sugar. This is best cooked on a low and slow grill. 
+
+Boneless, skinless thighs are absolutely required for this.
+
+Optionally, if you're feeling lazy or are missing some ingredients, replace the marinade with a bottle of cheap teriyaki marinade. Not as good, but easy to keep in the pantry. Also, feel free to use Italian salad dressing
 
 ## Ingredients:
 
@@ -45,3 +49,4 @@ Not super authentic, but very delicious. I subbed out the chinese cooking wine a
 ## Notes: 
 
 - Original recipe: <https://www.jocooks.com/recipes/chinese-chicken-skewers-guest-post-from-recipetin-eats/>
+- Optionally, if you're feeling lazy or are missing some ingredients, replace the marinade with a bottle of cheap teriyaki marinade. Not as good, but easy to keep in the pantry. Also, feel free to use a bottle of cheap Italian salad dressing, BBQ sauce, or any similar bottle you can get at the grocery store.
