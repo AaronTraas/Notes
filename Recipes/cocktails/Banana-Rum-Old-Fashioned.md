@@ -18,7 +18,6 @@ favorite:
   - aaron
 hero_image: banana_rum_old_fashioned.jpg
 ---
-
 # Banana Rum Old Fashioned
 
 If you like grown-up rum cocktails meant for sipping, this is for you.
