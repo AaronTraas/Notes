@@ -10,3 +10,8 @@ This is a repository of Aaron's notes about the finer things in life. This is a 
 - **Misc Notes** 
 	- [Cooking Projects with the kids](Cooking-Projects.html) - cooking R&D and experimentation to do with my kids.
 	- [Recipes to Add](./Recipes-to-add.html) - Recipes Aaron needs to transcribe and add to recipe list.
+
+* * *
+## License
+
+The content here is licensed under the [Traas.org Content License](./LICENSE.html). In other words, if you are  acting in good faith, you are free to copy, modify, and re-distribute this content, so long as you both provide attribution, and you provide similar freedoms to those with whom you've distributed the content, and pose no ill will towards the [authors](AUTHORS.html) of this site. 
