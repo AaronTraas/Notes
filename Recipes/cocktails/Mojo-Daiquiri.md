@@ -26,6 +26,7 @@ My attempt at building a non-carbonated daiquiri with mint-washed rum. A friend,
 * * *
 # Mint-Washed Rum Cordial
 
+Idea based on [Truffles on the Rocks Mint-Washing video](https://www.youtube.com/watch?v=OG3-EfwByrQ).  The theory: use sugar to express oils in the herbs, and then use alcohol as a solvent.  
 ## Ingredients:
 
 - 20 grams mint leaves
