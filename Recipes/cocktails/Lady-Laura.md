@@ -13,7 +13,11 @@ I had this at a [Kokuyo Coctail Bar](https://www.kokuyobar.com/), in Roselle, NJ
 
 It had "house-made orgeat", but I couldn't taste it. Not sure how necessary it is.
 
-The amounts are my guesses, as are the directions, though I'm much more certain about those
+The amounts are my guesses, as are the directions, though I'm much more certain about those.
+
+It could use an orange note; maybe some triplesec? 
+
+Probably going to come up with my own name for it. Similar to a bay breeze, but a bit more nuanced and less sweet. [Soyokaze](https://en.wikipedia.org/wiki/The_Irresponsible_Captain_Tylor)? 
 
 ## Ingredients
 
@@ -26,4 +30,5 @@ The amounts are my guesses, as are the directions, though I'm much more certain 
 
 1. Add all ingredients to shaker with ice, and shake
 2. Strain into hurricane glass or similar filled with crushed ice or pebble ice.
-3. Garnish with... purple flower? Pineapple wedge? 
+3. Garnish with flat dried pineapple crisp 
+
