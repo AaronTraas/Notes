@@ -13,9 +13,17 @@ I had this at a [Kokuyo Coctail Bar](https://www.kokuyobar.com/), in Roselle, NJ
 
 It had "house-made orgeat", but I couldn't taste it. Not sure how necessary it is.
 
+The amounts are my guesses, as are the directions, though I'm much more certain about those
+
 ## Ingredients
 
-- Hibiscus-infused coconut rum
-- pineapple juice
-- lemon juice
-- orgeat
+- 2oz Hibiscus-infused coconut rum cordial (Malibu, Bounty)
+- 1oz pineapple juice
+- 1/2 oz lemon juice
+- 1oz orgeat
+
+## Directions
+
+1. Add all ingredients to shaker with ice, and shake
+2. Strain into hurricane glass or similar filled with crushed ice or pebble ice.
+3. Garnish with... purple flower? Pineapple wedge? 
